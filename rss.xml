@@ -9,28 +9,38 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <item>
-            <title><![CDATA[Bienvenidos a FSD Spain]]></title>
-            <link>https://pepetox.github.io/fsd_spain_blog_page/introduccion</link>
-            <guid>https://pepetox.github.io/fsd_spain_blog_page/introduccion</guid>
+            <title><![CDATA[FSD de Tesla: ¿Cuándo llegará la conducción autónoma a España?]]></title>
+            <link>https://pepetox.github.io/fsd_spain_blog_page/fsd-tesla-europa</link>
+            <guid>https://pepetox.github.io/fsd_spain_blog_page/fsd-tesla-europa</guid>
             <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Este es el blog oficial de la comunidad de Formula Student Driverless en España. Aquí compartiremos noticias, tutoriales, recursos y experiencias sobre el apasionante mundo de los vehículos autónomos de competición.]]></description>
-            <content:encoded><![CDATA[<p>Este es el blog oficial de la comunidad de <strong>Formula Student Driverless</strong> en España. Aquí compartiremos noticias, tutoriales, recursos y experiencias sobre el apasionante mundo de los vehículos autónomos de competición.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-es-formula-student-driverless">¿Qué es Formula Student Driverless?<a href="https://pepetox.github.io/fsd_spain_blog_page/introduccion#qu%C3%A9-es-formula-student-driverless" class="hash-link" aria-label="Enlace directo al ¿Qué es Formula Student Driverless?" title="Enlace directo al ¿Qué es Formula Student Driverless?" translate="no">​</a></h2>
-<p>Formula Student Driverless (FSD) es la categoría de vehículos autónomos dentro de la competición Formula Student. Los equipos universitarios diseñan, construyen y programan coches de carreras capaces de conducirse solos.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-encontrarás-aquí">¿Qué encontrarás aquí?<a href="https://pepetox.github.io/fsd_spain_blog_page/introduccion#qu%C3%A9-encontrar%C3%A1s-aqu%C3%AD" class="hash-link" aria-label="Enlace directo al ¿Qué encontrarás aquí?" title="Enlace directo al ¿Qué encontrarás aquí?" translate="no">​</a></h2>
+            <description><![CDATA[El FSD (Full Self-Driving o Conducción Autónoma Total) de Tesla es una de las tecnologías más esperadas por los conductores en Europa. Aunque ya está operativo en países como Estados Unidos, su llegada a España sigue pendiente de la aprobación regulatoria. En este blog seguiremos de cerca todas las novedades sobre su expansión.]]></description>
+            <content:encoded><![CDATA[<p>El <strong>FSD (Full Self-Driving o Conducción Autónoma Total)</strong> de Tesla es una de las tecnologías más esperadas por los conductores en Europa. Aunque ya está operativo en países como Estados Unidos, su llegada a España sigue pendiente de la aprobación regulatoria. En este blog seguiremos de cerca todas las novedades sobre su expansión.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-es-y-qué-no-es-el-fsd-de-tesla">¿Qué es y qué no es el FSD de Tesla?<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-tesla-europa#qu%C3%A9-es-y-qu%C3%A9-no-es-el-fsd-de-tesla" class="hash-link" aria-label="Enlace directo al ¿Qué es y qué no es el FSD de Tesla?" title="Enlace directo al ¿Qué es y qué no es el FSD de Tesla?" translate="no">​</a></h2>
+<p>Es importante aclarar que, a día de hoy, el FSD de Tesla es un <strong>sistema avanzado de asistencia al conductor (ADAS) de Nivel 2</strong>, según la escala SAE. Esto significa que <strong>no es un sistema de conducción autónoma total</strong>. El conductor debe mantener la atención en todo momento y estar preparado para tomar el control del vehículo.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="capacidades-actuales-del-fsd-versión-supervisada">Capacidades actuales del FSD (versión supervisada):<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-tesla-europa#capacidades-actuales-del-fsd-versi%C3%B3n-supervisada" class="hash-link" aria-label="Enlace directo al Capacidades actuales del FSD (versión supervisada):" title="Enlace directo al Capacidades actuales del FSD (versión supervisada):" translate="no">​</a></h3>
 <ul>
-<li class=""><strong>Tutoriales técnicos</strong>: Desde percepción hasta control, pasando por planificación de trayectorias</li>
-<li class=""><strong>Noticias de competiciones</strong>: Cobertura de eventos FSG, FSA, FSS y más</li>
-<li class=""><strong>Recursos para equipos</strong>: Herramientas, librerías y mejores prácticas</li>
-<li class=""><strong>Experiencias de equipos españoles</strong>: Historias y aprendizajes de nuestros equipos</li>
+<li class=""><strong>Navegación en Autopilot</strong>: El coche puede conducir de forma autónoma desde la entrada hasta la salida de la autopista, incluyendo cambios de carril, adelantamientos y gestión de bifurcaciones.</li>
+<li class=""><strong>Autogiro en calles de la ciudad</strong>: El sistema puede manejar la dirección en entornos urbanos complejos, deteniéndose en semáforos y señales de stop.</li>
+<li class=""><strong>Reconocimiento de señales de tráfico</strong>: Identifica y reacciona a los límites de velocidad y otras señales.</li>
+<li class=""><strong>Maniobras de aparcamiento</strong>: Incluye funciones como <strong>Autopark</strong> (aparcamiento automático en paralelo y perpendicular) y <strong>Smart Summon</strong> (el coche se desplaza hasta la ubicación del conductor en un parking).</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="únete-a-la-comunidad">Únete a la comunidad<a href="https://pepetox.github.io/fsd_spain_blog_page/introduccion#%C3%BAnete-a-la-comunidad" class="hash-link" aria-label="Enlace directo al Únete a la comunidad" title="Enlace directo al Únete a la comunidad" translate="no">​</a></h2>
-<p>¡Estamos construyendo una comunidad activa de entusiastas de FSD en España! Síguenos para estar al día de todas las novedades.</p>
-<hr>
-<p><em>¿Tienes algo que compartir? Contáctanos para contribuir al blog.</em></p>]]></content:encoded>
+<p>Todo esto es posible gracias a un sistema de <strong>cámaras que proporcionan una visión de 360°</strong> y a un potente software que se actualiza de forma inalámbrica (OTA) para mejorar continuamente.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-llegada-del-fsd-a-europa-y-españa">La llegada del FSD a Europa y España<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-tesla-europa#la-llegada-del-fsd-a-europa-y-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al La llegada del FSD a Europa y España" title="Enlace directo al La llegada del FSD a Europa y España" translate="no">​</a></h2>
+<p>La principal barrera para la llegada del FSD a Europa es la <strong>regulación</strong>. Las autoridades europeas, a través de organismos como la UNECE, deben aprobar su uso, y cada país puede tener requisitos adicionales.</p>
+<p>En este blog estaremos atentos a:</p>
+<ul>
+<li class=""><strong>Noticias sobre la homologación</strong> del FSD en la Unión Europea.</li>
+<li class=""><strong>Actualizaciones de software</strong> que adapten el sistema a las carreteras y normativas europeas.</li>
+<li class=""><strong>Anuncios oficiales de Tesla</strong> sobre el lanzamiento en España y otros países de la región.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-futuro-es-prometedor">El futuro es prometedor<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-tesla-europa#el-futuro-es-prometedor" class="hash-link" aria-label="Enlace directo al El futuro es prometedor" title="Enlace directo al El futuro es prometedor" translate="no">​</a></h2>
+<p>Aunque la responsabilidad final sigue siendo del conductor, el FSD de Tesla representa un paso de gigante hacia la conducción autónoma. Su llegada a España marcará un antes y un después en la forma en que nos desplazamos.</p>
+<p>¡Síguenos para no perderte ninguna novedad sobre el FSD de Tesla en España!</p>]]></content:encoded>
             <category>fsd</category>
-            <category>formula-student</category>
-            <category>comunidad</category>
+            <category>tesla</category>
+            <category>conducción-autónoma</category>
+            <category>españa</category>
+            <category>europa</category>
         </item>
     </channel>
 </rss>
