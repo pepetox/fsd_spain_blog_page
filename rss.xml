@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>FSD Spain Blog</title>
+        <link>https://pepetox.github.io/fsd_spain_blog_page</link>
+        <description>FSD Spain Blog</description>
+        <lastBuildDate>Sun, 08 Dec 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>es</language>
+        <item>
+            <title><![CDATA[Bienvenidos a FSD Spain]]></title>
+            <link>https://pepetox.github.io/fsd_spain_blog_page/introduccion</link>
+            <guid>https://pepetox.github.io/fsd_spain_blog_page/introduccion</guid>
+            <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Este es el blog oficial de la comunidad de Formula Student Driverless en España. Aquí compartiremos noticias, tutoriales, recursos y experiencias sobre el apasionante mundo de los vehículos autónomos de competición.]]></description>
+            <content:encoded><![CDATA[<p>Este es el blog oficial de la comunidad de <strong>Formula Student Driverless</strong> en España. Aquí compartiremos noticias, tutoriales, recursos y experiencias sobre el apasionante mundo de los vehículos autónomos de competición.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-es-formula-student-driverless">¿Qué es Formula Student Driverless?<a href="https://pepetox.github.io/fsd_spain_blog_page/introduccion#qu%C3%A9-es-formula-student-driverless" class="hash-link" aria-label="Enlace directo al ¿Qué es Formula Student Driverless?" title="Enlace directo al ¿Qué es Formula Student Driverless?" translate="no">​</a></h2>
+<p>Formula Student Driverless (FSD) es la categoría de vehículos autónomos dentro de la competición Formula Student. Los equipos universitarios diseñan, construyen y programan coches de carreras capaces de conducirse solos.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-encontrarás-aquí">¿Qué encontrarás aquí?<a href="https://pepetox.github.io/fsd_spain_blog_page/introduccion#qu%C3%A9-encontrar%C3%A1s-aqu%C3%AD" class="hash-link" aria-label="Enlace directo al ¿Qué encontrarás aquí?" title="Enlace directo al ¿Qué encontrarás aquí?" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>Tutoriales técnicos</strong>: Desde percepción hasta control, pasando por planificación de trayectorias</li>
+<li class=""><strong>Noticias de competiciones</strong>: Cobertura de eventos FSG, FSA, FSS y más</li>
+<li class=""><strong>Recursos para equipos</strong>: Herramientas, librerías y mejores prácticas</li>
+<li class=""><strong>Experiencias de equipos españoles</strong>: Historias y aprendizajes de nuestros equipos</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="únete-a-la-comunidad">Únete a la comunidad<a href="https://pepetox.github.io/fsd_spain_blog_page/introduccion#%C3%BAnete-a-la-comunidad" class="hash-link" aria-label="Enlace directo al Únete a la comunidad" title="Enlace directo al Únete a la comunidad" translate="no">​</a></h2>
+<p>¡Estamos construyendo una comunidad activa de entusiastas de FSD en España! Síguenos para estar al día de todas las novedades.</p>
+<hr>
+<p><em>¿Tienes algo que compartir? Contáctanos para contribuir al blog.</em></p>]]></content:encoded>
+            <category>fsd</category>
+            <category>formula-student</category>
+            <category>comunidad</category>
+        </item>
+    </channel>
+</rss>
