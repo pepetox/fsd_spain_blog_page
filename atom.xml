@@ -2,11 +2,1028 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pepetox.github.io/fsd_spain_blog_page</id>
     <title>FSD Spain Blog</title>
-    <updated>2024-12-08T00:00:00.000Z</updated>
+    <updated>2025-02-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pepetox.github.io/fsd_spain_blog_page"/>
     <subtitle>FSD Spain Blog</subtitle>
     <icon>https://pepetox.github.io/fsd_spain_blog_page/img/fsdspain.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Voces de la Comunidad: ¿Qué opinan los dueños de Tesla en España?]]></title>
+        <id>https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana</id>
+        <link href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana"/>
+        <updated>2025-02-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recopilación de opiniones de la comunidad Tesla española sobre el FSD, las limitaciones europeas y las expectativas de futuro.]]></summary>
+        <content type="html"><![CDATA[<p>Detrás de los análisis técnicos y las noticias regulatorias hay personas reales: propietarios de Tesla que han invertido en una promesa tecnológica. ¿Qué piensan? ¿Están satisfechos? ¿Frustrados? Hemos recopilado las voces del Club Tesla España y otras comunidades para tomar el pulso al sentimiento actual.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="los-tres-arquetipos-del-propietario-español">Los tres arquetipos del propietario español<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#los-tres-arquetipos-del-propietario-espa%C3%B1ol" class="hash-link" aria-label="Enlace directo al Los tres arquetipos del propietario español" title="Enlace directo al Los tres arquetipos del propietario español" translate="no">​</a></h2>
+<p>Analizando los foros de Club Tesla España y las redes sociales, emergen claramente tres perfiles de propietario:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-el-escéptico-financiero">1. El Escéptico Financiero<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#1-el-esc%C3%A9ptico-financiero" class="hash-link" aria-label="Enlace directo al 1. El Escéptico Financiero" title="Enlace directo al 1. El Escéptico Financiero" translate="no">​</a></h3>
+<blockquote>
+<p>"Compré el FSD hace 4 años por 7.500€. En todo este tiempo, lo único que ha cambiado es que el Autopilot básico ha mejorado marginalmente. Me siento estafado."</p>
+</blockquote>
+<p>Este grupo representa a usuarios que:</p>
+<ul>
+<li class="">Adquirieron el paquete FSD o EAP hace años</li>
+<li class="">Han visto pasar múltiples "fechas de llegada" sin resultados</li>
+<li class="">Sienten que han financiado el desarrollo de Tesla sin contrapartida</li>
+<li class="">Están preocupados por la pérdida de valor de reventa</li>
+</ul>
+<p><strong>Su frustración principal</strong>: La imposibilidad de transferir la licencia de FSD a un coche nuevo. Si venden su Tesla actual y compran uno nuevo, pierden los 7.500€ invertidos (salvo promociones puntuales que Tesla ofrece ocasionalmente).</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-el-tecnófilo-pragmático">2. El Tecnófilo Pragmático<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#2-el-tecn%C3%B3filo-pragm%C3%A1tico" class="hash-link" aria-label="Enlace directo al 2. El Tecnófilo Pragmático" title="Enlace directo al 2. El Tecnófilo Pragmático" translate="no">​</a></h3>
+<blockquote>
+<p>"Entiendo las limitaciones de la regulación europea. Mientras tanto, uso el Autopilot para lo que sirve y he instalado un Commander para mitigar las molestias del temporizador de 5 segundos."</p>
+</blockquote>
+<p>Este grupo:</p>
+<ul>
+<li class="">Comprende que Tesla no controla la regulación</li>
+<li class="">Busca soluciones intermedias para mejorar la experiencia</li>
+<li class="">Mantiene expectativas realistas sobre fechas</li>
+<li class="">Aprovecha el hardware al máximo posible</li>
+</ul>
+<p><strong>Su enfoque</strong>: Usar dispositivos de terceros como el <strong>Commander de Enhance Auto</strong>, que permite automatizar funciones como la reactivación del Autopilot tras un cambio de carril. Es un parche, pero mejora significativamente la experiencia diaria.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-el-observador-esperanzado">3. El Observador Esperanzado<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#3-el-observador-esperanzado" class="hash-link" aria-label="Enlace directo al 3. El Observador Esperanzado" title="Enlace directo al 3. El Observador Esperanzado" translate="no">​</a></h3>
+<blockquote>
+<p>"Vi los vídeos de las pruebas en Madrid y me emocioné. Por primera vez en años, siento que hay movimiento real. Sigo a Saúl López y Todos Eléctricos para estar al día."</p>
+</blockquote>
+<p>Este grupo:</p>
+<ul>
+<li class="">Se ha revitalizado con los avistamientos en Madrid</li>
+<li class="">Sigue activamente a influencers del sector</li>
+<li class="">Cree que la aprobación está más cerca que nunca</li>
+<li class="">Mantiene la fe en la promesa tecnológica</li>
+</ul>
+<p><strong>Su esperanza</strong>: Que las pruebas en España aceleren la llegada y que el marco ES-AV de la DGT posicione a España como uno de los primeros países europeos en recibir el FSD completo.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="temas-candentes-en-los-foros">Temas candentes en los foros<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#temas-candentes-en-los-foros" class="hash-link" aria-label="Enlace directo al Temas candentes en los foros" title="Enlace directo al Temas candentes en los foros" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-falta-de-suscripción-mensual">La falta de suscripción mensual<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#la-falta-de-suscripci%C3%B3n-mensual" class="hash-link" aria-label="Enlace directo al La falta de suscripción mensual" title="Enlace directo al La falta de suscripción mensual" translate="no">​</a></h3>
+<p>Una queja recurrente es la ausencia de opción de <strong>suscripción mensual</strong> para el FSD en Europa:</p>
+<blockquote>
+<p>"En Estados Unidos pueden probar el FSD por $99/mes. Aquí nos obligan a pagar 7.500€ por algo que no sabemos si funcionará o cuándo."</p>
+</blockquote>
+<p>En EE.UU., Tesla ofrece el FSD por suscripción mensual, permitiendo a los usuarios probarlo sin compromiso a largo plazo. En Europa, esta opción no existe, obligando a una inversión significativa sin garantía de retorno.</p>
+<p><strong>La pregunta que se repite</strong>: ¿Por qué no ofrecer suscripción al menos para el Enhanced Autopilot, que sí funciona (con limitaciones) en Europa?</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-commander-y-soluciones-de-terceros">El Commander y soluciones de terceros<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#el-commander-y-soluciones-de-terceros" class="hash-link" aria-label="Enlace directo al El Commander y soluciones de terceros" title="Enlace directo al El Commander y soluciones de terceros" translate="no">​</a></h3>
+<p>El <strong>Commander de Enhance Auto</strong> se ha convertido en tema frecuente:</p>
+<p><strong>Defensores</strong>:</p>
+<blockquote>
+<p>"Es un game changer. El coche ya no me desactiva el Autopilot cada vez que cambio de carril. Dinero muy bien gastado."</p>
+</blockquote>
+<p><strong>Críticos</strong>:</p>
+<blockquote>
+<p>"No debería tener que comprar hardware de terceros para que mi coche funcione como debería. Tesla debería resolver esto."</p>
+</blockquote>
+<p><strong>Preocupados</strong>:</p>
+<blockquote>
+<p>"¿Qué pasa con la garantía? ¿Y si hay un accidente y el seguro descubre que tengo un dispositivo no oficial?"</p>
+</blockquote>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-valor-de-reventa-del-fsd">El valor de reventa del FSD<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#el-valor-de-reventa-del-fsd" class="hash-link" aria-label="Enlace directo al El valor de reventa del FSD" title="Enlace directo al El valor de reventa del FSD" translate="no">​</a></h3>
+<p>Un tema especialmente doloroso:</p>
+<blockquote>
+<p>"Puse mi Model 3 con FSD a la venta. Me di cuenta de que nadie quiere pagar extra por el FSD porque no funciona aquí. Básicamente regalé esos 7.500€."</p>
+</blockquote>
+<p>La realidad del mercado secundario es dura: el FSD no añade valor significativo a un Tesla europeo de segunda mano, porque el comprador sabe que no podrá usar las funciones prometidas.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="opiniones-sobre-las-pruebas-en-madrid">Opiniones sobre las pruebas en Madrid<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#opiniones-sobre-las-pruebas-en-madrid" class="hash-link" aria-label="Enlace directo al Opiniones sobre las pruebas en Madrid" title="Enlace directo al Opiniones sobre las pruebas en Madrid" translate="no">​</a></h2>
+<p>Los avistamientos de vehículos de prueba han generado reacciones mixtas:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="optimistas">Optimistas<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#optimistas" class="hash-link" aria-label="Enlace directo al Optimistas" title="Enlace directo al Optimistas" translate="no">​</a></h3>
+<blockquote>
+<p>"Por fin Tesla hace algo concreto en España. No son solo anuncios vacíos, hay coches reales probando en nuestras calles."</p>
+</blockquote>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="cautos">Cautos<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#cautos" class="hash-link" aria-label="Enlace directo al Cautos" title="Enlace directo al Cautos" translate="no">​</a></h3>
+<blockquote>
+<p>"Que estén probando no significa que vaya a llegar pronto. Llevan años probando cosas que luego no lanzan."</p>
+</blockquote>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="cínicos">Cínicos<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#c%C3%ADnicos" class="hash-link" aria-label="Enlace directo al Cínicos" title="Enlace directo al Cínicos" translate="no">​</a></h3>
+<blockquote>
+<p>"Probando en Madrid mientras los que pagamos el FSD seguimos sin poder usarlo. Gracias, Tesla."</p>
+</blockquote>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-piden-los-usuarios">Lo que piden los usuarios<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#lo-que-piden-los-usuarios" class="hash-link" aria-label="Enlace directo al Lo que piden los usuarios" title="Enlace directo al Lo que piden los usuarios" translate="no">​</a></h2>
+<p>Hemos recopilado las peticiones más frecuentes de la comunidad española:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-tesla">A Tesla<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#a-tesla" class="hash-link" aria-label="Enlace directo al A Tesla" title="Enlace directo al A Tesla" translate="no">​</a></h3>
+<ol>
+<li class=""><strong>Comunicación honesta</strong>: Dejar de anunciar fechas que luego no se cumplen</li>
+<li class=""><strong>Suscripción en Europa</strong>: Permitir probar el FSD/EAP sin compromiso</li>
+<li class=""><strong>Transferencia de licencias</strong>: Poder llevar el FSD al coche nuevo</li>
+<li class=""><strong>Actualizaciones que funcionen aquí</strong>: No solo mejoras para EE.UU.</li>
+</ol>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-los-reguladores">A los reguladores<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#a-los-reguladores" class="hash-link" aria-label="Enlace directo al A los reguladores" title="Enlace directo al A los reguladores" translate="no">​</a></h3>
+<ol>
+<li class=""><strong>Acelerar el proceso</strong>: Sin sacrificar seguridad, agilizar trámites</li>
+<li class=""><strong>Transparencia</strong>: Publicar el estado real de las evaluaciones</li>
+<li class=""><strong>Armonización europea</strong>: Evitar que cada país tenga requisitos diferentes</li>
+</ol>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-la-comunidad">A la comunidad<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#a-la-comunidad" class="hash-link" aria-label="Enlace directo al A la comunidad" title="Enlace directo al A la comunidad" translate="no">​</a></h3>
+<ol>
+<li class=""><strong>Realismo</strong>: Dejar de propagar rumores infundados</li>
+<li class=""><strong>Presión constructiva</strong>: Canalizar la frustración hacia demandas concretas</li>
+<li class=""><strong>Compartir experiencias</strong>: Documentar qué funciona y qué no</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="influencers-y-voces-autorizadas">Influencers y voces autorizadas<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#influencers-y-voces-autorizadas" class="hash-link" aria-label="Enlace directo al Influencers y voces autorizadas" title="Enlace directo al Influencers y voces autorizadas" translate="no">​</a></h2>
+<p>La comunidad española sigue a varios creadores de contenido:</p>
+<ul>
+<li class=""><strong>Saúl López</strong>: Conocido por sus análisis técnicos y pruebas exclusivas</li>
+<li class=""><strong>Todos Eléctricos</strong>: Canal con cobertura amplia del ecosistema EV</li>
+<li class=""><strong>Club Tesla España</strong>: Foro donde se concentra la discusión más técnica</li>
+</ul>
+<p>Estos creadores han mantenido viva la esperanza con cobertura de las pruebas en Madrid y análisis de las novedades regulatorias.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="un-termómetro-del-sentimiento">Un termómetro del sentimiento<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#un-term%C3%B3metro-del-sentimiento" class="hash-link" aria-label="Enlace directo al Un termómetro del sentimiento" title="Enlace directo al Un termómetro del sentimiento" translate="no">​</a></h2>
+<p>Si tuviéramos que resumir el estado de ánimo de la comunidad española de Tesla:</p>
+<table><thead><tr><th>Aspecto</th><th>Sentimiento</th></tr></thead><tbody><tr><td>Satisfacción con el coche (sin FSD)</td><td>🟢 Alto</td></tr><tr><td>Satisfacción con el Autopilot actual</td><td>🟡 Medio</td></tr><tr><td>Satisfacción con la compra de FSD/EAP</td><td>🔴 Bajo</td></tr><tr><td>Esperanza de mejora</td><td>🟡 Moderada</td></tr><tr><td>Confianza en las fechas de Tesla</td><td>🔴 Muy baja</td></tr><tr><td>Percepción del regulador europeo</td><td>🟡 Mixta</td></tr></tbody></table>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="testimonios-seleccionados">Testimonios seleccionados<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#testimonios-seleccionados" class="hash-link" aria-label="Enlace directo al Testimonios seleccionados" title="Enlace directo al Testimonios seleccionados" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-veterano">El veterano<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#el-veterano" class="hash-link" aria-label="Enlace directo al El veterano" title="Enlace directo al El veterano" translate="no">​</a></h3>
+<blockquote>
+<p>"Tengo un Model S de 2018 con HW2.5 que actualicé a HW3. He visto pasar todas las promesas de Musk sobre FSD. Ya no creo en fechas. Cuando lo vea funcionando en mi coche, me lo creeré."</p>
+</blockquote>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-recién-llegado">El recién llegado<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#el-reci%C3%A9n-llegado" class="hash-link" aria-label="Enlace directo al El recién llegado" title="Enlace directo al El recién llegado" translate="no">​</a></h3>
+<blockquote>
+<p>"Compré mi Model 3 hace 6 meses sin FSD, después de leer los foros. Mejor decisión que pude tomar. El Autopilot básico me basta para autopista."</p>
+</blockquote>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-arrepentido">El arrepentido<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#el-arrepentido" class="hash-link" aria-label="Enlace directo al El arrepentido" title="Enlace directo al El arrepentido" translate="no">​</a></h3>
+<blockquote>
+<p>"Pagué el FSD en 2020 porque Musk dijo que llegaría 'pronto'. Cinco años después, sigo esperando. Es la peor inversión que he hecho en un coche."</p>
+</blockquote>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-optimista-informado">El optimista informado<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#el-optimista-informado" class="hash-link" aria-label="Enlace directo al El optimista informado" title="Enlace directo al El optimista informado" translate="no">​</a></h3>
+<blockquote>
+<p>"Sí, hay retrasos. Sí, es frustrante. Pero la tecnología es real y está mejorando. Los vídeos de la v13 son impresionantes. Llegará, solo hay que saber esperar."</p>
+</blockquote>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://pepetox.github.io/fsd_spain_blog_page/voces-comunidad-tesla-espana#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
+<p>La comunidad española de Tesla es diversa y apasionada. Hay frustración genuina, especialmente entre los que pagaron por promesas incumplidas. Pero también hay comprensión de que la regulación europea no es culpa de Tesla, y esperanza renovada gracias a las pruebas visibles en Madrid.</p>
+<p>Lo que une a todos es el deseo de que España no quede atrás. Que cuando el FSD llegue a Europa, llegue aquí también. Y que los que invirtieron hace años finalmente puedan ver el retorno de su confianza y su dinero.</p>
+<p>Mientras tanto, la comunidad sigue: debatiendo en foros, compartiendo trucos, probando soluciones alternativas, y esperando el día en que puedan activar el FSD completo en las carreteras españolas.</p>
+<hr>
+<p><em>¿Te identificas con alguno de estos perfiles? ¿Qué opinas sobre el estado actual del FSD en España? Únete a la conversación en los comentarios.</em></p>]]></content>
+        <author>
+            <name>FSD Spain</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="comunidad" term="comunidad"/>
+        <category label="españa" term="españa"/>
+        <category label="club-tesla" term="club-tesla"/>
+        <category label="opiniones" term="opiniones"/>
+        <category label="fsd" term="fsd"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[El Efecto Dominó: La Estrategia Holandesa y la Verdad sobre Febrero 2026]]></title>
+        <id>https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026</id>
+        <link href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026"/>
+        <updated>2025-02-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Desmontando el mito de la aprobación del FSD en febrero 2026. Qué dijo realmente Tesla, qué respondió la RDW, y qué significa para España.]]></summary>
+        <content type="html"><![CDATA[<p>En noviembre de 2025, la comunidad Tesla europea explotó de expectación: Tesla había anunciado que el FSD sería aprobado en Europa para febrero de 2026. Los titulares prometían la llegada inminente de la conducción autónoma al Viejo Continente. Pero, ¿qué pasó realmente? Spoiler: la realidad es más complicada.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-anuncio-que-incendió-las-redes">El anuncio que incendió las redes<a href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026#el-anuncio-que-incendi%C3%B3-las-redes" class="hash-link" aria-label="Enlace directo al El anuncio que incendió las redes" title="Enlace directo al El anuncio que incendió las redes" translate="no">​</a></h2>
+<p>El 24 de noviembre de 2025, Tesla, a través de sus canales oficiales, comunicó que la <strong>RDW</strong> (Rijksdienst voor het Wegverkeer, la autoridad vehicular de los Países Bajos) se había comprometido a aprobar el FSD para febrero de 2026.</p>
+<p>La reacción fue inmediata:</p>
+<ul>
+<li class="">Las acciones de Tesla subieron</li>
+<li class="">Los foros se llenaron de celebraciones</li>
+<li class="">Los medios españoles hablaron de "la llegada inminente"</li>
+<li class="">Los propietarios europeos empezaron a contar los días</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-respuesta-de-la-rdw">La respuesta de la RDW<a href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026#la-respuesta-de-la-rdw" class="hash-link" aria-label="Enlace directo al La respuesta de la RDW" title="Enlace directo al La respuesta de la RDW" translate="no">​</a></h2>
+<p>El golpe de realidad llegó rápido. La RDW emitió un comunicado que decía, esencialmente: <strong>"No hemos prometido nada de eso."</strong></p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-dijo-la-rdw">Lo que dijo la RDW<a href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026#lo-que-dijo-la-rdw" class="hash-link" aria-label="Enlace directo al Lo que dijo la RDW" title="Enlace directo al Lo que dijo la RDW" translate="no">​</a></h3>
+<blockquote>
+<p>"Febrero de 2026 es la fecha agendada para que Tesla demuestre que su sistema cumple con los requisitos de seguridad necesarios para <strong>solicitar</strong> una exención. No es una fecha de aprobación."</p>
+</blockquote>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-esto-significa">Lo que esto significa<a href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026#lo-que-esto-significa" class="hash-link" aria-label="Enlace directo al Lo que esto significa" title="Enlace directo al Lo que esto significa" translate="no">​</a></h3>
+<table><thead><tr><th>Lo que entendió la gente</th><th>Lo que realmente significa</th></tr></thead><tbody><tr><td>FSD aprobado en febrero 2026</td><td>Tesla presenta su caso en febrero 2026</td></tr><tr><td>Lanzamiento comercial inminente</td><td>Inicio del proceso de evaluación</td></tr><tr><td>Europa tendrá FSD pronto</td><td>Europa podría tener FSD... eventualmente</td></tr></tbody></table>
+<p>La RDW enfatizó tres puntos cruciales:</p>
+<ol>
+<li class=""><strong>La carga de la prueba recae sobre Tesla</strong></li>
+<li class=""><strong>La seguridad del tráfico es primordial</strong></li>
+<li class=""><strong>El proceso de validación podría extenderse mucho más allá</strong> de febrero si los datos no son concluyentes</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-estrategia-de-tesla-el-estado-miembro-de-referencia">La estrategia de Tesla: El "Estado Miembro de Referencia"<a href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026#la-estrategia-de-tesla-el-estado-miembro-de-referencia" class="hash-link" aria-label="Enlace directo al La estrategia de Tesla: El &quot;Estado Miembro de Referencia&quot;" title="Enlace directo al La estrategia de Tesla: El &quot;Estado Miembro de Referencia&quot;" translate="no">​</a></h2>
+<p>Para entender qué está haciendo Tesla, hay que entender cómo funciona la regulación vehicular europea:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-principio-de-reconocimiento-mutuo">El principio de reconocimiento mutuo<a href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026#el-principio-de-reconocimiento-mutuo" class="hash-link" aria-label="Enlace directo al El principio de reconocimiento mutuo" title="Enlace directo al El principio de reconocimiento mutuo" translate="no">​</a></h3>
+<p>En la UE, si un estado miembro aprueba una exención o certificación vehicular, otros estados pueden <strong>reconocer esa aprobación</strong> sin hacer su propio proceso completo. Es el llamado "efecto dominó".</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-los-países-bajos">Por qué los Países Bajos<a href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026#por-qu%C3%A9-los-pa%C3%ADses-bajos" class="hash-link" aria-label="Enlace directo al Por qué los Países Bajos" title="Enlace directo al Por qué los Países Bajos" translate="no">​</a></h3>
+<p>Tesla eligió los Países Bajos como cabeza de playa por varias razones:</p>
+<ol>
+<li class=""><strong>RDW es tecnológicamente progresista</strong>: Históricamente abierta a innovación</li>
+<li class=""><strong>Tamaño manejable</strong>: País pequeño, menos burocracia</li>
+<li class=""><strong>Infraestructura moderna</strong>: Buenos datos de carreteras</li>
+<li class=""><strong>Precedente europeo</strong>: Lo que apruebe Holanda puede influir en la UE</li>
+</ol>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-plan-de-tesla">El plan de Tesla<a href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026#el-plan-de-tesla" class="hash-link" aria-label="Enlace directo al El plan de Tesla" title="Enlace directo al El plan de Tesla" translate="no">​</a></h3>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">Países Bajos aprueba exención</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">          ↓</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">España, Alemania, Francia reconocen</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">          ↓</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">FSD disponible en toda la UE</span><br></span></code></pre></div></div>
+<p>Es elegante en teoría. En la práctica, cada paso tiene sus propias complicaciones.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-calendario-realista">El calendario realista<a href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026#el-calendario-realista" class="hash-link" aria-label="Enlace directo al El calendario realista" title="Enlace directo al El calendario realista" translate="no">​</a></h2>
+<p>Basándonos en lo que sabemos, este es un calendario más realista:</p>
+<table><thead><tr><th>Fecha</th><th>Hito</th></tr></thead><tbody><tr><td>Febrero 2026</td><td>Tesla presenta datos a la RDW</td></tr><tr><td>2026 (resto)</td><td>RDW evalúa, pide más datos, Tesla ajusta</td></tr><tr><td>Finales 2026 / 2027</td><td>Posible exención en Países Bajos</td></tr><tr><td>2027+</td><td>Reconocimiento por otros estados EU</td></tr><tr><td>2027-2028</td><td>Posible disponibilidad en España</td></tr></tbody></table>
+<div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>Importante</div><div class="admonitionContent_BuS1"><p>Esto es una <strong>estimación optimista</strong>. Si la RDW encuentra problemas en los datos de Tesla, el proceso puede retrasarse significativamente. Y cada país europeo puede imponer requisitos adicionales.</p></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-está-en-juego-para-tesla">Qué está en juego para Tesla<a href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026#qu%C3%A9-est%C3%A1-en-juego-para-tesla" class="hash-link" aria-label="Enlace directo al Qué está en juego para Tesla" title="Enlace directo al Qué está en juego para Tesla" translate="no">​</a></h2>
+<p>El FSD en Europa no es solo una cuestión técnica o regulatoria. Es estratégica:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="ingresos-diferidos">Ingresos diferidos<a href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026#ingresos-diferidos" class="hash-link" aria-label="Enlace directo al Ingresos diferidos" title="Enlace directo al Ingresos diferidos" translate="no">​</a></h3>
+<p>Miles de europeos han pagado 7.500€ por un producto que no pueden usar. Cada mes que pasa sin FSD en Europa es:</p>
+<ul>
+<li class="">Presión de consumidores</li>
+<li class="">Riesgo de demandas</li>
+<li class="">Problema de relaciones públicas</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="competencia-creciente">Competencia creciente<a href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026#competencia-creciente" class="hash-link" aria-label="Enlace directo al Competencia creciente" title="Enlace directo al Competencia creciente" translate="no">​</a></h3>
+<p>Mientras Tesla espera aprobación, la competencia avanza:</p>
+<ul>
+<li class=""><strong>Mercedes</strong> ya tiene aprobación para conducción Nivel 3 en autopistas alemanas</li>
+<li class=""><strong>BMW</strong> y <strong>Audi</strong> desarrollan sus propios sistemas</li>
+<li class=""><strong>Fabricantes chinos</strong> presionan con precios agresivos</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="credibilidad-de-elon-musk">Credibilidad de Elon Musk<a href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026#credibilidad-de-elon-musk" class="hash-link" aria-label="Enlace directo al Credibilidad de Elon Musk" title="Enlace directo al Credibilidad de Elon Musk" translate="no">​</a></h3>
+<p>Musk ha prometido FSD "completo" múltiples veces. Cada retraso erosiona la credibilidad de sus predicciones. El episodio de febrero 2026 es un ejemplo más de expectativas infladas seguidas de realidad decepcionante.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="implicaciones-para-españa">Implicaciones para España<a href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026#implicaciones-para-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Implicaciones para España" title="Enlace directo al Implicaciones para España" translate="no">​</a></h2>
+<p>Para los propietarios españoles, este episodio tiene lecciones claras:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="no-hay-atajos">No hay atajos<a href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026#no-hay-atajos" class="hash-link" aria-label="Enlace directo al No hay atajos" title="Enlace directo al No hay atajos" translate="no">​</a></h3>
+<p>Aunque Tesla consiga la aprobación holandesa, España podría requerir:</p>
+<ul>
+<li class="">Validación adicional por la DGT</li>
+<li class="">Adaptación a normativa española específica</li>
+<li class="">Pruebas locales (que ya se están haciendo)</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-marco-es-av-es-una-ventaja">El marco ES-AV es una ventaja<a href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026#el-marco-es-av-es-una-ventaja" class="hash-link" aria-label="Enlace directo al El marco ES-AV es una ventaja" title="Enlace directo al El marco ES-AV es una ventaja" translate="no">​</a></h3>
+<p>Irónicamente, las pruebas que Tesla ya está haciendo en Madrid podrían acelerar el proceso español. Si Tesla tiene datos de comportamiento en carreteras españolas, la DGT tendrá menos razones para pedir validación adicional.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="paciencia-pero-con-esperanza-informada">Paciencia, pero con esperanza informada<a href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026#paciencia-pero-con-esperanza-informada" class="hash-link" aria-label="Enlace directo al Paciencia, pero con esperanza informada" title="Enlace directo al Paciencia, pero con esperanza informada" translate="no">​</a></h3>
+<p>La llegada del FSD a España es cuestión de "cuándo", no de "si". Pero ese "cuándo" depende de:</p>
+<ol>
+<li class="">Éxito en la validación holandesa</li>
+<li class="">Reconocimiento mutuo efectivo</li>
+<li class="">Requisitos adicionales de la DGT</li>
+<li class="">Decisiones comerciales de Tesla</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="cómo-seguir-el-proceso">Cómo seguir el proceso<a href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026#c%C3%B3mo-seguir-el-proceso" class="hash-link" aria-label="Enlace directo al Cómo seguir el proceso" title="Enlace directo al Cómo seguir el proceso" translate="no">​</a></h2>
+<p>Para mantenerse informado sobre el progreso real (no los titulares sensacionalistas):</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes-fiables">Fuentes fiables<a href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026#fuentes-fiables" class="hash-link" aria-label="Enlace directo al Fuentes fiables" title="Enlace directo al Fuentes fiables" translate="no">​</a></h3>
+<ul>
+<li class=""><strong>RDW oficial</strong>: Comunicados del regulador holandés</li>
+<li class=""><strong>DGT</strong>: Anuncios sobre el programa ES-AV</li>
+<li class=""><strong>Tesla Europa</strong>: Canales oficiales (con escepticismo saludable)</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="señales-a-buscar">Señales a buscar<a href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026#se%C3%B1ales-a-buscar" class="hash-link" aria-label="Enlace directo al Señales a buscar" title="Enlace directo al Señales a buscar" translate="no">​</a></h3>
+<ul>
+<li class="">Anuncios de <strong>finalización de pruebas</strong> (no inicio)</li>
+<li class="">Comunicados de <strong>aprobación</strong> (no presentación)</li>
+<li class="">Noticias de <strong>otros países</strong> reconociendo la aprobación holandesa</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="señales-de-humo">Señales de humo<a href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026#se%C3%B1ales-de-humo" class="hash-link" aria-label="Enlace directo al Señales de humo" title="Enlace directo al Señales de humo" translate="no">​</a></h3>
+<ul>
+<li class="">Actualizaciones de software que preparen el terreno</li>
+<li class="">Cambios en la web de Tesla sobre disponibilidad</li>
+<li class="">Testimonios de usuarios holandeses probando el sistema</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://pepetox.github.io/fsd_spain_blog_page/estrategia-holandesa-rdw-febrero-2026#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
+<p>El episodio de febrero 2026 es un caso de estudio en gestión de expectativas. Tesla comunicó de forma que maximizaba el optimismo; la RDW corrigió con la realidad burocrática.</p>
+<p>Para los propietarios europeos, la lección es clara: <strong>desconfía de las fechas, confía en los hechos</strong>. Cuando veas anuncios de "aprobación", pregunta siempre:</p>
+<ul>
+<li class="">¿Aprobación de qué exactamente?</li>
+<li class="">¿Por quién?</li>
+<li class="">¿Con qué condiciones?</li>
+</ul>
+<p>El FSD llegará a Europa. Probablemente llegará a España. Pero llegará cuando los reguladores estén convencidos de su seguridad, no cuando Tesla lo anuncie en un comunicado de prensa.</p>
+<p>Mientras tanto, las pruebas continúan en Madrid, los datos fluyen a Tesla, y el proceso regulatorio sigue su curso. No es tan emocionante como un anuncio de fecha, pero es la realidad.</p>
+<hr>
+<p><em>¿Cómo interpretas los anuncios de Tesla sobre fechas? ¿Crees que febrero 2026 marcará un antes y un después, o será otro hito en un proceso largo? Comparte tu opinión.</em></p>]]></content>
+        <author>
+            <name>FSD Spain</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="regulación" term="regulación"/>
+        <category label="europa" term="europa"/>
+        <category label="países-bajos" term="países-bajos"/>
+        <category label="rdw" term="rdw"/>
+        <category label="homologación" term="homologación"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Madrid, Zona Cero: Los 19 Teslas que ya conducen solos por la Castellana]]></title>
+        <id>https://pepetox.github.io/fsd_spain_blog_page/madrid-zona-cero-pruebas-fsd-dgt</id>
+        <link href="https://pepetox.github.io/fsd_spain_blog_page/madrid-zona-cero-pruebas-fsd-dgt"/>
+        <updated>2025-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Reportaje sobre las pruebas autorizadas del FSD en Madrid. Tesla tiene 19 vehículos probando conducción autónoma en las calles de la capital española.]]></summary>
+        <content type="html"><![CDATA[<p>Mientras Europa debate regulaciones y los propietarios españoles esperan pacientemente, algo extraordinario está ocurriendo en las calles de Madrid: una flota de <strong>19 vehículos Tesla</strong> está probando el Full Self-Driving en condiciones reales de tráfico, con autorización oficial de la DGT. España se ha convertido, silenciosamente, en el laboratorio de pruebas del FSD en Europa.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-autorización-de-la-dgt">La autorización de la DGT<a href="https://pepetox.github.io/fsd_spain_blog_page/madrid-zona-cero-pruebas-fsd-dgt#la-autorizaci%C3%B3n-de-la-dgt" class="hash-link" aria-label="Enlace directo al La autorización de la DGT" title="Enlace directo al La autorización de la DGT" translate="no">​</a></h2>
+<p>La Dirección General de Tráfico ha establecido un marco regulatorio progresista conocido como la <strong>instrucción ES-AV</strong> (Vehículos Autónomos España), que permite la prueba de vehículos autónomos en carreteras abiertas bajo condiciones controladas.</p>
+<p>Tesla ha aprovechado este marco para desplegar una flota de prueba con un foco operativo claro en Madrid. La autorización incluye:</p>
+<ul>
+<li class=""><strong>19 vehículos</strong> autorizados para pruebas</li>
+<li class=""><strong>Operación en vías abiertas</strong> al tráfico público</li>
+<li class=""><strong>Diversas condiciones</strong> de tráfico y meteorológicas</li>
+<li class=""><strong>Personal de seguridad</strong> a bordo durante las pruebas</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-marco-es-av">El marco ES-AV<a href="https://pepetox.github.io/fsd_spain_blog_page/madrid-zona-cero-pruebas-fsd-dgt#el-marco-es-av" class="hash-link" aria-label="Enlace directo al El marco ES-AV" title="Enlace directo al El marco ES-AV" translate="no">​</a></h3>
+<p>El programa ES-AV establece diferentes fases de prueba:</p>
+<table><thead><tr><th>Fase</th><th>Descripción</th><th>Requisitos</th></tr></thead><tbody><tr><td>Fase 1</td><td>Pruebas en circuito cerrado</td><td>Mínimos</td></tr><tr><td>Fase 2</td><td>Vías públicas con restricciones</td><td>Conductor de seguridad, rutas aprobadas</td></tr><tr><td>Fase 3</td><td>Vías públicas sin restricciones</td><td>Posible operación sin conductor físico*</td></tr></tbody></table>
+<p>*Con supervisión remota y capacidad de intervención</p>
+<p>Las pruebas actuales de Tesla parecen estar en <strong>Fase 2</strong>, manteniendo personal a bordo por precaución y para validación de datos.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="dónde-se-están-haciendo-las-pruebas">Dónde se están haciendo las pruebas<a href="https://pepetox.github.io/fsd_spain_blog_page/madrid-zona-cero-pruebas-fsd-dgt#d%C3%B3nde-se-est%C3%A1n-haciendo-las-pruebas" class="hash-link" aria-label="Enlace directo al Dónde se están haciendo las pruebas" title="Enlace directo al Dónde se están haciendo las pruebas" translate="no">​</a></h2>
+<p>Videos filtrados y material oficial compartido por Tesla Europa muestran a estos vehículos navegando por puntos neurálgicos de la capital:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="zonas-confirmadas-de-prueba">Zonas confirmadas de prueba<a href="https://pepetox.github.io/fsd_spain_blog_page/madrid-zona-cero-pruebas-fsd-dgt#zonas-confirmadas-de-prueba" class="hash-link" aria-label="Enlace directo al Zonas confirmadas de prueba" title="Enlace directo al Zonas confirmadas de prueba" translate="no">​</a></h3>
+<ul>
+<li class=""><strong>Paseo de la Castellana</strong>: La arteria principal de Madrid, con múltiples carriles, rotondas y tráfico denso</li>
+<li class=""><strong>M-30</strong>: La circunvalación de Madrid, con alta velocidad y cruces complejos</li>
+<li class=""><strong>Rotondas urbanas</strong>: Específicamente, rotondas de múltiples carriles con tráfico intenso</li>
+<li class=""><strong>Centro de Madrid</strong>: Calles estrechas, zonas peatonales, tráfico mixto</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-madrid">Por qué Madrid<a href="https://pepetox.github.io/fsd_spain_blog_page/madrid-zona-cero-pruebas-fsd-dgt#por-qu%C3%A9-madrid" class="hash-link" aria-label="Enlace directo al Por qué Madrid" title="Enlace directo al Por qué Madrid" translate="no">​</a></h3>
+<p>Madrid ofrece un conjunto de entrenamiento ideal para la "Euro-Net":</p>
+<ol>
+<li class=""><strong>Variedad de infraestructuras</strong>: Desde autovías modernas hasta cascos históricos</li>
+<li class=""><strong>Rotondas complejas</strong>: El "terror" del Autopilot en su versión actual</li>
+<li class=""><strong>Tráfico denso</strong>: Condiciones reales de conducción urbana</li>
+<li class=""><strong>Diversidad climática</strong>: Desde calor extremo hasta lluvia ocasional</li>
+<li class=""><strong>Señalización europea</strong>: Estándares diferentes a los americanos</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-hemos-visto">Lo que hemos visto<a href="https://pepetox.github.io/fsd_spain_blog_page/madrid-zona-cero-pruebas-fsd-dgt#lo-que-hemos-visto" class="hash-link" aria-label="Enlace directo al Lo que hemos visto" title="Enlace directo al Lo que hemos visto" translate="no">​</a></h2>
+<p>Los vídeos de las pruebas revelan un sistema significativamente más avanzado que el Autopilot disponible para los usuarios europeos:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="comportamientos-observados">Comportamientos observados<a href="https://pepetox.github.io/fsd_spain_blog_page/madrid-zona-cero-pruebas-fsd-dgt#comportamientos-observados" class="hash-link" aria-label="Enlace directo al Comportamientos observados" title="Enlace directo al Comportamientos observados" translate="no">​</a></h3>
+<ul>
+<li class=""><strong>Navegación fluida en rotondas</strong>: El vehículo entra, cede, y sale de rotondas de forma natural</li>
+<li class=""><strong>Cambios de carril decididos</strong>: Sin el temporizador de 5 segundos que frustra a los usuarios</li>
+<li class=""><strong>Detección de peatones</strong>: Respuesta adecuada a cruces no regulados</li>
+<li class=""><strong>Semáforos</strong>: Parada y arranque correcto en intersecciones</li>
+<li class=""><strong>Calles estrechas</strong>: Navegación con coches aparcados en ambos lados</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-diferencia-con-el-autopilot-actual">La diferencia con el Autopilot actual<a href="https://pepetox.github.io/fsd_spain_blog_page/madrid-zona-cero-pruebas-fsd-dgt#la-diferencia-con-el-autopilot-actual" class="hash-link" aria-label="Enlace directo al La diferencia con el Autopilot actual" title="Enlace directo al La diferencia con el Autopilot actual" translate="no">​</a></h3>
+<p>Ver estos vídeos es, para un propietario europeo, agridulce. El mismo coche que en tu garaje se desactiva en una rotonda, en estas pruebas la navega perfectamente. La diferencia no es el hardware (es el mismo), sino el <strong>software que no está disponible para nosotros</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="españa-como-mina-de-datos">España como "mina de datos"<a href="https://pepetox.github.io/fsd_spain_blog_page/madrid-zona-cero-pruebas-fsd-dgt#espa%C3%B1a-como-mina-de-datos" class="hash-link" aria-label="Enlace directo al España como &quot;mina de datos&quot;" title="Enlace directo al España como &quot;mina de datos&quot;" translate="no">​</a></h2>
+<p>Más allá de cumplir requisitos regulatorios, estas pruebas tienen un propósito fundamental: <strong>entrenar la IA</strong>.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-ciclo-de-mejora">El ciclo de mejora<a href="https://pepetox.github.io/fsd_spain_blog_page/madrid-zona-cero-pruebas-fsd-dgt#el-ciclo-de-mejora" class="hash-link" aria-label="Enlace directo al El ciclo de mejora" title="Enlace directo al El ciclo de mejora" translate="no">​</a></h3>
+<ol>
+<li class=""><strong>Los coches de prueba graban todo</strong>: Video, telemetría, intervenciones</li>
+<li class=""><strong>Los datos van a Tesla</strong>: Servidores procesan millones de situaciones</li>
+<li class=""><strong>La red neuronal aprende</strong>: Comportamientos específicos de España</li>
+<li class=""><strong>El software mejora</strong>: Nuevas versiones más adaptadas a Europa</li>
+</ol>
+<p>Cada kilómetro recorrido por estos 19 vehículos es un paso hacia un FSD que entienda cómo se conduce en España: las rotondas, la señalización, el comportamiento de otros conductores.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="implicaciones-para-el-lanzamiento-en-españa">Implicaciones para el lanzamiento en España<a href="https://pepetox.github.io/fsd_spain_blog_page/madrid-zona-cero-pruebas-fsd-dgt#implicaciones-para-el-lanzamiento-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Implicaciones para el lanzamiento en España" title="Enlace directo al Implicaciones para el lanzamiento en España" translate="no">​</a></h2>
+<p>La existencia de este programa de pruebas es la señal más concreta de que Tesla está comprometida con el mercado europeo. Pero, ¿qué significa para las fechas?</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-positivo">Lo positivo<a href="https://pepetox.github.io/fsd_spain_blog_page/madrid-zona-cero-pruebas-fsd-dgt#lo-positivo" class="hash-link" aria-label="Enlace directo al Lo positivo" title="Enlace directo al Lo positivo" translate="no">​</a></h3>
+<ul>
+<li class="">Tesla está invirtiendo recursos significativos en España</li>
+<li class="">La DGT es un regulador relativamente progresista</li>
+<li class="">Los datos recogidos acelerarán el desarrollo de la "Euro-Net"</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-aún-falta">Lo que aún falta<a href="https://pepetox.github.io/fsd_spain_blog_page/madrid-zona-cero-pruebas-fsd-dgt#lo-que-a%C3%BAn-falta" class="hash-link" aria-label="Enlace directo al Lo que aún falta" title="Enlace directo al Lo que aún falta" translate="no">​</a></h3>
+<ul>
+<li class="">Completar las pruebas con resultados satisfactorios</li>
+<li class="">Obtener homologación del sistema bajo DCAS o equivalente</li>
+<li class="">Resolver la fragmentación regulatoria europea (cada país puede imponer requisitos adicionales)</li>
+</ul>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>Perspectiva realista</div><div class="admonitionContent_BuS1"><p>Las pruebas en Madrid son necesarias pero no suficientes para el lanzamiento del FSD. Son un paso en un proceso que incluye validación técnica, aprobación regulatoria, y despliegue comercial. Cada fase puede durar meses.</p></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="cómo-identificar-un-tesla-de-prueba">Cómo identificar un Tesla de prueba<a href="https://pepetox.github.io/fsd_spain_blog_page/madrid-zona-cero-pruebas-fsd-dgt#c%C3%B3mo-identificar-un-tesla-de-prueba" class="hash-link" aria-label="Enlace directo al Cómo identificar un Tesla de prueba" title="Enlace directo al Cómo identificar un Tesla de prueba" translate="no">​</a></h2>
+<p>Si paseas por Madrid, podrías cruzarte con uno de estos vehículos. Características a buscar:</p>
+<ol>
+<li class=""><strong>Pegatinas/distintivos</strong>: Vehículos de prueba suelen llevar identificación</li>
+<li class=""><strong>Personal a bordo</strong>: Al menos dos personas (conductor de seguridad + ingeniero)</li>
+<li class=""><strong>Equipamiento adicional</strong>: Posibles cámaras externas o antenas</li>
+<li class=""><strong>Comportamiento</strong>: Conducción más "experimental", posibles paradas técnicas</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="comparación-con-otras-pruebas-en-europa">Comparación con otras pruebas en Europa<a href="https://pepetox.github.io/fsd_spain_blog_page/madrid-zona-cero-pruebas-fsd-dgt#comparaci%C3%B3n-con-otras-pruebas-en-europa" class="hash-link" aria-label="Enlace directo al Comparación con otras pruebas en Europa" title="Enlace directo al Comparación con otras pruebas en Europa" translate="no">​</a></h2>
+<p>España no está sola. Tesla también está probando en otros países europeos:</p>
+<table><thead><tr><th>País</th><th>Estado de pruebas</th><th>Particularidades</th></tr></thead><tbody><tr><td><strong>España</strong></td><td>Activo (19 vehículos)</td><td>Foco en Madrid, marco ES-AV</td></tr><tr><td><strong>Países Bajos</strong></td><td>Activo</td><td>RDW como regulador clave</td></tr><tr><td><strong>Alemania</strong></td><td>Limitado</td><td>Autobahn, regulación estricta</td></tr><tr><td><strong>Reino Unido</strong></td><td>Activo</td><td>Post-Brexit, regulación propia</td></tr><tr><td><strong>Francia</strong></td><td>Inicial</td><td>Pruebas en autopistas</td></tr></tbody></table>
+<p>España destaca por su <strong>volumen de pruebas</strong> y la <strong>apertura del regulador</strong>. Podríamos estar ante un caso donde España sea uno de los primeros países europeos en recibir el FSD completo.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-dicen-los-expertos">Lo que dicen los expertos<a href="https://pepetox.github.io/fsd_spain_blog_page/madrid-zona-cero-pruebas-fsd-dgt#lo-que-dicen-los-expertos" class="hash-link" aria-label="Enlace directo al Lo que dicen los expertos" title="Enlace directo al Lo que dicen los expertos" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="analistas-del-sector">Analistas del sector<a href="https://pepetox.github.io/fsd_spain_blog_page/madrid-zona-cero-pruebas-fsd-dgt#analistas-del-sector" class="hash-link" aria-label="Enlace directo al Analistas del sector" title="Enlace directo al Analistas del sector" translate="no">​</a></h3>
+<blockquote>
+<p>"Las pruebas de Tesla en España son la señal más clara de que Europa no ha sido abandonada. La pregunta no es si el FSD llegará, sino cuándo."</p>
+</blockquote>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="comunidad-de-usuarios">Comunidad de usuarios<a href="https://pepetox.github.io/fsd_spain_blog_page/madrid-zona-cero-pruebas-fsd-dgt#comunidad-de-usuarios" class="hash-link" aria-label="Enlace directo al Comunidad de usuarios" title="Enlace directo al Comunidad de usuarios" translate="no">​</a></h3>
+<blockquote>
+<p>"Ver esos vídeos de Madrid me da esperanza. El coche puede hacerlo, solo falta que nos dejen usarlo."</p>
+</blockquote>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="reguladores-off-the-record">Reguladores (off the record)<a href="https://pepetox.github.io/fsd_spain_blog_page/madrid-zona-cero-pruebas-fsd-dgt#reguladores-off-the-record" class="hash-link" aria-label="Enlace directo al Reguladores (off the record)" title="Enlace directo al Reguladores (off the record)" translate="no">​</a></h3>
+<blockquote>
+<p>"Tesla está demostrando que su sistema puede funcionar en condiciones europeas. Ahora tienen que demostrarlo con datos estadísticamente significativos."</p>
+</blockquote>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://pepetox.github.io/fsd_spain_blog_page/madrid-zona-cero-pruebas-fsd-dgt#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
+<p>Madrid se ha convertido en el campo de pruebas más activo de Tesla en Europa continental. Los 19 vehículos que navegan nuestras calles son pioneros de una tecnología que pronto podría estar disponible para todos los propietarios españoles.</p>
+<p>Las pruebas son prometedoras, el regulador es cooperativo, y los datos están fluyendo. Pero la prudencia es necesaria: las pruebas exitosas no garantizan lanzamiento inmediato. El proceso regulatorio europeo tiene su propio ritmo.</p>
+<p>Para la comunidad española de Tesla, estos vehículos son embajadores de un futuro que, por primera vez, parece tangible. No sabemos exactamente cuándo llegará el FSD completo a España, pero sabemos que Tesla está trabajando activamente para que ocurra.</p>
+<p>La Castellana, la M-30, las rotondas madrileñas... están siendo el campo de entrenamiento de la inteligencia artificial que, algún día, conducirá nuestros coches.</p>
+<hr>
+<p><em>¿Has visto alguno de estos vehículos de prueba en Madrid? ¿Conoces otras ubicaciones donde estén probando? Comparte tu avistamiento.</em></p>]]></content>
+        <author>
+            <name>FSD Spain</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="españa" term="españa"/>
+        <category label="madrid" term="madrid"/>
+        <category label="dgt" term="dgt"/>
+        <category label="pruebas" term="pruebas"/>
+        <category label="regulación" term="regulación"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FSD v13 a Prueba: Aparcando solo y navegando garajes (Park-to-Park)]]></title>
+        <id>https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon</id>
+        <link href="https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon"/>
+        <updated>2025-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Análisis de las nuevas capacidades del FSD v13, incluyendo el Park-to-Park y el Actually Smart Summon. ¿Es esta la killer app del FSD?]]></summary>
+        <content type="html"><![CDATA[<p>La versión 13 del Full Self-Driving representa un salto cualitativo en las capacidades de los Tesla. Entre las novedades más impresionantes está el <strong>Park-to-Park (P2P)</strong>: la capacidad del vehículo de conducir de forma completamente autónoma desde tu plaza de garaje hasta encontrar aparcamiento en el destino. Analizamos qué puede hacer realmente la v13 y cómo se comporta en hardware HW3 vs HW4.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-es-el-park-to-park">¿Qué es el Park-to-Park?<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon#qu%C3%A9-es-el-park-to-park" class="hash-link" aria-label="Enlace directo al ¿Qué es el Park-to-Park?" title="Enlace directo al ¿Qué es el Park-to-Park?" translate="no">​</a></h2>
+<p>El Park-to-Park es exactamente lo que suena: el coche te lleva desde donde está aparcado hasta donde quieres ir, y aparca solo al llegar. El flujo completo es:</p>
+<ol>
+<li class=""><strong>Inicio en parking</strong>: El coche arranca desde la plaza</li>
+<li class=""><strong>Navegación hasta la salida</strong>: Sale del garaje/parking</li>
+<li class=""><strong>Conducción urbana/autopista</strong>: Navega hasta el destino</li>
+<li class=""><strong>Búsqueda de aparcamiento</strong>: Localiza una plaza</li>
+<li class=""><strong>Maniobra de aparcamiento</strong>: Aparca en la plaza seleccionada</li>
+</ol>
+<p>Todo esto sin que el conductor toque el volante ni los pedales (aunque debe estar atento y supervisar).</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-clave-cambio-de-marcha-autónomo">La clave: cambio de marcha autónomo<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon#la-clave-cambio-de-marcha-aut%C3%B3nomo" class="hash-link" aria-label="Enlace directo al La clave: cambio de marcha autónomo" title="Enlace directo al La clave: cambio de marcha autónomo" translate="no">​</a></h3>
+<p>Una de las capacidades críticas de la v13 es el <strong>cambio de marcha D/R (Drive/Reverse) autónomo</strong>. El coche puede:</p>
+<ul>
+<li class="">Entrar en plazas estrechas haciendo maniobras</li>
+<li class="">Corregir su posición con movimientos adelante-atrás</li>
+<li class="">Navegar rampas de parking con cambios de nivel</li>
+</ul>
+<p>Esto era impensable en versiones anteriores, donde el coche se quedaba "atascado" si necesitaba dar marcha atrás.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="actually-smart-summon-ass">Actually Smart Summon (ASS)<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon#actually-smart-summon-ass" class="hash-link" aria-label="Enlace directo al Actually Smart Summon (ASS)" title="Enlace directo al Actually Smart Summon (ASS)" translate="no">​</a></h2>
+<p>El Smart Summon original fue un desastre en Europa: limitado a 6 metros con línea de visión directa. La v13 introduce el <strong>Actually Smart Summon</strong> (ASS, sí, ese es el acrónimo real), que en mercados donde está activo ofrece:</p>
+<table><thead><tr><th>Característica</th><th>Smart Summon Antiguo</th><th>Actually Smart Summon (v13)</th></tr></thead><tbody><tr><td>Distancia máxima</td><td>~60m (6m Europa)</td><td>Sin límite práctico</td></tr><tr><td>Línea de visión</td><td>Requerida (Europa)</td><td>No requerida</td></tr><tr><td>Navegación parking</td><td>Básica</td><td>Avanzada con rutas</td></tr><tr><td>Velocidad</td><td>Muy lenta</td><td>Velocidad de parking normal</td></tr><tr><td>Confiabilidad</td><td>Errática</td><td>Significativamente mejor</td></tr></tbody></table>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-problema-europeo">El problema europeo<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon#el-problema-europeo" class="hash-link" aria-label="Enlace directo al El problema europeo" title="Enlace directo al El problema europeo" translate="no">​</a></h3>
+<p>Por desgracia, el ASS sigue sin estar disponible en Europa. Las restricciones de la UNECE hacen que incluso esta versión mejorada esté bloqueada para los usuarios europeos. Es otra función por la que los propietarios han pagado pero no pueden usar.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="rendimiento-en-hw3-vs-hw4">Rendimiento en HW3 vs HW4<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon#rendimiento-en-hw3-vs-hw4" class="hash-link" aria-label="Enlace directo al Rendimiento en HW3 vs HW4" title="Enlace directo al Rendimiento en HW3 vs HW4" translate="no">​</a></h2>
+<p>Las pruebas de usuarios revelan una brecha significativa en la experiencia según el hardware:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="en-hardware-4-ai4">En Hardware 4 (AI4)<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon#en-hardware-4-ai4" class="hash-link" aria-label="Enlace directo al En Hardware 4 (AI4)" title="Enlace directo al En Hardware 4 (AI4)" translate="no">​</a></h3>
+<p>El Park-to-Park funciona de forma fluida:</p>
+<ul>
+<li class="">Decisiones rápidas y seguras</li>
+<li class="">Maniobras de aparcamiento precisas</li>
+<li class="">Navegación en parkings sin dudas</li>
+<li class="">ASS (donde está disponible) es fiable</li>
+</ul>
+<p>Los usuarios reportan que "parece magia" ver el coche salir solo del garaje, conducir hasta el supermercado, y aparcar mientras ellos supervisan desde el asiento del conductor.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="en-hardware-3">En Hardware 3<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon#en-hardware-3" class="hash-link" aria-label="Enlace directo al En Hardware 3" title="Enlace directo al En Hardware 3" translate="no">​</a></h3>
+<p>La experiencia es más... mezclada:</p>
+<blockquote>
+<p>"Funciona, pero le cuesta. En el parking de mi trabajo hay columnas y el coche se queda pensando demasiado antes de maniobrar."</p>
+</blockquote>
+<blockquote>
+<p>"El ASS en mi HW3 es lento y a veces se confunde con carritos de la compra. En vídeos de HW4 parece mucho más seguro."</p>
+</blockquote>
+<blockquote>
+<p>"El Park-to-Park completó la ruta, pero se tomó el doble de tiempo que conduciéndolo yo."</p>
+</blockquote>
+<p>Las limitaciones del procesador y las cámaras de menor resolución del HW3 se hacen evidentes en estas maniobras de precisión en espacios reducidos.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="las-mejoras-técnicas-de-la-v13">Las mejoras técnicas de la v13<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon#las-mejoras-t%C3%A9cnicas-de-la-v13" class="hash-link" aria-label="Enlace directo al Las mejoras técnicas de la v13" title="Enlace directo al Las mejoras técnicas de la v13" translate="no">​</a></h2>
+<p>Más allá del Park-to-Park, la v13 introduce mejoras arquitectónicas significativas:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="simplificación-del-pipeline">Simplificación del pipeline<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon#simplificaci%C3%B3n-del-pipeline" class="hash-link" aria-label="Enlace directo al Simplificación del pipeline" title="Enlace directo al Simplificación del pipeline" translate="no">​</a></h3>
+<p>Los ingenieros de Tesla han descrito la v13 como una "reescritura" comparable a la evolución de los motores Raptor de SpaceX: eliminación de complejidad innecesaria para lograr mayor velocidad y fiabilidad.</p>
+<p>Esto se traduce en:</p>
+<ul>
+<li class=""><strong>Menos latencia</strong>: Decisiones más rápidas</li>
+<li class=""><strong>Mayor coherencia</strong>: Menos comportamientos erráticos</li>
+<li class=""><strong>Mejor uso de recursos</strong>: Más funcionalidad en el mismo hardware</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="conducción-más-humana">Conducción más "humana"<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon#conducci%C3%B3n-m%C3%A1s-humana" class="hash-link" aria-label="Enlace directo al Conducción más &quot;humana&quot;" title="Enlace directo al Conducción más &quot;humana&quot;" translate="no">​</a></h3>
+<p>Los usuarios reportan que la v13 conduce de forma más natural:</p>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="creeping-en-intersecciones">"Creeping" en intersecciones<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon#creeping-en-intersecciones" class="hash-link" aria-label="Enlace directo al &quot;Creeping&quot; en intersecciones" title="Enlace directo al &quot;Creeping&quot; en intersecciones" translate="no">​</a></h4>
+<p>El coche avanza lentamente en intersecciones con visibilidad limitada, exactamente como haría un conductor humano experimentado, para ver mejor antes de comprometerse con la maniobra.</p>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="negociación-de-espacios">Negociación de espacios<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon#negociaci%C3%B3n-de-espacios" class="hash-link" aria-label="Enlace directo al Negociación de espacios" title="Enlace directo al Negociación de espacios" translate="no">​</a></h4>
+<p>En calles estrechas con coches aparcados en ambos lados, el coche ahora "negocia" el espacio con otros vehículos de forma más fluida, cediendo o avanzando según el contexto.</p>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="anticipación">Anticipación<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon#anticipaci%C3%B3n" class="hash-link" aria-label="Enlace directo al Anticipación" title="Enlace directo al Anticipación" translate="no">​</a></h4>
+<p>El sistema parece predecir mejor las intenciones de otros usuarios de la vía, preparándose para maniobras antes de que ocurran.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="es-el-park-to-park-la-killer-app-del-fsd">¿Es el Park-to-Park la "killer app" del FSD?<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon#es-el-park-to-park-la-killer-app-del-fsd" class="hash-link" aria-label="Enlace directo al ¿Es el Park-to-Park la &quot;killer app&quot; del FSD?" title="Enlace directo al ¿Es el Park-to-Park la &quot;killer app&quot; del FSD?" translate="no">​</a></h2>
+<p>Este es un debate activo en la comunidad Tesla. Argumentos a favor:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-favor">A favor<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon#a-favor" class="hash-link" aria-label="Enlace directo al A favor" title="Enlace directo al A favor" translate="no">​</a></h3>
+<ul>
+<li class="">Es <strong>visualmente impresionante</strong>: Ver tu coche conducirse solo es futurista</li>
+<li class=""><strong>Utilidad real</strong>: No buscar aparcamiento ahorra tiempo y frustración</li>
+<li class=""><strong>Demostración de capacidad</strong>: Prueba que el sistema puede manejar situaciones complejas</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="en-contra">En contra<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon#en-contra" class="hash-link" aria-label="Enlace directo al En contra" title="Enlace directo al En contra" translate="no">​</a></h3>
+<ul>
+<li class=""><strong>Todavía requiere supervisión</strong>: No puedes bajarte y mandar el coche a aparcar</li>
+<li class=""><strong>Valor limitado</strong>: En el tiempo que configuras el sistema, podrías haber aparcado tú</li>
+<li class=""><strong>No disponible en Europa</strong>: Para el mercado español, es irrelevante por ahora</li>
+</ul>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>La perspectiva pragmática</div><div class="admonitionContent_BuS1"><p>El Park-to-Park es más una demostración tecnológica que una función práctica en su estado actual. Su valor real vendrá cuando puedas salir del coche y enviarlo a aparcar solo, algo que requiere regulación que no existe.</p></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="estado-actual-en-españa">Estado actual en España<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon#estado-actual-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Estado actual en España" title="Enlace directo al Estado actual en España" translate="no">​</a></h2>
+<p>Para los propietarios españoles, la situación de la v13 es frustrante:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-tenemos">Lo que tenemos<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon#lo-que-tenemos" class="hash-link" aria-label="Enlace directo al Lo que tenemos" title="Enlace directo al Lo que tenemos" translate="no">​</a></h3>
+<ul>
+<li class="">Autopilot con las limitaciones R79 de siempre</li>
+<li class="">Actualizaciones de software que mejoran el Autopilot básico</li>
+<li class="">Interfaz y visualización mejoradas</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-no-tenemos">Lo que no tenemos<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon#lo-que-no-tenemos" class="hash-link" aria-label="Enlace directo al Lo que no tenemos" title="Enlace directo al Lo que no tenemos" translate="no">​</a></h3>
+<ul>
+<li class="">FSD Beta / FSD Supervisado</li>
+<li class="">Park-to-Park</li>
+<li class="">Actually Smart Summon</li>
+<li class="">Conducción urbana autónoma</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-podríamos-tener-pronto">Lo que podríamos tener pronto<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon#lo-que-podr%C3%ADamos-tener-pronto" class="hash-link" aria-label="Enlace directo al Lo que podríamos tener pronto" title="Enlace directo al Lo que podríamos tener pronto" translate="no">​</a></h3>
+<p>Las pruebas de la DGT en Madrid sugieren que Tesla está trabajando activamente en traer estas funciones. Pero "pronto" en términos regulatorios europeos puede significar años, no meses.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://pepetox.github.io/fsd_spain_blog_page/fsd-v13-park-to-park-smart-summon#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
+<p>La v13 del FSD representa el estado del arte en conducción autónoma de consumo. Funciones como el Park-to-Park demuestran que la tecnología está madurando rápidamente, especialmente en hardware HW4.</p>
+<p>Sin embargo, para el mercado español y europeo, estas capacidades siguen siendo vídeos de YouTube, no experiencias reales. La brecha entre lo que la tecnología puede hacer y lo que la regulación permite sigue siendo el factor limitante.</p>
+<p>Para los propietarios españoles, la v13 es una promesa de lo que vendrá. Las pruebas en Madrid son señales positivas, pero la paciencia sigue siendo la virtud más necesaria. Mientras tanto, los propietarios estadounidenses disfrutan de funciones por las que todos hemos pagado pero solo algunos pueden usar.</p>
+<hr>
+<p><em>¿Has visto vídeos del Park-to-Park o ASS? ¿Qué función te gustaría más tener disponible en España? Cuéntanos en los comentarios.</em></p>]]></content>
+        <author>
+            <name>FSD Spain</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="v13" term="v13"/>
+        <category label="park-to-park" term="park-to-park"/>
+        <category label="smart-summon" term="smart-summon"/>
+        <category label="tecnología" term="tecnología"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI5 y el Espejismo del Robotaxi: ¿Llegará el Cybercab a tiempo?]]></title>
+        <id>https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027</id>
+        <link href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027"/>
+        <updated>2025-02-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Análisis del retraso del chip AI5 hasta 2027 y sus implicaciones para el Cybercab y la estrategia de robotaxis de Tesla.]]></summary>
+        <content type="html"><![CDATA[<p>Tesla ha prometido un futuro donde flotas de robotaxis sin volante ni pedales generarán ingresos pasivos para sus propietarios. El vehículo destinado a materializar esta visión es el <strong>Cybercab</strong>. Pero un anuncio reciente ha sembrado dudas serias: el chip AI5, clave para la autonomía total, no estará disponible hasta <strong>mediados de 2027</strong>. ¿Qué significa esto para el futuro de Tesla y para las expectativas de sus inversores y entusiastas?</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-promesa-del-cybercab">La promesa del Cybercab<a href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027#la-promesa-del-cybercab" class="hash-link" aria-label="Enlace directo al La promesa del Cybercab" title="Enlace directo al La promesa del Cybercab" translate="no">​</a></h2>
+<p>En octubre de 2024, Tesla presentó el Cybercab: un vehículo biplaza diseñado específicamente para operar como robotaxi. Sus características definitorias:</p>
+<ul>
+<li class=""><strong>Sin volante ni pedales</strong>: Diseñado para autonomía total</li>
+<li class=""><strong>Biplaza</strong>: Optimizado para eficiencia, no para familias</li>
+<li class=""><strong>Puertas de ala de gaviota</strong>: Diseño futurista distintivo</li>
+<li class=""><strong>Coste objetivo</strong>: $30.000 o menos</li>
+<li class=""><strong>Fecha anunciada</strong>: Producción en 2026</li>
+</ul>
+<p>La visión era clara: millones de Cybercabs operando 24/7, generando ingresos para Tesla y sus propietarios mientras revolucionan el transporte urbano.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-problema-del-ai5">El problema del AI5<a href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027#el-problema-del-ai5" class="hash-link" aria-label="Enlace directo al El problema del AI5" title="Enlace directo al El problema del AI5" translate="no">​</a></h2>
+<p>Aquí es donde la realidad choca con la visión. Elon Musk ha confirmado que el chip <strong>AI5</strong>, la siguiente generación del ordenador de conducción autónoma de Tesla, <strong>no estará disponible en volumen hasta mediados de 2027</strong>.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-importa-esto">¿Por qué importa esto?<a href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027#por-qu%C3%A9-importa-esto" class="hash-link" aria-label="Enlace directo al ¿Por qué importa esto?" title="Enlace directo al ¿Por qué importa esto?" translate="no">​</a></h3>
+<p>El AI5 representa un salto generacional respecto al AI4 (HW4):</p>
+<table><thead><tr><th>Característica</th><th>AI4 (Actual)</th><th>AI5 (2027)</th></tr></thead><tbody><tr><td>Potencia procesamiento</td><td>~150-300 TOPS</td><td>Estimado 500+ TOPS</td></tr><tr><td>Eficiencia energética</td><td>Buena</td><td>Significativamente mejor</td></tr><tr><td>Redundancia</td><td>Limitada</td><td>Diseñado para autonomía total</td></tr><tr><td>Certificación seguridad</td><td>Nivel 2+</td><td>Potencial Nivel 4</td></tr></tbody></table>
+<p>El AI5 está siendo diseñado específicamente para <strong>autonomía sin supervisión humana</strong>. Incluirá redundancias de seguridad y capacidad de procesamiento necesarias para que un regulador apruebe un vehículo sin controles manuales.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-dilema-del-cybercab-con-ai4">El dilema del Cybercab con AI4<a href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027#el-dilema-del-cybercab-con-ai4" class="hash-link" aria-label="Enlace directo al El dilema del Cybercab con AI4" title="Enlace directo al El dilema del Cybercab con AI4" translate="no">​</a></h2>
+<p>Si Tesla quiere lanzar el Cybercab en 2026 como prometió, tendrá que hacerlo con hardware AI4. Esto crea un problema fundamental:</p>
+<div class="theme-admonition theme-admonition-danger admonition_xJq3 alert alert--danger"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M5.05.31c.81 2.17.41 3.38-.52 4.31C3.55 5.67 1.98 6.45.9 7.98c-1.45 2.05-1.7 6.53 3.53 7.7-2.2-1.16-2.67-4.52-.3-6.61-.61 2.03.53 3.33 1.94 2.86 1.39-.47 2.3.53 2.27 1.67-.02.78-.31 1.44-1.13 1.81 3.42-.59 4.78-3.42 4.78-5.56 0-2.84-2.53-3.22-1.25-5.61-1.52.13-2.03 1.13-1.89 2.75.09 1.08-1.02 1.8-1.86 1.33-.67-.41-.66-1.19-.06-1.78C8.18 5.31 8.68 2.45 5.05.32L5.03.3l.02.01z"></path></svg></span>El conflicto central</div><div class="admonitionContent_BuS1"><p>¿Cómo lanzas un coche <strong>sin volante</strong> con un chip que todavía <strong>requiere supervisión humana</strong> para funcionar de forma segura?</p></div></div>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="las-opciones-de-tesla">Las opciones de Tesla<a href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027#las-opciones-de-tesla" class="hash-link" aria-label="Enlace directo al Las opciones de Tesla" title="Enlace directo al Las opciones de Tesla" translate="no">​</a></h3>
+<p><strong>Opción 1: Lanzar con AI4 y aceptar las limitaciones</strong></p>
+<ul>
+<li class="">Operación solo en geofencing estricto (rutas predefinidas)</li>
+<li class="">Velocidades muy limitadas</li>
+<li class="">Solo en condiciones ideales (sin lluvia, noche, etc.)</li>
+<li class="">Supervisión remota constante por operadores humanos</li>
+</ul>
+<p><strong>Opción 2: Incluir controles tradicionales</strong></p>
+<ul>
+<li class="">Añadir volante y pedales "por si acaso"</li>
+<li class="">Contradice toda la propuesta de diseño</li>
+<li class="">Admite implícitamente que la autonomía no está lista</li>
+</ul>
+<p><strong>Opción 3: Retrasar hasta AI5</strong></p>
+<ul>
+<li class="">Fecha de lanzamiento: 2028 o posterior</li>
+<li class="">Rompe promesas a inversores</li>
+<li class="">Permite un producto verdaderamente autónomo</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-dicen-los-analistas">Lo que dicen los analistas<a href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027#lo-que-dicen-los-analistas" class="hash-link" aria-label="Enlace directo al Lo que dicen los analistas" title="Enlace directo al Lo que dicen los analistas" translate="no">​</a></h3>
+<p>La reacción del mercado y la industria ha sido de escepticismo medido:</p>
+<blockquote>
+<p>"Lanzar un vehículo sin controles manuales con hardware que aún requiere supervisión es, en el mejor de los casos, prematuro y, en el peor, irresponsable."</p>
+</blockquote>
+<blockquote>
+<p>"Tesla puede lanzar el Cybercab en 2026, pero probablemente no será el robotaxi revolucionario que prometieron. Será un vehículo con limitaciones severas."</p>
+</blockquote>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="implicaciones-para-los-propietarios-actuales">Implicaciones para los propietarios actuales<a href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027#implicaciones-para-los-propietarios-actuales" class="hash-link" aria-label="Enlace directo al Implicaciones para los propietarios actuales" title="Enlace directo al Implicaciones para los propietarios actuales" translate="no">​</a></h2>
+<p>Si Tesla no puede lograr autonomía total ni siquiera con un vehículo <strong>diseñado específicamente para ello</strong> hasta 2027-2028, ¿qué significa para los Model 3 y Model Y actuales?</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-programa-taxi-de-tu-tesla">El programa "Taxi de tu Tesla"<a href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027#el-programa-taxi-de-tu-tesla" class="hash-link" aria-label="Enlace directo al El programa &quot;Taxi de tu Tesla&quot;" title="Enlace directo al El programa &quot;Taxi de tu Tesla&quot;" translate="no">​</a></h3>
+<p>Tesla ha prometido que los propietarios actuales podrán añadir sus coches a una red de robotaxis y generar ingresos pasivos. Este programa depende de:</p>
+<ol>
+<li class=""><strong>Aprobación regulatoria</strong> para operación sin conductor</li>
+<li class=""><strong>Software capaz</strong> de autonomía no supervisada</li>
+<li class=""><strong>Hardware suficiente</strong> (¿HW3? ¿HW4?)</li>
+</ol>
+<p>Con el retraso del AI5, la línea temporal para que un Model 3 con HW4 pueda operar como robotaxi sin conductor parece alejarse más allá de 2027.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-competencia-no-espera">La competencia no espera<a href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027#la-competencia-no-espera" class="hash-link" aria-label="Enlace directo al La competencia no espera" title="Enlace directo al La competencia no espera" translate="no">​</a></h2>
+<p>Mientras Tesla retrasa su hardware, la competencia avanza:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="waymo">Waymo<a href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027#waymo" class="hash-link" aria-label="Enlace directo al Waymo" title="Enlace directo al Waymo" translate="no">​</a></h3>
+<ul>
+<li class="">Ya opera robotaxis comerciales en San Francisco y Phoenix</li>
+<li class="">Sin conductor humano en el vehículo</li>
+<li class="">Miles de viajes diarios reales</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="cruise-gm">Cruise (GM)<a href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027#cruise-gm" class="hash-link" aria-label="Enlace directo al Cruise (GM)" title="Enlace directo al Cruise (GM)" translate="no">​</a></h3>
+<ul>
+<li class="">Pausado tras incidentes en 2023</li>
+<li class="">Retomando operaciones con precaución</li>
+<li class="">Hardware específico para autonomía</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="zoox-amazon">Zoox (Amazon)<a href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027#zoox-amazon" class="hash-link" aria-label="Enlace directo al Zoox (Amazon)" title="Enlace directo al Zoox (Amazon)" translate="no">​</a></h3>
+<ul>
+<li class="">Vehículo diseñado desde cero para autonomía</li>
+<li class="">Pruebas avanzadas en varias ciudades</li>
+<li class="">Sin fecha de lanzamiento comercial confirmada</li>
+</ul>
+<p>La diferencia clave: estos competidores usan <strong>LIDAR</strong> y hardware redundante diseñado específicamente para autonomía desde el día 1, mientras Tesla insiste en su enfoque "solo cámaras" que requiere hardware de IA mucho más potente para compensar.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-perspectiva-europea">La perspectiva europea<a href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027#la-perspectiva-europea" class="hash-link" aria-label="Enlace directo al La perspectiva europea" title="Enlace directo al La perspectiva europea" translate="no">​</a></h2>
+<p>Para España y Europa, el retraso del AI5 tiene implicaciones adicionales:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="regulación-más-estricta">Regulación más estricta<a href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027#regulaci%C3%B3n-m%C3%A1s-estricta" class="hash-link" aria-label="Enlace directo al Regulación más estricta" title="Enlace directo al Regulación más estricta" translate="no">​</a></h3>
+<p>Europa probablemente requerirá hardware certificado para autonomía Nivel 4 antes de permitir vehículos sin controles. El AI4 no está diseñado para esa certificación.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="línea-temporal-realista">Línea temporal realista<a href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027#l%C3%ADnea-temporal-realista" class="hash-link" aria-label="Enlace directo al Línea temporal realista" title="Enlace directo al Línea temporal realista" translate="no">​</a></h3>
+<p>Si el AI5 llega en 2027 y requiere 1-2 años de validación regulatoria en Europa, estamos hablando de <strong>2029-2030</strong> para robotaxis en España.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="escepticismo-institucional">Escepticismo institucional<a href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027#escepticismo-institucional" class="hash-link" aria-label="Enlace directo al Escepticismo institucional" title="Enlace directo al Escepticismo institucional" translate="no">​</a></h3>
+<p>El retraso alimenta el escepticismo de los reguladores europeos, que ya desconfían de las promesas de Tesla sobre fechas.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-sabemos-del-ai5">¿Qué sabemos del AI5?<a href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027#qu%C3%A9-sabemos-del-ai5" class="hash-link" aria-label="Enlace directo al ¿Qué sabemos del AI5?" title="Enlace directo al ¿Qué sabemos del AI5?" translate="no">​</a></h2>
+<p>Aunque los detalles son limitados, se conoce que:</p>
+<ul>
+<li class=""><strong>Arquitectura</strong>: Diseño completamente nuevo, no evolución de AI4</li>
+<li class=""><strong>Fabricación</strong>: Probablemente proceso de 5nm o inferior</li>
+<li class=""><strong>Redundancia</strong>: Sistemas duplicados para seguridad</li>
+<li class=""><strong>Eficiencia</strong>: Menor consumo, crucial para autonomía de batería</li>
+<li class=""><strong>Producción</strong>: Mediados de 2027 para volumen significativo</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="recomendaciones-para-inversores-y-entusiastas">Recomendaciones para inversores y entusiastas<a href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027#recomendaciones-para-inversores-y-entusiastas" class="hash-link" aria-label="Enlace directo al Recomendaciones para inversores y entusiastas" title="Enlace directo al Recomendaciones para inversores y entusiastas" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="si-eres-inversor-en-tesla">Si eres inversor en Tesla<a href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027#si-eres-inversor-en-tesla" class="hash-link" aria-label="Enlace directo al Si eres inversor en Tesla" title="Enlace directo al Si eres inversor en Tesla" translate="no">​</a></h3>
+<ul>
+<li class="">Ajusta expectativas sobre ingresos por robotaxi antes de 2028</li>
+<li class="">El Cybercab 2026 puede ser un producto de nicho, no una revolución</li>
+<li class="">La competencia con Waymo/Cruise es real</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="si-eres-propietario-esperando-el-tesla-taxi">Si eres propietario esperando el "Tesla taxi"<a href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027#si-eres-propietario-esperando-el-tesla-taxi" class="hash-link" aria-label="Enlace directo al Si eres propietario esperando el &quot;Tesla taxi&quot;" title="Enlace directo al Si eres propietario esperando el &quot;Tesla taxi&quot;" translate="no">​</a></h3>
+<ul>
+<li class="">No cuentes con ingresos pasivos de tu coche antes de 2028</li>
+<li class="">Tu HW3 probablemente nunca opere sin supervisión</li>
+<li class="">Tu HW4 podría necesitar actualización a AI5 (si Tesla lo ofrece)</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="si-estás-esperando-el-cybercab">Si estás esperando el Cybercab<a href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027#si-est%C3%A1s-esperando-el-cybercab" class="hash-link" aria-label="Enlace directo al Si estás esperando el Cybercab" title="Enlace directo al Si estás esperando el Cybercab" translate="no">​</a></h3>
+<ul>
+<li class="">El producto 2026 puede no ser el robotaxi prometido</li>
+<li class="">Espera a ver especificaciones y regulaciones reales</li>
+<li class="">La versión "completa" probablemente sea posterior a 2027</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://pepetox.github.io/fsd_spain_blog_page/ai5-cybercab-robotaxi-retraso-2027#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
+<p>El retraso del AI5 hasta 2027 es un recordatorio de que la autonomía vehicular total sigue siendo extraordinariamente difícil. Tesla, a pesar de tener la flota de datos más grande del mundo y un equipo de IA de primer nivel, sigue luchando con los mismos desafíos que sus competidores.</p>
+<p>El Cybercab puede llegar en 2026, pero probablemente no será el vehículo revolucionario que Musk presentó. Será un primer paso, limitado y geográficamente restringido, mientras Tesla espera el hardware que realmente necesita.</p>
+<p>Para Europa, esto significa que los robotaxis de Tesla son un horizonte lejano, medido en años, no meses. El FSD supervisado puede llegar antes, pero la promesa de subir a un Tesla sin conductor que te lleve a cualquier sitio sigue siendo ciencia ficción, al menos hasta finales de esta década.</p>
+<hr>
+<p><em>¿Crees que Tesla podrá cumplir sus promesas de robotaxi? ¿O Waymo y otros les adelantarán? Comparte tu opinión.</em></p>]]></content>
+        <author>
+            <name>FSD Spain</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="cybercab" term="cybercab"/>
+        <category label="robotaxi" term="robotaxi"/>
+        <category label="ai5" term="ai5"/>
+        <category label="hardware" term="hardware"/>
+        <category label="futuro" term="futuro"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[¿Está tu Tesla obsoleto? La Guerra Fría entre HW3 y HW4]]></title>
+        <id>https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia</id>
+        <link href="https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia"/>
+        <updated>2025-01-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Análisis técnico de las diferencias entre Hardware 3 y Hardware 4 de Tesla. ¿Podrá tu coche con HW3 ejecutar el FSD completo o quedará relegado?]]></summary>
+        <content type="html"><![CDATA[<p>Una de las preguntas más angustiantes para los propietarios de Tesla es si su coche quedará obsoleto. La flota está dividida entre vehículos con <strong>Hardware 3 (HW3)</strong>, producidos mayoritariamente hasta 2023, y los nuevos con <strong>Hardware 4 (AI4)</strong>. Las diferencias no son sutiles, y las implicaciones para el FSD son significativas.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-división-de-la-flota">La división de la flota<a href="https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia#la-divisi%C3%B3n-de-la-flota" class="hash-link" aria-label="Enlace directo al La división de la flota" title="Enlace directo al La división de la flota" translate="no">​</a></h2>
+<p>Si compraste tu Tesla antes de 2024, casi con certeza tienes Hardware 3. Si lo compraste recientemente, probablemente tienes Hardware 4 (también llamado AI4). Pero, ¿qué significa esto en la práctica?</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="cómo-saber-qué-hardware-tienes">Cómo saber qué hardware tienes<a href="https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia#c%C3%B3mo-saber-qu%C3%A9-hardware-tienes" class="hash-link" aria-label="Enlace directo al Cómo saber qué hardware tienes" title="Enlace directo al Cómo saber qué hardware tienes" translate="no">​</a></h3>
+<ol>
+<li class=""><strong>Fecha de fabricación</strong>: HW4 se empezó a instalar en 2023 (Model S/X) y 2024 (Model 3/Y)</li>
+<li class=""><strong>Aspecto de las cámaras</strong>: Las cámaras HW4 tienen una tonalidad roja visible en las lentes</li>
+<li class=""><strong>Menú del coche</strong>: Ajustes → Software → Información adicional del vehículo</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="especificaciones-técnicas-la-brecha-real">Especificaciones técnicas: La brecha real<a href="https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia#especificaciones-t%C3%A9cnicas-la-brecha-real" class="hash-link" aria-label="Enlace directo al Especificaciones técnicas: La brecha real" title="Enlace directo al Especificaciones técnicas: La brecha real" translate="no">​</a></h2>
+<p>Esta tabla muestra las diferencias fundamentales entre ambas generaciones:</p>
+<table><thead><tr><th>Característica</th><th>Hardware 3.0 (HW3)</th><th>Hardware 4.0 (AI4)</th></tr></thead><tbody><tr><td><strong>Procesador</strong></td><td>Samsung Exynos (14nm)</td><td>Samsung Exynos (7nm)</td></tr><tr><td><strong>Resolución cámaras</strong></td><td>1.2 Megapíxeles</td><td>5 Megapíxeles</td></tr><tr><td><strong>Fidelidad de color</strong></td><td>Sensores RCCB/RCCC</td><td>Sensores RGGB</td></tr><tr><td><strong>Potencia NPU</strong></td><td>~72 TOPS (estimado)</td><td>~150-300 TOPS (estimado)</td></tr><tr><td><strong>Memoria</strong></td><td>LPDDR4</td><td>GDDR6</td></tr><tr><td><strong>Ancho banda memoria</strong></td><td>Limitado</td><td>Significativamente mayor</td></tr></tbody></table>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-significan-estos-números">¿Qué significan estos números?<a href="https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia#qu%C3%A9-significan-estos-n%C3%BAmeros" class="hash-link" aria-label="Enlace directo al ¿Qué significan estos números?" title="Enlace directo al ¿Qué significan estos números?" translate="no">​</a></h3>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="resolución-de-cámaras-12mp-vs-5mp">Resolución de cámaras: 1.2MP vs 5MP<a href="https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia#resoluci%C3%B3n-de-c%C3%A1maras-12mp-vs-5mp" class="hash-link" aria-label="Enlace directo al Resolución de cámaras: 1.2MP vs 5MP" title="Enlace directo al Resolución de cámaras: 1.2MP vs 5MP" translate="no">​</a></h4>
+<p>Esta es quizás la diferencia más impactante. Con <strong>1.2 megapíxeles</strong>, las cámaras HW3 capturan imágenes con resolución similar a una webcam de 2005. Con <strong>5 megapíxeles</strong>, HW4 ve el mundo con una claridad 4 veces mayor.</p>
+<p>Implicaciones prácticas:</p>
+<ul>
+<li class=""><strong>Detección a distancia</strong>: HW4 puede identificar objetos mucho más lejos</li>
+<li class=""><strong>Señales de tráfico</strong>: Legibles a mayor distancia</li>
+<li class=""><strong>Peatones lejanos</strong>: Detectados antes, más tiempo de reacción</li>
+</ul>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="fidelidad-de-color-rccb-vs-rggb">Fidelidad de color: RCCB vs RGGB<a href="https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia#fidelidad-de-color-rccb-vs-rggb" class="hash-link" aria-label="Enlace directo al Fidelidad de color: RCCB vs RGGB" title="Enlace directo al Fidelidad de color: RCCB vs RGGB" translate="no">​</a></h4>
+<p>Los sensores HW3 usan un patrón de color RCCB (Rojo-Cyan-Cyan-Azul), optimizado para sensibilidad lumínica pero con reproducción de color imperfecta. HW4 usa el estándar RGGB (Rojo-Verde-Verde-Azul).</p>
+<p>Esto importa porque:</p>
+<ul>
+<li class="">Los <strong>semáforos</strong> se distinguen mejor (rojo vs ámbar vs verde)</li>
+<li class="">Las <strong>señales de tráfico</strong> con códigos de color son más claras</li>
+<li class="">Se mitiga el <strong>parpadeo de LEDs</strong> (luces de freno, intermitentes)</li>
+</ul>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="potencia-de-procesamiento-el-cuello-de-botella">Potencia de procesamiento: El cuello de botella<a href="https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia#potencia-de-procesamiento-el-cuello-de-botella" class="hash-link" aria-label="Enlace directo al Potencia de procesamiento: El cuello de botella" title="Enlace directo al Potencia de procesamiento: El cuello de botella" translate="no">​</a></h4>
+<p>El procesador HW3 fue revolucionario en 2019. En 2025, es el factor limitante. La red neuronal end-to-end de la v13 está diseñada para hardware moderno, y Tesla está usando técnicas de <strong>emulación</strong> y <strong>modelos simplificados</strong> para que funcione en HW3.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-experiencia-de-usuario-testimonios-reales">La experiencia de usuario: Testimonios reales<a href="https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia#la-experiencia-de-usuario-testimonios-reales" class="hash-link" aria-label="Enlace directo al La experiencia de usuario: Testimonios reales" title="Enlace directo al La experiencia de usuario: Testimonios reales" translate="no">​</a></h2>
+<p>Los foros y Reddit están llenos de comparaciones entre usuarios que han probado ambos sistemas. Los patrones son claros:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="experiencia-en-hw3">Experiencia en HW3<a href="https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia#experiencia-en-hw3" class="hash-link" aria-label="Enlace directo al Experiencia en HW3" title="Enlace directo al Experiencia en HW3" translate="no">​</a></h3>
+<blockquote>
+<p>"El coche piensa demasiado en los giros no protegidos. A veces espera tanto que los coches de atrás empiezan a pitarme."</p>
+</blockquote>
+<blockquote>
+<p>"Las frenadas fantasma han mejorado con las actualizaciones, pero siguen apareciendo, especialmente bajo puentes o con sombras fuertes."</p>
+</blockquote>
+<blockquote>
+<p>"En general funciona, pero noto que le cuesta más que a los vídeos que veo de HW4 en YouTube."</p>
+</blockquote>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="experiencia-en-hw4">Experiencia en HW4<a href="https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia#experiencia-en-hw4" class="hash-link" aria-label="Enlace directo al Experiencia en HW4" title="Enlace directo al Experiencia en HW4" translate="no">​</a></h3>
+<blockquote>
+<p>"La diferencia es de día y noche. El coche es más decisivo, más fluido."</p>
+</blockquote>
+<blockquote>
+<p>"Las cámaras ven muchísimo mejor. Puedo ver en la pantalla detalles que antes eran borrosos."</p>
+</blockquote>
+<blockquote>
+<p>"Prácticamente cero frenadas fantasma en mis 5.000 km con FSD."</p>
+</blockquote>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-problema-de-la-emulación">El problema de la "emulación"<a href="https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia#el-problema-de-la-emulaci%C3%B3n" class="hash-link" aria-label="Enlace directo al El problema de la &quot;emulación&quot;" title="Enlace directo al El problema de la &quot;emulación&quot;" translate="no">​</a></h2>
+<p>Tesla ha prometido que el HW3 será capaz de ejecutar el FSD completo. Sin embargo, la realidad técnica es compleja:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="modelos-simplificados">Modelos simplificados<a href="https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia#modelos-simplificados" class="hash-link" aria-label="Enlace directo al Modelos simplificados" title="Enlace directo al Modelos simplificados" translate="no">​</a></h3>
+<p>Para que el software v13 funcione en HW3, Tesla tiene que usar versiones <strong>comprimidas</strong> o <strong>destiladas</strong> de la red neuronal. Esto significa:</p>
+<ul>
+<li class="">Menos parámetros en el modelo</li>
+<li class="">Menor precisión en las predicciones</li>
+<li class="">Decisiones más lentas</li>
+<li class="">Potencialmente, menos capacidad en casos extremos</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="latencia">Latencia<a href="https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia#latencia" class="hash-link" aria-label="Enlace directo al Latencia" title="Enlace directo al Latencia" translate="no">​</a></h3>
+<p>El HW3 procesa la información más lentamente. En situaciones que requieren decisiones en milisegundos (un peatón apareciendo de repente, un coche frenando bruscamente), esta latencia puede ser crítica.</p>
+<div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>La pregunta incómoda</div><div class="admonitionContent_BuS1"><p>¿Podrá el HW3 alcanzar alguna vez la conducción autónoma no supervisada (sin conductor de seguridad)? La respuesta honesta es: <strong>probablemente no</strong>. Las limitaciones físicas del sensor y procesador son inherentes al hardware.</p></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="debería-preocuparme">¿Debería preocuparme?<a href="https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia#deber%C3%ADa-preocuparme" class="hash-link" aria-label="Enlace directo al ¿Debería preocuparme?" title="Enlace directo al ¿Debería preocuparme?" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="si-tienes-hw3">Si tienes HW3<a href="https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia#si-tienes-hw3" class="hash-link" aria-label="Enlace directo al Si tienes HW3" title="Enlace directo al Si tienes HW3" translate="no">​</a></h3>
+<p><strong>Realista</strong>: Tu coche probablemente ofrecerá un excelente sistema ADAS de Nivel 2, mejor que la mayoría de la competencia. Pero las capacidades más avanzadas del FSD (conducción urbana compleja, autonomía sin supervisión) pueden estar permanentemente fuera de alcance.</p>
+<p><strong>Optimista</strong>: Tesla podría ofrecer un programa de actualización de hardware, como hizo en el pasado de HW2.5 a HW3. Sin embargo, no hay confirmación oficial y sería una operación costosa.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="si-tienes-hw4">Si tienes HW4<a href="https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia#si-tienes-hw4" class="hash-link" aria-label="Enlace directo al Si tienes HW4" title="Enlace directo al Si tienes HW4" translate="no">​</a></h3>
+<p>Tu hardware está preparado para todo lo que viene en el futuro cercano. La cuestión es cuándo llegará el software y las autorizaciones regulatorias a Europa.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="si-estás-pensando-en-comprar">Si estás pensando en comprar<a href="https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia#si-est%C3%A1s-pensando-en-comprar" class="hash-link" aria-label="Enlace directo al Si estás pensando en comprar" title="Enlace directo al Si estás pensando en comprar" translate="no">​</a></h3>
+<p>En 2025, <strong>solo compra Tesla con HW4</strong>. La diferencia de precio es mínima y la diferencia de capacidades puede ser determinante en 3-5 años.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="cómo-identificar-visualmente-hw4">Cómo identificar visualmente HW4<a href="https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia#c%C3%B3mo-identificar-visualmente-hw4" class="hash-link" aria-label="Enlace directo al Cómo identificar visualmente HW4" title="Enlace directo al Cómo identificar visualmente HW4" translate="no">​</a></h2>
+<p>Además de las cámaras con tono rojo, hay otras pistas:</p>
+<ol>
+<li class=""><strong>Cámara frontal B-pillar</strong>: Ligeramente diferente forma</li>
+<li class=""><strong>Radar</strong>: Los HW4 más recientes pueden incluir radar (eliminado en 2021-2023)</li>
+<li class=""><strong>Número de cámaras</strong>: Algunos HW4 tienen cámaras adicionales en el parachoques</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-elefante-en-la-habitación-prometieron-que-hw3-sería-suficiente">El elefante en la habitación: Prometieron que HW3 sería suficiente<a href="https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia#el-elefante-en-la-habitaci%C3%B3n-prometieron-que-hw3-ser%C3%ADa-suficiente" class="hash-link" aria-label="Enlace directo al El elefante en la habitación: Prometieron que HW3 sería suficiente" title="Enlace directo al El elefante en la habitación: Prometieron que HW3 sería suficiente" translate="no">​</a></h2>
+<p>Cuando Tesla vendió el paquete FSD a propietarios de HW3, prometió que ese hardware sería capaz de conducción autónoma completa. Esta promesa está siendo cuestionada:</p>
+<ol>
+<li class=""><strong>Capacidad teórica vs práctica</strong>: El HW3 puede "ejecutar" el FSD, pero la calidad de la experiencia es inferior</li>
+<li class=""><strong>Autonomía sin supervisión</strong>: Parece inalcanzable con HW3</li>
+<li class=""><strong>Actualizaciones</strong>: Cada vez más optimizadas para HW4</li>
+</ol>
+<p>Esto plantea cuestiones legales y éticas sobre la publicidad del producto que podrían tener implicaciones en el futuro, especialmente en Europa donde la protección al consumidor es más estricta.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="tabla-resumen-de-capacidades">Tabla resumen de capacidades<a href="https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia#tabla-resumen-de-capacidades" class="hash-link" aria-label="Enlace directo al Tabla resumen de capacidades" title="Enlace directo al Tabla resumen de capacidades" translate="no">​</a></h2>
+<table><thead><tr><th>Función</th><th>HW3</th><th>HW4</th></tr></thead><tbody><tr><td>Autopilot básico</td><td>✅ Excelente</td><td>✅ Excelente</td></tr><tr><td>FSD Supervisado</td><td>⚠️ Funciona con limitaciones</td><td>✅ Experiencia completa</td></tr><tr><td>Actually Smart Summon</td><td>⚠️ Lento y dudoso</td><td>✅ Fluido</td></tr><tr><td>Park-to-Park</td><td>⚠️ Básico</td><td>✅ Completo</td></tr><tr><td>Autonomía no supervisada</td><td>❌ Improbable</td><td>🔮 Posible en el futuro</td></tr></tbody></table>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://pepetox.github.io/fsd_spain_blog_page/hw3-vs-hw4-tesla-obsolescencia#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
+<p>La fragmentación del hardware de Tesla es un problema real que afecta directamente al valor de tu inversión. Si tienes HW3, no estás "obsoleto" todavía, pero las limitaciones se harán más evidentes a medida que el software evolucione.</p>
+<p>Para nuevos compradores, HW4 es imprescindible. Para propietarios de HW3, la recomendación es disfrutar de las capacidades actuales sin crear expectativas excesivas sobre el futuro, y estar atentos a posibles programas de actualización que Tesla podría anunciar.</p>
+<p>La conducción autónoma es una promesa que depende tanto del software como del hardware. Y en el caso de HW3, el hardware puede ser el factor limitante definitivo.</p>
+<hr>
+<p><em>¿Tienes HW3 o HW4? ¿Has notado diferencias? ¿Crees que Tesla debería ofrecer actualizaciones de hardware? Cuéntanos tu experiencia.</em></p>]]></content>
+        <author>
+            <name>FSD Spain</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="hardware" term="hardware"/>
+        <category label="hw3" term="hw3"/>
+        <category label="hw4" term="hw4"/>
+        <category label="ai4" term="ai4"/>
+        <category label="tecnología" term="tecnología"/>
+        <category label="obsolescencia" term="obsolescencia"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De C++ a Neuronas: Entendiendo la Revolución End-to-End]]></title>
+        <id>https://pepetox.github.io/fsd_spain_blog_page/revolucion-end-to-end-fsd-v12-v13</id>
+        <link href="https://pepetox.github.io/fsd_spain_blog_page/revolucion-end-to-end-fsd-v12-v13"/>
+        <updated>2025-01-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explicación accesible del cambio de paradigma de Tesla: cómo el FSD pasó de código programado a redes neuronales que aprenden a conducir mirando vídeos.]]></summary>
+        <content type="html"><![CDATA[<p>El FSD de Tesla ha experimentado la transformación más radical de su historia. Con las versiones v12 y v13, Tesla ha abandonado cientos de miles de líneas de código escritas por humanos para sustituirlas por una red neuronal que aprende a conducir... mirando vídeos de conductores reales. Este es el cambio más importante en la historia de la conducción autónoma, y merece una explicación detallada.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-viejo-mundo-código-ifthen">El viejo mundo: código "if/then"<a href="https://pepetox.github.io/fsd_spain_blog_page/revolucion-end-to-end-fsd-v12-v13#el-viejo-mundo-c%C3%B3digo-ifthen" class="hash-link" aria-label="Enlace directo al El viejo mundo: código &quot;if/then&quot;" title="Enlace directo al El viejo mundo: código &quot;if/then&quot;" translate="no">​</a></h2>
+<p>Hasta la versión 11 del FSD, el software de Tesla funcionaba con una arquitectura híbrida:</p>
+<ol>
+<li class=""><strong>Redes neuronales para la percepción</strong>: Identificar objetos (coches, peatones, señales)</li>
+<li class=""><strong>Código C++ para la decisión</strong>: Reglas escritas por humanos sobre qué hacer</li>
+</ol>
+<p>Imagina que eres un ingeniero de Tesla y tienes que programar el comportamiento ante un stop:</p>
+<div class="language-cpp codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-cpp codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token keyword" style="color:rgb(189, 147, 249);font-style:italic">if</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token plain">detectSignal </span><span class="token operator">==</span><span class="token plain"> STOP_SIGN</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token function" style="color:rgb(80, 250, 123)">slowDown</span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token keyword" style="color:rgb(189, 147, 249);font-style:italic">if</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token plain">distanceToSign </span><span class="token operator">&lt;</span><span class="token plain"> </span><span class="token number">5</span><span class="token plain">m</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">        </span><span class="token function" style="color:rgb(80, 250, 123)">fullStop</span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">        </span><span class="token function" style="color:rgb(80, 250, 123)">waitSeconds</span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token number">3</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">        </span><span class="token keyword" style="color:rgb(189, 147, 249);font-style:italic">if</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token function" style="color:rgb(80, 250, 123)">intersectionClear</span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">            </span><span class="token function" style="color:rgb(80, 250, 123)">proceed</span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">        </span><span class="token punctuation" style="color:rgb(248, 248, 242)">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token punctuation" style="color:rgb(248, 248, 242)">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain"></span><span class="token punctuation" style="color:rgb(248, 248, 242)">}</span><br></span></code></pre></div></div>
+<p>Parece sencillo, ¿verdad? Ahora imagina que tienes que escribir reglas para:</p>
+<ul>
+<li class="">Un stop parcialmente oculto por un árbol</li>
+<li class="">Un stop en una rotonda mal señalizada</li>
+<li class="">Un policía haciendo señales que contradicen el stop</li>
+<li class="">Un stop en una calle de un solo sentido con coches aparcados en doble fila</li>
+</ul>
+<p>Cada situación requería más código, más reglas, más excepciones. El resultado: <strong>más de 300.000 líneas de código C++</strong> intentando cubrir la infinita variabilidad del mundo real.</p>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>El problema fundamental</div><div class="admonitionContent_BuS1"><p>El mundo real no sigue reglas. Los humanos no conducimos con un manual de "if/then" en la cabeza. Conducimos con intuición, experiencia y adaptación constante.</p></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-nuevo-paradigma-photon-to-control">El nuevo paradigma: Photon-to-Control<a href="https://pepetox.github.io/fsd_spain_blog_page/revolucion-end-to-end-fsd-v12-v13#el-nuevo-paradigma-photon-to-control" class="hash-link" aria-label="Enlace directo al El nuevo paradigma: Photon-to-Control" title="Enlace directo al El nuevo paradigma: Photon-to-Control" translate="no">​</a></h2>
+<p>Con la v12, Tesla dio un salto conceptual radical. En lugar de programar reglas, entrenaron una red neuronal masiva con un objetivo simple:</p>
+<p><strong>Entrada</strong>: Fotones (vídeo de las 8 cámaras del coche)
+<strong>Salida</strong>: Controles (ángulo del volante, posición de pedales)</p>
+<p>No hay reglas intermedias. No hay código que diga "si ves un stop, para". La red neuronal ha visto millones de veces a humanos parando en stops y ha <strong>aprendido el patrón</strong>.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="cómo-aprende">¿Cómo aprende?<a href="https://pepetox.github.io/fsd_spain_blog_page/revolucion-end-to-end-fsd-v12-v13#c%C3%B3mo-aprende" class="hash-link" aria-label="Enlace directo al ¿Cómo aprende?" title="Enlace directo al ¿Cómo aprende?" translate="no">​</a></h3>
+<p>Tesla tiene la mayor flota de vehículos conectados del mundo. Cada Tesla con cámaras está potencialmente grabando cómo conducen sus propietarios. Este vídeo se usa para entrenar la red:</p>
+<ol>
+<li class=""><strong>El humano conduce</strong>: El coche graba vídeo + acciones del conductor</li>
+<li class=""><strong>La IA observa</strong>: La red neuronal procesa millones de horas de conducción</li>
+<li class=""><strong>Aprende patrones</strong>: No reglas explícitas, sino comportamientos emergentes</li>
+<li class=""><strong>Reproduce</strong>: Cuando ve una situación similar, replica lo que haría un humano</li>
+</ol>
+<p>Es como enseñar a un niño a montar en bici mostrándole miles de vídeos, en lugar de darle un manual de física.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-eliminación-de-300000-líneas-de-código">La eliminación de 300.000 líneas de código<a href="https://pepetox.github.io/fsd_spain_blog_page/revolucion-end-to-end-fsd-v12-v13#la-eliminaci%C3%B3n-de-300000-l%C3%ADneas-de-c%C3%B3digo" class="hash-link" aria-label="Enlace directo al La eliminación de 300.000 líneas de código" title="Enlace directo al La eliminación de 300.000 líneas de código" translate="no">​</a></h2>
+<p>El resultado más visible de este cambio fue dramático: Tesla eliminó <strong>más de 300.000 líneas de código humano</strong> del FSD. Todo ese trabajo de años de ingenieros programando reglas quedó obsoleto.</p>
+<table><thead><tr><th>Aspecto</th><th>FSD v11 (Híbrido)</th><th>FSD v12/v13 (End-to-End)</th></tr></thead><tbody><tr><td>Percepción</td><td>Red neuronal</td><td>Red neuronal</td></tr><tr><td>Planificación</td><td>Código C++</td><td>Red neuronal</td></tr><tr><td>Control</td><td>Código C++</td><td>Red neuronal</td></tr><tr><td>Líneas de código</td><td>~300.000+</td><td>Prácticamente cero</td></tr><tr><td>Actualización</td><td>Programadores escriben reglas</td><td>La red se re-entrena con datos</td></tr></tbody></table>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-importa-esto-para-europa">¿Por qué importa esto para Europa?<a href="https://pepetox.github.io/fsd_spain_blog_page/revolucion-end-to-end-fsd-v12-v13#por-qu%C3%A9-importa-esto-para-europa" class="hash-link" aria-label="Enlace directo al ¿Por qué importa esto para Europa?" title="Enlace directo al ¿Por qué importa esto para Europa?" translate="no">​</a></h2>
+<p>Aquí está el punto crucial para los lectores españoles: <strong>el sistema end-to-end necesita entrenamiento local</strong>.</p>
+<p>Los conductores californianos conducen diferente a los madrileños. Las rotondas españolas no existen en Los Ángeles. La señalización vertical francesa es distinta a la americana. El "caos organizado" de una calle estrecha en el centro de Sevilla no tiene equivalente en las amplias avenidas de Phoenix.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-euro-net">La "Euro-Net"<a href="https://pepetox.github.io/fsd_spain_blog_page/revolucion-end-to-end-fsd-v12-v13#la-euro-net" class="hash-link" aria-label="Enlace directo al La &quot;Euro-Net&quot;" title="Enlace directo al La &quot;Euro-Net&quot;" translate="no">​</a></h3>
+<p>Tesla está trabajando en lo que internamente se conoce como entrenamiento específico para Europa. Esto implica:</p>
+<ol>
+<li class=""><strong>Recopilación de datos</strong>: Los Tesla europeos ya están enviando vídeos de conducción</li>
+<li class=""><strong>Entrenamiento diferenciado</strong>: Redes neuronales específicas para comportamientos europeos</li>
+<li class=""><strong>Validación local</strong>: Pruebas en condiciones reales (como las que vemos en Madrid)</li>
+</ol>
+<p>Las pruebas del FSD en España no son solo para cumplir con la DGT. Son para <strong>enseñarle a la IA cómo se conduce aquí</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="las-mejoras-de-la-v13">Las mejoras de la v13<a href="https://pepetox.github.io/fsd_spain_blog_page/revolucion-end-to-end-fsd-v12-v13#las-mejoras-de-la-v13" class="hash-link" aria-label="Enlace directo al Las mejoras de la v13" title="Enlace directo al Las mejoras de la v13" translate="no">​</a></h2>
+<p>La versión 13 del FSD representa una refinación significativa del paradigma end-to-end:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="simplificación-del-pipeline-de-datos">Simplificación del pipeline de datos<a href="https://pepetox.github.io/fsd_spain_blog_page/revolucion-end-to-end-fsd-v12-v13#simplificaci%C3%B3n-del-pipeline-de-datos" class="hash-link" aria-label="Enlace directo al Simplificación del pipeline de datos" title="Enlace directo al Simplificación del pipeline de datos" translate="no">​</a></h3>
+<p>Ingenieros de Tesla han comparado la reescritura de la v13 con la evolución de los motores Raptor de SpaceX: una simplificación drástica que permite mayor velocidad y fiabilidad.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="park-to-park">Park-to-Park<a href="https://pepetox.github.io/fsd_spain_blog_page/revolucion-end-to-end-fsd-v12-v13#park-to-park" class="hash-link" aria-label="Enlace directo al Park-to-Park" title="Enlace directo al Park-to-Park" translate="no">​</a></h3>
+<p>Una de las capacidades más impresionantes de la v13 es el <strong>Park-to-Park (P2P)</strong>:</p>
+<ul>
+<li class="">El coche sale de una plaza de aparcamiento</li>
+<li class="">Navega hasta la vía pública</li>
+<li class="">Conduce hasta el destino</li>
+<li class="">Busca aparcamiento autónomamente</li>
+<li class="">Aparca solo (incluyendo cambios de marcha D/R)</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="conducción-más-humana">Conducción más "humana"<a href="https://pepetox.github.io/fsd_spain_blog_page/revolucion-end-to-end-fsd-v12-v13#conducci%C3%B3n-m%C3%A1s-humana" class="hash-link" aria-label="Enlace directo al Conducción más &quot;humana&quot;" title="Enlace directo al Conducción más &quot;humana&quot;" translate="no">​</a></h3>
+<p>Los usuarios reportan que la v13 conduce de forma más natural:</p>
+<ul>
+<li class=""><strong>"Creeping"</strong> en intersecciones: Avanza lentamente para ver mejor, como haría un humano</li>
+<li class="">Negociación de espacios estrechos más fluida</li>
+<li class="">Menos frenadas bruscas e innecesarias</li>
+<li class="">Mejor comprensión del contexto social del tráfico</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-reto-de-escalar-globalmente">El reto de escalar globalmente<a href="https://pepetox.github.io/fsd_spain_blog_page/revolucion-end-to-end-fsd-v12-v13#el-reto-de-escalar-globalmente" class="hash-link" aria-label="Enlace directo al El reto de escalar globalmente" title="Enlace directo al El reto de escalar globalmente" translate="no">​</a></h2>
+<p>Aunque el paradigma end-to-end es revolucionario, presenta desafíos únicos para la expansión internacional:</p>
+<ol>
+<li class=""><strong>Datos locales</strong>: Necesita millones de kilómetros de conducción local</li>
+<li class=""><strong>Validación regulatoria</strong>: Cada país quiere ver pruebas en sus carreteras</li>
+<li class=""><strong>Casos extremos</strong>: Las situaciones raras (obras, accidentes, condiciones climáticas) son difíciles de entrenar</li>
+</ol>
+<p>Para Europa, esto significa que aunque la tecnología de base es la misma que funciona en EE.UU., el <strong>modelo específico europeo</strong> llevará tiempo de desarrollo y validación adicional.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="implicaciones-para-el-propietario-español">Implicaciones para el propietario español<a href="https://pepetox.github.io/fsd_spain_blog_page/revolucion-end-to-end-fsd-v12-v13#implicaciones-para-el-propietario-espa%C3%B1ol" class="hash-link" aria-label="Enlace directo al Implicaciones para el propietario español" title="Enlace directo al Implicaciones para el propietario español" translate="no">​</a></h2>
+<p>Si tienes un Tesla en España, esto es lo que significa el cambio a end-to-end:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-positivo">Lo positivo<a href="https://pepetox.github.io/fsd_spain_blog_page/revolucion-end-to-end-fsd-v12-v13#lo-positivo" class="hash-link" aria-label="Enlace directo al Lo positivo" title="Enlace directo al Lo positivo" translate="no">​</a></h3>
+<ul>
+<li class="">Cuando llegue, el comportamiento será más natural y fluido</li>
+<li class="">El sistema mejorará constantemente con los datos de tu conducción</li>
+<li class="">Las actualizaciones traerán mejoras reales, no solo parches</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-menos-positivo">Lo menos positivo<a href="https://pepetox.github.io/fsd_spain_blog_page/revolucion-end-to-end-fsd-v12-v13#lo-menos-positivo" class="hash-link" aria-label="Enlace directo al Lo menos positivo" title="Enlace directo al Lo menos positivo" translate="no">​</a></h3>
+<ul>
+<li class="">El entrenamiento europeo va retrasado respecto al americano</li>
+<li class="">Tu hardware (HW3 vs HW4) puede limitar la experiencia</li>
+<li class="">No hay fecha concreta de llegada</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://pepetox.github.io/fsd_spain_blog_page/revolucion-end-to-end-fsd-v12-v13#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
+<p>El cambio de código C++ a redes neuronales end-to-end es el equivalente a pasar de calcular trayectorias de cohetes a mano a dejar que una IA las optimice. Es un salto fundamental en cómo pensamos sobre la conducción autónoma.</p>
+<p>Para Europa, el reto ahora no es solo regulatorio (aunque lo es). Es también <strong>de datos</strong>: Tesla necesita que sus coches europeos "enseñen" a la IA cómo se conduce aquí. Las pruebas en Madrid son parte de ese proceso.</p>
+<p>La buena noticia es que el paradigma end-to-end escala mejor que el código manual. Una vez que la red neuronal europea esté entrenada y validada, las mejoras vendrán más rápido que nunca. La mala noticia es que ese "una vez" sigue sin tener fecha.</p>
+<hr>
+<p><em>¿Te interesa profundizar en los aspectos técnicos del FSD? ¿Quieres que expliquemos conceptos como backpropagation, transformers o aprendizaje por refuerzo? Déjanos saber en los comentarios.</em></p>]]></content>
+        <author>
+            <name>FSD Spain</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="inteligencia-artificial" term="inteligencia-artificial"/>
+        <category label="end-to-end" term="end-to-end"/>
+        <category label="tecnología" term="tecnología"/>
+        <category label="v12" term="v12"/>
+        <category label="v13" term="v13"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diccionario de Autonomía en España: ¿Qué compro? (AP vs. EAP vs. FSD)]]></title>
+        <id>https://pepetox.github.io/fsd_spain_blog_page/diccionario-autonomia-ap-eap-fsd-espana</id>
+        <link href="https://pepetox.github.io/fsd_spain_blog_page/diccionario-autonomia-ap-eap-fsd-espana"/>
+        <updated>2025-01-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guía práctica para entender las diferencias entre Autopilot, Enhanced Autopilot y Full Self-Driving en España. ¿Merece la pena la inversión?]]></summary>
+        <content type="html"><![CDATA[<p>Si estás considerando comprar un Tesla o ya tienes uno, habrás visto que existen diferentes paquetes de conducción asistida: Autopilot básico, Enhanced Autopilot (EAP) y Full Self-Driving (FSD). Pero, ¿qué funciones tiene cada uno <strong>realmente disponibles en España</strong>? Y más importante: ¿merece la pena pagar 3.800€ o 7.500€ por funciones que quizás nunca lleguen?</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-problema-pagar-por-promesas">El problema: pagar por promesas<a href="https://pepetox.github.io/fsd_spain_blog_page/diccionario-autonomia-ap-eap-fsd-espana#el-problema-pagar-por-promesas" class="hash-link" aria-label="Enlace directo al El problema: pagar por promesas" title="Enlace directo al El problema: pagar por promesas" translate="no">​</a></h2>
+<p>Antes de entrar en detalle, hay que ser honestos: comprar opciones de conducción autónoma en Europa es, en parte, financiar una promesa. Muchas funciones que Tesla vende como parte del FSD <strong>no están disponibles en nuestro mercado</strong> debido a restricciones regulatorias.</p>
+<p>Esto ha generado una profunda división en la comunidad de propietarios españoles, con muchos sintiéndose como "prestamistas sin intereses" de Tesla.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="los-tres-niveles-de-autonomía-tesla">Los tres niveles de autonomía Tesla<a href="https://pepetox.github.io/fsd_spain_blog_page/diccionario-autonomia-ap-eap-fsd-espana#los-tres-niveles-de-autonom%C3%ADa-tesla" class="hash-link" aria-label="Enlace directo al Los tres niveles de autonomía Tesla" title="Enlace directo al Los tres niveles de autonomía Tesla" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="autopilot-básico-incluido-de-serie">Autopilot Básico (incluido de serie)<a href="https://pepetox.github.io/fsd_spain_blog_page/diccionario-autonomia-ap-eap-fsd-espana#autopilot-b%C3%A1sico-incluido-de-serie" class="hash-link" aria-label="Enlace directo al Autopilot Básico (incluido de serie)" title="Enlace directo al Autopilot Básico (incluido de serie)" translate="no">​</a></h3>
+<p>Todos los Tesla nuevos incluyen de serie el Autopilot básico. Esto te ofrece:</p>
+<table><thead><tr><th>Función</th><th>Descripción</th><th>¿Funciona en España?</th></tr></thead><tbody><tr><td>Control de crucero adaptativo</td><td>Mantiene distancia con el vehículo delantero</td><td>✅ Sí</td></tr><tr><td>Centrado de carril</td><td>Mantiene el coche centrado en el carril</td><td>✅ Sí</td></tr><tr><td>Autosteer</td><td>Dirección automática en autopistas</td><td>✅ Sí (con limitaciones)</td></tr></tbody></table>
+<p><strong>Limitaciones en España</strong>: El Autosteer funciona, pero con las restricciones de la UNECE R79. En curvas cerradas o rotondas, el sistema puede desconectarse o pedir intervención.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="enhanced-autopilot-eap---3800">Enhanced Autopilot (EAP) - 3.800€<a href="https://pepetox.github.io/fsd_spain_blog_page/diccionario-autonomia-ap-eap-fsd-espana#enhanced-autopilot-eap---3800" class="hash-link" aria-label="Enlace directo al Enhanced Autopilot (EAP) - 3.800€" title="Enlace directo al Enhanced Autopilot (EAP) - 3.800€" translate="no">​</a></h3>
+<p>El paquete intermedio añade funciones de navegación y maniobra:</p>
+<table><thead><tr><th>Función</th><th>Descripción</th><th>¿Funciona en España?</th></tr></thead><tbody><tr><td>Navegación en Autopilot</td><td>Cambios de carril sugeridos</td><td>✅ Parcial</td></tr><tr><td>Cambio de carril automático</td><td>Al activar intermitente</td><td>✅ Con temporizador 5s</td></tr><tr><td>Autopark</td><td>Aparcamiento automático</td><td>✅ Sí</td></tr><tr><td>Smart Summon</td><td>Convocar el vehículo</td><td>⚠️ Muy limitado (6m)</td></tr></tbody></table>
+<p><strong>El problema del EAP</strong>: Pagas 3.800€ principalmente por una función (cambio de carril asistido) que tiene un temporizador de 5 segundos que la hace frustrante de usar. El Smart Summon está tan limitado que es casi inútil.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="full-self-driving-fsd---7500">Full Self-Driving (FSD) - 7.500€<a href="https://pepetox.github.io/fsd_spain_blog_page/diccionario-autonomia-ap-eap-fsd-espana#full-self-driving-fsd---7500" class="hash-link" aria-label="Enlace directo al Full Self-Driving (FSD) - 7.500€" title="Enlace directo al Full Self-Driving (FSD) - 7.500€" translate="no">​</a></h3>
+<p>El paquete completo promete la conducción autónoma... que en España no existe:</p>
+<table><thead><tr><th>Función</th><th>Descripción</th><th>¿Funciona en España?</th></tr></thead><tbody><tr><td>Todo lo del EAP</td><td>Ver arriba</td><td>Ver arriba</td></tr><tr><td>Conducción urbana autónoma</td><td>Navegación en ciudad</td><td>❌ No disponible</td></tr><tr><td>Reconocimiento de semáforos</td><td>Parada automática</td><td>⚠️ Solo aviso</td></tr><tr><td>Conducción End-to-End</td><td>IA v12/v13</td><td>❌ No disponible</td></tr></tbody></table>
+<p><strong>La realidad del FSD en España</strong>: Por 7.500€ obtienes esencialmente lo mismo que el EAP, con la <strong>esperanza</strong> de que algún día lleguen las funciones completas.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-tabla-de-la-verdad">La tabla de la verdad<a href="https://pepetox.github.io/fsd_spain_blog_page/diccionario-autonomia-ap-eap-fsd-espana#la-tabla-de-la-verdad" class="hash-link" aria-label="Enlace directo al La tabla de la verdad" title="Enlace directo al La tabla de la verdad" translate="no">​</a></h2>
+<table><thead><tr><th>Característica</th><th>AP Básico</th><th>EAP (3.800€)</th><th>FSD (7.500€)</th></tr></thead><tbody><tr><td>Control crucero adaptativo</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Centrado de carril</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Cambio carril automático</td><td>❌</td><td>✅*</td><td>✅*</td></tr><tr><td>Navegación en Autopilot</td><td>❌</td><td>✅*</td><td>✅*</td></tr><tr><td>Autopark</td><td>❌</td><td>✅</td><td>✅</td></tr><tr><td>Smart Summon</td><td>❌</td><td>⚠️</td><td>⚠️</td></tr><tr><td>Conducción urbana</td><td>❌</td><td>❌</td><td>❌</td></tr><tr><td>FSD Beta/v12/v13</td><td>❌</td><td>❌</td><td>❌</td></tr></tbody></table>
+<p>*Con restricciones significativas (temporizador 5s, límites de curva)</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-dilema-de-la-transferencia">El dilema de la transferencia<a href="https://pepetox.github.io/fsd_spain_blog_page/diccionario-autonomia-ap-eap-fsd-espana#el-dilema-de-la-transferencia" class="hash-link" aria-label="Enlace directo al El dilema de la transferencia" title="Enlace directo al El dilema de la transferencia" translate="no">​</a></h2>
+<p>Uno de los puntos más controvertidos es la <strong>imposibilidad de transferir la licencia de FSD</strong> a un nuevo vehículo de forma permanente. Si vendes tu Tesla con FSD y compras uno nuevo, <strong>pierdes los 7.500€</strong> invertidos (salvo promociones puntuales que Tesla ofrece ocasionalmente).</p>
+<p>Esto afecta directamente al valor de reventa y ha generado intensos debates en el foro del Club Tesla España:</p>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>Lo que dicen los usuarios veteranos</div><div class="admonitionContent_BuS1"><p>"Compré el FSD hace 4 años pensando que llegaría pronto. Ahora quiero cambiar de coche y me dicen que no puedo transferirlo. Básicamente le hice un préstamo sin intereses a Tesla."</p></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-recomendamos">¿Qué recomendamos?<a href="https://pepetox.github.io/fsd_spain_blog_page/diccionario-autonomia-ap-eap-fsd-espana#qu%C3%A9-recomendamos" class="hash-link" aria-label="Enlace directo al ¿Qué recomendamos?" title="Enlace directo al ¿Qué recomendamos?" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="para-el-comprador-pragmático">Para el comprador pragmático<a href="https://pepetox.github.io/fsd_spain_blog_page/diccionario-autonomia-ap-eap-fsd-espana#para-el-comprador-pragm%C3%A1tico" class="hash-link" aria-label="Enlace directo al Para el comprador pragmático" title="Enlace directo al Para el comprador pragmático" translate="no">​</a></h3>
+<p><strong>No compres FSD en España en 2025</strong>. Las funciones adicionales sobre el Autopilot básico no justifican los 7.500€, especialmente cuando:</p>
+<ol>
+<li class="">Las funciones estrella (conducción urbana) no están disponibles</li>
+<li class="">No hay fecha concreta de llegada</li>
+<li class="">No puedes transferirlo si cambias de coche</li>
+<li class="">Tesla puede cambiar los precios y condiciones</li>
+</ol>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="si-quieres-algo-más-que-el-básico">Si quieres algo más que el básico<a href="https://pepetox.github.io/fsd_spain_blog_page/diccionario-autonomia-ap-eap-fsd-espana#si-quieres-algo-m%C3%A1s-que-el-b%C3%A1sico" class="hash-link" aria-label="Enlace directo al Si quieres algo más que el básico" title="Enlace directo al Si quieres algo más que el básico" translate="no">​</a></h3>
+<p>El <strong>EAP por 3.800€</strong> puede tener sentido si:</p>
+<ul>
+<li class="">Haces muchos kilómetros de autopista</li>
+<li class="">Valoras el Autopark (funciona bien)</li>
+<li class="">Eres paciente con las limitaciones del cambio de carril</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-factor-early-adopter">El factor "early adopter"<a href="https://pepetox.github.io/fsd_spain_blog_page/diccionario-autonomia-ap-eap-fsd-espana#el-factor-early-adopter" class="hash-link" aria-label="Enlace directo al El factor &quot;early adopter&quot;" title="Enlace directo al El factor &quot;early adopter&quot;" translate="no">​</a></h3>
+<p>Si crees firmemente que el FSD llegará a Europa y quieres tenerlo cuando llegue, comprar ahora podría tener sentido si:</p>
+<ul>
+<li class="">Tesla sube los precios (ha pasado antes)</li>
+<li class="">Quieres la funcionalidad desde el día 1</li>
+</ul>
+<p>Pero esto es <strong>especulación</strong>, no inversión.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="soluciones-de-la-comunidad-el-commander">Soluciones de la comunidad: El "Commander"<a href="https://pepetox.github.io/fsd_spain_blog_page/diccionario-autonomia-ap-eap-fsd-espana#soluciones-de-la-comunidad-el-commander" class="hash-link" aria-label="Enlace directo al Soluciones de la comunidad: El &quot;Commander&quot;" title="Enlace directo al Soluciones de la comunidad: El &quot;Commander&quot;" translate="no">​</a></h2>
+<p>Ante las frustraciones con las limitaciones europeas, algunos usuarios han recurrido a hardware de terceros como el <strong>Commander de Enhance Auto</strong>. Este dispositivo permite:</p>
+<ul>
+<li class="">Reactivar automáticamente el Autopilot tras un cambio de carril</li>
+<li class="">Mitigar las molestias del temporizador de 5 segundos</li>
+<li class="">Automatizar ciertas acciones repetitivas</li>
+</ul>
+<div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>Nota importante</div><div class="admonitionContent_BuS1"><p>El uso de dispositivos de terceros puede afectar a la garantía y no está oficialmente soportado por Tesla. Úsalos bajo tu propia responsabilidad.</p></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://pepetox.github.io/fsd_spain_blog_page/diccionario-autonomia-ap-eap-fsd-espana#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
+<p>En España, la diferencia práctica entre los paquetes de conducción asistida es mucho menor de lo que sugiere la diferencia de precio. El Autopilot básico gratuito cubre el 80% de los casos de uso reales, mientras que los 7.500€ del FSD son, en gran medida, un pago por funciones que no existen todavía en nuestro mercado.</p>
+<p>Nuestra recomendación: <strong>espera</strong>. Si las regulaciones cambian y el FSD llega a España con sus capacidades completas, siempre puedes comprarlo después. Y si nunca llega, habrás ahorrado un dinero que de otra forma habría sido una donación a Tesla.</p>
+<hr>
+<p><em>¿Has comprado EAP o FSD? ¿Te arrepientes o crees que valió la pena? Comparte tu experiencia.</em></p>]]></content>
+        <author>
+            <name>FSD Spain</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="autopilot" term="autopilot"/>
+        <category label="eap" term="eap"/>
+        <category label="fsd" term="fsd"/>
+        <category label="guía-compra" term="guía-compra"/>
+        <category label="españa" term="españa"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La Gran Castración de 2019: Por qué tu Tesla conduce peor que antes en Europa]]></title>
+        <id>https://pepetox.github.io/fsd_spain_blog_page/gran-castracion-2019-autopilot-europa</id>
+        <link href="https://pepetox.github.io/fsd_spain_blog_page/gran-castracion-2019-autopilot-europa"/>
+        <updated>2025-01-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Análisis de cómo la regulación UNECE R79 obligó a Tesla a limitar drásticamente las capacidades del Autopilot en Europa en mayo de 2019.]]></summary>
+        <content type="html"><![CDATA[<p>En mayo de 2019, miles de propietarios de Tesla en Europa se despertaron con una sorpresa desagradable: sus coches habían empeorado de la noche a la mañana. Una actualización de software obligatoria había recortado severamente las capacidades del Autopilot. ¿La razón? Una regulación europea diseñada para sistemas de dirección asistida de los años 90.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-día-que-los-tesla-europeos-perdieron-sus-capacidades">El día que los Tesla europeos perdieron sus capacidades<a href="https://pepetox.github.io/fsd_spain_blog_page/gran-castracion-2019-autopilot-europa#el-d%C3%ADa-que-los-tesla-europeos-perdieron-sus-capacidades" class="hash-link" aria-label="Enlace directo al El día que los Tesla europeos perdieron sus capacidades" title="Enlace directo al El día que los Tesla europeos perdieron sus capacidades" translate="no">​</a></h2>
+<p>Hasta esa fecha fatídica, los Model S y Model X europeos disfrutaban de una paridad funcional relativa con sus homólogos estadounidenses. El Autopilot funcionaba de forma fluida en autopistas, realizaba cambios de carril con naturalidad y el Smart Summon permitía convocar el vehículo a distancia.</p>
+<p>Todo cambió con la actualización <strong>2019.16.1</strong>, que implementó las restricciones impuestas por la <strong>Regulación 79 de la UNECE</strong> (Comisión Económica de las Naciones Unidas para Europa).</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-es-la-unece-r79-y-por-qué-afecta-a-tu-tesla">¿Qué es la UNECE R79 y por qué afecta a tu Tesla?<a href="https://pepetox.github.io/fsd_spain_blog_page/gran-castracion-2019-autopilot-europa#qu%C3%A9-es-la-unece-r79-y-por-qu%C3%A9-afecta-a-tu-tesla" class="hash-link" aria-label="Enlace directo al ¿Qué es la UNECE R79 y por qué afecta a tu Tesla?" title="Enlace directo al ¿Qué es la UNECE R79 y por qué afecta a tu Tesla?" translate="no">​</a></h2>
+<p>La Regulación 79 fue diseñada originalmente para sistemas de dirección asistida convencionales, no para inteligencia artificial capaz de conducir un vehículo. Sin embargo, en ausencia de una normativa específica para sistemas de conducción autónoma, Europa decidió aplicar esta regulación a los ADAS (Sistemas Avanzados de Asistencia al Conductor).</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="las-restricciones-clave">Las restricciones clave<a href="https://pepetox.github.io/fsd_spain_blog_page/gran-castracion-2019-autopilot-europa#las-restricciones-clave" class="hash-link" aria-label="Enlace directo al Las restricciones clave" title="Enlace directo al Las restricciones clave" translate="no">​</a></h3>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-límites-de-aceleración-lateral">1. Límites de aceleración lateral<a href="https://pepetox.github.io/fsd_spain_blog_page/gran-castracion-2019-autopilot-europa#1-l%C3%ADmites-de-aceleraci%C3%B3n-lateral" class="hash-link" aria-label="Enlace directo al 1. Límites de aceleración lateral" title="Enlace directo al 1. Límites de aceleración lateral" translate="no">​</a></h4>
+<p>La normativa estableció límites físicos arbitrarios sobre cuánta fuerza puede ejercer el sistema sobre el volante. Estos límites están calculados para curvas de radio amplio típicas de autopistas, lo que efectivamente <strong>ilegalizó el funcionamiento del sistema en curvas cerradas o rotondas urbanas</strong>, donde la aceleración lateral requerida supera los parámetros de la R79.</p>
+<p>En la práctica, esto significa que en muchas rotondas españolas el Autopilot simplemente se desactiva o pide al conductor que tome el control.</p>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-el-temporizador-de-5-segundos">2. El temporizador de 5 segundos<a href="https://pepetox.github.io/fsd_spain_blog_page/gran-castracion-2019-autopilot-europa#2-el-temporizador-de-5-segundos" class="hash-link" aria-label="Enlace directo al 2. El temporizador de 5 segundos" title="Enlace directo al 2. El temporizador de 5 segundos" translate="no">​</a></h4>
+<p>Para realizar un cambio de carril asistido en autopista (bajo el paquete Enhanced Autopilot), el conductor debe:</p>
+<ol>
+<li class="">Activar el intermitente</li>
+<li class="">El sistema tiene exactamente <strong>5 segundos</strong> para completar la maniobra</li>
+<li class="">Si el tráfico impide realizar el cambio en ese intervalo, el sistema <strong>aborta y regresa al carril original</strong></li>
+</ol>
+<p>Esta restricción genera situaciones absurdas: intentas cambiar de carril, hay un coche en el punto ciego, el sistema espera, se acaba el tiempo, vuelve al carril original... y tienes que empezar de nuevo. Una experiencia frustrante que genera inseguridad tanto en el conductor como en el tráfico circundante.</p>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-smart-summon-de-futurista-a-inútil">3. Smart Summon: de futurista a inútil<a href="https://pepetox.github.io/fsd_spain_blog_page/gran-castracion-2019-autopilot-europa#3-smart-summon-de-futurista-a-in%C3%BAtil" class="hash-link" aria-label="Enlace directo al 3. Smart Summon: de futurista a inútil" title="Enlace directo al 3. Smart Summon: de futurista a inútil" translate="no">​</a></h4>
+<p>Quizás la restricción más visible fue la del Smart Summon, la función que permite convocar el vehículo desde el parking:</p>
+<table><thead><tr><th>Característica</th><th>EE.UU.</th><th>Europa (post-2019)</th></tr></thead><tbody><tr><td>Distancia máxima</td><td>~60 metros</td><td><strong>6 metros</strong></td></tr><tr><td>Línea de visión</td><td>No requerida</td><td><strong>Obligatoria</strong></td></tr><tr><td>Navegación en parking</td><td>Completa</td><td>Muy limitada</td></tr></tbody></table>
+<p>Una función que en Estados Unidos permite al coche navegar un aparcamiento complejo quedó reducida en Europa a un truco de fiesta prácticamente inútil: 6 metros con línea de visión directa apenas da para que el coche salga de una plaza cuando estás justo al lado.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-impacto-en-la-comunidad">El impacto en la comunidad<a href="https://pepetox.github.io/fsd_spain_blog_page/gran-castracion-2019-autopilot-europa#el-impacto-en-la-comunidad" class="hash-link" aria-label="Enlace directo al El impacto en la comunidad" title="Enlace directo al El impacto en la comunidad" translate="no">​</a></h2>
+<p>El evento, conocido coloquialmente como <strong>"el gran nerfeo"</strong> (término de videojuegos para cuando se debilita un personaje o arma), tuvo consecuencias profundas:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="pérdida-de-confianza">Pérdida de confianza<a href="https://pepetox.github.io/fsd_spain_blog_page/gran-castracion-2019-autopilot-europa#p%C3%A9rdida-de-confianza" class="hash-link" aria-label="Enlace directo al Pérdida de confianza" title="Enlace directo al Pérdida de confianza" translate="no">​</a></h3>
+<p>Los propietarios europeos vieron cómo sus vehículos perdían capacidades por las que habían pagado miles de euros. Esto estableció un precedente de inseguridad jurídica sobre las compras de software en Tesla.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="desigualdad-global">Desigualdad global<a href="https://pepetox.github.io/fsd_spain_blog_page/gran-castracion-2019-autopilot-europa#desigualdad-global" class="hash-link" aria-label="Enlace directo al Desigualdad global" title="Enlace directo al Desigualdad global" translate="no">​</a></h3>
+<p>Mientras los conductores estadounidenses comenzaban a disfrutar de versiones cada vez más avanzadas del Autopilot, los europeos quedaron atrapados en lo que algunos llaman el <strong>"gueto de funciones"</strong>: pagando el mismo precio por un producto significativamente inferior.</p>
+<div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>Importante recordar</div><div class="admonitionContent_BuS1"><p>Muchas de las limitaciones que experimentas en tu Tesla europeo <strong>no son culpa de la tecnología de Tesla</strong>, sino del marco legal impuesto por la UNECE R79. Entender esto es crucial para no culpar al fabricante de restricciones que no controla.</p></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="hay-esperanza">¿Hay esperanza?<a href="https://pepetox.github.io/fsd_spain_blog_page/gran-castracion-2019-autopilot-europa#hay-esperanza" class="hash-link" aria-label="Enlace directo al ¿Hay esperanza?" title="Enlace directo al ¿Hay esperanza?" translate="no">​</a></h2>
+<p>La industria y los reguladores reconocieron eventualmente que la R79 era inadecuada para la inteligencia artificial moderna. Esto dio lugar al desarrollo del <strong>Reglamento DCAS (UN Regulation 171)</strong>, diseñado específicamente para sistemas de asistencia avanzados.</p>
+<p>A diferencia de la R79, el DCAS permite:</p>
+<ul>
+<li class="">Maniobras iniciadas por el sistema</li>
+<li class="">Conducción más fluida</li>
+<li class="">Mayor autonomía operativa (siempre bajo supervisión del conductor)</li>
+</ul>
+<p>Sin embargo, la implementación del DCAS y la posible llegada del FSD completo a Europa sigue siendo un proceso lento y burocrático, que analizaremos en futuras entradas.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://pepetox.github.io/fsd_spain_blog_page/gran-castracion-2019-autopilot-europa#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
+<p>El "nerfeo" de 2019 fue un punto de inflexión para la comunidad Tesla europea. Demostró que, por muy avanzada que sea la tecnología, la regulación tiene la última palabra. Y en Europa, esa palabra fue "no".</p>
+<p>Para los propietarios actuales, la lección es clara: las funciones de tu Tesla están limitadas por la ley, no por la técnica. Y aunque hay señales de cambio en el horizonte (las pruebas del FSD en Madrid son un ejemplo), la paciencia sigue siendo la virtud más necesaria para el entusiasta de la conducción autónoma en el Viejo Continente.</p>
+<hr>
+<p><em>¿Recuerdas cómo era tu Tesla antes de mayo de 2019? ¿Notaste el cambio? Comparte tu experiencia en los comentarios.</em></p>]]></content>
+        <author>
+            <name>FSD Spain</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="autopilot" term="autopilot"/>
+        <category label="regulación" term="regulación"/>
+        <category label="europa" term="europa"/>
+        <category label="unece-r79" term="unece-r79"/>
+        <category label="historia" term="historia"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FSD de Tesla: ¿Cuándo llegará la conducción autónoma a España?]]></title>
         <id>https://pepetox.github.io/fsd_spain_blog_page/fsd-tesla-europa</id>
