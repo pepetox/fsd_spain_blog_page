@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkfsd_spain_blog=globalThis.webpackChunkfsd_spain_blog||[]).push([[4015],{8501:p=>{p.exports=JSON.parse('{"authors":[{"name":"FSD Spain","title":"Equipo Editorial","url":"https://github.com/pepetox","imageURL":"https://pepetox.github.io/fsd_spain_blog_page/img/fsdspain.png","key":"admin","page":null,"count":11}]}')}}]);

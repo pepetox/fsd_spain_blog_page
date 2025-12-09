@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkfsd_spain_blog=globalThis.webpackChunkfsd_spain_blog||[]).push([[1640],{7808:s=>{s.exports=JSON.parse('{"metadata":{"permalink":"/fsd_spain_blog_page/","page":1,"postsPerPage":10,"totalPages":1,"totalCount":10,"blogDescription":"Noticias, tutoriales y recursos sobre Formula Student Driverless en Espa\xf1a","blogTitle":"FSD Spain Blog"}}')}}]);
