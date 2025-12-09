@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkfsd_spain_blog=globalThis.webpackChunkfsd_spain_blog||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/","blogTitle":"FSD Spain Blog","authorsListPath":"/authors"}')}}]);
