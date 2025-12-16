@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fsd.pepetox.es</id>
     <title>FSD Spain Blog</title>
-    <updated>2025-12-15T00:00:00.000Z</updated>
+    <updated>2025-12-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fsd.pepetox.es"/>
     <subtitle>FSD Spain Blog</subtitle>
     <icon>https://fsd.pepetox.es/img/fsdspain.png</icon>
+    <entry>
+        <title type="html"><![CDATA[La Comisión Europea Confirma Vías Claras para la Aprobación del FSD de Tesla en Europa]]></title>
+        <id>https://fsd.pepetox.es/eu-commission-confirms-clear-pathways-for-tesla-fsd</id>
+        <link href="https://fsd.pepetox.es/eu-commission-confirms-clear-pathways-for-tesla-fsd"/>
+        <updated>2025-12-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[La Comisión Europea perfila rutas viables para el despliegue del FSD, mientras la actualización v14.2.1.25 de Tesla muestra un rendimiento mejorado y las pruebas en Europa subrayan los hitos de seguridad.]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="resumen-ejecutivo">Resumen Ejecutivo<a href="https://fsd.pepetox.es/eu-commission-confirms-clear-pathways-for-tesla-fsd#resumen-ejecutivo" class="hash-link" aria-label="Enlace directo al Resumen Ejecutivo" title="Enlace directo al Resumen Ejecutivo" translate="no">​</a></h2>
+<p>La Comisión Europea ha esbozado rutas viables para el despliegue del FSD a través de exenciones del Artículo 39 o regulaciones ampliadas de la CEPE. Aunque todavía no hay solicitudes formales de Tesla, se está trabajando continuamente para dar cabida a las características avanzadas del sistema.</p>
+<p>La última actualización de Tesla, FSD v14.2.1.25, se está desplegando a los usuarios de acceso temprano, mostrando un rendimiento mejorado en escenarios complejos como cambios de carril y aparcamiento. Los probadores informan de cero intervenciones en trayectos prolongados.</p>
+<p>Videos virales de beta testers reconocidos destacan las capacidades del FSD en diversos entornos, incluyendo pruebas europeas en Dinamarca y Francia, subrayando hitos de seguridad como el manejo de peatones y calles estrechas.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="españaeuropa">España/Europa<a href="https://fsd.pepetox.es/eu-commission-confirms-clear-pathways-for-tesla-fsd#espa%C3%B1aeuropa" class="hash-link" aria-label="Enlace directo al España/Europa" title="Enlace directo al España/Europa" translate="no">​</a></h2>
+<p>Los recientes avances regulatorios muestran un progreso hacia el despliegue del FSD. La Comisión Europea confirmó hoy que, si bien el FSD Supervisado excede la actual Regulación 171 de la ONU (DCAS), las aprobaciones podrían llegar a través de exenciones del Artículo 39 para tecnología innovadora o mediante proyectos piloto nacionales. Además, las enmiendas de la CEPE podrían ampliar las normativas pronto. Hasta la fecha, no se han recibido solicitudes de exención.</p>
+<p>En España, Tesla obtuvo la autorización (FVA-03/2025) para que 19 vehículos prueben el FSD en vías públicas a partir del 1 de diciembre de 2025, con una posible expansión de la flota. Las autoridades holandesas (RDW) se han comprometido a la aprobación nacional para febrero de 2026, aunque algunos reguladores de la UE han pedido cautela ante celebraciones prematuras.</p>
+<p>Las pruebas beta en Dinamarca y Francia demuestran que el FSD maneja sin problemas calles estrechas, peatones y badenes. Los conductores destacan la ausencia de intervenciones y un comportamiento cortés, similar al humano (por ejemplo, cediendo el paso y recibiendo saludos de otros usuarios de la vía que no saben que el coche conduce solo).</p>
+<p>No ha habido actualizaciones importantes de la CEPE en las últimas 24 horas, pero las discusiones enfatizan la evolución de las regulaciones para dar soporte a características de autonomía más amplias.</p>]]></content>
+        <author>
+            <name>FSD Spain</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="europa" term="europa"/>
+        <category label="tesla" term="tesla"/>
+        <category label="regulacion" term="regulacion"/>
+        <category label="v14" term="v14"/>
+        <category label="españa" term="españa"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tesla Acelera Pruebas de FSD en Europa con Éxitos Iniciales en Dinamarca y España]]></title>
         <id>https://fsd.pepetox.es/tesla-acelera-pruebas-fsd-europa</id>
