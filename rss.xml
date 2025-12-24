@@ -4,10 +4,277 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Mon, 22 Dec 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Dec 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[Accidente Grave con Tesla FSD en China: Colisión Frontal Durante Transmisión en Vivo Expone Vulnerabilidades de v13.2.6 en Curvas Nocturnas]]></title>
+            <link>https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13</link>
+            <guid>https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13</guid>
+            <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Un accidente frontal con FSD v13.2.6 en China revela fallos críticos en curvas montañosas nocturnas, mientras Europa enfrenta demoras regulatorias y EE.UU. lidera con v14.2.1 demostrando mejoras del 80% en seguridad.]]></description>
+            <content:encoded><![CDATA[<p>Un <strong>accidente grave documentado en video</strong> durante una transmisión en vivo en China ha encendido las alarmas sobre las limitaciones de FSD v13.2.6 en condiciones de baja visibilidad. El Tesla cruzó líneas dobles amarillas en una <strong>curva montañosa nocturna</strong>, invadiendo el carril contrario y causando una <strong>colisión frontal</strong> que dejó lesionados. Este incidente, ampliamente compartido en redes sociales, llega en un momento crítico: Tesla no puede desplegar v14 en China, Europa sigue atascada en trámites regulatorios de UNECE, y Estados Unidos lidera con mejoras de seguridad del 80% en la última versión.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-el-accidente-qué-sucedió-exactamente">🚨 El Accidente: Qué Sucedió Exactamente<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#-el-accidente-qu%C3%A9-sucedi%C3%B3-exactamente" class="hash-link" aria-label="Enlace directo al 🚨 El Accidente: Qué Sucedió Exactamente" title="Enlace directo al 🚨 El Accidente: Qué Sucedió Exactamente" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="video-en-vivo-captura-el-momento-del-fallo">Video en Vivo Captura el Momento del Fallo<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#video-en-vivo-captura-el-momento-del-fallo" class="hash-link" aria-label="Enlace directo al Video en Vivo Captura el Momento del Fallo" title="Enlace directo al Video en Vivo Captura el Momento del Fallo" translate="no">​</a></h3>
+<p>Durante una <strong>transmisión en directo</strong> documentando el rendimiento de FSD, un Tesla equipado con la versión v13.2.6 circulaba por una <strong>carretera de montaña en condiciones nocturnas</strong>. En una curva cerrada, el sistema:</p>
+<ol>
+<li class=""><strong>Cruzó las líneas dobles amarillas</strong> (marcador de prohibición de adelantamiento)</li>
+<li class=""><strong>Invadió el carril contrario</strong> sin corrección automática</li>
+<li class=""><strong>Colisionó frontalmente</strong> con un vehículo que circulaba correctamente en su carril</li>
+<li class=""><strong>Falló en autocorregirse</strong> a pesar de tener varios segundos para detectar el error</li>
+</ol>
+<div class="theme-admonition theme-admonition-danger admonition_xJq3 alert alert--danger"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M5.05.31c.81 2.17.41 3.38-.52 4.31C3.55 5.67 1.98 6.45.9 7.98c-1.45 2.05-1.7 6.53 3.53 7.7-2.2-1.16-2.67-4.52-.3-6.61-.61 2.03.53 3.33 1.94 2.86 1.39-.47 2.3.53 2.27 1.67-.02.78-.31 1.44-1.13 1.81 3.42-.59 4.78-3.42 4.78-5.56 0-2.84-2.53-3.22-1.25-5.61-1.52.13-2.03 1.13-1.89 2.75.09 1.08-1.02 1.8-1.86 1.33-.67-.41-.66-1.19-.06-1.78C8.18 5.31 8.68 2.45 5.05.32L5.03.3l.02.01z"></path></svg></span>Gravedad del Incidente</div><div class="admonitionContent_BuS1"><p>El otro conductor resultó <strong>lesionado</strong> en el choque. Este tipo de colisión frontal es uno de los escenarios más peligrosos en conducción autónoma, precisamente lo que FSD debería prevenir.</p></div></div>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="análisis-técnico-por-qué-falló-v1326">Análisis Técnico: ¿Por Qué Falló v13.2.6?<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#an%C3%A1lisis-t%C3%A9cnico-por-qu%C3%A9-fall%C3%B3-v1326" class="hash-link" aria-label="Enlace directo al Análisis Técnico: ¿Por Qué Falló v13.2.6?" title="Enlace directo al Análisis Técnico: ¿Por Qué Falló v13.2.6?" translate="no">​</a></h3>
+<p><strong>Condiciones del Accidente:</strong></p>
+<ul>
+<li class=""><strong>Iluminación:</strong> Noche cerrada con baja visibilidad</li>
+<li class=""><strong>Geometría:</strong> Curva cerrada en carretera de montaña</li>
+<li class=""><strong>Señalización:</strong> Líneas dobles amarillas claramente visibles (debían prohibir cruce)</li>
+<li class=""><strong>Tráfico:</strong> Vehículo aproximándose en carril opuesto</li>
+</ul>
+<p><strong>Posibles Causas del Fallo:</strong></p>
+<table><thead><tr><th>Factor</th><th>Análisis</th></tr></thead><tbody><tr><td><strong>Detección de carriles</strong></td><td>v13.2.6 puede haber interpretado mal la geometría de la curva en condiciones de baja luz</td></tr><tr><td><strong>Modelado de trayectoria</strong></td><td>Sistema calculó una trayectoria que cortaba la curva innecesariamente</td></tr><tr><td><strong>Falta de corrección</strong></td><td>El modelo no reaccionó al cruzar las líneas amarillas, indicando falla en reglas de tráfico</td></tr><tr><td><strong>Detección de vehículos oncoming</strong></td><td>Posible retraso en detectar el vehículo contrario o priorización incorrecta de maniobra</td></tr></tbody></table>
+<div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>Limitaciones Conocidas de v13</div><div class="admonitionContent_BuS1"><p>Las versiones v13.x han mostrado históricamente <strong>dificultades en curvas cerradas con poca iluminación</strong>, especialmente cuando las líneas de carril no son perfectamente visibles o están desgastadas. v14 abordó específicamente estos casos edge.</p></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-contexto-china-tesla-bloqueada-de-actualizar-a-v14">🇨🇳 Contexto China: Tesla Bloqueada de Actualizar a v14<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#-contexto-china-tesla-bloqueada-de-actualizar-a-v14" class="hash-link" aria-label="Enlace directo al 🇨🇳 Contexto China: Tesla Bloqueada de Actualizar a v14" title="Enlace directo al 🇨🇳 Contexto China: Tesla Bloqueada de Actualizar a v14" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-problema-de-la-actualización-detenida">El Problema de la Actualización Detenida<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#el-problema-de-la-actualizaci%C3%B3n-detenida" class="hash-link" aria-label="Enlace directo al El Problema de la Actualización Detenida" title="Enlace directo al El Problema de la Actualización Detenida" translate="no">​</a></h3>
+<p><strong>Situación Actual:</strong></p>
+<ul>
+<li class="">Tesla <strong>no puede desplegar v14 en China</strong> debido a restricciones regulatorias locales</li>
+<li class="">Los usuarios chinos siguen en <strong>v13.2.6</strong>, una versión ya superada en otros mercados</li>
+<li class="">Competidores locales como <strong>Huawei avanzan con Level 3</strong> (manos libres con fail-safes)</li>
+</ul>
+<p><strong>Cronograma Estancado:</strong></p>
+<table><thead><tr><th>Versión</th><th>Estado en China</th><th>Estado Global</th></tr></thead><tbody><tr><td><strong>v13.2.6</strong></td><td>✅ Desplegada (vulnerable a fallos de curvas)</td><td>⚠️ Obsoleta, reemplazada por v14</td></tr><tr><td><strong>v14.x</strong></td><td>❌ Bloqueada por reguladores</td><td>✅ Activa en EE.UU./Canadá con mejoras críticas</td></tr><tr><td><strong>v14 + mejoras</strong></td><td>🕐 En espera de aprobación</td><td>🚀 Reducción de crashes del 60-70%</td></tr></tbody></table>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>Paradoja Regulatoria</div><div class="admonitionContent_BuS1"><p>China exige altos estándares de seguridad, pero al bloquear actualizaciones OTA que <strong>mejoran sustancialmente</strong> la seguridad (como v14), los usuarios están expuestos a versiones menos capaces. Este accidente podría haber sido <strong>evitable con v14</strong>.</p></div></div>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="competencia-local-huawei-vs-tesla">Competencia Local: Huawei vs. Tesla<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#competencia-local-huawei-vs-tesla" class="hash-link" aria-label="Enlace directo al Competencia Local: Huawei vs. Tesla" title="Enlace directo al Competencia Local: Huawei vs. Tesla" translate="no">​</a></h3>
+<p><strong>Huawei Level 3:</strong></p>
+<ul>
+<li class=""><strong>Manos libres</strong> en autopistas y zonas urbanas designadas</li>
+<li class=""><strong>Fail-safes activos:</strong> Detención de emergencia si sistema falla</li>
+<li class=""><strong>Integración local:</strong> Mapas HD de Baidu, datos de tráfico en tiempo real</li>
+</ul>
+<p><strong>Ventajas de Tesla:</strong></p>
+<ul>
+<li class=""><strong>Vision-only:</strong> No depende de mapas HD (mayor flexibilidad)</li>
+<li class=""><strong>Entornos caóticos:</strong> Superior en situaciones no mapeadas</li>
+<li class=""><strong>Actualizaciones globales:</strong> Aprende de millones de millas en todos los continentes</li>
+</ul>
+<p><strong>Desventaja Actual:</strong></p>
+<ul>
+<li class=""><strong>Sin acceso a v14:</strong> No puede mostrar su verdadero potencial actualizado</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-europa-estancamiento-regulatorio-en-unece">🇪🇺 Europa: Estancamiento Regulatorio en UNECE<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#-europa-estancamiento-regulatorio-en-unece" class="hash-link" aria-label="Enlace directo al 🇪🇺 Europa: Estancamiento Regulatorio en UNECE" title="Enlace directo al 🇪🇺 Europa: Estancamiento Regulatorio en UNECE" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="demoras-que-ponen-vidas-en-riesgo">Demoras que Ponen Vidas en Riesgo<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#demoras-que-ponen-vidas-en-riesgo" class="hash-link" aria-label="Enlace directo al Demoras que Ponen Vidas en Riesgo" title="Enlace directo al Demoras que Ponen Vidas en Riesgo" translate="no">​</a></h3>
+<p>Mientras China bloquea actualizaciones, <strong>Europa bloquea el acceso completo al sistema</strong>. La situación actual:</p>
+<p><strong>Cronograma Europeo:</strong></p>
+<ul>
+<li class=""><strong>Febrero 2026:</strong> Posible aprobación nacional en Países Bajos (RDW)</li>
+<li class=""><strong>Q2 2026:</strong> Extensión potencial vía Artículo 39 de UNECE</li>
+<li class=""><strong>Enero 2027:</strong> Aprobaciones completas de GRVA/WP.29 (escenario conservador)</li>
+</ul>
+<p><strong>Restricciones Actuales:</strong></p>
+<ul>
+<li class="">FSD limitado a <strong>SAE Level 2</strong> (supervisión constante)</li>
+<li class=""><strong>Prohibidos:</strong> Cambios automáticos de carril en ciudad, manejo autónomo de rotondas complejas</li>
+<li class=""><strong>Diseñadas para legacy:</strong> Regulaciones parecen favorecer sistemas de Mercedes/BMW</li>
+</ul>
+<div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>Frustración de Usuarios Europeos</div><div class="admonitionContent_BuS1"><p>Propietarios que <strong>pagaron por adelantado FSD</strong> (€6,000-€7,500) llevan <strong>años esperando</strong> sin acceso. Datos muestran que FSD es <strong>7x más seguro</strong> que conducción humana promedio en regiones aprobadas - cada día de demora tiene costos humanos reales.</p></div></div>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="demostraciones-activas-que-muestran-el-potencial">Demostraciones Activas que Muestran el Potencial<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#demostraciones-activas-que-muestran-el-potencial" class="hash-link" aria-label="Enlace directo al Demostraciones Activas que Muestran el Potencial" title="Enlace directo al Demostraciones Activas que Muestran el Potencial" translate="no">​</a></h3>
+<p>A pesar de las restricciones, <strong>Tesla está demostrando FSD Supervised en varios países europeos</strong>:</p>
+<p><strong>Francia (París):</strong></p>
+<ul>
+<li class="">Manejo en <strong>calles estrechas</strong> con tráfico bidireccional</li>
+<li class="">Detección de <strong>señales luminosas</strong> temporales en construcciones</li>
+<li class=""><strong>Visualización 3D en tiempo real</strong> de entorno urbano complejo</li>
+</ul>
+<p><strong>Italia:</strong></p>
+<ul>
+<li class="">Navegación en <strong>centros históricos</strong> con callejones angostos</li>
+<li class="">Interacción con <strong>peatones y scooters</strong> (comunes en ciudades italianas)</li>
+</ul>
+<p><strong>Alemania:</strong></p>
+<ul>
+<li class="">Rendimiento en <strong>Autobahn</strong> a altas velocidades</li>
+<li class=""><strong>Merges agresivos</strong> en tráfico denso</li>
+<li class="">Respeto estricto a <strong>reglas de carril derecho</strong></li>
+</ul>
+<p><strong>Datos Prometedores:</strong></p>
+<ul>
+<li class="">Videos muestran <strong>cero intervenciones críticas</strong> en recorridos urbanos de 30-60 minutos</li>
+<li class="">Sistema responde correctamente a <strong>señalización europea</strong> (diferente a EE.UU.)</li>
+<li class="">Manejo de <strong>rotondas multicarril</strong> sin problemas</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-estados-unidos-v1421-marca-nuevos-estándares-de-seguridad">🇺🇸 Estados Unidos: v14.2.1 Marca Nuevos Estándares de Seguridad<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#-estados-unidos-v1421-marca-nuevos-est%C3%A1ndares-de-seguridad" class="hash-link" aria-label="Enlace directo al 🇺🇸 Estados Unidos: v14.2.1 Marca Nuevos Estándares de Seguridad" title="Enlace directo al 🇺🇸 Estados Unidos: v14.2.1 Marca Nuevos Estándares de Seguridad" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="mejoras-del-80-en-seguridad">Mejoras del 80% en Seguridad<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#mejoras-del-80-en-seguridad" class="hash-link" aria-label="Enlace directo al Mejoras del 80% en Seguridad" title="Enlace directo al Mejoras del 80% en Seguridad" translate="no">​</a></h3>
+<p><strong>Reporte Oficial de Tesla:</strong></p>
+<ul>
+<li class=""><strong>Reducción de crashes:</strong> 80% comparado con conducción humana (excluyendo China)</li>
+<li class=""><strong>Millas diarias en FSD:</strong> 1 millón acumuladas globalmente</li>
+<li class=""><strong>Intervenciones críticas:</strong> Mínimas, con récords de <strong>6,000+ millas consecutivas</strong> sin intervenciones</li>
+</ul>
+<p><strong>Fuente:</strong> <a href="https://www.tesla.com/fsd/safety" target="_blank" rel="noopener noreferrer" class="">tesla.com/fsd/safety</a></p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="edge-cases-extremos-manejados-con-éxito">Edge Cases Extremos Manejados con Éxito<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#edge-cases-extremos-manejados-con-%C3%A9xito" class="hash-link" aria-label="Enlace directo al Edge Cases Extremos Manejados con Éxito" title="Enlace directo al Edge Cases Extremos Manejados con Éxito" translate="no">​</a></h3>
+<p><strong>1. Cortes de Energía Total (San Francisco):</strong></p>
+<p>Un video viral muestra FSD v14.2.1 navegando intersecciones con <strong>todos los semáforos apagados</strong>:</p>
+<ul>
+<li class="">Detecta automáticamente el fallo eléctrico</li>
+<li class="">Trata cada cruce como <strong>stop de 4 vías</strong></li>
+<li class="">Espera turnos apropiados con otros vehículos</li>
+<li class="">Mantiene velocidad reducida en zona afectada</li>
+</ul>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>Superioridad sobre LIDAR</div><div class="admonitionContent_BuS1"><p>Waymo y Cruise <strong>fallaron completamente</strong> en el mismo corte de energía, quedando varados. FSD con <strong>vision-only</strong> continuó operando gracias a su comprensión contextual del entorno, no dependencia de señalización.</p></div></div>
+<p><strong>2. Detección de Ciclistas Ocultos:</strong></p>
+<p>Beta tester <strong>Billy Kyle</strong> documentó:</p>
+<ul>
+<li class="">Ciclista emergiendo desde <strong>ángulo muerto</strong> de vehículo estacionado</li>
+<li class="">FSD detecta al ciclista <strong>antes de que sea visible</strong> para conductor humano</li>
+<li class=""><strong>Frenado preventivo</strong> suave pero decisivo</li>
+<li class="">Evita colisión con margen de segundos</li>
+</ul>
+<p><strong>3. Giros en Reversa Desprotegidos:</strong></p>
+<p><strong>Rustavi</strong> (beta tester reconocido) muestra:</p>
+<ul>
+<li class="">FSD realiza <strong>giro en reversa</strong> en intersección compleja</li>
+<li class="">Coordina con <strong>tráfico cruzado</strong> sin señalización</li>
+<li class="">Mantiene <strong>visibilidad 360°</strong> durante maniobra</li>
+<li class="">Completa giro sin intervención humana</li>
+</ul>
+<p><strong>4. Entrada a Garajes con Barreras:</strong></p>
+<p><strong>ArthurFromX</strong> comparte:</p>
+<ul>
+<li class="">FSD detecta <strong>barrera automática</strong> de estacionamiento</li>
+<li class=""><strong>Espera apertura</strong> sin avanzar prematuramente</li>
+<li class="">Navega <strong>rampa estrecha</strong> con precisión centimétrica</li>
+<li class="">Encuentra espacio de estacionamiento disponible</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fallos-menores-persistentes">Fallos Menores Persistentes<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#fallos-menores-persistentes" class="hash-link" aria-label="Enlace directo al Fallos Menores Persistentes" title="Enlace directo al Fallos Menores Persistentes" translate="no">​</a></h3>
+<p>No todo es perfecto. Reportes incluyen:</p>
+<ul>
+<li class=""><strong>Giros ilegales en rojo</strong> (violación de regla de tráfico)</li>
+<li class=""><strong>Exceso de cautela</strong> en algunos merges (frustrante pero seguro)</li>
+<li class=""><strong>Confusión temporal</strong> en zonas de construcción sin señalización clara</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-comparativa-global-tres-realidades-diferentes">📊 Comparativa Global: Tres Realidades Diferentes<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#-comparativa-global-tres-realidades-diferentes" class="hash-link" aria-label="Enlace directo al 📊 Comparativa Global: Tres Realidades Diferentes" title="Enlace directo al 📊 Comparativa Global: Tres Realidades Diferentes" translate="no">​</a></h2>
+<table><thead><tr><th>Región</th><th>Versión Actual</th><th>Estado Regulatorio</th><th>Nivel de Seguridad</th><th>Restricciones Principales</th></tr></thead><tbody><tr><td><strong>🇺🇸 EE.UU.</strong></td><td>v14.2.1</td><td>✅ Aprobado (supervisado)</td><td>🟢 80% mejor que humanos</td><td>Ninguna (supervisión conductor)</td></tr><tr><td><strong>🇨🇳 China</strong></td><td>v13.2.6</td><td>⚠️ Bloqueado de actualizar</td><td>🟡 Vulnerable en curvas nocturnas</td><td>No puede recibir v14</td></tr><tr><td><strong>🇪🇺 Europa</strong></td><td>Sin acceso</td><td>❌ Estancado UNECE</td><td>⚪ No disponible para evaluar</td><td>Limitado a Level 2, sin cambios de carril autónomos</td></tr></tbody></table>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="timeline-de-aprobaciones-esperadas">Timeline de Aprobaciones Esperadas<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#timeline-de-aprobaciones-esperadas" class="hash-link" aria-label="Enlace directo al Timeline de Aprobaciones Esperadas" title="Enlace directo al Timeline de Aprobaciones Esperadas" translate="no">​</a></h3>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">🇳🇱 Países Bajos   → Febrero 2026 (aprobación nacional RDW)</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">🇩🇪 Alemania       → Q2 2026 (extensión Artículo 39)</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">🇫🇷 Francia        → Q2 2026 (extensión Artículo 39)</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">🇪🇸 España         → Q3 2026 (escenario optimista)</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">🇨🇳 China          → Q1 2026 (si aprueban solicitud actual)</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">🇦🇪 UAE            → Enero 2026 (FSD + autoestacionamiento)</span><br></span></code></pre></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-lecciones-del-accidente-chino">🔍 Lecciones del Accidente Chino<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#-lecciones-del-accidente-chino" class="hash-link" aria-label="Enlace directo al 🔍 Lecciones del Accidente Chino" title="Enlace directo al 🔍 Lecciones del Accidente Chino" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-las-actualizaciones-ota-son-críticas-para-seguridad">1. Las Actualizaciones OTA Son Críticas para Seguridad<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#1-las-actualizaciones-ota-son-cr%C3%ADticas-para-seguridad" class="hash-link" aria-label="Enlace directo al 1. Las Actualizaciones OTA Son Críticas para Seguridad" title="Enlace directo al 1. Las Actualizaciones OTA Son Críticas para Seguridad" translate="no">​</a></h3>
+<p>El accidente en China demuestra que <strong>bloquear actualizaciones es peligroso</strong>:</p>
+<ul>
+<li class="">v14 corrigió específicamente el tipo de fallo que causó este accidente</li>
+<li class="">Cada semana sin actualización expone a usuarios a riesgos evitables</li>
+<li class="">Reguladores deben equilibrar precaución con urgencia de mejoras probadas</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-supervisión-humana-sigue-siendo-obligatoria">2. Supervisión Humana Sigue Siendo Obligatoria<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#2-supervisi%C3%B3n-humana-sigue-siendo-obligatoria" class="hash-link" aria-label="Enlace directo al 2. Supervisión Humana Sigue Siendo Obligatoria" title="Enlace directo al 2. Supervisión Humana Sigue Siendo Obligatoria" translate="no">​</a></h3>
+<p><strong>El conductor tenía responsabilidad:</strong></p>
+<ul>
+<li class="">FSD es <strong>supervisado</strong>, no autónomo</li>
+<li class="">Cruzar líneas dobles amarillas debió disparar <strong>intervención inmediata</strong></li>
+<li class="">La confianza excesiva en versiones imperfectas es peligrosa</li>
+</ul>
+<div class="theme-admonition theme-admonition-danger admonition_xJq3 alert alert--danger"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M5.05.31c.81 2.17.41 3.38-.52 4.31C3.55 5.67 1.98 6.45.9 7.98c-1.45 2.05-1.7 6.53 3.53 7.7-2.2-1.16-2.67-4.52-.3-6.61-.61 2.03.53 3.33 1.94 2.86 1.39-.47 2.3.53 2.27 1.67-.02.78-.31 1.44-1.13 1.81 3.42-.59 4.78-3.42 4.78-5.56 0-2.84-2.53-3.22-1.25-5.61-1.52.13-2.03 1.13-1.89 2.75.09 1.08-1.02 1.8-1.86 1.33-.67-.41-.66-1.19-.06-1.78C8.18 5.31 8.68 2.45 5.05.32L5.03.3l.02.01z"></path></svg></span>Responsabilidad del Conductor</div><div class="admonitionContent_BuS1"><p>Por muy avanzado que sea FSD, <strong>nunca debe considerarse autónomo</strong>. El conductor debe mantener atención constante y estar listo para intervenir en cualquier momento. Este accidente pudo evitarse con supervisión activa.</p></div></div>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-condiciones-nocturnas-siguen-siendo-desafiantes">3. Condiciones Nocturnas Siguen Siendo Desafiantes<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#3-condiciones-nocturnas-siguen-siendo-desafiantes" class="hash-link" aria-label="Enlace directo al 3. Condiciones Nocturnas Siguen Siendo Desafiantes" title="Enlace directo al 3. Condiciones Nocturnas Siguen Siendo Desafiantes" translate="no">​</a></h3>
+<p><strong>Recomendaciones para Usuarios de v13.x:</strong></p>
+<ul>
+<li class=""><strong>Extremar precaución</strong> en curvas nocturnas cerradas</li>
+<li class=""><strong>Reducir confianza</strong> cuando líneas de carril son poco visibles</li>
+<li class=""><strong>Estar listo para intervenir</strong> en carreteras montañosas sin iluminación</li>
+<li class=""><strong>Esperar v14</strong> antes de confiar en escenarios edge nocturnos</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-implicaciones-para-la-comunidad-fsd-españa">🌍 Implicaciones para la Comunidad FSD España<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#-implicaciones-para-la-comunidad-fsd-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al 🌍 Implicaciones para la Comunidad FSD España" title="Enlace directo al 🌍 Implicaciones para la Comunidad FSD España" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-significa-este-accidente-para-europa">¿Qué Significa Este Accidente para Europa?<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#qu%C3%A9-significa-este-accidente-para-europa" class="hash-link" aria-label="Enlace directo al ¿Qué Significa Este Accidente para Europa?" title="Enlace directo al ¿Qué Significa Este Accidente para Europa?" translate="no">​</a></h3>
+<p><strong>Perspectiva Regulatoria:</strong></p>
+<ul>
+<li class="">Este tipo de incidentes <strong>refuerzan argumentos de reguladores cautelosos</strong></li>
+<li class="">Puede retrasar aún más aprobaciones en UNECE</li>
+<li class="">Importancia de datos de seguridad de EE.UU. para contrarrestar narrativa negativa</li>
+</ul>
+<p><strong>Perspectiva Técnica:</strong></p>
+<ul>
+<li class="">v14 ya resolvió estos problemas - Europa recibirá versión superior</li>
+<li class="">Demostraciones en Francia/Italia/Alemania no han mostrado fallos similares</li>
+<li class="">Sistema aprende de <strong>todos los mercados</strong> simultáneamente</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="preparación-para-la-llegada-a-españa">Preparación para la Llegada a España<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#preparaci%C3%B3n-para-la-llegada-a-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Preparación para la Llegada a España" title="Enlace directo al Preparación para la Llegada a España" translate="no">​</a></h3>
+<p><strong>Cuando FSD llegue a España (Q3 2026 estimado):</strong></p>
+<p>✅ <strong>Recibiremos v14 o superior</strong> (no v13 problemática)
+✅ <strong>Datos de seguridad</strong> de millones de millas en otros mercados
+✅ <strong>Aprendizaje</strong> de incidentes como este ya integrado en el modelo
+✅ <strong>Regulación UNECE</strong> que exigirá supervisión humana constante</p>
+<p><strong>Condiciones Españolas a Vigilar:</strong></p>
+<ul>
+<li class=""><strong>Carreteras de montaña</strong> (Pirineos, Sierras, zonas rurales)</li>
+<li class=""><strong>Curvas cerradas nocturnas</strong> (similares al accidente chino)</li>
+<li class=""><strong>Centros históricos</strong> con calles estrechas (Barcelona, Toledo, Sevilla)</li>
+<li class=""><strong>Rotondas complejas</strong> (muy comunes en España)</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-conclusión-transparencia-y-evolución-rápida">🎯 Conclusión: Transparencia y Evolución Rápida<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#-conclusi%C3%B3n-transparencia-y-evoluci%C3%B3n-r%C3%A1pida" class="hash-link" aria-label="Enlace directo al 🎯 Conclusión: Transparencia y Evolución Rápida" title="Enlace directo al 🎯 Conclusión: Transparencia y Evolución Rápida" translate="no">​</a></h2>
+<p>Este accidente en China es un <strong>recordatorio brutal</strong> de que FSD, por avanzado que sea, <strong>no es infalible</strong> y requiere supervisión constante. Pero también revela:</p>
+<ol>
+<li class=""><strong>El problema de bloquear actualizaciones:</strong> v14 pudo haber evitado este accidente</li>
+<li class=""><strong>La importancia de datos globales:</strong> Tesla aprende de cada incidente en cualquier mercado</li>
+<li class=""><strong>El gap regulatorio:</strong> Europa está años atrasada respecto a sistemas que <strong>salvan vidas</strong></li>
+<li class=""><strong>La responsabilidad del conductor:</strong> Ninguna tecnología reemplaza atención humana</li>
+</ol>
+<p><strong>Para la Comunidad FSD España:</strong></p>
+<p>El camino hacia la conducción autónoma no será perfecto. Habrá accidentes, aprendizaje continuo y mejoras iterativas. Pero los datos son claros:</p>
+<ul>
+<li class=""><strong>80% menos accidentes</strong> con v14 en EE.UU.</li>
+<li class=""><strong>7x más seguro</strong> que conductores humanos promedio</li>
+<li class=""><strong>Cero incidentes</strong> en operaciones reguladas de 2025 en California</li>
+</ul>
+<p>Cuando FSD llegue a España, será <strong>una versión mucho más madura</strong> que la que causó este accidente. Nuestra responsabilidad será:</p>
+<ul>
+<li class=""><strong>Supervisión activa</strong> sin importar la confianza en el sistema</li>
+<li class=""><strong>Reportar fallos</strong> para retroalimentación continua</li>
+<li class=""><strong>Educar a otros usuarios</strong> sobre limitaciones reales</li>
+</ul>
+<p><strong>La tecnología mejora cada día. Nuestra vigilancia debe ser constante.</strong></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-fuentes-y-enlaces">📚 Fuentes y Enlaces<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#-fuentes-y-enlaces" class="hash-link" aria-label="Enlace directo al 📚 Fuentes y Enlaces" title="Enlace directo al 📚 Fuentes y Enlaces" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="información-del-accidente">Información del Accidente<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#informaci%C3%B3n-del-accidente" class="hash-link" aria-label="Enlace directo al Información del Accidente" title="Enlace directo al Información del Accidente" translate="no">​</a></h3>
+<ul>
+<li class=""><a href="https://video.twimg.com/amplify_video/2003021171655118848/vid/avc1/320x694/MffAdMFXeasOi942.mp4" target="_blank" rel="noopener noreferrer" class="">Video del accidente en transmisión en vivo (X)</a></li>
+<li class=""><a href="https://x.com/shrmodelx/status/2003021759851671965" target="_blank" rel="noopener noreferrer" class="">Reporte inicial del accidente (JacksonS - X)</a></li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="reportes-de-seguridad">Reportes de Seguridad<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#reportes-de-seguridad" class="hash-link" aria-label="Enlace directo al Reportes de Seguridad" title="Enlace directo al Reportes de Seguridad" translate="no">​</a></h3>
+<ul>
+<li class=""><a href="https://www.tesla.com/fsd/safety" target="_blank" rel="noopener noreferrer" class="">Página oficial de seguridad de Tesla FSD</a></li>
+<li class=""><a href="https://www.tesla.com/fsd/safety" target="_blank" rel="noopener noreferrer" class="">Datos de mejoras del 80% en seguridad</a></li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="noticias-europa">Noticias Europa<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#noticias-europa" class="hash-link" aria-label="Enlace directo al Noticias Europa" title="Enlace directo al Noticias Europa" translate="no">​</a></h3>
+<ul>
+<li class=""><a href="https://electrek.co/2025/11/24/tesla-announces-fsd-approval-europe-february-2026/" target="_blank" rel="noopener noreferrer" class="">Electrek - Aprobación esperada en Europa febrero 2026</a></li>
+<li class=""><a href="https://unece.org/transport/documents/2025/11/working-documents/tf-adas-proposal-new-02-series-amendments-un" target="_blank" rel="noopener noreferrer" class="">Documento UNECE sobre regulaciones</a></li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="videos-de-capacidades-v1421">Videos de Capacidades v14.2.1<a href="https://fsd.pepetox.es/accidente-fsd-china-curva-montana-v13#videos-de-capacidades-v1421" class="hash-link" aria-label="Enlace directo al Videos de Capacidades v14.2.1" title="Enlace directo al Videos de Capacidades v14.2.1" translate="no">​</a></h3>
+<p><strong>Corte de Energía en San Francisco:</strong></p>
+<ul>
+<li class=""><a href="https://video.twimg.com/amplify_video/2003187355956453376/vid/avc1/382x270/rV7DP6YWfxTuDGjQ.mp4" target="_blank" rel="noopener noreferrer" class="">FSD v14 manejando intersecciones sin semáforos (Rustavi)</a></li>
+<li class=""><a href="https://video.twimg.com/amplify_video/2003156797235036163/vid/avc1/480x270/929aceSjH7EjPZ7t.mp4" target="_blank" rel="noopener noreferrer" class="">Resumen corte de energía (Devin Olsen)</a></li>
+</ul>
+<p><strong>Detección Preventiva:</strong></p>
+<ul>
+<li class=""><a href="https://video.twimg.com/amplify_video/2003101064308928512/vid/avc1/480x270/pWxuRWpqDWDPg9th.mp4" target="_blank" rel="noopener noreferrer" class="">Detección de ciclista oculto (Billy Kyle)</a></li>
+</ul>
+<p><strong>Maniobras Complejas:</strong></p>
+<ul>
+<li class=""><a href="https://video.twimg.com/amplify_video/2003038963989118976/vid/avc1/376x270/f4QMH5SpulO80_wC.mp4" target="_blank" rel="noopener noreferrer" class="">Giro en reversa desprotegido (Rustavi)</a></li>
+<li class=""><a href="https://video.twimg.com/amplify_video/2003127069895749632/vid/avc1/320x370/o7FBD3RfvUbRSu4_.mp4" target="_blank" rel="noopener noreferrer" class="">Entrada a garaje con barrera (ArthurFromX)</a></li>
+</ul>
+<hr>
+<p><em>¿Qué opinas del balance entre innovación y seguridad en FSD? ¿Las demoras regulatorias en Europa están justificadas o son excesivas? ¿Deberían los reguladores bloquear actualizaciones que mejoran la seguridad? Comparte tu perspectiva en los comentarios.</em></p>]]></content:encoded>
+            <category>fsd</category>
+            <category>china</category>
+            <category>seguridad</category>
+            <category>v13</category>
+            <category>accidente</category>
+            <category>europa</category>
+            <category>v14</category>
+            <category>regulación</category>
+        </item>
         <item>
             <title><![CDATA[Tesla Inicia Pruebas de FSD Unsupervised en Robotaxis Vacíos en Austin, Texas: Europa y China se Acercan a la Aprobación]]></title>
             <link>https://fsd.pepetox.es/tesla-robotaxis-unsupervised-austin-europa-china</link>
@@ -2478,367 +2745,6 @@ Meses después, en noviembre, todo se formalizó con la autorización oficial de
             <category>europa</category>
             <category>unece-r79</category>
             <category>historia</category>
-        </item>
-        <item>
-            <title><![CDATA[Actualización de Navidad de Tesla 2024: Regalos Tecnológicos y FSD v13.2.2]]></title>
-            <link>https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update</link>
-            <guid>https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update</guid>
-            <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Tesla despliega su Holiday Update 2024 con Apple Watch, mejoras en Sentry Mode, y FSD v13.2.2 para vehículos HW4. Descubre todas las novedades navideñas.]]></description>
-            <content:encoded><![CDATA[<p>Tesla ha lanzado su esperada <strong>Holiday Update 2024</strong>, una tradición anual que trae funciones nuevas y mejoras significativas justo a tiempo para las fiestas. Este año, la actualización viene en dos versiones principales: <strong>2024.44.25.2</strong> para vehículos con Hardware 3 (HW3) y <strong>2024.45.25.5</strong> que combina el Holiday Update con <strong>FSD v13.2.2</strong> para vehículos con Hardware 4 (HW4) y Cybertruck. Analizamos todas las novedades que Tesla ha preparado para cerrar 2024.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="dos-actualizaciones-dos-experiencias">Dos Actualizaciones, Dos Experiencias<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#dos-actualizaciones-dos-experiencias" class="hash-link" aria-label="Enlace directo al Dos Actualizaciones, Dos Experiencias" title="Enlace directo al Dos Actualizaciones, Dos Experiencias" translate="no">​</a></h2>
-<p>Tesla ha optado por una estrategia dual este año, diferenciando las capacidades según el hardware del vehículo:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="para-vehículos-hw3-holiday-update-202444252">Para Vehículos HW3: Holiday Update 2024.44.25.2<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#para-veh%C3%ADculos-hw3-holiday-update-202444252" class="hash-link" aria-label="Enlace directo al Para Vehículos HW3: Holiday Update 2024.44.25.2" title="Enlace directo al Para Vehículos HW3: Holiday Update 2024.44.25.2" translate="no">​</a></h3>
-<p>La actualización base se está desplegando globalmente para la mayoría de los Tesla en circulación:</p>
-<table><thead><tr><th>Característica</th><th>Disponibilidad HW3</th></tr></thead><tbody><tr><td><strong>App Apple Watch</strong></td><td>✅ Sí</td></tr><tr><td><strong>Sentry Mode en teléfono</strong></td><td>✅ Sí</td></tr><tr><td><strong>Rear Cross-Traffic Alert</strong></td><td>✅ Sí</td></tr><tr><td><strong>Rainbow Road (ambient lighting)</strong></td><td>⚠️ Solo Model 3 Highland</td></tr><tr><td><strong>FSD v13.2.2</strong></td><td>❌ No (limitado a HW4)</td></tr></tbody></table>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="para-vehículos-hw4cybertruck-holiday-update-202445255">Para Vehículos HW4/Cybertruck: Holiday Update 2024.45.25.5<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#para-veh%C3%ADculos-hw4cybertruck-holiday-update-202445255" class="hash-link" aria-label="Enlace directo al Para Vehículos HW4/Cybertruck: Holiday Update 2024.45.25.5" title="Enlace directo al Para Vehículos HW4/Cybertruck: Holiday Update 2024.45.25.5" translate="no">​</a></h3>
-<p>Por primera vez, Tesla <strong>combina el Holiday Update con una versión de FSD</strong> en el mismo paquete:</p>
-<table><thead><tr><th>Característica</th><th>Disponibilidad HW4</th></tr></thead><tbody><tr><td><strong>Todas las anteriores</strong></td><td>✅ Sí</td></tr><tr><td><strong>FSD v13.2.2</strong></td><td>✅ Sí</td></tr><tr><td><strong>Cambio automático D/R</strong></td><td>✅ Sí</td></tr><tr><td><strong>Cyber Santa Mode</strong></td><td>✅ Solo Cybertruck</td></tr><tr><td><strong>Custom Wraps visuales</strong></td><td>✅ Solo Cybertruck</td></tr></tbody></table>
-<div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>Advertencia Importante</div><div class="admonitionContent_BuS1"><p>La versión 2024.45.25.5 con FSD v13.2.2 <strong>NO se instalará en todos los vehículos Tesla</strong>. Está limitada exclusivamente a aquellos equipados con <strong>Hardware AI4</strong> (HW4), lo que excluye a la mayoría de Model 3 y Model Y anteriores a 2024.</p></div></div>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="novedades-del-holiday-update-2024">Novedades del Holiday Update 2024<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#novedades-del-holiday-update-2024" class="hash-link" aria-label="Enlace directo al Novedades del Holiday Update 2024" title="Enlace directo al Novedades del Holiday Update 2024" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1--app-para-apple-watch">1. 🍎 App para Apple Watch<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#1--app-para-apple-watch" class="hash-link" aria-label="Enlace directo al 1. 🍎 App para Apple Watch" title="Enlace directo al 1. 🍎 App para Apple Watch" translate="no">​</a></h3>
-<p><strong>Finalmente, control desde tu muñeca:</strong></p>
-<p>Tesla ha lanzado una aplicación oficial para Apple Watch que permite:</p>
-<p>✅ <strong>Control básico del vehículo:</strong></p>
-<ul>
-<li class="">Bloquear/desbloquear puertas</li>
-<li class="">Abrir maleteros (frunk y trunk)</li>
-<li class="">Activar climatización</li>
-<li class="">Controlar carga (iniciar/detener)</li>
-</ul>
-<p>✅ <strong>Información en tiempo real:</strong></p>
-<ul>
-<li class="">Nivel de batería</li>
-<li class="">Estado de carga</li>
-<li class="">Temperatura interior</li>
-<li class="">Ubicación del vehículo</li>
-</ul>
-<p>✅ <strong>Funciones especiales:</strong></p>
-<ul>
-<li class="">Iniciar Light Show directamente desde el reloj</li>
-<li class="">Bocina y luces de emergencia</li>
-<li class="">Summon (donde esté disponible)</li>
-</ul>
-<p><strong>Impacto práctico:</strong>
-Ya no necesitas sacar el teléfono del bolsillo para precalentar el coche antes de salir. Un simple toque en la muñeca y listo.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2--dashcam-y-sentry-mode-en-el-teléfono">2. 📹 Dashcam y Sentry Mode en el Teléfono<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#2--dashcam-y-sentry-mode-en-el-tel%C3%A9fono" class="hash-link" aria-label="Enlace directo al 2. 📹 Dashcam y Sentry Mode en el Teléfono" title="Enlace directo al 2. 📹 Dashcam y Sentry Mode en el Teléfono" translate="no">​</a></h3>
-<p><strong>Visualización de clips sin USB:</strong></p>
-<p>Una de las mejoras más solicitadas por la comunidad. Ahora puedes:</p>
-<p>✅ <strong>Ver clips de Sentry Mode directamente en la app Tesla:</strong></p>
-<ul>
-<li class="">Eventos detectados se muestran con timestamp</li>
-<li class="">Reproductor integrado con controles de video</li>
-<li class="">Descargar clips al teléfono</li>
-<li class="">Compartir directamente desde la app</li>
-</ul>
-<p>✅ <strong>Ver Dashcam en tiempo real:</strong></p>
-<ul>
-<li class="">Stream de video en vivo desde las cámaras del coche</li>
-<li class="">Útil para verificar el entorno antes de acercarte al vehículo</li>
-</ul>
-<p><strong>Antes:</strong></p>
-<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">Incidente → Grabar en USB → Sacar USB → Llevar a ordenador → Ver video</span><br></span></code></pre></div></div>
-<p><strong>Ahora:</strong></p>
-<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">Incidente → Notificación en teléfono → Ver clip inmediatamente</span><br></span></code></pre></div></div>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>Privacidad y Almacenamiento</div><div class="admonitionContent_BuS1"><p>Los clips siguen guardándose en el USB del coche. La app accede a ellos mediante conexión LTE del vehículo, por lo que consume datos del plan del coche. Tesla recomienda WiFi para descargas de múltiples clips.</p></div></div>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3--rear-cross-traffic-alert-mejorado">3. 🚗 Rear Cross-Traffic Alert Mejorado<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#3--rear-cross-traffic-alert-mejorado" class="hash-link" aria-label="Enlace directo al 3. 🚗 Rear Cross-Traffic Alert Mejorado" title="Enlace directo al 3. 🚗 Rear Cross-Traffic Alert Mejorado" translate="no">​</a></h3>
-<p><strong>Detección de tráfico cruzado al salir en reversa:</strong></p>
-<p>Cuando sales de un aparcamiento en reversa (especialmente en parkings donde la visibilidad es limitada), el sistema ahora:</p>
-<p>✅ <strong>Detecta vehículos aproximándose lateralmente</strong>
-✅ <strong>Alerta visual y sonora</strong>
-✅ <strong>Integración con visualización 3D</strong> en pantalla</p>
-<p><strong>Escenario típico:</strong>
-Estás saliendo en reversa de una plaza en supermercado. Un coche pasa por detrás a velocidad. El sistema detecta el peligro y alerta <strong>antes</strong> de que puedas verlo en los espejos.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4--rainbow-road-iluminación-ambiental">4. 🌈 Rainbow Road (Iluminación Ambiental)<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#4--rainbow-road-iluminaci%C3%B3n-ambiental" class="hash-link" aria-label="Enlace directo al 4. 🌈 Rainbow Road (Iluminación Ambiental)" title="Enlace directo al 4. 🌈 Rainbow Road (Iluminación Ambiental)" translate="no">​</a></h3>
-<p><strong>Exclusivo para vehículos con iluminación ambiental:</strong></p>
-<p>Disponible en:</p>
-<ul>
-<li class=""><strong>Tesla Model 3 Highland</strong> (2024+)</li>
-<li class=""><strong>Cybertruck</strong></li>
-</ul>
-<p>Modos de iluminación navideños:</p>
-<ul>
-<li class="">🎅 <strong>Santa Mode</strong>: Rojo y blanco festivo</li>
-<li class="">🌈 <strong>Rainbow Road</strong>: Ciclo de colores estilo Mario Kart</li>
-<li class="">❄️ <strong>Winter</strong>: Tonos azules y blancos</li>
-<li class="">🔥 <strong>Cozy Fire</strong>: Naranjas y rojos cálidos</li>
-</ul>
-<p><strong>Activación:</strong>
-Controles → Luces → Iluminación Ambiental → Seleccionar modo festivo</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="5--exclusivas-del-cybertruck">5. 🎁 Exclusivas del Cybertruck<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#5--exclusivas-del-cybertruck" class="hash-link" aria-label="Enlace directo al 5. 🎁 Exclusivas del Cybertruck" title="Enlace directo al 5. 🎁 Exclusivas del Cybertruck" translate="no">​</a></h3>
-<p><strong>Regalos especiales para propietarios del Cybertruck:</strong></p>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="cyber-santa-mode">Cyber Santa Mode<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#cyber-santa-mode" class="hash-link" aria-label="Enlace directo al Cyber Santa Mode" title="Enlace directo al Cyber Santa Mode" translate="no">​</a></h4>
-<p>Transforma la visualización del vehículo en la pantalla:</p>
-<ul>
-<li class="">Gráfico del Cybertruck con decoración navideña</li>
-<li class="">Efectos de nieve cayendo en la interfaz</li>
-<li class="">Música festiva integrada</li>
-</ul>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="custom-wraps-virtuales">Custom Wraps Virtuales<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#custom-wraps-virtuales" class="hash-link" aria-label="Enlace directo al Custom Wraps Virtuales" title="Enlace directo al Custom Wraps Virtuales" translate="no">​</a></h4>
-<p>Cambia el aspecto visual del Cybertruck en la pantalla:</p>
-<ul>
-<li class="">Wrap de camuflaje</li>
-<li class="">Estilo militar</li>
-<li class="">Edición limitada festiva</li>
-<li class="">Colores personalizados</li>
-</ul>
-<p><strong>Nota:</strong> Estos wraps son <strong>visuales en pantalla</strong>, no cambian el aspecto físico del vehículo.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fsd-v1322-el-regalo-para-hw4">FSD v13.2.2: El Regalo para HW4<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#fsd-v1322-el-regalo-para-hw4" class="hash-link" aria-label="Enlace directo al FSD v13.2.2: El Regalo para HW4" title="Enlace directo al FSD v13.2.2: El Regalo para HW4" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-trae-fsd-v1322">¿Qué Trae FSD v13.2.2?<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#qu%C3%A9-trae-fsd-v1322" class="hash-link" aria-label="Enlace directo al ¿Qué Trae FSD v13.2.2?" title="Enlace directo al ¿Qué Trae FSD v13.2.2?" translate="no">​</a></h3>
-<p>Esta versión, incluida en el Holiday Update <strong>solo para HW4</strong>, introduce mejoras críticas:</p>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="cambio-automático-drivereverse">Cambio Automático Drive/Reverse<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#cambio-autom%C3%A1tico-drivereverse" class="hash-link" aria-label="Enlace directo al Cambio Automático Drive/Reverse" title="Enlace directo al Cambio Automático Drive/Reverse" translate="no">​</a></h4>
-<p><strong>La característica más revolucionaria:</strong></p>
-<p>Antes, el conductor debía cambiar manualmente entre Drive (D) y Reverse (R) durante maniobras de aparcamiento. Con v13.2.2:</p>
-<p>✅ <strong>El sistema cambia automáticamente</strong></p>
-<ul>
-<li class="">Aparcamiento en espacios estrechos con múltiples movimientos</li>
-<li class="">Maniobras de tres puntos autónomas</li>
-<li class="">Corrección de posición sin intervención</li>
-</ul>
-<p><strong>Aplicación práctica:</strong>
-Llegas a un aparcamiento con plazas perpendiculares estrechas. Activas FSD desde Park:</p>
-<ol>
-<li class="">Coche sale de tu garaje (automáticamente)</li>
-<li class="">Conduce hasta destino</li>
-<li class="">Identifica plaza disponible</li>
-<li class=""><strong>Maniobra multi-punto D→R→D→R hasta quedar perfectamente estacionado</strong></li>
-<li class="">Todo sin que toques nada</li>
-</ol>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="park-to-park-mejorado">Park-to-Park Mejorado<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#park-to-park-mejorado" class="hash-link" aria-label="Enlace directo al Park-to-Park Mejorado" title="Enlace directo al Park-to-Park Mejorado" translate="no">​</a></h4>
-<p>El flujo Park-to-Park es ahora más fluido:</p>
-<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">Tu garaje → Salida autónoma → Conducción → Destino →</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">Búsqueda de plaza → Aparcamiento multi-maniobra → ¡Listo!</span><br></span></code></pre></div></div>
-<p><strong>Reportes de usuarios:</strong></p>
-<blockquote>
-<p>"Salí de mi parking subterráneo, condujo 15 km por ciudad, encontró plaza en el centro comercial y aparcó. Solo supervisé, no toqué nada." - Usuario HW4 en X</p>
-</blockquote>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-brecha-hw3-vs-hw4-se-amplía">La Brecha HW3 vs HW4 se Amplía<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#la-brecha-hw3-vs-hw4-se-ampl%C3%ADa" class="hash-link" aria-label="Enlace directo al La Brecha HW3 vs HW4 se Amplía" title="Enlace directo al La Brecha HW3 vs HW4 se Amplía" translate="no">​</a></h3>
-<table><thead><tr><th>Funcionalidad</th><th>HW3 (2024.44.25.2)</th><th>HW4 (2024.45.25.5)</th></tr></thead><tbody><tr><td>FSD Supervisado (donde disponible)</td><td>✅ v12.x (versión anterior)</td><td>✅ v13.2.2 (última)</td></tr><tr><td>Cambio automático D/R</td><td>❌ No</td><td>✅ Sí</td></tr><tr><td>Park-to-Park</td><td>⚠️ Limitado</td><td>✅ Completo</td></tr><tr><td>Velocidad de procesamiento</td><td>Suficiente</td><td>7x más rápida</td></tr><tr><td>Actualizaciones futuras</td><td>Inciertas</td><td>Prioritarias</td></tr></tbody></table>
-<div class="theme-admonition theme-admonition-danger admonition_xJq3 alert alert--danger"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M5.05.31c.81 2.17.41 3.38-.52 4.31C3.55 5.67 1.98 6.45.9 7.98c-1.45 2.05-1.7 6.53 3.53 7.7-2.2-1.16-2.67-4.52-.3-6.61-.61 2.03.53 3.33 1.94 2.86 1.39-.47 2.3.53 2.27 1.67-.02.78-.31 1.44-1.13 1.81 3.42-.59 4.78-3.42 4.78-5.56 0-2.84-2.53-3.22-1.25-5.61-1.52.13-2.03 1.13-1.89 2.75.09 1.08-1.02 1.8-1.86 1.33-.67-.41-.66-1.19-.06-1.78C8.18 5.31 8.68 2.45 5.05.32L5.03.3l.02.01z"></path></svg></span>Preocupación de la Comunidad HW3</div><div class="admonitionContent_BuS1"><p>La decisión de Tesla de <strong>excluir HW3 de FSD v13.2.2</strong> ha generado frustración. Muchos propietarios pagaron $10,000-$15,000 por FSD con la promesa de "todas las funciones futuras". Tesla argumenta limitaciones de hardware, pero la comunidad debate si es técnico o estratégico.</p></div></div>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="despliegue-y-disponibilidad">Despliegue y Disponibilidad<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#despliegue-y-disponibilidad" class="hash-link" aria-label="Enlace directo al Despliegue y Disponibilidad" title="Enlace directo al Despliegue y Disponibilidad" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="timeline-de-distribución">Timeline de Distribución<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#timeline-de-distribuci%C3%B3n" class="hash-link" aria-label="Enlace directo al Timeline de Distribución" title="Enlace directo al Timeline de Distribución" translate="no">​</a></h3>
-<p><strong>Inicio del despliegue:</strong></p>
-<ul>
-<li class="">2 de diciembre de 2024: Primeros vehículos Early Access</li>
-<li class="">10 de diciembre: Rollout masivo HW3 (2024.44.25.2)</li>
-<li class="">22 de diciembre: Rollout HW4/Cybertruck (2024.45.25.5)</li>
-</ul>
-<p><strong>Propagación típica:</strong></p>
-<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">Semana 1: ~5% de la flota</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">Semana 2: ~25% de la flota</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">Semana 3-4: ~75%+ de la flota</span><br></span></code></pre></div></div>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="cómo-verificar-si-tienes-la-actualización">Cómo Verificar si Tienes la Actualización<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#c%C3%B3mo-verificar-si-tienes-la-actualizaci%C3%B3n" class="hash-link" aria-label="Enlace directo al Cómo Verificar si Tienes la Actualización" title="Enlace directo al Cómo Verificar si Tienes la Actualización" translate="no">​</a></h3>
-<p><strong>Método 1: Notificación automática</strong>
-La app Tesla te notificará cuando esté disponible.</p>
-<p><strong>Método 2: Comprobación manual</strong></p>
-<ol>
-<li class="">En el coche: <strong>Controles → Software → Buscar actualizaciones</strong></li>
-<li class="">En la app: <strong>Perfil del vehículo → Software</strong></li>
-</ol>
-<p><strong>Versión esperada:</strong></p>
-<ul>
-<li class="">HW3: <code>2024.44.25.2</code> o superior</li>
-<li class="">HW4: <code>2024.45.25.5</code> o superior</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="funciones-adicionales-en-las-notas-de-lanzamiento">Funciones Adicionales en las Notas de Lanzamiento<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#funciones-adicionales-en-las-notas-de-lanzamiento" class="hash-link" aria-label="Enlace directo al Funciones Adicionales en las Notas de Lanzamiento" title="Enlace directo al Funciones Adicionales en las Notas de Lanzamiento" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="mejoras-de-interfaz">Mejoras de Interfaz<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#mejoras-de-interfaz" class="hash-link" aria-label="Enlace directo al Mejoras de Interfaz" title="Enlace directo al Mejoras de Interfaz" translate="no">​</a></h3>
-<p><strong>Visualización 3D mejorada:</strong></p>
-<ul>
-<li class="">Representación más precisa del entorno</li>
-<li class="">Mejor detección de peatones y ciclistas</li>
-<li class="">Animaciones más fluidas</li>
-</ul>
-<p><strong>Controles de climatización optimizados:</strong></p>
-<ul>
-<li class="">Interfaz rediseñada más intuitiva</li>
-<li class="">Precalentamiento más eficiente</li>
-<li class="">Mejoras en modo "Dog Mode"</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="mejoras-de-seguridad">Mejoras de Seguridad<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#mejoras-de-seguridad" class="hash-link" aria-label="Enlace directo al Mejoras de Seguridad" title="Enlace directo al Mejoras de Seguridad" translate="no">​</a></h3>
-<p><strong>Sistema de cámaras refinado:</strong></p>
-<ul>
-<li class="">Mejor rendimiento en baja luz</li>
-<li class="">Detección mejorada de carriles en lluvia</li>
-<li class="">Calibración automática más rápida tras cambio de neumáticos</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="eficiencia-de-batería">Eficiencia de Batería<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#eficiencia-de-bater%C3%ADa" class="hash-link" aria-label="Enlace directo al Eficiencia de Batería" title="Enlace directo al Eficiencia de Batería" translate="no">​</a></h3>
-<p><strong>Optimizaciones de consumo:</strong></p>
-<ul>
-<li class="">Gestión térmica mejorada en frío extremo</li>
-<li class="">Precondicionamiento de batería más eficiente</li>
-<li class="">Modo "Range" optimizado</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="perspectiva-europea-y-española">Perspectiva Europea y Española<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#perspectiva-europea-y-espa%C3%B1ola" class="hash-link" aria-label="Enlace directo al Perspectiva Europea y Española" title="Enlace directo al Perspectiva Europea y Española" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-llega-a-europa">¿Qué Llega a Europa?<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#qu%C3%A9-llega-a-europa" class="hash-link" aria-label="Enlace directo al ¿Qué Llega a Europa?" title="Enlace directo al ¿Qué Llega a Europa?" translate="no">​</a></h3>
-<p><strong>Funciones disponibles en España:</strong>
-✅ App Apple Watch
-✅ Sentry Mode en teléfono
-✅ Rear Cross-Traffic Alert
-✅ Mejoras de interfaz
-✅ Optimizaciones de batería</p>
-<p><strong>Funciones NO disponibles:</strong>
-❌ FSD v13.2.2 (FSD Supervisado no aprobado en UE)
-❌ Actually Smart Summon
-❌ Park-to-Park autónomo
-❌ Cambio automático D/R para conducción autónoma</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-contexto-regulatorio">El Contexto Regulatorio<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#el-contexto-regulatorio" class="hash-link" aria-label="Enlace directo al El Contexto Regulatorio" title="Enlace directo al El Contexto Regulatorio" translate="no">​</a></h3>
-<p>Las pruebas de FSD en Madrid bajo el programa <strong>ES-AV</strong> continúan, pero estas funciones del Holiday Update requieren aprobación adicional de la UNECE.</p>
-<p><strong>Estado actual:</strong></p>
-<ul>
-<li class=""><strong>Autopilot básico</strong>: ✅ Disponible (cumple R79/R157)</li>
-<li class=""><strong>Navigate on Autopilot</strong>: ✅ Disponible</li>
-<li class=""><strong>FSD Supervisado</strong>: ❌ En pruebas (esperado febrero 2026)</li>
-<li class=""><strong>Smart Summon</strong>: ❌ Bloqueado en Europa</li>
-</ul>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>Paciencia Europea</div><div class="admonitionContent_BuS1"><p>Para los propietarios españoles, el Holiday Update trae mejoras reales pero no las funciones estrella. Las pruebas activas en Madrid son señal positiva, pero la aprobación completa de FSD llevará tiempo. Mientras tanto, disfrutamos del Apple Watch y las mejoras de calidad de vida.</p></div></div>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="reacciones-de-la-comunidad">Reacciones de la Comunidad<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#reacciones-de-la-comunidad" class="hash-link" aria-label="Enlace directo al Reacciones de la Comunidad" title="Enlace directo al Reacciones de la Comunidad" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-positivo">Lo Positivo<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#lo-positivo" class="hash-link" aria-label="Enlace directo al Lo Positivo" title="Enlace directo al Lo Positivo" translate="no">​</a></h3>
-<p><strong>Entusiastas del Apple Watch:</strong></p>
-<blockquote>
-<p>"Por fin puedo precalentar el coche mientras me ato los zapatos. Pequeño detalle, gran mejora de UX." - Propietario Model 3</p>
-</blockquote>
-<p><strong>Usuarios de Sentry Mode:</strong></p>
-<blockquote>
-<p>"Ver clips en la app es GAME CHANGER. Ya pillé a un tipo rayando mi puerta y reporté a policía en 5 minutos." - Propietaria Model Y</p>
-</blockquote>
-<p><strong>Propietarios HW4:</strong></p>
-<blockquote>
-<p>"El Park-to-Park con cambio automático es magia. Parece ciencia ficción." - Propietario Model S HW4</p>
-</blockquote>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-negativo">Lo Negativo<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#lo-negativo" class="hash-link" aria-label="Enlace directo al Lo Negativo" title="Enlace directo al Lo Negativo" translate="no">​</a></h3>
-<p><strong>Propietarios HW3 frustrados:</strong></p>
-<blockquote>
-<p>"Pagué $12k por FSD en 2021. Me prometieron 'todas las funciones'. Ahora resulta que mi hardware es 'insuficiente' tres años después." - Propietario HW3</p>
-</blockquote>
-<p><strong>Críticas a la fragmentación:</strong></p>
-<blockquote>
-<p>"Tesla está creando dos clases de propietarios. Entiendo mejoras de hardware, pero excluir a HW3 de v13.2 cuando v12 funcionaba es cuestionable." - Analista de industria</p>
-</blockquote>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="comparativa-con-holiday-updates-anteriores">Comparativa con Holiday Updates Anteriores<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#comparativa-con-holiday-updates-anteriores" class="hash-link" aria-label="Enlace directo al Comparativa con Holiday Updates Anteriores" title="Enlace directo al Comparativa con Holiday Updates Anteriores" translate="no">​</a></h2>
-<table><thead><tr><th>Año</th><th>Versión</th><th>Funciones Destacadas</th></tr></thead><tbody><tr><td><strong>2024</strong></td><td>2024.44.25</td><td>Apple Watch, Sentry en app, FSD v13.2.2 (HW4)</td></tr><tr><td><strong>2023</strong></td><td>2023.44</td><td>Mejoras visualización, juegos nuevos, Light Show</td></tr><tr><td><strong>2022</strong></td><td>2022.44</td><td>Apple Music, Zoom, mejoras climatización</td></tr><tr><td><strong>2021</strong></td><td>2021.44</td><td>Boom Box, Light Show (original), juegos</td></tr><tr><td><strong>2020</strong></td><td>2020.48</td><td>Boombox, Cold Weather, mejoras UI</td></tr></tbody></table>
-<p><strong>Evolución observable:</strong></p>
-<ul>
-<li class=""><strong>2020-2021</strong>: Focus en entretenimiento (juegos, Boombox)</li>
-<li class=""><strong>2022-2023</strong>: Integración de apps terceras (Apple Music, Zoom)</li>
-<li class=""><strong>2024</strong>: <strong>Utilidad práctica</strong> (Apple Watch) + <strong>FSD avanzado</strong> (v13.2.2)</li>
-</ul>
-<p>El cambio de filosofía es claro: menos "wow factor" y más funcionalidad día a día.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="consejos-para-aprovechar-el-holiday-update">Consejos para Aprovechar el Holiday Update<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#consejos-para-aprovechar-el-holiday-update" class="hash-link" aria-label="Enlace directo al Consejos para Aprovechar el Holiday Update" title="Enlace directo al Consejos para Aprovechar el Holiday Update" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="si-tienes-hw3">Si Tienes HW3<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#si-tienes-hw3" class="hash-link" aria-label="Enlace directo al Si Tienes HW3" title="Enlace directo al Si Tienes HW3" translate="no">​</a></h3>
-<ol>
-<li class="">
-<p><strong>Instala la app Apple Watch</strong> inmediatamente</p>
-<ul>
-<li class="">Configura complicaciones para acceso rápido</li>
-<li class="">Prueba precalentamiento 10 min antes de salir</li>
-</ul>
-</li>
-<li class="">
-<p><strong>Activa Sentry Mode en zonas de riesgo</strong></p>
-<ul>
-<li class="">Revisa clips regularmente desde la app</li>
-<li class="">Configura notificaciones de eventos</li>
-</ul>
-</li>
-<li class="">
-<p><strong>Prueba Rear Cross-Traffic Alert</strong></p>
-<ul>
-<li class="">Especialmente útil en parkings concurridos</li>
-<li class="">Confía en el sistema pero verifica visualmente</li>
-</ul>
-</li>
-</ol>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="si-tienes-hw4">Si Tienes HW4<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#si-tienes-hw4" class="hash-link" aria-label="Enlace directo al Si Tienes HW4" title="Enlace directo al Si Tienes HW4" translate="no">​</a></h3>
-<p><strong>Todo lo anterior +</strong></p>
-<ol start="4">
-<li class="">
-<p><strong>Experimenta con Park-to-Park</strong></p>
-<ul>
-<li class="">Empieza en garaje familiar (entorno conocido)</li>
-<li class="">Progresa a parkings públicos vacíos</li>
-<li class=""><strong>Siempre supervisa</strong>, no es autónomo completo</li>
-</ul>
-</li>
-<li class="">
-<p><strong>Prueba cambio automático D/R</strong></p>
-<ul>
-<li class="">En maniobras de aparcamiento complejas</li>
-<li class="">Observa cómo el coche planifica la maniobra</li>
-</ul>
-</li>
-<li class="">
-<p><strong>Reporta feedback a Tesla</strong></p>
-<ul>
-<li class="">Usa el botón de snapshot para reportar incidentes</li>
-<li class="">Ayudas a mejorar futuras versiones</li>
-</ul>
-</li>
-</ol>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="si-tienes-cybertruck">Si Tienes Cybertruck<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#si-tienes-cybertruck" class="hash-link" aria-label="Enlace directo al Si Tienes Cybertruck" title="Enlace directo al Si Tienes Cybertruck" translate="no">​</a></h3>
-<p><strong>Todo lo anterior +</strong></p>
-<ol start="7">
-<li class="">
-<p><strong>Prueba todos los modos visuales</strong></p>
-<ul>
-<li class="">Cyber Santa Mode para impresionar visitantes</li>
-<li class="">Custom Wraps para personalización</li>
-</ul>
-</li>
-<li class="">
-<p><strong>Experimenta con Rainbow Road</strong></p>
-<ul>
-<li class="">Combínalo con Light Show para efecto completo</li>
-</ul>
-</li>
-</ol>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-futuro-qué-viene-después">El Futuro: ¿Qué Viene Después?<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#el-futuro-qu%C3%A9-viene-despu%C3%A9s" class="hash-link" aria-label="Enlace directo al El Futuro: ¿Qué Viene Después?" title="Enlace directo al El Futuro: ¿Qué Viene Después?" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fsd-v14-en-el-horizonte">FSD v14 en el Horizonte<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#fsd-v14-en-el-horizonte" class="hash-link" aria-label="Enlace directo al FSD v14 en el Horizonte" title="Enlace directo al FSD v14 en el Horizonte" translate="no">​</a></h3>
-<p>Tesla ya está probando internamente <strong>FSD v14</strong>, que promete:</p>
-<ul>
-<li class="">Mejoras en conducción urbana compleja</li>
-<li class="">Mejor manejo de zonas de construcción</li>
-<li class="">Integración con Grok (IA conversacional de X)</li>
-<li class="">Posible soporte para HW3 (sin confirmar)</li>
-</ul>
-<p><strong>Timeline estimado:</strong></p>
-<ul>
-<li class="">Q1 2025: FSD v14 beta testing</li>
-<li class="">Q2 2025: Rollout público (USA)</li>
-<li class="">2026: Posible llegada a Europa (sujeto a regulación)</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="autonomía-completa-nivel-4">Autonomía Completa (Nivel 4)<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#autonom%C3%ADa-completa-nivel-4" class="hash-link" aria-label="Enlace directo al Autonomía Completa (Nivel 4)" title="Enlace directo al Autonomía Completa (Nivel 4)" translate="no">​</a></h3>
-<p>El camino hacia autonomía sin supervisión continúa:</p>
-<p><strong>Hitos pendientes:</strong></p>
-<ol>
-<li class="">✅ Park-to-Park funcional (logrado con v13.2)</li>
-<li class="">✅ Cambio D/R autónomo (logrado con v13.2.2)</li>
-<li class="">🔄 Intervenciones casi cero (en progreso)</li>
-<li class="">⏳ Aprobación regulatoria (esperado 2025-2026)</li>
-<li class="">⏳ Robotaxi sin conductor (anunciado para Austin)</li>
-</ol>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión-un-paso-adelante-desafíos-pendientes">Conclusión: Un Paso Adelante, Desafíos Pendientes<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#conclusi%C3%B3n-un-paso-adelante-desaf%C3%ADos-pendientes" class="hash-link" aria-label="Enlace directo al Conclusión: Un Paso Adelante, Desafíos Pendientes" title="Enlace directo al Conclusión: Un Paso Adelante, Desafíos Pendientes" translate="no">​</a></h2>
-<p>El <strong>Holiday Update 2024</strong> de Tesla representa evolución en dos frentes:</p>
-<p><strong>Funcionalidad práctica universal:</strong>
-La app Apple Watch y Sentry Mode en teléfono son mejoras que <strong>todos</strong> los propietarios apreciarán independientemente del hardware. Son refinamientos de calidad de vida que hacen la propiedad de un Tesla más conveniente.</p>
-<p><strong>Avances de FSD limitados a élite HW4:</strong>
-La inclusión de FSD v13.2.2 con cambio automático D/R es impresionante técnicamente, pero crea una división en la base de usuarios. Propietarios HW3 que pagaron por FSD se sienten justificadamente frustrados.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="reflexión-final">Reflexión Final<a href="https://fsd.pepetox.es/actualizacion-navidad-tesla-2024-holiday-update#reflexi%C3%B3n-final" class="hash-link" aria-label="Enlace directo al Reflexión Final" title="Enlace directo al Reflexión Final" translate="no">​</a></h3>
-<p>Tesla continúa empujando los límites de lo posible en vehículos de consumo. El Holiday Update 2024 no es solo una actualización de software; es una demostración de la ventaja arquitectónica de Tesla: vehículos que <strong>mejoran con el tiempo</strong>.</p>
-<p>Para propietarios españoles, es un recordatorio agridulce: la tecnología avanza rápidamente, pero la regulación europea va a su propio ritmo. Disfrutamos las mejoras disponibles mientras esperamos pacientemente las capacidades completas que nuestros vehículos técnicamente ya poseen.</p>
-<p><strong>El regalo de Tesla esta Navidad no es solo código nuevo, es la promesa de que tu coche de 2023 puede tener funciones de 2024, y las que vendrán en 2025, 2026...</strong></p>
-<hr>
-<p><strong>Fuentes y Referencias:</strong></p>
-<ul>
-<li class=""><a href="https://www.autoevolution.com/news/tesla-rolls-out-2024-holiday-update-fsd-subscribers-again-left-in-the-cold-for-now-243803.html" target="_blank" rel="noopener noreferrer" class="">Tesla Rolls Out 2024 Holiday Update - autoevolution</a></li>
-<li class=""><a href="https://arcoche.com/blogs/tesla-news/tesla-fsd-v13-2-2-launches-with-holiday-update-features-now-available-for-hw4-models" target="_blank" rel="noopener noreferrer" class="">Tesla FSD V13.2.2 Launches with Holiday Update Features - Arcoche</a></li>
-<li class=""><a href="https://www.teslaoracle.com/2024/12/22/hw4-teslas-and-cybertruck-get-holiday-update-2024-45-25-5-and-fsd-v13-2-2-release-notes/" target="_blank" rel="noopener noreferrer" class="">HW4 Teslas and Cybertruck get Holiday Update 2024.45.25.5 - Tesla Oracle</a></li>
-<li class=""><a href="https://www.teslaoracle.com/2024/12/02/2024-tesla-holiday-update-rollout-begins-next-week-apple-watch-app-new-features-release-notes/" target="_blank" rel="noopener noreferrer" class="">Tesla Holiday Update 2024 Complete Release Notes - Tesla Oracle</a></li>
-<li class=""><a href="https://www.autoevolution.com/news/tesla-bundles-fsd-v13-with-holiday-update-for-the-first-time-but-there-s-a-caveat-244524.html" target="_blank" rel="noopener noreferrer" class="">Tesla Bundles FSD V13 With Holiday Update - autoevolution</a></li>
-</ul>
-<p><em>¿Ya recibiste el Holiday Update? ¿Qué función te está gustando más? ¿Tienes HW3 o HW4? Comparte tu experiencia en los comentarios.</em></p>]]></content:encoded>
-            <category>tesla</category>
-            <category>holiday-update</category>
-            <category>fsd</category>
-            <category>v13</category>
-            <category>apple-watch</category>
-            <category>cybertruck</category>
         </item>
     </channel>
 </rss>
