@@ -34,6 +34,63 @@
         <category label="v14" term="v14"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[La España Vaciada: La Frontera Final para el FSD de Tesla]]></title>
+        <id>https://fsd.pepetox.es/espana-vaciada-desafio-fsd-rural</id>
+        <link href="https://fsd.pepetox.es/espana-vaciada-desafio-fsd-rural"/>
+        <updated>2026-01-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Más allá de la M-30: Analizamos cómo la red neuronal de Tesla se enfrenta al caos ordenado de las carreteras rurales españolas, tractores y vías sin pintar.]]></summary>
+        <content type="html"><![CDATA[<p>Imagina la escena: Un Tesla Model Y con la última beta de FSD v14 avanza por una carretera secundaria en la provincia de Soria. No hay línea central pintada, los bordes del asfalto se desmoronan hacia una cuneta de tierra, y a la vuelta de la curva, un tractor John Deere ocupa el 70% del ancho disponible a 20 km/h.</p>
+<p>Mientras Silicon Valley celebra giros perfectos en las amplias avenidas de San Francisco, y Madrid pone a prueba el sistema en la Castellana, el verdadero examen de doctorado para la Inteligencia Artificial de Tesla está aquí, en la <strong>España Vaciada</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-desafío-de-la-carretera-sin-pintar">El Desafío de la "Carretera Sin Pintar"<a href="https://fsd.pepetox.es/espana-vaciada-desafio-fsd-rural#el-desaf%C3%ADo-de-la-carretera-sin-pintar" class="hash-link" aria-label="Enlace directo al El Desafío de la &quot;Carretera Sin Pintar&quot;" title="Enlace directo al El Desafío de la &quot;Carretera Sin Pintar&quot;" translate="no">​</a></h2>
+<p>La mayoría de los sistemas ADAS (Sistemas Avanzados de Asistencia al Conductor) tradicionales dependen de una premisa básica: <strong>líneas</strong>. El <em>Lane Keep Assist</em> busca líneas blancas para mantenerte en el centro. Pero, ¿qué pasa cuando las líneas desaparecen?</p>
+<p>En la España rural, miles de kilómetros de vías terciarias carecen de marcas viales claras. Para un humano, es intuitivo: "mantente a la derecha, pero no te caigas a la cuneta". Para una IA clásica basada en reglas, es una pesadilla computacional.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-solución-occupancy-networks-redes-de-ocupación">La Solución: Occupancy Networks (Redes de Ocupación)<a href="https://fsd.pepetox.es/espana-vaciada-desafio-fsd-rural#la-soluci%C3%B3n-occupancy-networks-redes-de-ocupaci%C3%B3n" class="hash-link" aria-label="Enlace directo al La Solución: Occupancy Networks (Redes de Ocupación)" title="Enlace directo al La Solución: Occupancy Networks (Redes de Ocupación)" translate="no">​</a></h3>
+<p>Aquí es donde brilla la arquitectura moderna del FSD (v12 en adelante). En lugar de buscar líneas rígidas, el coche utiliza <strong>Occupancy Networks</strong>.</p>
+<p>Imagina que el coche construye un modelo 3D del mundo en tiempo real con bloques de Lego (voxels).</p>
+<ul>
+<li class=""><strong>Voxel Rojo:</strong> Obstáculo (muro, coche, árbol).</li>
+<li class=""><strong>Voxel Azul:</strong> Espacio conducibles (asfalto, tierra compacta).</li>
+</ul>
+<p>El FSD no piensa en "carriles", piensa en <strong>"espacio navegable"</strong>. En una carretera rural de Albacete, la red neuronal infiere un "carril virtual" basándose en el ancho de la carretera y la posición teórica que debería ocupar, incluso si no hay una sola gota de pintura en el suelo.</p>
+<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Dato Técnico</div><div class="admonitionContent_BuS1"><p>Las versiones más recientes del FSD han demostrado la capacidad de echarse al arcén (incluso pisando tierra) para ceder el paso a vehículos anchos en carreteras estrechas, un comportamiento puramente aprendido de datos humanos, no programado explícitamente.</p></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="tractores-rebaños-y-ciclistas-de-fin-de-semana">Tractores, Rebaños y Ciclistas de Fin de Semana<a href="https://fsd.pepetox.es/espana-vaciada-desafio-fsd-rural#tractores-reba%C3%B1os-y-ciclistas-de-fin-de-semana" class="hash-link" aria-label="Enlace directo al Tractores, Rebaños y Ciclistas de Fin de Semana" title="Enlace directo al Tractores, Rebaños y Ciclistas de Fin de Semana" translate="no">​</a></h2>
+<p>La orografía rural española presenta "Edge Cases" (casos límite) que son raros en las autopistas de California:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-el-factor-agrícola">1. El Factor Agrícola<a href="https://fsd.pepetox.es/espana-vaciada-desafio-fsd-rural#1-el-factor-agr%C3%ADcola" class="hash-link" aria-label="Enlace directo al 1. El Factor Agrícola" title="Enlace directo al 1. El Factor Agrícola" translate="no">​</a></h3>
+<p>Un tractor con un apero ancho puede invadir el carril contrario. El FSD debe decidir:</p>
+<ul>
+<li class="">¿Freno y espero?</li>
+<li class="">¿Hay visibilidad suficiente para adelantar pisando la línea discontinua (si existe)?</li>
+<li class="">¿Se está apartando el tractor para dejarme pasar?</li>
+</ul>
+<p>La <strong>v14</strong> ha mejorado drásticamente en la "negociación" con otros actores, entendiendo el lenguaje corporal del otro vehículo. Pero un tractor en una curva ciega sigue siendo un desafío de percepción crítico.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-el-pelotón-ciclista">2. El Pelotón Ciclista<a href="https://fsd.pepetox.es/espana-vaciada-desafio-fsd-rural#2-el-pelot%C3%B3n-ciclista" class="hash-link" aria-label="Enlace directo al 2. El Pelotón Ciclista" title="Enlace directo al 2. El Pelotón Ciclista" translate="no">​</a></h3>
+<p>España es país de ciclismo. Los domingos, las carreteras secundarias se llenan de pelotones. La regulación exige dejar 1.5 metros de separación.
+El FSD de Tesla ya identifica ciclistas con gran precisión, pero la maniobra de adelantamiento en una carretera estrecha de doble sentido requiere una "audacia calculada" que la IA debe equilibrar con la seguridad extrema.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-trampa-regulatoria-r79-vs-realidad">La Trampa Regulatoria: R79 vs. Realidad<a href="https://fsd.pepetox.es/espana-vaciada-desafio-fsd-rural#la-trampa-regulatoria-r79-vs-realidad" class="hash-link" aria-label="Enlace directo al La Trampa Regulatoria: R79 vs. Realidad" title="Enlace directo al La Trampa Regulatoria: R79 vs. Realidad" translate="no">​</a></h2>
+<p>Aquí chocamos de nuevo con la burocracia europea. La regulación <strong>UNECE R79</strong>, que ha gobernado los asistentes de dirección durante años, se basa fundamentalmente en la detección de carriles.</p>
+<p>Históricamente, si el coche no veía líneas, el sistema se desactivaba o limitaba su funcionalidad. Esto hacía que el Autopilot básico fuera inútil en muchas carreteras secundarias españolas.</p>
+<p><strong>La esperanza se llama DCAS (Driver Control Assistance Systems):</strong>
+La nueva normativa que se está cocinando en Ginebra es "agnóstica" respecto a la tecnología. Si el fabricante puede demostrar que el coche puede navegar de forma segura sin líneas (usando visión artificial), la regulación debería permitirlo. Esto es vital para que el FSD sea un producto útil en toda España, no solo en autopistas de peaje.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-es-importante-para-el-futuro">¿Por qué es importante para el futuro?<a href="https://fsd.pepetox.es/espana-vaciada-desafio-fsd-rural#por-qu%C3%A9-es-importante-para-el-futuro" class="hash-link" aria-label="Enlace directo al ¿Por qué es importante para el futuro?" title="Enlace directo al ¿Por qué es importante para el futuro?" translate="no">​</a></h2>
+<p>Si Tesla quiere resolver la conducción autónoma completa (Nivel 4/5), no puede limitarse a las ciudades y autopistas. El transporte puerta a puerta implica llegar a la casa rural en los Picos de Europa o a la cooperativa agrícola en Extremadura.</p>
+<p>La <strong>España Vaciada</strong> ofrece, paradójicamente, el mejor entorno de entrenamiento para una IA robusta. Si el coche puede entender una carretera gallega con niebla, sin líneas y con vegetación invadiendo la calzada, puede conducir en cualquier lugar del mundo.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-veredicto">El Veredicto<a href="https://fsd.pepetox.es/espana-vaciada-desafio-fsd-rural#el-veredicto" class="hash-link" aria-label="Enlace directo al El Veredicto" title="Enlace directo al El Veredicto" translate="no">​</a></h3>
+<p>Mientras esperamos la llegada oficial, los videos de pruebas (Beta testers) en carreteras rurales de Estados Unidos (que comparten similitudes con las nuestras) son prometedores. El coche ya no busca líneas; busca el camino. Y en la España rural, a veces, el camino se hace al andar.</p>
+<hr>
+<p><em>¿Vives en una zona rural? ¿Cómo crees que se comportaría el FSD en las carreteras de tu pueblo? Déjanos tus comentarios en nuestras redes.</em></p>]]></content>
+        <author>
+            <name>FSD Spain</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="rural" term="rural"/>
+        <category label="españa vaciada" term="españa vaciada"/>
+        <category label="tecnologia" term="tecnologia"/>
+        <category label="inteligencia artificial" term="inteligencia artificial"/>
+        <category label="carreteras secundarias" term="carreteras secundarias"/>
+        <category label="unece" term="unece"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tesla Completa el Primer Viaje Coast-to-Coast con FSD Supervised Sin Intervenciones Humanas]]></title>
         <id>https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones</id>
         <link href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones"/>
@@ -3050,117 +3107,5 @@ Meses después, en noviembre, todo se formalizó con la autorización oficial de
         <category label="ai4" term="ai4"/>
         <category label="tecnología" term="tecnología"/>
         <category label="obsolescencia" term="obsolescencia"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De C++ a Neuronas: Entendiendo la Revolución End-to-End]]></title>
-        <id>https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13</id>
-        <link href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13"/>
-        <updated>2025-01-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Explicación accesible del cambio de paradigma de Tesla: cómo el FSD pasó de código programado a redes neuronales que aprenden a conducir mirando vídeos.]]></summary>
-        <content type="html"><![CDATA[<p>El FSD de Tesla ha experimentado la transformación más radical de su historia. Con las versiones v12 y v13, Tesla ha abandonado cientos de miles de líneas de código escritas por humanos para sustituirlas por una red neuronal que aprende a conducir... mirando vídeos de conductores reales. Este es el cambio más importante en la historia de la conducción autónoma, y merece una explicación detallada.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-viejo-mundo-código-ifthen">El viejo mundo: código "if/then"<a href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13#el-viejo-mundo-c%C3%B3digo-ifthen" class="hash-link" aria-label="Enlace directo al El viejo mundo: código &quot;if/then&quot;" title="Enlace directo al El viejo mundo: código &quot;if/then&quot;" translate="no">​</a></h2>
-<p>Hasta la versión 11 del FSD, el software de Tesla funcionaba con una arquitectura híbrida:</p>
-<ol>
-<li class=""><strong>Redes neuronales para la percepción</strong>: Identificar objetos (coches, peatones, señales)</li>
-<li class=""><strong>Código C++ para la decisión</strong>: Reglas escritas por humanos sobre qué hacer</li>
-</ol>
-<p>Imagina que eres un ingeniero de Tesla y tienes que programar el comportamiento ante un stop:</p>
-<div class="language-cpp codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-cpp codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token keyword" style="color:rgb(189, 147, 249);font-style:italic">if</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token plain">detectSignal </span><span class="token operator">==</span><span class="token plain"> STOP_SIGN</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token function" style="color:rgb(80, 250, 123)">slowDown</span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token keyword" style="color:rgb(189, 147, 249);font-style:italic">if</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token plain">distanceToSign </span><span class="token operator">&lt;</span><span class="token plain"> </span><span class="token number">5</span><span class="token plain">m</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">        </span><span class="token function" style="color:rgb(80, 250, 123)">fullStop</span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">        </span><span class="token function" style="color:rgb(80, 250, 123)">waitSeconds</span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token number">3</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">        </span><span class="token keyword" style="color:rgb(189, 147, 249);font-style:italic">if</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token function" style="color:rgb(80, 250, 123)">intersectionClear</span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">            </span><span class="token function" style="color:rgb(80, 250, 123)">proceed</span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">        </span><span class="token punctuation" style="color:rgb(248, 248, 242)">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token punctuation" style="color:rgb(248, 248, 242)">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain"></span><span class="token punctuation" style="color:rgb(248, 248, 242)">}</span><br></span></code></pre></div></div>
-<p>Parece sencillo, ¿verdad? Ahora imagina que tienes que escribir reglas para:</p>
-<ul>
-<li class="">Un stop parcialmente oculto por un árbol</li>
-<li class="">Un stop en una rotonda mal señalizada</li>
-<li class="">Un policía haciendo señales que contradicen el stop</li>
-<li class="">Un stop en una calle de un solo sentido con coches aparcados en doble fila</li>
-</ul>
-<p>Cada situación requería más código, más reglas, más excepciones. El resultado: <strong>más de 300.000 líneas de código C++</strong> intentando cubrir la infinita variabilidad del mundo real.</p>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>El problema fundamental</div><div class="admonitionContent_BuS1"><p>El mundo real no sigue reglas. Los humanos no conducimos con un manual de "if/then" en la cabeza. Conducimos con intuición, experiencia y adaptación constante.</p></div></div>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-nuevo-paradigma-photon-to-control">El nuevo paradigma: Photon-to-Control<a href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13#el-nuevo-paradigma-photon-to-control" class="hash-link" aria-label="Enlace directo al El nuevo paradigma: Photon-to-Control" title="Enlace directo al El nuevo paradigma: Photon-to-Control" translate="no">​</a></h2>
-<p>Con la v12, Tesla dio un salto conceptual radical. En lugar de programar reglas, entrenaron una red neuronal masiva con un objetivo simple:</p>
-<p><strong>Entrada</strong>: Fotones (vídeo de las 8 cámaras del coche)
-<strong>Salida</strong>: Controles (ángulo del volante, posición de pedales)</p>
-<p>No hay reglas intermedias. No hay código que diga "si ves un stop, para". La red neuronal ha visto millones de veces a humanos parando en stops y ha <strong>aprendido el patrón</strong>.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="cómo-aprende">¿Cómo aprende?<a href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13#c%C3%B3mo-aprende" class="hash-link" aria-label="Enlace directo al ¿Cómo aprende?" title="Enlace directo al ¿Cómo aprende?" translate="no">​</a></h3>
-<p>Tesla tiene la mayor flota de vehículos conectados del mundo. Cada Tesla con cámaras está potencialmente grabando cómo conducen sus propietarios. Este vídeo se usa para entrenar la red:</p>
-<ol>
-<li class=""><strong>El humano conduce</strong>: El coche graba vídeo + acciones del conductor</li>
-<li class=""><strong>La IA observa</strong>: La red neuronal procesa millones de horas de conducción</li>
-<li class=""><strong>Aprende patrones</strong>: No reglas explícitas, sino comportamientos emergentes</li>
-<li class=""><strong>Reproduce</strong>: Cuando ve una situación similar, replica lo que haría un humano</li>
-</ol>
-<p>Es como enseñar a un niño a montar en bici mostrándole miles de vídeos, en lugar de darle un manual de física.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-eliminación-de-300000-líneas-de-código">La eliminación de 300.000 líneas de código<a href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13#la-eliminaci%C3%B3n-de-300000-l%C3%ADneas-de-c%C3%B3digo" class="hash-link" aria-label="Enlace directo al La eliminación de 300.000 líneas de código" title="Enlace directo al La eliminación de 300.000 líneas de código" translate="no">​</a></h2>
-<p>El resultado más visible de este cambio fue dramático: Tesla eliminó <strong>más de 300.000 líneas de código humano</strong> del FSD. Todo ese trabajo de años de ingenieros programando reglas quedó obsoleto.</p>
-<table><thead><tr><th>Aspecto</th><th>FSD v11 (Híbrido)</th><th>FSD v12/v13 (End-to-End)</th></tr></thead><tbody><tr><td>Percepción</td><td>Red neuronal</td><td>Red neuronal</td></tr><tr><td>Planificación</td><td>Código C++</td><td>Red neuronal</td></tr><tr><td>Control</td><td>Código C++</td><td>Red neuronal</td></tr><tr><td>Líneas de código</td><td>~300.000+</td><td>Prácticamente cero</td></tr><tr><td>Actualización</td><td>Programadores escriben reglas</td><td>La red se re-entrena con datos</td></tr></tbody></table>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-importa-esto-para-europa">¿Por qué importa esto para Europa?<a href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13#por-qu%C3%A9-importa-esto-para-europa" class="hash-link" aria-label="Enlace directo al ¿Por qué importa esto para Europa?" title="Enlace directo al ¿Por qué importa esto para Europa?" translate="no">​</a></h2>
-<p>Aquí está el punto crucial para los lectores españoles: <strong>el sistema end-to-end necesita entrenamiento local</strong>.</p>
-<p>Los conductores californianos conducen diferente a los madrileños. Las rotondas españolas no existen en Los Ángeles. La señalización vertical francesa es distinta a la americana. El "caos organizado" de una calle estrecha en el centro de Sevilla no tiene equivalente en las amplias avenidas de Phoenix.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-euro-net">La "Euro-Net"<a href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13#la-euro-net" class="hash-link" aria-label="Enlace directo al La &quot;Euro-Net&quot;" title="Enlace directo al La &quot;Euro-Net&quot;" translate="no">​</a></h3>
-<p>Tesla está trabajando en lo que internamente se conoce como entrenamiento específico para Europa. Esto implica:</p>
-<ol>
-<li class=""><strong>Recopilación de datos</strong>: Los Tesla europeos ya están enviando vídeos de conducción</li>
-<li class=""><strong>Entrenamiento diferenciado</strong>: Redes neuronales específicas para comportamientos europeos</li>
-<li class=""><strong>Validación local</strong>: Pruebas en condiciones reales (como las que vemos en Madrid)</li>
-</ol>
-<p>Las pruebas del FSD en España no son solo para cumplir con la DGT. Son para <strong>enseñarle a la IA cómo se conduce aquí</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="las-mejoras-de-la-v13">Las mejoras de la v13<a href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13#las-mejoras-de-la-v13" class="hash-link" aria-label="Enlace directo al Las mejoras de la v13" title="Enlace directo al Las mejoras de la v13" translate="no">​</a></h2>
-<p>La versión 13 del FSD representa una refinación significativa del paradigma end-to-end:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="simplificación-del-pipeline-de-datos">Simplificación del pipeline de datos<a href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13#simplificaci%C3%B3n-del-pipeline-de-datos" class="hash-link" aria-label="Enlace directo al Simplificación del pipeline de datos" title="Enlace directo al Simplificación del pipeline de datos" translate="no">​</a></h3>
-<p>Ingenieros de Tesla han comparado la reescritura de la v13 con la evolución de los motores Raptor de SpaceX: una simplificación drástica que permite mayor velocidad y fiabilidad.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="park-to-park">Park-to-Park<a href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13#park-to-park" class="hash-link" aria-label="Enlace directo al Park-to-Park" title="Enlace directo al Park-to-Park" translate="no">​</a></h3>
-<p>Una de las capacidades más impresionantes de la v13 es el <strong>Park-to-Park (P2P)</strong>:</p>
-<ul>
-<li class="">El coche sale de una plaza de aparcamiento</li>
-<li class="">Navega hasta la vía pública</li>
-<li class="">Conduce hasta el destino</li>
-<li class="">Busca aparcamiento autónomamente</li>
-<li class="">Aparca solo (incluyendo cambios de marcha D/R)</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="conducción-más-humana">Conducción más "humana"<a href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13#conducci%C3%B3n-m%C3%A1s-humana" class="hash-link" aria-label="Enlace directo al Conducción más &quot;humana&quot;" title="Enlace directo al Conducción más &quot;humana&quot;" translate="no">​</a></h3>
-<p>Los usuarios reportan que la v13 conduce de forma más natural:</p>
-<ul>
-<li class=""><strong>"Creeping"</strong> en intersecciones: Avanza lentamente para ver mejor, como haría un humano</li>
-<li class="">Negociación de espacios estrechos más fluida</li>
-<li class="">Menos frenadas bruscas e innecesarias</li>
-<li class="">Mejor comprensión del contexto social del tráfico</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-reto-de-escalar-globalmente">El reto de escalar globalmente<a href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13#el-reto-de-escalar-globalmente" class="hash-link" aria-label="Enlace directo al El reto de escalar globalmente" title="Enlace directo al El reto de escalar globalmente" translate="no">​</a></h2>
-<p>Aunque el paradigma end-to-end es revolucionario, presenta desafíos únicos para la expansión internacional:</p>
-<ol>
-<li class=""><strong>Datos locales</strong>: Necesita millones de kilómetros de conducción local</li>
-<li class=""><strong>Validación regulatoria</strong>: Cada país quiere ver pruebas en sus carreteras</li>
-<li class=""><strong>Casos extremos</strong>: Las situaciones raras (obras, accidentes, condiciones climáticas) son difíciles de entrenar</li>
-</ol>
-<p>Para Europa, esto significa que aunque la tecnología de base es la misma que funciona en EE.UU., el <strong>modelo específico europeo</strong> llevará tiempo de desarrollo y validación adicional.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="implicaciones-para-el-propietario-español">Implicaciones para el propietario español<a href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13#implicaciones-para-el-propietario-espa%C3%B1ol" class="hash-link" aria-label="Enlace directo al Implicaciones para el propietario español" title="Enlace directo al Implicaciones para el propietario español" translate="no">​</a></h2>
-<p>Si tienes un Tesla en España, esto es lo que significa el cambio a end-to-end:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-positivo">Lo positivo<a href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13#lo-positivo" class="hash-link" aria-label="Enlace directo al Lo positivo" title="Enlace directo al Lo positivo" translate="no">​</a></h3>
-<ul>
-<li class="">Cuando llegue, el comportamiento será más natural y fluido</li>
-<li class="">El sistema mejorará constantemente con los datos de tu conducción</li>
-<li class="">Las actualizaciones traerán mejoras reales, no solo parches</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-menos-positivo">Lo menos positivo<a href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13#lo-menos-positivo" class="hash-link" aria-label="Enlace directo al Lo menos positivo" title="Enlace directo al Lo menos positivo" translate="no">​</a></h3>
-<ul>
-<li class="">El entrenamiento europeo va retrasado respecto al americano</li>
-<li class="">Tu hardware (HW3 vs HW4) puede limitar la experiencia</li>
-<li class="">No hay fecha concreta de llegada</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
-<p>El cambio de código C++ a redes neuronales end-to-end es el equivalente a pasar de calcular trayectorias de cohetes a mano a dejar que una IA las optimice. Es un salto fundamental en cómo pensamos sobre la conducción autónoma.</p>
-<p>Para Europa, el reto ahora no es solo regulatorio (aunque lo es). Es también <strong>de datos</strong>: Tesla necesita que sus coches europeos "enseñen" a la IA cómo se conduce aquí. Las pruebas en Madrid son parte de ese proceso.</p>
-<p>La buena noticia es que el paradigma end-to-end escala mejor que el código manual. Una vez que la red neuronal europea esté entrenada y validada, las mejoras vendrán más rápido que nunca. La mala noticia es que ese "una vez" sigue sin tener fecha.</p>
-<hr>
-<p><em>¿Te interesa profundizar en los aspectos técnicos del FSD? ¿Quieres que expliquemos conceptos como backpropagation, transformers o aprendizaje por refuerzo? Déjanos saber en los comentarios.</em></p>]]></content>
-        <author>
-            <name>FSD Spain</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="fsd" term="fsd"/>
-        <category label="inteligencia-artificial" term="inteligencia-artificial"/>
-        <category label="end-to-end" term="end-to-end"/>
-        <category label="tecnología" term="tecnología"/>
-        <category label="v12" term="v12"/>
-        <category label="v13" term="v13"/>
     </entry>
 </feed>
