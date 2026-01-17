@@ -31,6 +31,48 @@
             <category>v14</category>
         </item>
         <item>
+            <title><![CDATA[The M-30 Challenge: Why Vision-Only Must Master the Underground]]></title>
+            <link>https://fsd.pepetox.es/m30-challenge-vision-only-tunnels</link>
+            <guid>https://fsd.pepetox.es/m30-challenge-vision-only-tunnels</guid>
+            <pubDate>Sat, 17 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The GPS arrow freezes. The "Navigation" line on the screen turns gray. You are travelling at 70 km/h, deep in the belly of Madrid, surrounded by concrete walls and merging traffic from both sides.]]></description>
+            <content:encoded><![CDATA[<p>The GPS arrow freezes. The "Navigation" line on the screen turns gray. You are travelling at 70 km/h, deep in the belly of Madrid, surrounded by concrete walls and merging traffic from both sides.</p>
+<p>Welcome to the <strong>M-30 Tunnels</strong>: the ultimate exam for Tesla's Vision-Only architecture.</p>
+<p>While the wide highways of California or the flat plains of the Netherlands offer ideal conditions for Full Self-Driving (FSD), Madrid's underground labyrinth represents a unique edge case that combines technical hostility with regulatory ambiguity. If Tesla wants to unlock the full potential of DCAS Phase 3 in Europe, it doesn't just need to handle roundabouts—it needs to conquer the dark.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-dead-reckoning-problem">The "Dead Reckoning" Problem<a href="https://fsd.pepetox.es/m30-challenge-vision-only-tunnels#the-dead-reckoning-problem" class="hash-link" aria-label="Enlace directo al The &quot;Dead Reckoning&quot; Problem" title="Enlace directo al The &quot;Dead Reckoning&quot; Problem" translate="no">​</a></h2>
+<p>For years, autonomous systems relied heavily on HD Maps and precise GPS triangulation. The logic was simple: if the car knows <em>exactly</em> where it is (down to the centimeter), it knows which lane to be in.</p>
+<p>But in the M-30, GPS signals die instantly.</p>
+<p>In the past (Legacy Autopilot), the car would switch to <strong>Dead Reckoning</strong>—estimating its position based on wheel rotation and steering angle. It was a mathematical guess. After 2 kilometers underground, that guess could drift by meters, leading to missed exits or panicked lane changes.</p>
+<p>With <strong>End-to-End Neural Networks</strong> (v12 and beyond), the paradigm shifted. The car <em>shouldn't</em> need to know its GPS coordinate to drive. It should drive like a human: "I see the sign for A-3 on the right, I see the lane lines, I go there."</p>
+<blockquote>
+<p><strong>Reality Check:</strong> In recent testing with v13.x in Europe, we've seen FSD struggle to distinguish between the complex signage of the M-30 underground exits. The "Vision" is perfect, but the "Planning" (the reasoning) sometimes hesitates when the map data contradicts the visual reality.</p>
+</blockquote>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-regulatory-gray-zone">A Regulatory Gray Zone<a href="https://fsd.pepetox.es/m30-challenge-vision-only-tunnels#a-regulatory-gray-zone" class="hash-link" aria-label="Enlace directo al A Regulatory Gray Zone" title="Enlace directo al A Regulatory Gray Zone" translate="no">​</a></h2>
+<p>We talk a lot about <strong>UNECE Regulation 171 (DCAS)</strong>.</p>
+<ul>
+<li class=""><strong>Phase 1:</strong> Driver-initiated changes (Authorized).</li>
+<li class=""><strong>Phase 2:</strong> System-initiated maneuvers on highways (The current battleground for 2026).</li>
+<li class=""><strong>Phase 3:</strong> Urban environments.</li>
+</ul>
+<p>Here is the friction point: <strong>Is the M-30 a highway or a city?</strong></p>
+<p>Technically, it has highway speeds (70-90 km/h), but the complexity of merges, the density of traffic, and the lack of GPS signal make it a "high-risk urban environment" in the eyes of regulators.</p>
+<p>If FSD cannot demonstrate 99.99% reliability in maintaining its path without GPS assistance here, European regulators will use it as a prime example of why "Vision Only" is insufficient for unsupervised urban driving.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-path-forward">The Path Forward<a href="https://fsd.pepetox.es/m30-challenge-vision-only-tunnels#the-path-forward" class="hash-link" aria-label="Enlace directo al The Path Forward" title="Enlace directo al The Path Forward" translate="no">​</a></h2>
+<p>The "M-30 Challenge" is not just about Madrid. It's about proving that a neural network can possess <strong>object permanence</strong> and <strong>spatial awareness</strong> without a satellite tether.</p>
+<p>We are looking for three key improvements in upcoming updates to consider this "solved":</p>
+<ol>
+<li class=""><strong>OCR stability:</strong> Reading overhead signs in low-light/flickering light conditions.</li>
+<li class=""><strong>Lane Memory:</strong> Understanding that a "dashed" line merging from the left in a tunnel usually implies a forced merge, even if visibility is blocked by a truck.</li>
+<li class=""><strong>Confidence:</strong> Zero "micro-braking" when lighting conditions change from tunnel sections to open air.</li>
+</ol>
+<p>Until the neural network drives these tunnels better than a chaotic Madrileño taxi driver, the "Unsupervised" dream in Europe remains just that—a dream.</p>
+<p><em>Have you tested the latest FSD builds in tunnels? Does the visualization stay stable? Let us know in the comments.</em></p>]]></content:encoded>
+            <category>technology</category>
+            <category>regulations</category>
+            <category>madrid</category>
+            <category>testing</category>
+        </item>
+        <item>
             <title><![CDATA[La España Vaciada: La Frontera Final para el FSD de Tesla]]></title>
             <link>https://fsd.pepetox.es/espana-vaciada-desafio-fsd-rural</link>
             <guid>https://fsd.pepetox.es/espana-vaciada-desafio-fsd-rural</guid>
@@ -2918,116 +2960,6 @@ Meses después, en noviembre, todo se formalizó con la autorización oficial de
             <category>ai5</category>
             <category>hardware</category>
             <category>futuro</category>
-        </item>
-        <item>
-            <title><![CDATA[¿Está tu Tesla obsoleto? La Guerra Fría entre HW3 y HW4]]></title>
-            <link>https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia</link>
-            <guid>https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia</guid>
-            <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Análisis técnico de las diferencias entre Hardware 3 y Hardware 4 de Tesla. ¿Podrá tu coche con HW3 ejecutar el FSD completo o quedará relegado?]]></description>
-            <content:encoded><![CDATA[<p>Una de las preguntas más angustiantes para los propietarios de Tesla es si su coche quedará obsoleto. La flota está dividida entre vehículos con <strong>Hardware 3 (HW3)</strong>, producidos mayoritariamente hasta 2023, y los nuevos con <strong>Hardware 4 (AI4)</strong>. Las diferencias no son sutiles, y las implicaciones para el FSD son significativas.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-división-de-la-flota">La división de la flota<a href="https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia#la-divisi%C3%B3n-de-la-flota" class="hash-link" aria-label="Enlace directo al La división de la flota" title="Enlace directo al La división de la flota" translate="no">​</a></h2>
-<p>Si compraste tu Tesla antes de 2024, casi con certeza tienes Hardware 3. Si lo compraste recientemente, probablemente tienes Hardware 4 (también llamado AI4). Pero, ¿qué significa esto en la práctica?</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="cómo-saber-qué-hardware-tienes">Cómo saber qué hardware tienes<a href="https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia#c%C3%B3mo-saber-qu%C3%A9-hardware-tienes" class="hash-link" aria-label="Enlace directo al Cómo saber qué hardware tienes" title="Enlace directo al Cómo saber qué hardware tienes" translate="no">​</a></h3>
-<ol>
-<li class=""><strong>Fecha de fabricación</strong>: HW4 se empezó a instalar en 2023 (Model S/X) y 2024 (Model 3/Y)</li>
-<li class=""><strong>Aspecto de las cámaras</strong>: Las cámaras HW4 tienen una tonalidad roja visible en las lentes</li>
-<li class=""><strong>Menú del coche</strong>: Ajustes → Software → Información adicional del vehículo</li>
-</ol>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="especificaciones-técnicas-la-brecha-real">Especificaciones técnicas: La brecha real<a href="https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia#especificaciones-t%C3%A9cnicas-la-brecha-real" class="hash-link" aria-label="Enlace directo al Especificaciones técnicas: La brecha real" title="Enlace directo al Especificaciones técnicas: La brecha real" translate="no">​</a></h2>
-<p>Esta tabla muestra las diferencias fundamentales entre ambas generaciones:</p>
-<table><thead><tr><th>Característica</th><th>Hardware 3.0 (HW3)</th><th>Hardware 4.0 (AI4)</th></tr></thead><tbody><tr><td><strong>Procesador</strong></td><td>Samsung Exynos (14nm)</td><td>Samsung Exynos (7nm)</td></tr><tr><td><strong>Resolución cámaras</strong></td><td>1.2 Megapíxeles</td><td>5 Megapíxeles</td></tr><tr><td><strong>Fidelidad de color</strong></td><td>Sensores RCCB/RCCC</td><td>Sensores RGGB</td></tr><tr><td><strong>Potencia NPU</strong></td><td>~72 TOPS (estimado)</td><td>~150-300 TOPS (estimado)</td></tr><tr><td><strong>Memoria</strong></td><td>LPDDR4</td><td>GDDR6</td></tr><tr><td><strong>Ancho banda memoria</strong></td><td>Limitado</td><td>Significativamente mayor</td></tr></tbody></table>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-significan-estos-números">¿Qué significan estos números?<a href="https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia#qu%C3%A9-significan-estos-n%C3%BAmeros" class="hash-link" aria-label="Enlace directo al ¿Qué significan estos números?" title="Enlace directo al ¿Qué significan estos números?" translate="no">​</a></h3>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="resolución-de-cámaras-12mp-vs-5mp">Resolución de cámaras: 1.2MP vs 5MP<a href="https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia#resoluci%C3%B3n-de-c%C3%A1maras-12mp-vs-5mp" class="hash-link" aria-label="Enlace directo al Resolución de cámaras: 1.2MP vs 5MP" title="Enlace directo al Resolución de cámaras: 1.2MP vs 5MP" translate="no">​</a></h4>
-<p>Esta es quizás la diferencia más impactante. Con <strong>1.2 megapíxeles</strong>, las cámaras HW3 capturan imágenes con resolución similar a una webcam de 2005. Con <strong>5 megapíxeles</strong>, HW4 ve el mundo con una claridad 4 veces mayor.</p>
-<p>Implicaciones prácticas:</p>
-<ul>
-<li class=""><strong>Detección a distancia</strong>: HW4 puede identificar objetos mucho más lejos</li>
-<li class=""><strong>Señales de tráfico</strong>: Legibles a mayor distancia</li>
-<li class=""><strong>Peatones lejanos</strong>: Detectados antes, más tiempo de reacción</li>
-</ul>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="fidelidad-de-color-rccb-vs-rggb">Fidelidad de color: RCCB vs RGGB<a href="https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia#fidelidad-de-color-rccb-vs-rggb" class="hash-link" aria-label="Enlace directo al Fidelidad de color: RCCB vs RGGB" title="Enlace directo al Fidelidad de color: RCCB vs RGGB" translate="no">​</a></h4>
-<p>Los sensores HW3 usan un patrón de color RCCB (Rojo-Cyan-Cyan-Azul), optimizado para sensibilidad lumínica pero con reproducción de color imperfecta. HW4 usa el estándar RGGB (Rojo-Verde-Verde-Azul).</p>
-<p>Esto importa porque:</p>
-<ul>
-<li class="">Los <strong>semáforos</strong> se distinguen mejor (rojo vs ámbar vs verde)</li>
-<li class="">Las <strong>señales de tráfico</strong> con códigos de color son más claras</li>
-<li class="">Se mitiga el <strong>parpadeo de LEDs</strong> (luces de freno, intermitentes)</li>
-</ul>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="potencia-de-procesamiento-el-cuello-de-botella">Potencia de procesamiento: El cuello de botella<a href="https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia#potencia-de-procesamiento-el-cuello-de-botella" class="hash-link" aria-label="Enlace directo al Potencia de procesamiento: El cuello de botella" title="Enlace directo al Potencia de procesamiento: El cuello de botella" translate="no">​</a></h4>
-<p>El procesador HW3 fue revolucionario en 2019. En 2025, es el factor limitante. La red neuronal end-to-end de la v13 está diseñada para hardware moderno, y Tesla está usando técnicas de <strong>emulación</strong> y <strong>modelos simplificados</strong> para que funcione en HW3.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-experiencia-de-usuario-testimonios-reales">La experiencia de usuario: Testimonios reales<a href="https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia#la-experiencia-de-usuario-testimonios-reales" class="hash-link" aria-label="Enlace directo al La experiencia de usuario: Testimonios reales" title="Enlace directo al La experiencia de usuario: Testimonios reales" translate="no">​</a></h2>
-<p>Los foros y Reddit están llenos de comparaciones entre usuarios que han probado ambos sistemas. Los patrones son claros:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="experiencia-en-hw3">Experiencia en HW3<a href="https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia#experiencia-en-hw3" class="hash-link" aria-label="Enlace directo al Experiencia en HW3" title="Enlace directo al Experiencia en HW3" translate="no">​</a></h3>
-<blockquote>
-<p>"El coche piensa demasiado en los giros no protegidos. A veces espera tanto que los coches de atrás empiezan a pitarme."</p>
-</blockquote>
-<blockquote>
-<p>"Las frenadas fantasma han mejorado con las actualizaciones, pero siguen apareciendo, especialmente bajo puentes o con sombras fuertes."</p>
-</blockquote>
-<blockquote>
-<p>"En general funciona, pero noto que le cuesta más que a los vídeos que veo de HW4 en YouTube."</p>
-</blockquote>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="experiencia-en-hw4">Experiencia en HW4<a href="https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia#experiencia-en-hw4" class="hash-link" aria-label="Enlace directo al Experiencia en HW4" title="Enlace directo al Experiencia en HW4" translate="no">​</a></h3>
-<blockquote>
-<p>"La diferencia es de día y noche. El coche es más decisivo, más fluido."</p>
-</blockquote>
-<blockquote>
-<p>"Las cámaras ven muchísimo mejor. Puedo ver en la pantalla detalles que antes eran borrosos."</p>
-</blockquote>
-<blockquote>
-<p>"Prácticamente cero frenadas fantasma en mis 5.000 km con FSD."</p>
-</blockquote>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-problema-de-la-emulación">El problema de la "emulación"<a href="https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia#el-problema-de-la-emulaci%C3%B3n" class="hash-link" aria-label="Enlace directo al El problema de la &quot;emulación&quot;" title="Enlace directo al El problema de la &quot;emulación&quot;" translate="no">​</a></h2>
-<p>Tesla ha prometido que el HW3 será capaz de ejecutar el FSD completo. Sin embargo, la realidad técnica es compleja:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="modelos-simplificados">Modelos simplificados<a href="https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia#modelos-simplificados" class="hash-link" aria-label="Enlace directo al Modelos simplificados" title="Enlace directo al Modelos simplificados" translate="no">​</a></h3>
-<p>Para que el software v13 funcione en HW3, Tesla tiene que usar versiones <strong>comprimidas</strong> o <strong>destiladas</strong> de la red neuronal. Esto significa:</p>
-<ul>
-<li class="">Menos parámetros en el modelo</li>
-<li class="">Menor precisión en las predicciones</li>
-<li class="">Decisiones más lentas</li>
-<li class="">Potencialmente, menos capacidad en casos extremos</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="latencia">Latencia<a href="https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia#latencia" class="hash-link" aria-label="Enlace directo al Latencia" title="Enlace directo al Latencia" translate="no">​</a></h3>
-<p>El HW3 procesa la información más lentamente. En situaciones que requieren decisiones en milisegundos (un peatón apareciendo de repente, un coche frenando bruscamente), esta latencia puede ser crítica.</p>
-<div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>La pregunta incómoda</div><div class="admonitionContent_BuS1"><p>¿Podrá el HW3 alcanzar alguna vez la conducción autónoma no supervisada (sin conductor de seguridad)? La respuesta honesta es: <strong>probablemente no</strong>. Las limitaciones físicas del sensor y procesador son inherentes al hardware.</p></div></div>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="debería-preocuparme">¿Debería preocuparme?<a href="https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia#deber%C3%ADa-preocuparme" class="hash-link" aria-label="Enlace directo al ¿Debería preocuparme?" title="Enlace directo al ¿Debería preocuparme?" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="si-tienes-hw3">Si tienes HW3<a href="https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia#si-tienes-hw3" class="hash-link" aria-label="Enlace directo al Si tienes HW3" title="Enlace directo al Si tienes HW3" translate="no">​</a></h3>
-<p><strong>Realista</strong>: Tu coche probablemente ofrecerá un excelente sistema ADAS de Nivel 2, mejor que la mayoría de la competencia. Pero las capacidades más avanzadas del FSD (conducción urbana compleja, autonomía sin supervisión) pueden estar permanentemente fuera de alcance.</p>
-<p><strong>Optimista</strong>: Tesla podría ofrecer un programa de actualización de hardware, como hizo en el pasado de HW2.5 a HW3. Sin embargo, no hay confirmación oficial y sería una operación costosa.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="si-tienes-hw4">Si tienes HW4<a href="https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia#si-tienes-hw4" class="hash-link" aria-label="Enlace directo al Si tienes HW4" title="Enlace directo al Si tienes HW4" translate="no">​</a></h3>
-<p>Tu hardware está preparado para todo lo que viene en el futuro cercano. La cuestión es cuándo llegará el software y las autorizaciones regulatorias a Europa.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="si-estás-pensando-en-comprar">Si estás pensando en comprar<a href="https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia#si-est%C3%A1s-pensando-en-comprar" class="hash-link" aria-label="Enlace directo al Si estás pensando en comprar" title="Enlace directo al Si estás pensando en comprar" translate="no">​</a></h3>
-<p>En 2025, <strong>solo compra Tesla con HW4</strong>. La diferencia de precio es mínima y la diferencia de capacidades puede ser determinante en 3-5 años.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="cómo-identificar-visualmente-hw4">Cómo identificar visualmente HW4<a href="https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia#c%C3%B3mo-identificar-visualmente-hw4" class="hash-link" aria-label="Enlace directo al Cómo identificar visualmente HW4" title="Enlace directo al Cómo identificar visualmente HW4" translate="no">​</a></h2>
-<p>Además de las cámaras con tono rojo, hay otras pistas:</p>
-<ol>
-<li class=""><strong>Cámara frontal B-pillar</strong>: Ligeramente diferente forma</li>
-<li class=""><strong>Radar</strong>: Los HW4 más recientes pueden incluir radar (eliminado en 2021-2023)</li>
-<li class=""><strong>Número de cámaras</strong>: Algunos HW4 tienen cámaras adicionales en el parachoques</li>
-</ol>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-elefante-en-la-habitación-prometieron-que-hw3-sería-suficiente">El elefante en la habitación: Prometieron que HW3 sería suficiente<a href="https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia#el-elefante-en-la-habitaci%C3%B3n-prometieron-que-hw3-ser%C3%ADa-suficiente" class="hash-link" aria-label="Enlace directo al El elefante en la habitación: Prometieron que HW3 sería suficiente" title="Enlace directo al El elefante en la habitación: Prometieron que HW3 sería suficiente" translate="no">​</a></h2>
-<p>Cuando Tesla vendió el paquete FSD a propietarios de HW3, prometió que ese hardware sería capaz de conducción autónoma completa. Esta promesa está siendo cuestionada:</p>
-<ol>
-<li class=""><strong>Capacidad teórica vs práctica</strong>: El HW3 puede "ejecutar" el FSD, pero la calidad de la experiencia es inferior</li>
-<li class=""><strong>Autonomía sin supervisión</strong>: Parece inalcanzable con HW3</li>
-<li class=""><strong>Actualizaciones</strong>: Cada vez más optimizadas para HW4</li>
-</ol>
-<p>Esto plantea cuestiones legales y éticas sobre la publicidad del producto que podrían tener implicaciones en el futuro, especialmente en Europa donde la protección al consumidor es más estricta.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="tabla-resumen-de-capacidades">Tabla resumen de capacidades<a href="https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia#tabla-resumen-de-capacidades" class="hash-link" aria-label="Enlace directo al Tabla resumen de capacidades" title="Enlace directo al Tabla resumen de capacidades" translate="no">​</a></h2>
-<table><thead><tr><th>Función</th><th>HW3</th><th>HW4</th></tr></thead><tbody><tr><td>Autopilot básico</td><td>✅ Excelente</td><td>✅ Excelente</td></tr><tr><td>FSD Supervisado</td><td>⚠️ Funciona con limitaciones</td><td>✅ Experiencia completa</td></tr><tr><td>Actually Smart Summon</td><td>⚠️ Lento y dudoso</td><td>✅ Fluido</td></tr><tr><td>Park-to-Park</td><td>⚠️ Básico</td><td>✅ Completo</td></tr><tr><td>Autonomía no supervisada</td><td>❌ Improbable</td><td>🔮 Posible en el futuro</td></tr></tbody></table>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://fsd.pepetox.es/hw3-vs-hw4-tesla-obsolescencia#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
-<p>La fragmentación del hardware de Tesla es un problema real que afecta directamente al valor de tu inversión. Si tienes HW3, no estás "obsoleto" todavía, pero las limitaciones se harán más evidentes a medida que el software evolucione.</p>
-<p>Para nuevos compradores, HW4 es imprescindible. Para propietarios de HW3, la recomendación es disfrutar de las capacidades actuales sin crear expectativas excesivas sobre el futuro, y estar atentos a posibles programas de actualización que Tesla podría anunciar.</p>
-<p>La conducción autónoma es una promesa que depende tanto del software como del hardware. Y en el caso de HW3, el hardware puede ser el factor limitante definitivo.</p>
-<hr>
-<p><em>¿Tienes HW3 o HW4? ¿Has notado diferencias? ¿Crees que Tesla debería ofrecer actualizaciones de hardware? Cuéntanos tu experiencia.</em></p>]]></content:encoded>
-            <category>hardware</category>
-            <category>hw3</category>
-            <category>hw4</category>
-            <category>ai4</category>
-            <category>tecnología</category>
-            <category>obsolescencia</category>
         </item>
     </channel>
 </rss>
