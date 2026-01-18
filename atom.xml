@@ -70,6 +70,57 @@
         <category label="tecnología" term="tecnología"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[La Prueba de la Lluvia: El Talón de Aquiles del Vision-Only en Europa]]></title>
+        <id>https://fsd.pepetox.es/prueba-lluvia-vision-only</id>
+        <link href="https://fsd.pepetox.es/prueba-lluvia-vision-only"/>
+        <updated>2026-01-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cuando el spray convierte la autopista en niebla, el FSD debe demostrar que ve lo invisible. Analizamos métricas y soluciones para Europa.]]></summary>
+        <content type="html"><![CDATA[<p>En España lo sabemos bien: <strong>no llueve mucho, pero cuando llueve, llueve de verdad</strong>. La A-8 en Galicia, la AP-7 en Catalunya o la A-7 a la altura de Málaga se transforman en un túnel de spray donde la visibilidad humana cae en segundos.</p>
+<p>Ese escenario es el examen silencioso del Vision-Only. No hay rotondas exóticas ni túneles icónicos, solo agua, reflejos y gotas que convierten cada farola en un halo cegador.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-física-que-la-ia-no-puede-ignorar">La Física que la IA no puede ignorar<a href="https://fsd.pepetox.es/prueba-lluvia-vision-only#la-f%C3%ADsica-que-la-ia-no-puede-ignorar" class="hash-link" aria-label="Enlace directo al La Física que la IA no puede ignorar" title="Enlace directo al La Física que la IA no puede ignorar" translate="no">​</a></h2>
+<p>Cuando el asfalto se encharca, el problema no es solo "ver". Es <strong>separar señal de ruido</strong>:</p>
+<ul>
+<li class=""><strong>Spray de camiones:</strong> crea una nube opaca que borra vehículos a 30-50 metros.</li>
+<li class=""><strong>Reflejos de faros:</strong> duplican líneas y señales como si hubiera carriles fantasma.</li>
+<li class=""><strong>Gotas en lente:</strong> deforman bordes y hacen que la distancia aparente sea errónea.</li>
+</ul>
+<p>Un humano reduce velocidad, aumenta distancia y usa el contexto. El FSD debe hacer lo mismo, pero sin intuición, solo con percepción y predicción.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-métrica-que-importa-confort-bajo-incertidumbre">La Métrica que Importa: "Confort Bajo Incertidumbre"<a href="https://fsd.pepetox.es/prueba-lluvia-vision-only#la-m%C3%A9trica-que-importa-confort-bajo-incertidumbre" class="hash-link" aria-label="Enlace directo al La Métrica que Importa: &quot;Confort Bajo Incertidumbre&quot;" title="Enlace directo al La Métrica que Importa: &quot;Confort Bajo Incertidumbre&quot;" translate="no">​</a></h2>
+<p>La seguridad no es únicamente evitar choques. Es <strong>mantener una conducción estable</strong> cuando el mundo se vuelve borroso.</p>
+<p>Proponemos una métrica simple que debería aparecer en los informes que Tesla lleve a la RDW:</p>
+<ul>
+<li class=""><strong>Variación de velocidad por minuto (Vv/m):</strong> cuánto oscila la velocidad en lluvia intensa.</li>
+<li class=""><strong>Número de micro-frenadas por kilómetro:</strong> si el coche duda, frena; si frena demasiado, genera riesgo.</li>
+<li class=""><strong>Tiempo de recuperación tras oclusión:</strong> cuánto tarda en volver a una trayectoria segura tras perder visibilidad.</li>
+</ul>
+<p>Si el sistema es bueno, estos valores deberían acercarse al comportamiento de un conductor humano experto, no al de un conductor novato nervioso.</p>
+<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Punto crítico</div><div class="admonitionContent_BuS1"><p>Una conducción extremadamente conservadora puede ser tan peligrosa como una agresiva: si el FSD frena de golpe en la AP-7 bajo lluvia, el riesgo de alcance aumenta.</p></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-v14-debe-demostrar">Lo que V14 Debe Demostrar<a href="https://fsd.pepetox.es/prueba-lluvia-vision-only#lo-que-v14-debe-demostrar" class="hash-link" aria-label="Enlace directo al Lo que V14 Debe Demostrar" title="Enlace directo al Lo que V14 Debe Demostrar" translate="no">​</a></h2>
+<p>En las últimas versiones, la red neuronal ya no "se desconecta" ante incertidumbre. Ahora intenta <strong>resolverla</strong>. Pero bajo lluvia intensa, hay tres capacidades que separan un prototipo de un producto:</p>
+<ol>
+<li class=""><strong>Persistencia de objetos:</strong> seguir "imaginando" el coche de delante cuando desaparece en el spray.</li>
+<li class=""><strong>Lectura de carril degradada:</strong> entender dónde están los límites aunque las líneas estén borradas por el agua.</li>
+<li class=""><strong>Priorización de distancia:</strong> ajustar margen de seguridad sin convertirse en un obstáculo móvil.</li>
+</ol>
+<p>Europa es especialmente dura con esto porque su regulación prioriza la seguridad colectiva. Un sistema que se comporta bien en California, con lluvias suaves y rectas largas, debe pasar su máster en la cornisa cantábrica.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-es-clave-para-2026">¿Por qué es clave para 2026?<a href="https://fsd.pepetox.es/prueba-lluvia-vision-only#por-qu%C3%A9-es-clave-para-2026" class="hash-link" aria-label="Enlace directo al ¿Por qué es clave para 2026?" title="Enlace directo al ¿Por qué es clave para 2026?" translate="no">​</a></h2>
+<p>Si Tesla quiere desbloquear <strong>DCAS Fase 2/3</strong> en Europa este año, necesita demostrar que el sistema no solo funciona en condiciones ideales, sino que <strong>se mantiene estable cuando la visibilidad cae a la mitad</strong>. Ese es el tipo de prueba que un regulador considera "representativa" del mundo real.</p>
+<p>La lluvia no es un evento raro: es el filtro que separa lo fiable de lo espectacular.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión-la-lluvia-no-perdona-la-improvisación">Conclusión: La lluvia no perdona la improvisación<a href="https://fsd.pepetox.es/prueba-lluvia-vision-only#conclusi%C3%B3n-la-lluvia-no-perdona-la-improvisaci%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión: La lluvia no perdona la improvisación" title="Enlace directo al Conclusión: La lluvia no perdona la improvisación" translate="no">​</a></h2>
+<p>La conducción autónoma europea no se decidirá en un sunny demo en la Castellana. Se decidirá en una noche fría, con lluvia lateral, un camión delante y el carril difuso.</p>
+<p>Ahí, en ese momento incómodo, es donde el FSD debe demostrar que no solo <strong>ve</strong>, sino que <strong>entiende</strong>.</p>
+<p><em>¿Has probado FSD o Autopilot bajo lluvia intensa? ¿Cómo se comportó el sistema? Cuéntanos tu experiencia.</em></p>]]></content>
+        <author>
+            <name>FSD Spain</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="europa" term="europa"/>
+        <category label="seguridad" term="seguridad"/>
+        <category label="lluvia" term="lluvia"/>
+        <category label="vision-only" term="vision-only"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[El Desafío de la M-30: Por qué Vision-Only debe dominar el subsuelo]]></title>
         <id>https://fsd.pepetox.es/desafio-m30-vision-only-tuneles</id>
         <link href="https://fsd.pepetox.es/desafio-m30-vision-only-tuneles"/>
@@ -2845,124 +2896,5 @@ Meses después, en noviembre, todo se formalizó con la autorización oficial de
         <category label="dgt" term="dgt"/>
         <category label="pruebas" term="pruebas"/>
         <category label="regulación" term="regulación"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FSD v13 a Prueba: Aparcando solo y navegando garajes (Park-to-Park)]]></title>
-        <id>https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon</id>
-        <link href="https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon"/>
-        <updated>2025-02-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Análisis de las nuevas capacidades del FSD v13, incluyendo el Park-to-Park y el Actually Smart Summon. ¿Es esta la killer app del FSD?]]></summary>
-        <content type="html"><![CDATA[<p>La versión 13 del Full Self-Driving representa un salto cualitativo en las capacidades de los Tesla. Entre las novedades más impresionantes está el <strong>Park-to-Park (P2P)</strong>: la capacidad del vehículo de conducir de forma completamente autónoma desde tu plaza de garaje hasta encontrar aparcamiento en el destino. Analizamos qué puede hacer realmente la v13 y cómo se comporta en hardware HW3 vs HW4.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-es-el-park-to-park">¿Qué es el Park-to-Park?<a href="https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon#qu%C3%A9-es-el-park-to-park" class="hash-link" aria-label="Enlace directo al ¿Qué es el Park-to-Park?" title="Enlace directo al ¿Qué es el Park-to-Park?" translate="no">​</a></h2>
-<p>El Park-to-Park es exactamente lo que suena: el coche te lleva desde donde está aparcado hasta donde quieres ir, y aparca solo al llegar. El flujo completo es:</p>
-<ol>
-<li class=""><strong>Inicio en parking</strong>: El coche arranca desde la plaza</li>
-<li class=""><strong>Navegación hasta la salida</strong>: Sale del garaje/parking</li>
-<li class=""><strong>Conducción urbana/autopista</strong>: Navega hasta el destino</li>
-<li class=""><strong>Búsqueda de aparcamiento</strong>: Localiza una plaza</li>
-<li class=""><strong>Maniobra de aparcamiento</strong>: Aparca en la plaza seleccionada</li>
-</ol>
-<p>Todo esto sin que el conductor toque el volante ni los pedales (aunque debe estar atento y supervisar).</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-clave-cambio-de-marcha-autónomo">La clave: cambio de marcha autónomo<a href="https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon#la-clave-cambio-de-marcha-aut%C3%B3nomo" class="hash-link" aria-label="Enlace directo al La clave: cambio de marcha autónomo" title="Enlace directo al La clave: cambio de marcha autónomo" translate="no">​</a></h3>
-<p>Una de las capacidades críticas de la v13 es el <strong>cambio de marcha D/R (Drive/Reverse) autónomo</strong>. El coche puede:</p>
-<ul>
-<li class="">Entrar en plazas estrechas haciendo maniobras</li>
-<li class="">Corregir su posición con movimientos adelante-atrás</li>
-<li class="">Navegar rampas de parking con cambios de nivel</li>
-</ul>
-<p>Esto era impensable en versiones anteriores, donde el coche se quedaba "atascado" si necesitaba dar marcha atrás.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="actually-smart-summon-ass">Actually Smart Summon (ASS)<a href="https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon#actually-smart-summon-ass" class="hash-link" aria-label="Enlace directo al Actually Smart Summon (ASS)" title="Enlace directo al Actually Smart Summon (ASS)" translate="no">​</a></h2>
-<p>El Smart Summon original fue un desastre en Europa: limitado a 6 metros con línea de visión directa. La v13 introduce el <strong>Actually Smart Summon</strong> (ASS, sí, ese es el acrónimo real), que en mercados donde está activo ofrece:</p>
-<table><thead><tr><th>Característica</th><th>Smart Summon Antiguo</th><th>Actually Smart Summon (v13)</th></tr></thead><tbody><tr><td>Distancia máxima</td><td>~60m (6m Europa)</td><td>Sin límite práctico</td></tr><tr><td>Línea de visión</td><td>Requerida (Europa)</td><td>No requerida</td></tr><tr><td>Navegación parking</td><td>Básica</td><td>Avanzada con rutas</td></tr><tr><td>Velocidad</td><td>Muy lenta</td><td>Velocidad de parking normal</td></tr><tr><td>Confiabilidad</td><td>Errática</td><td>Significativamente mejor</td></tr></tbody></table>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-problema-europeo">El problema europeo<a href="https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon#el-problema-europeo" class="hash-link" aria-label="Enlace directo al El problema europeo" title="Enlace directo al El problema europeo" translate="no">​</a></h3>
-<p>Por desgracia, el ASS sigue sin estar disponible en Europa. Las restricciones de la UNECE hacen que incluso esta versión mejorada esté bloqueada para los usuarios europeos. Es otra función por la que los propietarios han pagado pero no pueden usar.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="rendimiento-en-hw3-vs-hw4">Rendimiento en HW3 vs HW4<a href="https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon#rendimiento-en-hw3-vs-hw4" class="hash-link" aria-label="Enlace directo al Rendimiento en HW3 vs HW4" title="Enlace directo al Rendimiento en HW3 vs HW4" translate="no">​</a></h2>
-<p>Las pruebas de usuarios revelan una brecha significativa en la experiencia según el hardware:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="en-hardware-4-ai4">En Hardware 4 (AI4)<a href="https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon#en-hardware-4-ai4" class="hash-link" aria-label="Enlace directo al En Hardware 4 (AI4)" title="Enlace directo al En Hardware 4 (AI4)" translate="no">​</a></h3>
-<p>El Park-to-Park funciona de forma fluida:</p>
-<ul>
-<li class="">Decisiones rápidas y seguras</li>
-<li class="">Maniobras de aparcamiento precisas</li>
-<li class="">Navegación en parkings sin dudas</li>
-<li class="">ASS (donde está disponible) es fiable</li>
-</ul>
-<p>Los usuarios reportan que "parece magia" ver el coche salir solo del garaje, conducir hasta el supermercado, y aparcar mientras ellos supervisan desde el asiento del conductor.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="en-hardware-3">En Hardware 3<a href="https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon#en-hardware-3" class="hash-link" aria-label="Enlace directo al En Hardware 3" title="Enlace directo al En Hardware 3" translate="no">​</a></h3>
-<p>La experiencia es más... mezclada:</p>
-<blockquote>
-<p>"Funciona, pero le cuesta. En el parking de mi trabajo hay columnas y el coche se queda pensando demasiado antes de maniobrar."</p>
-</blockquote>
-<blockquote>
-<p>"El ASS en mi HW3 es lento y a veces se confunde con carritos de la compra. En vídeos de HW4 parece mucho más seguro."</p>
-</blockquote>
-<blockquote>
-<p>"El Park-to-Park completó la ruta, pero se tomó el doble de tiempo que conduciéndolo yo."</p>
-</blockquote>
-<p>Las limitaciones del procesador y las cámaras de menor resolución del HW3 se hacen evidentes en estas maniobras de precisión en espacios reducidos.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="las-mejoras-técnicas-de-la-v13">Las mejoras técnicas de la v13<a href="https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon#las-mejoras-t%C3%A9cnicas-de-la-v13" class="hash-link" aria-label="Enlace directo al Las mejoras técnicas de la v13" title="Enlace directo al Las mejoras técnicas de la v13" translate="no">​</a></h2>
-<p>Más allá del Park-to-Park, la v13 introduce mejoras arquitectónicas significativas:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="simplificación-del-pipeline">Simplificación del pipeline<a href="https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon#simplificaci%C3%B3n-del-pipeline" class="hash-link" aria-label="Enlace directo al Simplificación del pipeline" title="Enlace directo al Simplificación del pipeline" translate="no">​</a></h3>
-<p>Los ingenieros de Tesla han descrito la v13 como una "reescritura" comparable a la evolución de los motores Raptor de SpaceX: eliminación de complejidad innecesaria para lograr mayor velocidad y fiabilidad.</p>
-<p>Esto se traduce en:</p>
-<ul>
-<li class=""><strong>Menos latencia</strong>: Decisiones más rápidas</li>
-<li class=""><strong>Mayor coherencia</strong>: Menos comportamientos erráticos</li>
-<li class=""><strong>Mejor uso de recursos</strong>: Más funcionalidad en el mismo hardware</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="conducción-más-humana">Conducción más "humana"<a href="https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon#conducci%C3%B3n-m%C3%A1s-humana" class="hash-link" aria-label="Enlace directo al Conducción más &quot;humana&quot;" title="Enlace directo al Conducción más &quot;humana&quot;" translate="no">​</a></h3>
-<p>Los usuarios reportan que la v13 conduce de forma más natural:</p>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="creeping-en-intersecciones">"Creeping" en intersecciones<a href="https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon#creeping-en-intersecciones" class="hash-link" aria-label="Enlace directo al &quot;Creeping&quot; en intersecciones" title="Enlace directo al &quot;Creeping&quot; en intersecciones" translate="no">​</a></h4>
-<p>El coche avanza lentamente en intersecciones con visibilidad limitada, exactamente como haría un conductor humano experimentado, para ver mejor antes de comprometerse con la maniobra.</p>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="negociación-de-espacios">Negociación de espacios<a href="https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon#negociaci%C3%B3n-de-espacios" class="hash-link" aria-label="Enlace directo al Negociación de espacios" title="Enlace directo al Negociación de espacios" translate="no">​</a></h4>
-<p>En calles estrechas con coches aparcados en ambos lados, el coche ahora "negocia" el espacio con otros vehículos de forma más fluida, cediendo o avanzando según el contexto.</p>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="anticipación">Anticipación<a href="https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon#anticipaci%C3%B3n" class="hash-link" aria-label="Enlace directo al Anticipación" title="Enlace directo al Anticipación" translate="no">​</a></h4>
-<p>El sistema parece predecir mejor las intenciones de otros usuarios de la vía, preparándose para maniobras antes de que ocurran.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="es-el-park-to-park-la-killer-app-del-fsd">¿Es el Park-to-Park la "killer app" del FSD?<a href="https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon#es-el-park-to-park-la-killer-app-del-fsd" class="hash-link" aria-label="Enlace directo al ¿Es el Park-to-Park la &quot;killer app&quot; del FSD?" title="Enlace directo al ¿Es el Park-to-Park la &quot;killer app&quot; del FSD?" translate="no">​</a></h2>
-<p>Este es un debate activo en la comunidad Tesla. Argumentos a favor:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-favor">A favor<a href="https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon#a-favor" class="hash-link" aria-label="Enlace directo al A favor" title="Enlace directo al A favor" translate="no">​</a></h3>
-<ul>
-<li class="">Es <strong>visualmente impresionante</strong>: Ver tu coche conducirse solo es futurista</li>
-<li class=""><strong>Utilidad real</strong>: No buscar aparcamiento ahorra tiempo y frustración</li>
-<li class=""><strong>Demostración de capacidad</strong>: Prueba que el sistema puede manejar situaciones complejas</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="en-contra">En contra<a href="https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon#en-contra" class="hash-link" aria-label="Enlace directo al En contra" title="Enlace directo al En contra" translate="no">​</a></h3>
-<ul>
-<li class=""><strong>Todavía requiere supervisión</strong>: No puedes bajarte y mandar el coche a aparcar</li>
-<li class=""><strong>Valor limitado</strong>: En el tiempo que configuras el sistema, podrías haber aparcado tú</li>
-<li class=""><strong>No disponible en Europa</strong>: Para el mercado español, es irrelevante por ahora</li>
-</ul>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>La perspectiva pragmática</div><div class="admonitionContent_BuS1"><p>El Park-to-Park es más una demostración tecnológica que una función práctica en su estado actual. Su valor real vendrá cuando puedas salir del coche y enviarlo a aparcar solo, algo que requiere regulación que no existe.</p></div></div>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="estado-actual-en-españa">Estado actual en España<a href="https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon#estado-actual-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Estado actual en España" title="Enlace directo al Estado actual en España" translate="no">​</a></h2>
-<p>Para los propietarios españoles, la situación de la v13 es frustrante:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-tenemos">Lo que tenemos<a href="https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon#lo-que-tenemos" class="hash-link" aria-label="Enlace directo al Lo que tenemos" title="Enlace directo al Lo que tenemos" translate="no">​</a></h3>
-<ul>
-<li class="">Autopilot con las limitaciones R79 de siempre</li>
-<li class="">Actualizaciones de software que mejoran el Autopilot básico</li>
-<li class="">Interfaz y visualización mejoradas</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-no-tenemos">Lo que no tenemos<a href="https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon#lo-que-no-tenemos" class="hash-link" aria-label="Enlace directo al Lo que no tenemos" title="Enlace directo al Lo que no tenemos" translate="no">​</a></h3>
-<ul>
-<li class="">FSD Beta / FSD Supervisado</li>
-<li class="">Park-to-Park</li>
-<li class="">Actually Smart Summon</li>
-<li class="">Conducción urbana autónoma</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-podríamos-tener-pronto">Lo que podríamos tener pronto<a href="https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon#lo-que-podr%C3%ADamos-tener-pronto" class="hash-link" aria-label="Enlace directo al Lo que podríamos tener pronto" title="Enlace directo al Lo que podríamos tener pronto" translate="no">​</a></h3>
-<p>Las pruebas de la DGT en Madrid sugieren que Tesla está trabajando activamente en traer estas funciones. Pero "pronto" en términos regulatorios europeos puede significar años, no meses.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://fsd.pepetox.es/fsd-v13-park-to-park-smart-summon#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
-<p>La v13 del FSD representa el estado del arte en conducción autónoma de consumo. Funciones como el Park-to-Park demuestran que la tecnología está madurando rápidamente, especialmente en hardware HW4.</p>
-<p>Sin embargo, para el mercado español y europeo, estas capacidades siguen siendo vídeos de YouTube, no experiencias reales. La brecha entre lo que la tecnología puede hacer y lo que la regulación permite sigue siendo el factor limitante.</p>
-<p>Para los propietarios españoles, la v13 es una promesa de lo que vendrá. Las pruebas en Madrid son señales positivas, pero la paciencia sigue siendo la virtud más necesaria. Mientras tanto, los propietarios estadounidenses disfrutan de funciones por las que todos hemos pagado pero solo algunos pueden usar.</p>
-<hr>
-<p><em>¿Has visto vídeos del Park-to-Park o ASS? ¿Qué función te gustaría más tener disponible en España? Cuéntanos en los comentarios.</em></p>]]></content>
-        <author>
-            <name>FSD Spain</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="fsd" term="fsd"/>
-        <category label="v13" term="v13"/>
-        <category label="park-to-park" term="park-to-park"/>
-        <category label="smart-summon" term="smart-summon"/>
-        <category label="tecnología" term="tecnología"/>
     </entry>
 </feed>
