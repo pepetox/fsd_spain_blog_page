@@ -2,11 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fsd.pepetox.es</id>
     <title>FSD Spain Blog</title>
-    <updated>2026-01-18T00:00:00.000Z</updated>
+    <updated>2026-01-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fsd.pepetox.es"/>
     <subtitle>FSD Spain Blog</subtitle>
     <icon>https://fsd.pepetox.es/img/fsdspain.png</icon>
+    <entry>
+        <title type="html"><![CDATA[El Desafío de la Rotonda: Redes Neuronales vs. el Caos Español]]></title>
+        <id>https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana</id>
+        <link href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana"/>
+        <updated>2026-01-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Imagina esta situación: Tu Tesla se aproxima a una turborotonda de tres carriles en la M-40 de Madrid. Es hora punta. Un taxi se cruza desde el carril interior sin señalizar, una moto zigzaguea por tu derecha y las líneas del suelo están medio borradas.]]></summary>
+        <content type="html"><![CDATA[<p>Imagina esta situación: Tu Tesla se aproxima a una turborotonda de tres carriles en la M-40 de Madrid. Es hora punta. Un taxi se cruza desde el carril interior sin señalizar, una moto zigzaguea por tu derecha y las líneas del suelo están medio borradas.</p>
+<p>En Silicon Valley, una rotonda es un círculo perfecto y tranquilo. En España, es un campo de batalla donde la duda se paga con pitidos (o algo peor). Mientras celebramos la llegada del FSD v13 y las pruebas de los 19 vehículos autorizados por la DGT, surge la pregunta del millón: <strong>¿Puede una red neuronal entrenada en California sobrevivir a la "ley de la selva" de una rotonda española?</strong></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-geometría-del-caos-turborotondas">La Geometría del Caos: Turborotondas<a href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana#la-geometr%C3%ADa-del-caos-turborotondas" class="hash-link" aria-label="Enlace directo al La Geometría del Caos: Turborotondas" title="Enlace directo al La Geometría del Caos: Turborotondas" translate="no">​</a></h2>
+<p>A diferencia de las intersecciones ortogonales de Estados Unidos, Europa —y España en particular— ama las rotondas. Pero no todas son iguales. El verdadero "jefe final" para el FSD no es la rotonda simple, sino la <strong>turborotonda</strong>.</p>
+<p>En una turborotonda, la decisión de carril debe tomarse <em>antes</em> de entrar. Si el FSD duda o intenta cambiar de carril dentro (como haría en una rotonda americana estándar), no solo bloquea el tráfico, sino que viola la normativa de tráfico y confunde al resto de conductores humanos que esperan un comportamiento predecible.</p>
+<blockquote>
+<p><strong>Dato Clave:</strong> Los conductores humanos en España negocian las rotondas mediante un lenguaje no verbal de "intención y oportunidad". Una IA debe aprender este dialecto sutil, no solo las líneas pintadas en el suelo.</p>
+</blockquote>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-corsé-regulatorio-unece-r79">El Corsé Regulatorio: UNECE R79<a href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana#el-cors%C3%A9-regulatorio-unece-r79" class="hash-link" aria-label="Enlace directo al El Corsé Regulatorio: UNECE R79" title="Enlace directo al El Corsé Regulatorio: UNECE R79" translate="no">​</a></h2>
+<p>Aquí es donde la tecnología choca contra la burocracia. El FSD v13 (End-to-End) tiene la capacidad cognitiva de ver el hueco y acelerar para integrarse fluidamente. Lo hemos visto en las demos de la Plaza de la Independencia. <strong>El cerebro está listo, pero las manos están atadas.</strong></p>
+<p>La normativa actual <strong>UNECE R79</strong> limita severamente:</p>
+<ol>
+<li class=""><strong>La aceleración lateral:</strong> Impide giros bruscos del volante, esenciales para corregir la trayectoria si alguien te corta el paso.</li>
+<li class=""><strong>El par de dirección:</strong> Limita la fuerza que el sistema puede aplicar, haciendo que las maniobras se sientan "perezosas" o robóticas.</li>
+</ol>
+<p>El resultado es el temido "titubeo". El coche ve el hueco, la red neuronal dice "¡Vamos!", pero la capa de control (limitada por software para cumplir la ley) dice "Espera, eso excede los límites de aceleración lateral". El coche frena en seco, y el conductor de atrás se acuerda de toda tu familia.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-promesa-del-dcas">La Promesa del DCAS<a href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana#la-promesa-del-dcas" class="hash-link" aria-label="Enlace directo al La Promesa del DCAS" title="Enlace directo al La Promesa del DCAS" translate="no">​</a></h2>
+<p>La solución no es solo mejor software, es mejor ley. La nueva regulación <strong>DCAS (Driver Control Assistance Systems)</strong>, que esperamos se finalice para la fase 2, es la llave maestra. DCAS permitiría al sistema realizar maniobras más asertivas, siempre que el conductor esté supervisando.</p>
+<p>Esto es crucial para las rotondas españolas. Necesitamos que el coche tenga "permiso" para comportarse de manera humana: acelerar con decisión para entrar en un hueco y girar con la rapidez necesaria para mantener el carril en una espiral cerrada.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-estamos-viendo-en-las-pruebas">¿Qué estamos viendo en las pruebas?<a href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana#qu%C3%A9-estamos-viendo-en-las-pruebas" class="hash-link" aria-label="Enlace directo al ¿Qué estamos viendo en las pruebas?" title="Enlace directo al ¿Qué estamos viendo en las pruebas?" translate="no">​</a></h2>
+<p>Los reportes de los 19 vehículos de prueba en España (bajo el paraguas del proyecto ES-AV de la DGT) son una mezcla de asombro y frustración:</p>
+<ul>
+<li class=""><strong>Visión Pura:</strong> Las cámaras HW4 gestionan increíblemente bien el sol bajo y las líneas borradas, superando a los sensores ultrasónicos antiguos.</li>
+<li class=""><strong>Comportamiento:</strong> En rotondas vacías, la trazada es perfecta. En tráfico denso, la "timidez" regulatoria sigue siendo el mayor obstáculo.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
+<p>El FSD no fallará en España por no "entender" la carretera. Las redes neuronales aprenden rápido. Si falla, será porque le hemos obligado a conducir con una mano atada a la espalda por una normativa obsoleta.</p>
+<p>La próxima vez que entres en una rotonda y tu Tesla dude, no culpes a la IA. Culpa al R79. Y mantén la esperanza: la actualización regulatoria es el verdadero "update" que todos estamos esperando.</p>
+<hr>
+<p><em>¿Has probado el Autopilot en una turborotonda recientemente? Comparte tu experiencia en los comentarios o únete a la discusión en nuestro próximo post sobre la <a class="" href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026">Estrategia Holandesa y Febrero 2026</a>.</em></p>]]></content>
+        <author>
+            <name>The Autonomous Pilot</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="españa" term="españa"/>
+        <category label="regulacion" term="regulacion"/>
+        <category label="tecnologia" term="tecnologia"/>
+        <category label="europa" term="europa"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[El Examen Final: Qué Debe Demostrar Tesla ante la RDW este Febrero]]></title>
         <id>https://fsd.pepetox.es/examen-final-rdw-tesla-fsd</id>
@@ -2777,124 +2823,5 @@ Meses después, en noviembre, todo se formalizó con la autorización oficial de
         <category label="países-bajos" term="países-bajos"/>
         <category label="rdw" term="rdw"/>
         <category label="homologación" term="homologación"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madrid, Zona Cero: Los 19 Teslas que ya conducen solos por la Castellana]]></title>
-        <id>https://fsd.pepetox.es/madrid-zona-cero-pruebas-fsd-dgt</id>
-        <link href="https://fsd.pepetox.es/madrid-zona-cero-pruebas-fsd-dgt"/>
-        <updated>2025-02-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Reportaje sobre las pruebas autorizadas del FSD en Madrid. Tesla tiene 19 vehículos probando conducción autónoma en las calles de la capital española.]]></summary>
-        <content type="html"><![CDATA[<p>Mientras Europa debate regulaciones y los propietarios españoles esperan pacientemente, algo extraordinario está ocurriendo en las calles de Madrid: una flota de <strong>19 vehículos Tesla</strong> está probando el Full Self-Driving en condiciones reales de tráfico, con autorización oficial de la DGT. España se ha convertido, silenciosamente, en el laboratorio de pruebas del FSD en Europa.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-autorización-de-la-dgt">La autorización de la DGT<a href="https://fsd.pepetox.es/madrid-zona-cero-pruebas-fsd-dgt#la-autorizaci%C3%B3n-de-la-dgt" class="hash-link" aria-label="Enlace directo al La autorización de la DGT" title="Enlace directo al La autorización de la DGT" translate="no">​</a></h2>
-<p>La Dirección General de Tráfico ha establecido un marco regulatorio progresista conocido como la <strong>instrucción ES-AV</strong> (Vehículos Autónomos España), que permite la prueba de vehículos autónomos en carreteras abiertas bajo condiciones controladas.</p>
-<p>Tesla ha aprovechado este marco para desplegar una flota de prueba con un foco operativo claro en Madrid. La autorización incluye:</p>
-<ul>
-<li class=""><strong>19 vehículos</strong> autorizados para pruebas</li>
-<li class=""><strong>Operación en vías abiertas</strong> al tráfico público</li>
-<li class=""><strong>Diversas condiciones</strong> de tráfico y meteorológicas</li>
-<li class=""><strong>Personal de seguridad</strong> a bordo durante las pruebas</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-marco-es-av">El marco ES-AV<a href="https://fsd.pepetox.es/madrid-zona-cero-pruebas-fsd-dgt#el-marco-es-av" class="hash-link" aria-label="Enlace directo al El marco ES-AV" title="Enlace directo al El marco ES-AV" translate="no">​</a></h3>
-<p>El programa ES-AV establece diferentes fases de prueba:</p>
-<table><thead><tr><th>Fase</th><th>Descripción</th><th>Requisitos</th></tr></thead><tbody><tr><td>Fase 1</td><td>Pruebas en circuito cerrado</td><td>Mínimos</td></tr><tr><td>Fase 2</td><td>Vías públicas con restricciones</td><td>Conductor de seguridad, rutas aprobadas</td></tr><tr><td>Fase 3</td><td>Vías públicas sin restricciones</td><td>Posible operación sin conductor físico*</td></tr></tbody></table>
-<p>*Con supervisión remota y capacidad de intervención</p>
-<p>Las pruebas actuales de Tesla parecen estar en <strong>Fase 2</strong>, manteniendo personal a bordo por precaución y para validación de datos.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="dónde-se-están-haciendo-las-pruebas">Dónde se están haciendo las pruebas<a href="https://fsd.pepetox.es/madrid-zona-cero-pruebas-fsd-dgt#d%C3%B3nde-se-est%C3%A1n-haciendo-las-pruebas" class="hash-link" aria-label="Enlace directo al Dónde se están haciendo las pruebas" title="Enlace directo al Dónde se están haciendo las pruebas" translate="no">​</a></h2>
-<p>Videos filtrados y material oficial compartido por Tesla Europa muestran a estos vehículos navegando por puntos neurálgicos de la capital:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="zonas-confirmadas-de-prueba">Zonas confirmadas de prueba<a href="https://fsd.pepetox.es/madrid-zona-cero-pruebas-fsd-dgt#zonas-confirmadas-de-prueba" class="hash-link" aria-label="Enlace directo al Zonas confirmadas de prueba" title="Enlace directo al Zonas confirmadas de prueba" translate="no">​</a></h3>
-<ul>
-<li class=""><strong>Paseo de la Castellana</strong>: La arteria principal de Madrid, con múltiples carriles, rotondas y tráfico denso</li>
-<li class=""><strong>M-30</strong>: La circunvalación de Madrid, con alta velocidad y cruces complejos</li>
-<li class=""><strong>Rotondas urbanas</strong>: Específicamente, rotondas de múltiples carriles con tráfico intenso</li>
-<li class=""><strong>Centro de Madrid</strong>: Calles estrechas, zonas peatonales, tráfico mixto</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-madrid">Por qué Madrid<a href="https://fsd.pepetox.es/madrid-zona-cero-pruebas-fsd-dgt#por-qu%C3%A9-madrid" class="hash-link" aria-label="Enlace directo al Por qué Madrid" title="Enlace directo al Por qué Madrid" translate="no">​</a></h3>
-<p>Madrid ofrece un conjunto de entrenamiento ideal para la "Euro-Net":</p>
-<ol>
-<li class=""><strong>Variedad de infraestructuras</strong>: Desde autovías modernas hasta cascos históricos</li>
-<li class=""><strong>Rotondas complejas</strong>: El "terror" del Autopilot en su versión actual</li>
-<li class=""><strong>Tráfico denso</strong>: Condiciones reales de conducción urbana</li>
-<li class=""><strong>Diversidad climática</strong>: Desde calor extremo hasta lluvia ocasional</li>
-<li class=""><strong>Señalización europea</strong>: Estándares diferentes a los americanos</li>
-</ol>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-hemos-visto">Lo que hemos visto<a href="https://fsd.pepetox.es/madrid-zona-cero-pruebas-fsd-dgt#lo-que-hemos-visto" class="hash-link" aria-label="Enlace directo al Lo que hemos visto" title="Enlace directo al Lo que hemos visto" translate="no">​</a></h2>
-<p>Los vídeos de las pruebas revelan un sistema significativamente más avanzado que el Autopilot disponible para los usuarios europeos:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="comportamientos-observados">Comportamientos observados<a href="https://fsd.pepetox.es/madrid-zona-cero-pruebas-fsd-dgt#comportamientos-observados" class="hash-link" aria-label="Enlace directo al Comportamientos observados" title="Enlace directo al Comportamientos observados" translate="no">​</a></h3>
-<ul>
-<li class=""><strong>Navegación fluida en rotondas</strong>: El vehículo entra, cede, y sale de rotondas de forma natural</li>
-<li class=""><strong>Cambios de carril decididos</strong>: Sin el temporizador de 5 segundos que frustra a los usuarios</li>
-<li class=""><strong>Detección de peatones</strong>: Respuesta adecuada a cruces no regulados</li>
-<li class=""><strong>Semáforos</strong>: Parada y arranque correcto en intersecciones</li>
-<li class=""><strong>Calles estrechas</strong>: Navegación con coches aparcados en ambos lados</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-diferencia-con-el-autopilot-actual">La diferencia con el Autopilot actual<a href="https://fsd.pepetox.es/madrid-zona-cero-pruebas-fsd-dgt#la-diferencia-con-el-autopilot-actual" class="hash-link" aria-label="Enlace directo al La diferencia con el Autopilot actual" title="Enlace directo al La diferencia con el Autopilot actual" translate="no">​</a></h3>
-<p>Ver estos vídeos es, para un propietario europeo, agridulce. El mismo coche que en tu garaje se desactiva en una rotonda, en estas pruebas la navega perfectamente. La diferencia no es el hardware (es el mismo), sino el <strong>software que no está disponible para nosotros</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="españa-como-mina-de-datos">España como "mina de datos"<a href="https://fsd.pepetox.es/madrid-zona-cero-pruebas-fsd-dgt#espa%C3%B1a-como-mina-de-datos" class="hash-link" aria-label="Enlace directo al España como &quot;mina de datos&quot;" title="Enlace directo al España como &quot;mina de datos&quot;" translate="no">​</a></h2>
-<p>Más allá de cumplir requisitos regulatorios, estas pruebas tienen un propósito fundamental: <strong>entrenar la IA</strong>.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-ciclo-de-mejora">El ciclo de mejora<a href="https://fsd.pepetox.es/madrid-zona-cero-pruebas-fsd-dgt#el-ciclo-de-mejora" class="hash-link" aria-label="Enlace directo al El ciclo de mejora" title="Enlace directo al El ciclo de mejora" translate="no">​</a></h3>
-<ol>
-<li class=""><strong>Los coches de prueba graban todo</strong>: Video, telemetría, intervenciones</li>
-<li class=""><strong>Los datos van a Tesla</strong>: Servidores procesan millones de situaciones</li>
-<li class=""><strong>La red neuronal aprende</strong>: Comportamientos específicos de España</li>
-<li class=""><strong>El software mejora</strong>: Nuevas versiones más adaptadas a Europa</li>
-</ol>
-<p>Cada kilómetro recorrido por estos 19 vehículos es un paso hacia un FSD que entienda cómo se conduce en España: las rotondas, la señalización, el comportamiento de otros conductores.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="implicaciones-para-el-lanzamiento-en-españa">Implicaciones para el lanzamiento en España<a href="https://fsd.pepetox.es/madrid-zona-cero-pruebas-fsd-dgt#implicaciones-para-el-lanzamiento-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Implicaciones para el lanzamiento en España" title="Enlace directo al Implicaciones para el lanzamiento en España" translate="no">​</a></h2>
-<p>La existencia de este programa de pruebas es la señal más concreta de que Tesla está comprometida con el mercado europeo. Pero, ¿qué significa para las fechas?</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-positivo">Lo positivo<a href="https://fsd.pepetox.es/madrid-zona-cero-pruebas-fsd-dgt#lo-positivo" class="hash-link" aria-label="Enlace directo al Lo positivo" title="Enlace directo al Lo positivo" translate="no">​</a></h3>
-<ul>
-<li class="">Tesla está invirtiendo recursos significativos en España</li>
-<li class="">La DGT es un regulador relativamente progresista</li>
-<li class="">Los datos recogidos acelerarán el desarrollo de la "Euro-Net"</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-aún-falta">Lo que aún falta<a href="https://fsd.pepetox.es/madrid-zona-cero-pruebas-fsd-dgt#lo-que-a%C3%BAn-falta" class="hash-link" aria-label="Enlace directo al Lo que aún falta" title="Enlace directo al Lo que aún falta" translate="no">​</a></h3>
-<ul>
-<li class="">Completar las pruebas con resultados satisfactorios</li>
-<li class="">Obtener homologación del sistema bajo DCAS o equivalente</li>
-<li class="">Resolver la fragmentación regulatoria europea (cada país puede imponer requisitos adicionales)</li>
-</ul>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>Perspectiva realista</div><div class="admonitionContent_BuS1"><p>Las pruebas en Madrid son necesarias pero no suficientes para el lanzamiento del FSD. Son un paso en un proceso que incluye validación técnica, aprobación regulatoria, y despliegue comercial. Cada fase puede durar meses.</p></div></div>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="cómo-identificar-un-tesla-de-prueba">Cómo identificar un Tesla de prueba<a href="https://fsd.pepetox.es/madrid-zona-cero-pruebas-fsd-dgt#c%C3%B3mo-identificar-un-tesla-de-prueba" class="hash-link" aria-label="Enlace directo al Cómo identificar un Tesla de prueba" title="Enlace directo al Cómo identificar un Tesla de prueba" translate="no">​</a></h2>
-<p>Si paseas por Madrid, podrías cruzarte con uno de estos vehículos. Características a buscar:</p>
-<ol>
-<li class=""><strong>Pegatinas/distintivos</strong>: Vehículos de prueba suelen llevar identificación</li>
-<li class=""><strong>Personal a bordo</strong>: Al menos dos personas (conductor de seguridad + ingeniero)</li>
-<li class=""><strong>Equipamiento adicional</strong>: Posibles cámaras externas o antenas</li>
-<li class=""><strong>Comportamiento</strong>: Conducción más "experimental", posibles paradas técnicas</li>
-</ol>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="comparación-con-otras-pruebas-en-europa">Comparación con otras pruebas en Europa<a href="https://fsd.pepetox.es/madrid-zona-cero-pruebas-fsd-dgt#comparaci%C3%B3n-con-otras-pruebas-en-europa" class="hash-link" aria-label="Enlace directo al Comparación con otras pruebas en Europa" title="Enlace directo al Comparación con otras pruebas en Europa" translate="no">​</a></h2>
-<p>España no está sola. Tesla también está probando en otros países europeos:</p>
-<table><thead><tr><th>País</th><th>Estado de pruebas</th><th>Particularidades</th></tr></thead><tbody><tr><td><strong>España</strong></td><td>Activo (19 vehículos)</td><td>Foco en Madrid, marco ES-AV</td></tr><tr><td><strong>Países Bajos</strong></td><td>Activo</td><td>RDW como regulador clave</td></tr><tr><td><strong>Alemania</strong></td><td>Limitado</td><td>Autobahn, regulación estricta</td></tr><tr><td><strong>Reino Unido</strong></td><td>Activo</td><td>Post-Brexit, regulación propia</td></tr><tr><td><strong>Francia</strong></td><td>Inicial</td><td>Pruebas en autopistas</td></tr></tbody></table>
-<p>España destaca por su <strong>volumen de pruebas</strong> y la <strong>apertura del regulador</strong>. Podríamos estar ante un caso donde España sea uno de los primeros países europeos en recibir el FSD completo.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-dicen-los-expertos">Lo que dicen los expertos<a href="https://fsd.pepetox.es/madrid-zona-cero-pruebas-fsd-dgt#lo-que-dicen-los-expertos" class="hash-link" aria-label="Enlace directo al Lo que dicen los expertos" title="Enlace directo al Lo que dicen los expertos" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="analistas-del-sector">Analistas del sector<a href="https://fsd.pepetox.es/madrid-zona-cero-pruebas-fsd-dgt#analistas-del-sector" class="hash-link" aria-label="Enlace directo al Analistas del sector" title="Enlace directo al Analistas del sector" translate="no">​</a></h3>
-<blockquote>
-<p>"Las pruebas de Tesla en España son la señal más clara de que Europa no ha sido abandonada. La pregunta no es si el FSD llegará, sino cuándo."</p>
-</blockquote>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="comunidad-de-usuarios">Comunidad de usuarios<a href="https://fsd.pepetox.es/madrid-zona-cero-pruebas-fsd-dgt#comunidad-de-usuarios" class="hash-link" aria-label="Enlace directo al Comunidad de usuarios" title="Enlace directo al Comunidad de usuarios" translate="no">​</a></h3>
-<blockquote>
-<p>"Ver esos vídeos de Madrid me da esperanza. El coche puede hacerlo, solo falta que nos dejen usarlo."</p>
-</blockquote>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="reguladores-off-the-record">Reguladores (off the record)<a href="https://fsd.pepetox.es/madrid-zona-cero-pruebas-fsd-dgt#reguladores-off-the-record" class="hash-link" aria-label="Enlace directo al Reguladores (off the record)" title="Enlace directo al Reguladores (off the record)" translate="no">​</a></h3>
-<blockquote>
-<p>"Tesla está demostrando que su sistema puede funcionar en condiciones europeas. Ahora tienen que demostrarlo con datos estadísticamente significativos."</p>
-</blockquote>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://fsd.pepetox.es/madrid-zona-cero-pruebas-fsd-dgt#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
-<p>Madrid se ha convertido en el campo de pruebas más activo de Tesla en Europa continental. Los 19 vehículos que navegan nuestras calles son pioneros de una tecnología que pronto podría estar disponible para todos los propietarios españoles.</p>
-<p>Las pruebas son prometedoras, el regulador es cooperativo, y los datos están fluyendo. Pero la prudencia es necesaria: las pruebas exitosas no garantizan lanzamiento inmediato. El proceso regulatorio europeo tiene su propio ritmo.</p>
-<p>Para la comunidad española de Tesla, estos vehículos son embajadores de un futuro que, por primera vez, parece tangible. No sabemos exactamente cuándo llegará el FSD completo a España, pero sabemos que Tesla está trabajando activamente para que ocurra.</p>
-<p>La Castellana, la M-30, las rotondas madrileñas... están siendo el campo de entrenamiento de la inteligencia artificial que, algún día, conducirá nuestros coches.</p>
-<hr>
-<p><em>¿Has visto alguno de estos vehículos de prueba en Madrid? ¿Conoces otras ubicaciones donde estén probando? Comparte tu avistamiento.</em></p>]]></content>
-        <author>
-            <name>FSD Spain</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="fsd" term="fsd"/>
-        <category label="españa" term="españa"/>
-        <category label="madrid" term="madrid"/>
-        <category label="dgt" term="dgt"/>
-        <category label="pruebas" term="pruebas"/>
-        <category label="regulación" term="regulación"/>
     </entry>
 </feed>
