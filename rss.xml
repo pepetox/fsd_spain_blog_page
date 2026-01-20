@@ -4,10 +4,46 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Mon, 19 Jan 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jan 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[España, Laboratorio de Europa: Análisis de la Autorización FVA-03/2025]]></title>
+            <link>https://fsd.pepetox.es/autorizacion-fsd-espana-fva-03-2025</link>
+            <guid>https://fsd.pepetox.es/autorizacion-fsd-espana-fva-03-2025</guid>
+            <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Mientras Bruselas y la UNECE continúan deliberando sobre los detalles técnicos de la normativa DCAS (Driver Control Assistance Systems), España ha decidido tomar la delantera pragmática en la carrera por la conducción autónoma. La reciente confirmación de la autorización FVA-03/2025 por parte de la Dirección General de Tráfico (DGT) no es solo un trámite administrativo; es la señal definitiva de que nuestras carreteras se han convertido en el campo de pruebas crucial para el FSD en el sur de Europa.]]></description>
+            <content:encoded><![CDATA[<p>Mientras Bruselas y la UNECE continúan deliberando sobre los detalles técnicos de la normativa DCAS (Driver Control Assistance Systems), España ha decidido tomar la delantera pragmática en la carrera por la conducción autónoma. La reciente confirmación de la autorización <strong>FVA-03/2025</strong> por parte de la Dirección General de Tráfico (DGT) no es solo un trámite administrativo; es la señal definitiva de que nuestras carreteras se han convertido en el campo de pruebas crucial para el FSD en el sur de Europa.</p>
+<p>¿Qué significa realmente este código burocrático para el futuro de Tesla en la península y por qué deberíamos prestar atención a esos Model 3 con matrículas de prueba que empiezan a verse fuera de Madrid?</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fva-032025-la-visa-dorada-del-fsd">FVA-03/2025: La "Visa Dorada" del FSD<a href="https://fsd.pepetox.es/autorizacion-fsd-espana-fva-03-2025#fva-032025-la-visa-dorada-del-fsd" class="hash-link" aria-label="Enlace directo al FVA-03/2025: La &quot;Visa Dorada&quot; del FSD" title="Enlace directo al FVA-03/2025: La &quot;Visa Dorada&quot; del FSD" translate="no">​</a></h2>
+<p>A diferencia de los permisos limitados que hemos visto en otros países europeos, la autorización otorgada por la DGT es sorprendentemente amplia y ambiciosa. Según los detalles que han trascendido del programa ES-AV (Vehículos Automatizados), Tesla ha conseguido luz verde para operar una flota de <strong>19 vehículos</strong> específicos.</p>
+<p>Lo verdaderamente disruptivo no es el número de coches, sino el alcance geográfico: <strong>"cualquier ruta nacional"</strong>.</p>
+<p>Esto elimina las restricciones de "geofencing" (cercado geográfico) que a menudo limitan estas pruebas a autopistas controladas o distritos urbanos específicos. Tesla ahora tiene la libertad legal para enfrentar a su red neuronal contra la inmensa variabilidad de la infraestructura española: desde las autopistas M-30 y M-40, pasando por las carreteras secundarias de Galicia, hasta el caos urbano del Eixample barcelonés.</p>
+<p>La autorización tiene una vigencia hasta <strong>noviembre de 2027</strong>, lo que nos da una pista clara sobre el horizonte temporal que manejan tanto los reguladores como la compañía para una madurez total del sistema.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-contexto-europeo-fase-2-en-q2-2026">El Contexto Europeo: Fase 2 en Q2 2026<a href="https://fsd.pepetox.es/autorizacion-fsd-espana-fva-03-2025#el-contexto-europeo-fase-2-en-q2-2026" class="hash-link" aria-label="Enlace directo al El Contexto Europeo: Fase 2 en Q2 2026" title="Enlace directo al El Contexto Europeo: Fase 2 en Q2 2026" translate="no">​</a></h2>
+<p>Esta libertad de pruebas en España encaja perfectamente con el cronograma filtrado de Tesla para Europa. Mientras que países como Alemania y Holanda (sede de la RDW, la autoridad de homologación clave) están en la "Fase 1" de validación técnica estricta, España se posiciona en la <strong>Fase 2</strong>, con un despliegue más amplio proyectado para el <strong>segundo trimestre de 2026</strong>.</p>
+<p>Esto sugiere que los datos recogidos en nuestras carreteras servirán para "afinar" el comportamiento del FSD ante las idiosincrasias de la conducción latina, que difiere notablemente de la rigidez del tráfico en el norte de Europa.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-españa">¿Por qué España?<a href="https://fsd.pepetox.es/autorizacion-fsd-espana-fva-03-2025#por-qu%C3%A9-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al ¿Por qué España?" title="Enlace directo al ¿Por qué España?" translate="no">​</a></h3>
+<ol>
+<li class=""><strong>Clima Favorable:</strong> A diferencia de Noruega o Suecia, España ofrece condiciones de luz y clima ideales para las cámaras del Hardware 4 durante todo el año, maximizando las horas de validación efectiva.</li>
+<li class=""><strong>Infraestructura Desafiante:</strong> Como analizamos en nuestro artículo sobre <a class="" href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana">El Desafío de la Rotonda</a>, nuestras rotondas (a menudo con carriles implícitos y salidas agresivas) son el "jefe final" para cualquier IA de conducción. Si el FSD puede navegar una rotonda de tres carriles en hora punta en Valencia, puede conducir en casi cualquier lugar.</li>
+<li class=""><strong>Apoyo Institucional:</strong> La DGT ha demostrado ser un organismo progresista en cuanto a la adopción de nuevas tecnologías, entendiendo que la automatización es clave para reducir la siniestralidad a largo plazo (Visión Cero).</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad-vs-expectativa">Realidad vs. Expectativa<a href="https://fsd.pepetox.es/autorizacion-fsd-espana-fva-03-2025#realidad-vs-expectativa" class="hash-link" aria-label="Enlace directo al Realidad vs. Expectativa" title="Enlace directo al Realidad vs. Expectativa" translate="no">​</a></h2>
+<p>Es importante moderar el entusiasmo. Que existan 19 coches probando el sistema <strong>no significa</strong> que tu Tesla vaya a recibir la actualización mañana. Estos vehículos están operados por conductores de seguridad profesionales (Safety Operators) que monitorizan el sistema constantemente.</p>
+<p>Sin embargo, cada kilómetro recorrido por esta flota "fantasma" alimenta el cerebro colectivo de la IA de Tesla. Los "disengagements" (desconexiones) que ocurren hoy en una carretera de montaña en Andalucía son los parches de software que evitarán accidentes en la versión pública que (esperamos) llegue a finales de este año o principios del próximo.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://fsd.pepetox.es/autorizacion-fsd-espana-fva-03-2025#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
+<p>La autorización FVA-03/2025 convierte a España en un laboratorio vivo. Ya no somos espectadores pasivos esperando a que California decida que el software está listo. Nuestras carreteras están entrenando activamente a la próxima generación de inteligencia artificial.</p>
+<p>La próxima vez que veas un Tesla haciendo una maniobra inusualmente suave (o quizás un poco vacilante) en una rotonda compleja, fíjate bien. Podría ser uno de los 19 pioneros trazando el mapa digital del futuro.</p>
+<p>Mantente atento al blog para más actualizaciones sobre cómo avanza la <strong>Fase 2</strong> y qué dicen los primeros informes de estas pruebas nacionales.</p>]]></content:encoded>
+            <category>regulacion</category>
+            <category>españa</category>
+            <category>dgt</category>
+            <category>pruebas</category>
+            <category>fsd-beta</category>
+            <category>noticias</category>
+        </item>
         <item>
             <title><![CDATA[El Desafío de la Rotonda: Redes Neuronales vs. el Caos Español]]></title>
             <link>https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana</link>
@@ -2619,131 +2655,6 @@ Meses después, en noviembre, todo se formalizó con la autorización oficial de
             <category>club-tesla</category>
             <category>opiniones</category>
             <category>fsd</category>
-        </item>
-        <item>
-            <title><![CDATA[El Efecto Dominó: La Estrategia Holandesa y la Verdad sobre Febrero 2026]]></title>
-            <link>https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026</link>
-            <guid>https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026</guid>
-            <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Desmontando el mito de la aprobación del FSD en febrero 2026. Qué dijo realmente Tesla, qué respondió la RDW, y qué significa para España.]]></description>
-            <content:encoded><![CDATA[<p>En noviembre de 2025, la comunidad Tesla europea explotó de expectación: Tesla había anunciado que el FSD sería aprobado en Europa para febrero de 2026. Los titulares prometían la llegada inminente de la conducción autónoma al Viejo Continente. Pero, ¿qué pasó realmente? Spoiler: la realidad es más complicada.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-anuncio-que-incendió-las-redes">El anuncio que incendió las redes<a href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026#el-anuncio-que-incendi%C3%B3-las-redes" class="hash-link" aria-label="Enlace directo al El anuncio que incendió las redes" title="Enlace directo al El anuncio que incendió las redes" translate="no">​</a></h2>
-<p>El 24 de noviembre de 2025, Tesla, a través de sus canales oficiales, comunicó que la <strong>RDW</strong> (Rijksdienst voor het Wegverkeer, la autoridad vehicular de los Países Bajos) se había comprometido a aprobar el FSD para febrero de 2026.</p>
-<p>La reacción fue inmediata:</p>
-<ul>
-<li class="">Las acciones de Tesla subieron</li>
-<li class="">Los foros se llenaron de celebraciones</li>
-<li class="">Los medios españoles hablaron de "la llegada inminente"</li>
-<li class="">Los propietarios europeos empezaron a contar los días</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-respuesta-de-la-rdw">La respuesta de la RDW<a href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026#la-respuesta-de-la-rdw" class="hash-link" aria-label="Enlace directo al La respuesta de la RDW" title="Enlace directo al La respuesta de la RDW" translate="no">​</a></h2>
-<p>El golpe de realidad llegó rápido. La RDW emitió un comunicado que decía, esencialmente: <strong>"No hemos prometido nada de eso."</strong></p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-dijo-la-rdw">Lo que dijo la RDW<a href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026#lo-que-dijo-la-rdw" class="hash-link" aria-label="Enlace directo al Lo que dijo la RDW" title="Enlace directo al Lo que dijo la RDW" translate="no">​</a></h3>
-<blockquote>
-<p>"Febrero de 2026 es la fecha agendada para que Tesla demuestre que su sistema cumple con los requisitos de seguridad necesarios para <strong>solicitar</strong> una exención. No es una fecha de aprobación."</p>
-</blockquote>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-esto-significa">Lo que esto significa<a href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026#lo-que-esto-significa" class="hash-link" aria-label="Enlace directo al Lo que esto significa" title="Enlace directo al Lo que esto significa" translate="no">​</a></h3>
-<table><thead><tr><th>Lo que entendió la gente</th><th>Lo que realmente significa</th></tr></thead><tbody><tr><td>FSD aprobado en febrero 2026</td><td>Tesla presenta su caso en febrero 2026</td></tr><tr><td>Lanzamiento comercial inminente</td><td>Inicio del proceso de evaluación</td></tr><tr><td>Europa tendrá FSD pronto</td><td>Europa podría tener FSD... eventualmente</td></tr></tbody></table>
-<p>La RDW enfatizó tres puntos cruciales:</p>
-<ol>
-<li class=""><strong>La carga de la prueba recae sobre Tesla</strong></li>
-<li class=""><strong>La seguridad del tráfico es primordial</strong></li>
-<li class=""><strong>El proceso de validación podría extenderse mucho más allá</strong> de febrero si los datos no son concluyentes</li>
-</ol>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-estrategia-de-tesla-el-estado-miembro-de-referencia">La estrategia de Tesla: El "Estado Miembro de Referencia"<a href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026#la-estrategia-de-tesla-el-estado-miembro-de-referencia" class="hash-link" aria-label="Enlace directo al La estrategia de Tesla: El &quot;Estado Miembro de Referencia&quot;" title="Enlace directo al La estrategia de Tesla: El &quot;Estado Miembro de Referencia&quot;" translate="no">​</a></h2>
-<p>Para entender qué está haciendo Tesla, hay que entender cómo funciona la regulación vehicular europea:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-principio-de-reconocimiento-mutuo">El principio de reconocimiento mutuo<a href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026#el-principio-de-reconocimiento-mutuo" class="hash-link" aria-label="Enlace directo al El principio de reconocimiento mutuo" title="Enlace directo al El principio de reconocimiento mutuo" translate="no">​</a></h3>
-<p>En la UE, si un estado miembro aprueba una exención o certificación vehicular, otros estados pueden <strong>reconocer esa aprobación</strong> sin hacer su propio proceso completo. Es el llamado "efecto dominó".</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-los-países-bajos">Por qué los Países Bajos<a href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026#por-qu%C3%A9-los-pa%C3%ADses-bajos" class="hash-link" aria-label="Enlace directo al Por qué los Países Bajos" title="Enlace directo al Por qué los Países Bajos" translate="no">​</a></h3>
-<p>Tesla eligió los Países Bajos como cabeza de playa por varias razones:</p>
-<ol>
-<li class=""><strong>RDW es tecnológicamente progresista</strong>: Históricamente abierta a innovación</li>
-<li class=""><strong>Tamaño manejable</strong>: País pequeño, menos burocracia</li>
-<li class=""><strong>Infraestructura moderna</strong>: Buenos datos de carreteras</li>
-<li class=""><strong>Precedente europeo</strong>: Lo que apruebe Holanda puede influir en la UE</li>
-</ol>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-plan-de-tesla">El plan de Tesla<a href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026#el-plan-de-tesla" class="hash-link" aria-label="Enlace directo al El plan de Tesla" title="Enlace directo al El plan de Tesla" translate="no">​</a></h3>
-<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">Países Bajos aprueba exención</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">          ↓</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">España, Alemania, Francia reconocen</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">          ↓</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">FSD disponible en toda la UE</span><br></span></code></pre></div></div>
-<p>Es elegante en teoría. En la práctica, cada paso tiene sus propias complicaciones.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-calendario-realista">El calendario realista<a href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026#el-calendario-realista" class="hash-link" aria-label="Enlace directo al El calendario realista" title="Enlace directo al El calendario realista" translate="no">​</a></h2>
-<p>Basándonos en lo que sabemos, este es un calendario más realista:</p>
-<table><thead><tr><th>Fecha</th><th>Hito</th></tr></thead><tbody><tr><td>Febrero 2026</td><td>Tesla presenta datos a la RDW</td></tr><tr><td>2026 (resto)</td><td>RDW evalúa, pide más datos, Tesla ajusta</td></tr><tr><td>Finales 2026 / 2027</td><td>Posible exención en Países Bajos</td></tr><tr><td>2027+</td><td>Reconocimiento por otros estados EU</td></tr><tr><td>2027-2028</td><td>Posible disponibilidad en España</td></tr></tbody></table>
-<div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>Importante</div><div class="admonitionContent_BuS1"><p>Esto es una <strong>estimación optimista</strong>. Si la RDW encuentra problemas en los datos de Tesla, el proceso puede retrasarse significativamente. Y cada país europeo puede imponer requisitos adicionales.</p></div></div>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-está-en-juego-para-tesla">Qué está en juego para Tesla<a href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026#qu%C3%A9-est%C3%A1-en-juego-para-tesla" class="hash-link" aria-label="Enlace directo al Qué está en juego para Tesla" title="Enlace directo al Qué está en juego para Tesla" translate="no">​</a></h2>
-<p>El FSD en Europa no es solo una cuestión técnica o regulatoria. Es estratégica:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="ingresos-diferidos">Ingresos diferidos<a href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026#ingresos-diferidos" class="hash-link" aria-label="Enlace directo al Ingresos diferidos" title="Enlace directo al Ingresos diferidos" translate="no">​</a></h3>
-<p>Miles de europeos han pagado 7.500€ por un producto que no pueden usar. Cada mes que pasa sin FSD en Europa es:</p>
-<ul>
-<li class="">Presión de consumidores</li>
-<li class="">Riesgo de demandas</li>
-<li class="">Problema de relaciones públicas</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="competencia-creciente">Competencia creciente<a href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026#competencia-creciente" class="hash-link" aria-label="Enlace directo al Competencia creciente" title="Enlace directo al Competencia creciente" translate="no">​</a></h3>
-<p>Mientras Tesla espera aprobación, la competencia avanza:</p>
-<ul>
-<li class=""><strong>Mercedes</strong> ya tiene aprobación para conducción Nivel 3 en autopistas alemanas</li>
-<li class=""><strong>BMW</strong> y <strong>Audi</strong> desarrollan sus propios sistemas</li>
-<li class=""><strong>Fabricantes chinos</strong> presionan con precios agresivos</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="credibilidad-de-elon-musk">Credibilidad de Elon Musk<a href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026#credibilidad-de-elon-musk" class="hash-link" aria-label="Enlace directo al Credibilidad de Elon Musk" title="Enlace directo al Credibilidad de Elon Musk" translate="no">​</a></h3>
-<p>Musk ha prometido FSD "completo" múltiples veces. Cada retraso erosiona la credibilidad de sus predicciones. El episodio de febrero 2026 es un ejemplo más de expectativas infladas seguidas de realidad decepcionante.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="implicaciones-para-españa">Implicaciones para España<a href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026#implicaciones-para-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Implicaciones para España" title="Enlace directo al Implicaciones para España" translate="no">​</a></h2>
-<p>Para los propietarios españoles, este episodio tiene lecciones claras:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="no-hay-atajos">No hay atajos<a href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026#no-hay-atajos" class="hash-link" aria-label="Enlace directo al No hay atajos" title="Enlace directo al No hay atajos" translate="no">​</a></h3>
-<p>Aunque Tesla consiga la aprobación holandesa, España podría requerir:</p>
-<ul>
-<li class="">Validación adicional por la DGT</li>
-<li class="">Adaptación a normativa española específica</li>
-<li class="">Pruebas locales (que ya se están haciendo)</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-marco-es-av-es-una-ventaja">El marco ES-AV es una ventaja<a href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026#el-marco-es-av-es-una-ventaja" class="hash-link" aria-label="Enlace directo al El marco ES-AV es una ventaja" title="Enlace directo al El marco ES-AV es una ventaja" translate="no">​</a></h3>
-<p>Irónicamente, las pruebas que Tesla ya está haciendo en Madrid podrían acelerar el proceso español. Si Tesla tiene datos de comportamiento en carreteras españolas, la DGT tendrá menos razones para pedir validación adicional.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="paciencia-pero-con-esperanza-informada">Paciencia, pero con esperanza informada<a href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026#paciencia-pero-con-esperanza-informada" class="hash-link" aria-label="Enlace directo al Paciencia, pero con esperanza informada" title="Enlace directo al Paciencia, pero con esperanza informada" translate="no">​</a></h3>
-<p>La llegada del FSD a España es cuestión de "cuándo", no de "si". Pero ese "cuándo" depende de:</p>
-<ol>
-<li class="">Éxito en la validación holandesa</li>
-<li class="">Reconocimiento mutuo efectivo</li>
-<li class="">Requisitos adicionales de la DGT</li>
-<li class="">Decisiones comerciales de Tesla</li>
-</ol>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="cómo-seguir-el-proceso">Cómo seguir el proceso<a href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026#c%C3%B3mo-seguir-el-proceso" class="hash-link" aria-label="Enlace directo al Cómo seguir el proceso" title="Enlace directo al Cómo seguir el proceso" translate="no">​</a></h2>
-<p>Para mantenerse informado sobre el progreso real (no los titulares sensacionalistas):</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes-fiables">Fuentes fiables<a href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026#fuentes-fiables" class="hash-link" aria-label="Enlace directo al Fuentes fiables" title="Enlace directo al Fuentes fiables" translate="no">​</a></h3>
-<ul>
-<li class=""><strong>RDW oficial</strong>: Comunicados del regulador holandés</li>
-<li class=""><strong>DGT</strong>: Anuncios sobre el programa ES-AV</li>
-<li class=""><strong>Tesla Europa</strong>: Canales oficiales (con escepticismo saludable)</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="señales-a-buscar">Señales a buscar<a href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026#se%C3%B1ales-a-buscar" class="hash-link" aria-label="Enlace directo al Señales a buscar" title="Enlace directo al Señales a buscar" translate="no">​</a></h3>
-<ul>
-<li class="">Anuncios de <strong>finalización de pruebas</strong> (no inicio)</li>
-<li class="">Comunicados de <strong>aprobación</strong> (no presentación)</li>
-<li class="">Noticias de <strong>otros países</strong> reconociendo la aprobación holandesa</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="señales-de-humo">Señales de humo<a href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026#se%C3%B1ales-de-humo" class="hash-link" aria-label="Enlace directo al Señales de humo" title="Enlace directo al Señales de humo" translate="no">​</a></h3>
-<ul>
-<li class="">Actualizaciones de software que preparen el terreno</li>
-<li class="">Cambios en la web de Tesla sobre disponibilidad</li>
-<li class="">Testimonios de usuarios holandeses probando el sistema</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
-<p>El episodio de febrero 2026 es un caso de estudio en gestión de expectativas. Tesla comunicó de forma que maximizaba el optimismo; la RDW corrigió con la realidad burocrática.</p>
-<p>Para los propietarios europeos, la lección es clara: <strong>desconfía de las fechas, confía en los hechos</strong>. Cuando veas anuncios de "aprobación", pregunta siempre:</p>
-<ul>
-<li class="">¿Aprobación de qué exactamente?</li>
-<li class="">¿Por quién?</li>
-<li class="">¿Con qué condiciones?</li>
-</ul>
-<p>El FSD llegará a Europa. Probablemente llegará a España. Pero llegará cuando los reguladores estén convencidos de su seguridad, no cuando Tesla lo anuncie en un comunicado de prensa.</p>
-<p>Mientras tanto, las pruebas continúan en Madrid, los datos fluyen a Tesla, y el proceso regulatorio sigue su curso. No es tan emocionante como un anuncio de fecha, pero es la realidad.</p>
-<hr>
-<p><em>¿Cómo interpretas los anuncios de Tesla sobre fechas? ¿Crees que febrero 2026 marcará un antes y un después, o será otro hito en un proceso largo? Comparte tu opinión.</em></p>]]></content:encoded>
-            <category>fsd</category>
-            <category>regulación</category>
-            <category>europa</category>
-            <category>países-bajos</category>
-            <category>rdw</category>
-            <category>homologación</category>
         </item>
     </channel>
 </rss>
