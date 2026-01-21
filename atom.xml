@@ -33,7 +33,6 @@
 <li class=""><strong>Señales superpuestas</strong> (80 temporal sobre 120 permanente) sin titubeos peligrosos.</li>
 </ul>
 <p>Aquí es donde la arquitectura end-to-end se juega su credibilidad: no basta con seguir líneas, hay que inferir intención y contexto. Si te interesa esta transición, revisa nuestro análisis sobre la <a class="" href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13">revolución end-to-end</a>.</p>
-<p><img decoding="async" loading="lazy" alt="Logotipo de FSD Spain" src="https://fsd.pepetox.es/assets/images/fsdspain-3e5bd70ddbee8232df3482c3f26e7c44.png" width="2048" height="2048" class="img_ev3q"></p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="dcas-progreso-real-sin-magia">DCAS: progreso real, sin magia<a href="https://fsd.pepetox.es/fsd-obras-desvios-examen-europa#dcas-progreso-real-sin-magia" class="hash-link" aria-label="Enlace directo al DCAS: progreso real, sin magia" title="Enlace directo al DCAS: progreso real, sin magia" translate="no">​</a></h2>
 <p>Europa no está esperando un “robotaxi”, sino un sistema <strong>supervisado</strong>. El marco de referencia es el <strong>Reglamento ONU nº 171 (DCAS)</strong>, que entró en vigor el 22 de septiembre de 2024. Define estos sistemas como asistencia a la conducción en nivel 2, con el conductor responsable y obligado a supervisar. citeturn0search1</p>
 <p>Eso significa que el éxito en febrero no será “autonomía total”, sino <strong>demostrar seguridad con supervisión humana</strong>, especialmente en escenarios donde la señalización temporal y las decisiones no están en el mapa.</p>
@@ -102,6 +101,61 @@
         <category label="picos-de-europa" term="picos-de-europa"/>
         <category label="tecnología" term="tecnología"/>
         <category label="v13" term="v13"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cuando el conductor se cansa: el verdadero test del FSD en Europa]]></title>
+        <id>https://fsd.pepetox.es/fatiga-supervision-fsd-europa</id>
+        <link href="https://fsd.pepetox.es/fatiga-supervision-fsd-europa"/>
+        <updated>2026-01-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[La IA puede conducir, pero Europa evaluará sobre todo la supervisión humana: fatiga, mensajes en cabina y el marco DCAS.]]></summary>
+        <content type="html"><![CDATA[<p>Son las 2:47 de la madrugada en la A-2. Has llegado tarde, el tráfico es mínimo, y el coche empieza a detectar pequeñas derivas. En ese momento, una pantalla no debería invitarte a relajarte; debería exigir foco total. Ese matiz —humano, no algorítmico— es el gran cuello de botella para el FSD en Europa.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detonante-un-mensaje-que-cambia-la-narrativa">El detonante: un mensaje que cambia la narrativa<a href="https://fsd.pepetox.es/fatiga-supervision-fsd-europa#el-detonante-un-mensaje-que-cambia-la-narrativa" class="hash-link" aria-label="Enlace directo al El detonante: un mensaje que cambia la narrativa" title="Enlace directo al El detonante: un mensaje que cambia la narrativa" translate="no">​</a></h2>
+<p>En los últimos meses, distintos medios han señalado que Tesla ha probado mensajes en pantalla que sugieren activar FSD cuando el sistema detecta deriva de carril o somnolencia. Expertos en seguridad han advertido que ese tipo de “invitación” puede aumentar la sobreconfianza precisamente en el momento más delicado. No es un detalle menor: es una señal de cómo se está construyendo la relación humano-máquina dentro del coche. [WIRED]</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="europa-no-evalúa-solo-la-ia-evalúa-la-supervisión">Europa no evalúa solo la IA, evalúa la supervisión<a href="https://fsd.pepetox.es/fatiga-supervision-fsd-europa#europa-no-eval%C3%BAa-solo-la-ia-eval%C3%BAa-la-supervisi%C3%B3n" class="hash-link" aria-label="Enlace directo al Europa no evalúa solo la IA, evalúa la supervisión" title="Enlace directo al Europa no evalúa solo la IA, evalúa la supervisión" translate="no">​</a></h2>
+<p>Mientras en EE. UU. la NHTSA ha dado más tiempo a Tesla para responder a una investigación sobre FSD (hasta el 23 de febrero de 2026), en Europa la foto es distinta pero igual de exigente: el regulador neerlandés RDW ha fijado una demostración para febrero de 2026, sin prometer aprobación. Dos continentes, un mismo mensaje: la validación no es automática. [AP] [RDW]</p>
+<p>Aquí entra el reglamento <strong>DCAS (ONU R171)</strong>. No es un permiso para “autonomía”, sino un marco para sistemas <strong>supervisados</strong> de nivel 2. Exige que el conductor permanezca atento y que el sistema disponga de estrategias de aviso efectivas cuando detecta falta de implicación. Es decir: el software debe ser brillante, pero también debe saber <strong>cuándo no puede confiar en ti</strong>. [UNECE] [EUR-Lex]</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-el-end-to-end-no-basta">Expectativa vs. realidad: el end-to-end no basta<a href="https://fsd.pepetox.es/fatiga-supervision-fsd-europa#expectativa-vs-realidad-el-end-to-end-no-basta" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad: el end-to-end no basta" title="Enlace directo al Expectativa vs. realidad: el end-to-end no basta" translate="no">​</a></h2>
+<p><strong>Expectativa:</strong> si la red neuronal conduce mejor, el problema está resuelto.
+<strong>Realidad:</strong> la conducción es mitad IA y mitad psicología. Si el sistema incentiva el “relajarse”, la seguridad se degrada aunque la percepción sea perfecta.</p>
+<p>Por eso el FSD europeo no se juega solo en la arquitectura end-to-end. Se juega en:</p>
+<ul>
+<li class=""><strong>Monitorización del conductor</strong> (cámara interna, detección de mirada y fatiga).</li>
+<li class=""><strong>Mensajes y tono</strong> (alertar vs. invitar a delegar en momentos críticos).</li>
+<li class=""><strong>Handover limpio</strong> (transiciones suaves cuando el sistema se limita).</li>
+<li class=""><strong>Registro de eventos</strong> (demostrar a reguladores qué ocurrió en cada intervención).</li>
+</ul>
+<p>Si quieres contexto técnico sobre cómo Tesla ha evolucionado su stack, aquí tienes nuestro análisis sobre la <a class="" href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13">revolución end-to-end</a>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-debe-demostrar-tesla-para-febrero">Qué debe demostrar Tesla para febrero<a href="https://fsd.pepetox.es/fatiga-supervision-fsd-europa#qu%C3%A9-debe-demostrar-tesla-para-febrero" class="hash-link" aria-label="Enlace directo al Qué debe demostrar Tesla para febrero" title="Enlace directo al Qué debe demostrar Tesla para febrero" translate="no">​</a></h2>
+<p>La pregunta clave para febrero no es “¿conduce solo?”, sino “¿gestiona bien la supervisión?”. En términos prácticos, Tesla necesita mostrar que:</p>
+<ol>
+<li class=""><strong>Detecta la fatiga antes de que sea peligrosa</strong>, y no como una simple advertencia decorativa.</li>
+<li class=""><strong>No anima al conductor a delegar</strong> en el peor momento posible.</li>
+<li class=""><strong>Opera dentro de límites claros</strong>: si el sistema no está seguro, debe pedir control con anticipación.</li>
+<li class=""><strong>Se adapta a Europa</strong>: señales, normas y hábitos distintos requieren un diseño de alertas más conservador.</li>
+</ol>
+<p>En España esto se ve especialmente en túneles largos, rotondas múltiples o incorporaciones densas. Si te interesa ese enfoque local, lee también nuestro análisis del <a class="" href="https://fsd.pepetox.es/desafio-m30-vision-only-tuneles">desafío de la M-30</a>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-takeaway-para-la-comunidad-fsd">El takeaway para la comunidad FSD<a href="https://fsd.pepetox.es/fatiga-supervision-fsd-europa#el-takeaway-para-la-comunidad-fsd" class="hash-link" aria-label="Enlace directo al El takeaway para la comunidad FSD" title="Enlace directo al El takeaway para la comunidad FSD" translate="no">​</a></h2>
+<p>El futuro de FSD en Europa no depende solo de “más datos” o “mejor visión”. Depende de la confianza calibrada entre humano y máquina. La IA puede ser brillante, pero si el conductor se desconecta —literal o mentalmente— el sistema falla antes de salir del garaje.</p>
+<p>¿Has visto mensajes de FSD que te parezcan demasiado optimistas? ¿O has vivido un “handover” tenso en carretera española? Cuéntanoslo: la conversación real empieza en los comentarios.</p>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fatiga-supervision-fsd-europa#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h3>
+<ul>
+<li class=""><a href="https://www.wired.com/story/tesla-urging-drowsy-drivers-to-use-full-self-driving-that-could-go-very-wrong/" target="_blank" rel="noopener noreferrer" class="">WIRED: Tesla urging drowsy drivers to use FSD</a></li>
+<li class=""><a href="https://apnews.com/article/61d7065b8ed2c805385b1f6731edcf81" target="_blank" rel="noopener noreferrer" class="">AP News: NHTSA da cinco semanas extra a Tesla para responder a la investigación de FSD</a></li>
+<li class=""><a href="https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action" target="_blank" rel="noopener noreferrer" class="">RDW: calendario de demostración de FSD Supervised para febrero de 2026</a></li>
+<li class=""><a href="https://unece.org/media/press/395206" target="_blank" rel="noopener noreferrer" class="">UNECE: entrada en vigor del reglamento DCAS (R171)</a></li>
+<li class=""><a href="https://eur-lex.europa.eu/eli/reg/2024/2689/oj/eng" target="_blank" rel="noopener noreferrer" class="">EUR-Lex: Reglamento ONU nº 171 (DCAS), fecha de entrada en vigor</a></li>
+</ul>]]></content>
+        <author>
+            <name>The Autonomous Pilot</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="ai" term="ai"/>
+        <category label="regulaciones" term="regulaciones"/>
+        <category label="testing" term="testing"/>
+        <category label="seguridad" term="seguridad"/>
+        <category label="supervision" term="supervision"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[La Prueba del 'Pan Caliente': FSD vs. La Doble Fila Española]]></title>
@@ -2374,75 +2428,5 @@ Meses después, en noviembre, todo se formalizó con la autorización oficial de
         <category label="europa" term="europa"/>
         <category label="conducción-autónoma" term="conducción-autónoma"/>
         <category label="v14" term="v14"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FSD de Tesla Conquista el Arco del Triunfo: La Rotonda Más Caótica de Europa]]></title>
-        <id>https://fsd.pepetox.es/fsd-arco-triunfo-paris</id>
-        <link href="https://fsd.pepetox.es/fsd-arco-triunfo-paris"/>
-        <updated>2025-05-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tesla demuestra la capacidad de FSD Supervised navegando la icónica rotonda de 12 carriles del Arco del Triunfo en París, sin marcas viales y con tráfico caótico.]]></summary>
-        <content type="html"><![CDATA[<p>El sistema Full Self-Driving (Supervised) de Tesla acaba de superar una de sus pruebas más difíciles hasta la fecha: la legendaria rotonda del Arco del Triunfo en París. Esta demostración marca un hito importante en el camino hacia la aprobación regulatoria de FSD en Europa.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-desafío-del-arco-del-triunfo">El Desafío del Arco del Triunfo<a href="https://fsd.pepetox.es/fsd-arco-triunfo-paris#el-desaf%C3%ADo-del-arco-del-triunfo" class="hash-link" aria-label="Enlace directo al El Desafío del Arco del Triunfo" title="Enlace directo al El Desafío del Arco del Triunfo" translate="no">​</a></h2>
-<p>La rotonda del Arco del Triunfo es conocida mundialmente como una de las intersecciones más caóticas y desafiantes para conducir. Con <strong>12 carriles sin marcas viales</strong>, tráfico que entra y sale desde múltiples direcciones, y la constante mezcla de vehículos, ciclistas y peatones, representa el test definitivo para cualquier sistema de conducción autónoma.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="características-del-desafío">Características del desafío:<a href="https://fsd.pepetox.es/fsd-arco-triunfo-paris#caracter%C3%ADsticas-del-desaf%C3%ADo" class="hash-link" aria-label="Enlace directo al Características del desafío:" title="Enlace directo al Características del desafío:" translate="no">​</a></h3>
-<ul>
-<li class=""><strong>12 carriles</strong> sin ninguna marca en el pavimento</li>
-<li class="">Tráfico fluyendo desde y hacia cada calle conectada</li>
-<li class="">Velocidades variables y comportamiento impredecible de otros conductores</li>
-<li class="">Mezcla de automóviles, motocicletas, autobuses y bicicletas</li>
-<li class="">Visibilidad limitada por el monumento central</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-video-de-la-demostración">El Video de la Demostración<a href="https://fsd.pepetox.es/fsd-arco-triunfo-paris#el-video-de-la-demostraci%C3%B3n" class="hash-link" aria-label="Enlace directo al El Video de la Demostración" title="Enlace directo al El Video de la Demostración" translate="no">​</a></h2>
-<p>Tesla Europa compartió el video en su cuenta oficial de X (anteriormente Twitter) en mayo de 2025, mostrando un Model 3 equipado con FSD Supervised navegando la rotonda con precisión y confianza.</p>
-<p><strong>Video oficial de Tesla Europa:</strong></p>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ver el video completo en X (Twitter)</p>— <a href="https://x.com/teslaeurope/status/1923302585034756360">Tesla Europe &amp; Middle East - FSD Arc de Triomphe</a></blockquote>
-<p><a href="https://x.com/teslaeurope/status/1923302585034756360" target="_blank" rel="noopener noreferrer" class="">🎥 Ver video en X (anteriormente Twitter)</a></p>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>Nota del Video</div><div class="admonitionContent_BuS1"><p>El video incluye la advertencia: "FSD (Supervised) engineering test drive – estas grabaciones fueron realizadas en un vehículo prototipo conducido por un conductor de seguridad durante la fase de prueba"</p></div></div>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-hace-especial-esta-demostración">Lo Que Hace Especial Esta Demostración<a href="https://fsd.pepetox.es/fsd-arco-triunfo-paris#lo-que-hace-especial-esta-demostraci%C3%B3n" class="hash-link" aria-label="Enlace directo al Lo Que Hace Especial Esta Demostración" title="Enlace directo al Lo Que Hace Especial Esta Demostración" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-visión-pura-sin-lidar">1. <strong>Visión Pura Sin Lidar</strong><a href="https://fsd.pepetox.es/fsd-arco-triunfo-paris#1-visi%C3%B3n-pura-sin-lidar" class="hash-link" aria-label="Enlace directo al 1-visión-pura-sin-lidar" title="Enlace directo al 1-visión-pura-sin-lidar" translate="no">​</a></h3>
-<p>A diferencia de otros sistemas de conducción autónoma que dependen de costosos sensores LIDAR y mapas HD pre-creados, FSD de Tesla utiliza únicamente cámaras y redes neuronales entrenadas de extremo a extremo. Esto demuestra que el enfoque de "visión pura" puede manejar incluso los entornos más complejos.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-sin-marcas-viales">2. <strong>Sin Marcas Viales</strong><a href="https://fsd.pepetox.es/fsd-arco-triunfo-paris#2-sin-marcas-viales" class="hash-link" aria-label="Enlace directo al 2-sin-marcas-viales" title="Enlace directo al 2-sin-marcas-viales" translate="no">​</a></h3>
-<p>La ausencia total de líneas en el pavimento elimina una de las referencias principales que muchos sistemas utilizan para navegar. FSD debe interpretar el flujo de tráfico, anticipar movimientos de otros vehículos y tomar decisiones en tiempo real basándose únicamente en el comportamiento del tráfico circundante.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-toma-de-decisiones-dinámica">3. <strong>Toma de Decisiones Dinámica</strong><a href="https://fsd.pepetox.es/fsd-arco-triunfo-paris#3-toma-de-decisiones-din%C3%A1mica" class="hash-link" aria-label="Enlace directo al 3-toma-de-decisiones-dinámica" title="Enlace directo al 3-toma-de-decisiones-dinámica" translate="no">​</a></h3>
-<p>El sistema debe:</p>
-<ul>
-<li class="">Identificar huecos en el tráfico</li>
-<li class="">Calcular trayectorias seguras</li>
-<li class="">Anticipar comportamientos agresivos de otros conductores</li>
-<li class="">Adaptarse a la "cortesía francesa" (o falta de ella) en la rotonda</li>
-<li class="">Mantener velocidad apropiada mientras cambia de carril</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="reacciones-y-comentarios">Reacciones y Comentarios<a href="https://fsd.pepetox.es/fsd-arco-triunfo-paris#reacciones-y-comentarios" class="hash-link" aria-label="Enlace directo al Reacciones y Comentarios" title="Enlace directo al Reacciones y Comentarios" translate="no">​</a></h2>
-<p>El video generó reacciones impresionadas en la comunidad de entusiastas de Tesla y expertos en conducción autónoma. Tesla Europa bromeó en el post: "FSD Supervised puede manejar el Arco del Triunfo sin problema. Si hay una rotonda más grande en Francia, por favor háganoslo saber en los comentarios 😀"</p>
-<p>La demostración también sirvió para comunicar a los reguladores europeos que el sistema está listo para su despliegue, con Tesla confirmando que "el proceso de aprobación de FSD está en marcha".</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="implicaciones-para-europa">Implicaciones para Europa<a href="https://fsd.pepetox.es/fsd-arco-triunfo-paris#implicaciones-para-europa" class="hash-link" aria-label="Enlace directo al Implicaciones para Europa" title="Enlace directo al Implicaciones para Europa" translate="no">​</a></h2>
-<p>Esta demostración en uno de los puntos más emblemáticos y difíciles de Europa envía un mensaje claro: FSD está preparado para las condiciones únicas de conducción europeas. A diferencia de las amplias calles cuadriculadas de Estados Unidos, Europa presenta:</p>
-<ul>
-<li class="">Calles medievales estrechas</li>
-<li class="">Rotondas complejas y multi-nivel</li>
-<li class="">Mayor densidad de peatones y ciclistas</li>
-<li class="">Señalización diferente</li>
-<li class="">Comportamientos de conducción regionales distintos</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="estado-de-la-aprobación-regulatoria">Estado de la Aprobación Regulatoria<a href="https://fsd.pepetox.es/fsd-arco-triunfo-paris#estado-de-la-aprobaci%C3%B3n-regulatoria" class="hash-link" aria-label="Enlace directo al Estado de la Aprobación Regulatoria" title="Enlace directo al Estado de la Aprobación Regulatoria" translate="no">​</a></h2>
-<p>Tesla está trabajando activamente con autoridades europeas para obtener la aprobación de FSD Supervised. El proceso incluye:</p>
-<ol>
-<li class=""><strong>Pruebas en múltiples países</strong>: París, Roma, Amsterdam, Berlín, Madrid</li>
-<li class=""><strong>Coordinación con RDW holandesa</strong>: La autoridad de transporte que supervisa la regulación de vehículos autónomos</li>
-<li class=""><strong>Presentación a la UE</strong>: Prevista para mayo de 2025</li>
-<li class=""><strong>Lanzamiento objetivo</strong>: Primer trimestre de 2026</li>
-</ol>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://fsd.pepetox.es/fsd-arco-triunfo-paris#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
-<p>Ver a FSD navegar el Arco del Triunfo no es solo impresionante desde el punto de vista tecnológico, es una declaración de intenciones. Tesla está demostrando que su sistema puede manejar los escenarios más desafiantes que Europa puede ofrecer.</p>
-<p>Para la comunidad de entusiastas de la conducción autónoma en España, esta demostración también es inspiradora: muestra el estado del arte en conducción autónoma usando visión pura, un enfoque que muchos equipos están explorando para sus propios vehículos autónomos.</p>
-<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Próximamente en Europa</div><div class="admonitionContent_BuS1"><p>FSD Supervised está pendiente de aprobación regulatoria para su lanzamiento en Europa. Tesla ofrece actualmente "ride-alongs" (paseos de demostración) en Italia, Francia, Alemania y Países Bajos para que el público experimente la tecnología.</p></div></div>]]></content>
-        <author>
-            <name>FSD Spain</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="fsd" term="fsd"/>
-        <category label="europa" term="europa"/>
-        <category label="paris" term="paris"/>
-        <category label="conducción-autónoma" term="conducción-autónoma"/>
     </entry>
 </feed>
