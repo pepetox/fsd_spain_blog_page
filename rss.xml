@@ -4,10 +4,55 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Thu, 22 Jan 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[Conos, desvíos y un examen en febrero: el verdadero filtro europeo del FSD]]></title>
+            <link>https://fsd.pepetox.es/fsd-obras-desvios-examen-europa</link>
+            <guid>https://fsd.pepetox.es/fsd-obras-desvios-examen-europa</guid>
+            <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Por qué las obras y los desvíos son el examen real del FSD en Europa, y qué implica el marco DCAS para su despliegue supervisado.]]></description>
+            <content:encoded><![CDATA[<p>Vas por la A-6 de noche. El carril de la derecha desaparece entre conos, un panel luminoso marca <strong>"80"</strong>, y un operario con chaleco reflectante te indica que cambies de carril <em>ya</em>. No hay líneas pintadas, solo cinta adhesiva y señales provisionales. Para un humano español es rutina. Para una IA, es un examen sorpresa.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detonante-febrero-no-es-un-lanzamiento-es-un-examen">El detonante: febrero no es un lanzamiento, es un examen<a href="https://fsd.pepetox.es/fsd-obras-desvios-examen-europa#el-detonante-febrero-no-es-un-lanzamiento-es-un-examen" class="hash-link" aria-label="Enlace directo al El detonante: febrero no es un lanzamiento, es un examen" title="Enlace directo al El detonante: febrero no es un lanzamiento, es un examen" translate="no">​</a></h2>
+<p>La última señal clara desde Europa llegó en noviembre: el regulador holandés <strong>RDW</strong> aclaró que Tesla debe <strong>demostrar</strong> en febrero de 2026 que FSD Supervised cumple los estándares requeridos, sin garantizar aprobación. Es una fecha de evaluación, no de entrega. citeturn0search2</p>
+<p>A la vez, en Estados Unidos la <strong>NHTSA</strong> acaba de conceder cinco semanas adicionales (del 19 de enero al 23 de febrero de 2026) para que Tesla responda a una investigación sobre FSD que cubre 2,9 millones de vehículos y 62 quejas. La lectura es obvia: el escrutinio se endurece en los dos lados del Atlántico. citeturn0news12</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-las-obras-españolas-son-el-examen-silencioso">Por qué las obras españolas son el examen silencioso<a href="https://fsd.pepetox.es/fsd-obras-desvios-examen-europa#por-qu%C3%A9-las-obras-espa%C3%B1olas-son-el-examen-silencioso" class="hash-link" aria-label="Enlace directo al Por qué las obras españolas son el examen silencioso" title="Enlace directo al Por qué las obras españolas son el examen silencioso" translate="no">​</a></h2>
+<p>Las obras y desvíos temporales son el lugar donde se decide si el FSD puede ser útil de verdad en Europa. No es solo una cuestión de visión, sino de <strong>interpretación en tiempo real</strong>:</p>
+<ul>
+<li class=""><strong>Expectativa:</strong> los mapas dicen por dónde ir. <strong>Realidad:</strong> la señalización temporal reescribe el mapa en segundos.</li>
+<li class=""><strong>Expectativa:</strong> el carril es una línea continua. <strong>Realidad:</strong> el carril es una fila de conos móviles y una flecha luminosa.</li>
+<li class=""><strong>Expectativa:</strong> el tráfico es predecible. <strong>Realidad:</strong> un operario puede parar el flujo, un camión puede invadir medio carril, una incorporación puede desaparecer sin aviso.</li>
+</ul>
+<p>Y esto no ocurre en Silicon Valley; ocurre cada semana en la M-30, la AP-7 o cualquier travesía urbana en España.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-red-neuronal-frente-a-la-señalización-improvisada">La red neuronal frente a la señalización improvisada<a href="https://fsd.pepetox.es/fsd-obras-desvios-examen-europa#la-red-neuronal-frente-a-la-se%C3%B1alizaci%C3%B3n-improvisada" class="hash-link" aria-label="Enlace directo al La red neuronal frente a la señalización improvisada" title="Enlace directo al La red neuronal frente a la señalización improvisada" translate="no">​</a></h2>
+<p>En estas situaciones, el reto no es “ver” conos, sino <strong>entender</strong> lo que significan. La IA debe distinguir entre:</p>
+<ul>
+<li class=""><strong>Límite navegable</strong> (conos que delimitan un carril temporal) vs. <strong>obstáculo puntual</strong> (un cono aislado caído).</li>
+<li class=""><strong>Indicaciones humanas</strong> (un brazo extendido del operario) vs. <strong>ruido visual</strong> (carteles publicitarios o reflejos).</li>
+<li class=""><strong>Señales superpuestas</strong> (80 temporal sobre 120 permanente) sin titubeos peligrosos.</li>
+</ul>
+<p>Aquí es donde la arquitectura end-to-end se juega su credibilidad: no basta con seguir líneas, hay que inferir intención y contexto. Si te interesa esta transición, revisa nuestro análisis sobre la <a class="" href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13">revolución end-to-end</a>.</p>
+<p><img decoding="async" loading="lazy" alt="Logotipo de FSD Spain" src="https://fsd.pepetox.es/assets/images/fsdspain-3e5bd70ddbee8232df3482c3f26e7c44.png" width="2048" height="2048" class="img_ev3q"></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="dcas-progreso-real-sin-magia">DCAS: progreso real, sin magia<a href="https://fsd.pepetox.es/fsd-obras-desvios-examen-europa#dcas-progreso-real-sin-magia" class="hash-link" aria-label="Enlace directo al DCAS: progreso real, sin magia" title="Enlace directo al DCAS: progreso real, sin magia" translate="no">​</a></h2>
+<p>Europa no está esperando un “robotaxi”, sino un sistema <strong>supervisado</strong>. El marco de referencia es el <strong>Reglamento ONU nº 171 (DCAS)</strong>, que entró en vigor el 22 de septiembre de 2024. Define estos sistemas como asistencia a la conducción en nivel 2, con el conductor responsable y obligado a supervisar. citeturn0search1</p>
+<p>Eso significa que el éxito en febrero no será “autonomía total”, sino <strong>demostrar seguridad con supervisión humana</strong>, especialmente en escenarios donde la señalización temporal y las decisiones no están en el mapa.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-significaría-un-buen-resultado-en-febrero-para-españa">Qué significaría un buen resultado en febrero para España<a href="https://fsd.pepetox.es/fsd-obras-desvios-examen-europa#qu%C3%A9-significar%C3%ADa-un-buen-resultado-en-febrero-para-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Qué significaría un buen resultado en febrero para España" title="Enlace directo al Qué significaría un buen resultado en febrero para España" translate="no">​</a></h2>
+<p>Si Tesla logra pasar esa demostración, el impacto para España sería tangible:</p>
+<ol>
+<li class=""><strong>Más pruebas supervisadas en entornos reales</strong>, donde la variabilidad de nuestras carreteras aporta datos críticos.</li>
+<li class=""><strong>Iteraciones más rápidas</strong> en los casos extremos que más nos afectan: desvíos, obras móviles, carriles reversibles.</li>
+<li class=""><strong>Presión positiva</strong> para que los reguladores europeos aceleren criterios técnicos claros, sin caer en anuncios vacíos.</li>
+</ol>
+<p>La conversación no termina en febrero. Empieza ahí. ¿Quieres aportar casos reales de obras que hayan confundido al FSD o al Autopilot? Escríbenos en comentarios o comparte tu experiencia. Y si quieres entender cómo la visión-only se comporta en escenarios difíciles, lee también <a class="" href="https://fsd.pepetox.es/desafio-m30-vision-only-tuneles">nuestro análisis sobre los túneles de la M-30</a>.</p>]]></content:encoded>
+            <category>fsd</category>
+            <category>españa</category>
+            <category>obras</category>
+            <category>señalizacion</category>
+            <category>ai</category>
+            <category>testing</category>
+        </item>
         <item>
             <title><![CDATA[FSD vs. El Abismo: Prueba de Fuego en los Picos de Europa]]></title>
             <link>https://fsd.pepetox.es/fsd-montana-picos-europa</link>
@@ -2320,142 +2365,6 @@ Meses después, en noviembre, todo se formalizó con la autorización oficial de
             <category>europa</category>
             <category>paris</category>
             <category>conducción-autónoma</category>
-        </item>
-        <item>
-            <title><![CDATA[FSD de Tesla Navega el Caos de Amsterdam: Cientos de Ciclistas y Calles Estrechas]]></title>
-            <link>https://fsd.pepetox.es/fsd-amsterdam-ciclistas</link>
-            <guid>https://fsd.pepetox.es/fsd-amsterdam-ciclistas</guid>
-            <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Tesla demuestra FSD Supervised en Amsterdam, una de las ciudades más desafiantes del mundo para conducción autónoma, con su extraordinaria concentración de bicicletas y calles estrechas.]]></description>
-            <content:encoded><![CDATA[<p>Amsterdam representa uno de los entornos más complejos imaginables para la conducción autónoma: calles estrechas del siglo XVII, canales que limitan las rutas, y sobre todo, una densidad de tráfico ciclista que supera a cualquier otra ciudad europea. Tesla ha compartido video de FSD Supervised navegando este laberinto urbano con resultados impresionantes.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-desafío-único-de-amsterdam">El Desafío Único de Amsterdam<a href="https://fsd.pepetox.es/fsd-amsterdam-ciclistas#el-desaf%C3%ADo-%C3%BAnico-de-amsterdam" class="hash-link" aria-label="Enlace directo al El Desafío Único de Amsterdam" title="Enlace directo al El Desafío Único de Amsterdam" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="capital-mundial-de-la-bicicleta">Capital Mundial de la Bicicleta<a href="https://fsd.pepetox.es/fsd-amsterdam-ciclistas#capital-mundial-de-la-bicicleta" class="hash-link" aria-label="Enlace directo al Capital Mundial de la Bicicleta" title="Enlace directo al Capital Mundial de la Bicicleta" translate="no">​</a></h3>
-<p>Amsterdam tiene más bicicletas que habitantes: aproximadamente <strong>881,000 bicicletas</strong> para <strong>821,000 residentes</strong>. En hora punta, el tráfico de bicicletas puede superar fácilmente al de automóviles, creando un escenario único que ningún otro sistema de conducción autónoma ha tenido que enfrentar a esta escala.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="características-del-entorno">Características del Entorno:<a href="https://fsd.pepetox.es/fsd-amsterdam-ciclistas#caracter%C3%ADsticas-del-entorno" class="hash-link" aria-label="Enlace directo al Características del Entorno:" title="Enlace directo al Características del Entorno:" translate="no">​</a></h3>
-<ul>
-<li class=""><strong>Carriles bici integrados</strong> que cruzan constantemente las calles</li>
-<li class=""><strong>Puntos ciegos múltiples</strong> por edificios históricos</li>
-<li class=""><strong>Calles de un solo sentido</strong> con excepciones para bicicletas</li>
-<li class=""><strong>Canales</strong> que limitan las opciones de maniobra</li>
-<li class=""><strong>Mezcla constante</strong> de peatones, ciclistas, tranvías y automóviles</li>
-<li class=""><strong>Intersecciones sin semáforo</strong> donde la bicicleta tiene prioridad</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-video-de-demostración">El Video de Demostración<a href="https://fsd.pepetox.es/fsd-amsterdam-ciclistas#el-video-de-demostraci%C3%B3n" class="hash-link" aria-label="Enlace directo al El Video de Demostración" title="Enlace directo al El Video de Demostración" translate="no">​</a></h2>
-<p>Tesla compartió el video de pruebas de ingeniería en Amsterdam en abril de 2025, mostrando un Model 3 navegando el centro histórico de la ciudad.</p>
-<p><strong>Video de Tesla Europa:</strong></p>
-<p>Disponible en la cuenta de X de Tesla Europe &amp; Middle East. Para más información, consulta el artículo de Teslarati: "Tesla Europe shares FSD test video weeks ahead of launch target"</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="momentos-destacados-del-video">Momentos Destacados del Video<a href="https://fsd.pepetox.es/fsd-amsterdam-ciclistas#momentos-destacados-del-video" class="hash-link" aria-label="Enlace directo al Momentos Destacados del Video" title="Enlace directo al Momentos Destacados del Video" translate="no">​</a></h3>
-<p>El video revela maniobras particularmente impresionantes:</p>
-<p><strong>Timestamp 0:20-0:28</strong>: FSD Supervised gestiona exitosamente una densa mezcla de ciclistas y peatones sin ninguna intervención humana. El sistema identifica a cada ciclista individualmente, predice sus trayectorias, y ajusta la velocidad del vehículo de manera fluida.</p>
-<p><strong>Timestamp 0:43</strong>: Ejecución de un giro a la izquierda sin protección mientras negocia con varios vehículos. El sistema debe esperar el hueco apropiado mientras mantiene visibilidad de ciclistas que pueden aparecer súbitamente.</p>
-<p><strong>Timestamp 0:56</strong>: Un giro a la izquierda aún más complejo en medio de intenso tráfico vehicular y ciclista. Esta maniobra requiere que FSD coordine:</p>
-<ul>
-<li class="">Velocidad de vehículos que se aproximan</li>
-<li class="">Ciclistas cruzando desde múltiples direcciones</li>
-<li class="">Peatones en el cruce</li>
-<li class="">Espacio limitado para completar el giro</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="tecnología-detrás-del-éxito">Tecnología Detrás del Éxito<a href="https://fsd.pepetox.es/fsd-amsterdam-ciclistas#tecnolog%C3%ADa-detr%C3%A1s-del-%C3%A9xito" class="hash-link" aria-label="Enlace directo al Tecnología Detrás del Éxito" title="Enlace directo al Tecnología Detrás del Éxito" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="red-neuronal-de-extremo-a-extremo">Red Neuronal de Extremo a Extremo<a href="https://fsd.pepetox.es/fsd-amsterdam-ciclistas#red-neuronal-de-extremo-a-extremo" class="hash-link" aria-label="Enlace directo al Red Neuronal de Extremo a Extremo" title="Enlace directo al Red Neuronal de Extremo a Extremo" translate="no">​</a></h3>
-<p>Desde la versión 12, FSD utiliza una única red neuronal de extremo a extremo entrenada en millones de kilómetros de datos de conducción real. Para un entorno como Amsterdam, esto significa:</p>
-<ol>
-<li class="">
-<p><strong>Detección Multi-Objeto</strong>: Identificar y rastrear hasta 100+ objetos simultáneamente (ciclistas, peatones, vehículos, tranvías)</p>
-</li>
-<li class="">
-<p><strong>Predicción de Trayectorias</strong>: Anticipar movimientos impredecibles de ciclistas que pueden:</p>
-<ul>
-<li class="">Cambiar de carril sin señalizar</li>
-<li class="">Detenerse súbitamente</li>
-<li class="">Aparecer desde calles laterales</li>
-<li class="">Circular en sentido contrario</li>
-</ul>
-</li>
-<li class="">
-<p><strong>Planificación de Rutas Dinámica</strong>: Ajustar continuamente la trayectoria considerando:</p>
-<ul>
-<li class="">Ciclistas lentos que el coche debe adelantar</li>
-<li class="">Distancia segura (mínimo 1.5m requerido por ley)</li>
-<li class="">Tráfico opuesto en calles estrechas</li>
-<li class="">Postes, señales y mobiliario urbano</li>
-</ul>
-</li>
-</ol>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="visión-pura-en-condiciones-difíciles">Visión Pura en Condiciones Difíciles<a href="https://fsd.pepetox.es/fsd-amsterdam-ciclistas#visi%C3%B3n-pura-en-condiciones-dif%C3%ADciles" class="hash-link" aria-label="Enlace directo al Visión Pura en Condiciones Difíciles" title="Enlace directo al Visión Pura en Condiciones Difíciles" translate="no">​</a></h3>
-<p>Amsterdam presenta desafíos adicionales para sistemas basados en cámaras:</p>
-<ul>
-<li class=""><strong>Reflexos en canales</strong> que pueden confundir sistemas menos sofisticados</li>
-<li class=""><strong>Iluminación variable</strong> por puentes y edificios altos</li>
-<li class=""><strong>Lluvia frecuente</strong> que reduce visibilidad</li>
-<li class=""><strong>Ciclistas con ropa oscura</strong> en días nublados</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="comparación-con-otros-sistemas">Comparación con Otros Sistemas<a href="https://fsd.pepetox.es/fsd-amsterdam-ciclistas#comparaci%C3%B3n-con-otros-sistemas" class="hash-link" aria-label="Enlace directo al Comparación con Otros Sistemas" title="Enlace directo al Comparación con Otros Sistemas" translate="no">​</a></h2>
-<p>A diferencia de sistemas como Waymo que dependen de:</p>
-<ul>
-<li class="">Mapas HD pre-creados de cada centímetro de las rutas</li>
-<li class="">Sensores LIDAR que cuestan decenas de miles de euros</li>
-<li class="">Operación solo en zonas geográficas específicamente mapeadas</li>
-</ul>
-<p>FSD de Tesla puede navegar Amsterdam usando:</p>
-<ul>
-<li class="">Solo las 8 cámaras estándar del vehículo</li>
-<li class="">Hardware incluido en todos los Tesla desde 2019</li>
-<li class="">Sin mapas especiales - usa el mismo mapa que cualquier conductor</li>
-<li class="">Capacidad de adaptarse a cualquier ciudad sin preparación previa</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="reacciones-de-la-comunidad">Reacciones de la Comunidad<a href="https://fsd.pepetox.es/fsd-amsterdam-ciclistas#reacciones-de-la-comunidad" class="hash-link" aria-label="Enlace directo al Reacciones de la Comunidad" title="Enlace directo al Reacciones de la Comunidad" translate="no">​</a></h2>
-<p>Entusiastas de Tesla en Países Bajos reportaron haber sido contactados por concesionarios Tesla para participar en el programa de "ride-along" (paseo de demostración). Un usuario informó que Tesla Düsseldorf, Alemania, llamó preguntando si podían compartir el paseo con otros, ya que estaban completamente reservados con <strong>más de 200 personas en lista de espera</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="implicaciones-para-la-aprobación-regulatoria">Implicaciones para la Aprobación Regulatoria<a href="https://fsd.pepetox.es/fsd-amsterdam-ciclistas#implicaciones-para-la-aprobaci%C3%B3n-regulatoria" class="hash-link" aria-label="Enlace directo al Implicaciones para la Aprobación Regulatoria" title="Enlace directo al Implicaciones para la Aprobación Regulatoria" translate="no">​</a></h2>
-<p>Los Países Bajos juegan un rol crucial en la aprobación de FSD para Europa:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="rdw---autoridad-clave">RDW - Autoridad Clave<a href="https://fsd.pepetox.es/fsd-amsterdam-ciclistas#rdw---autoridad-clave" class="hash-link" aria-label="Enlace directo al RDW - Autoridad Clave" title="Enlace directo al RDW - Autoridad Clave" translate="no">​</a></h3>
-<p>La <strong>RDW</strong> (Rijksdienst voor het Wegverkeer - Servicio de Transporte de Carreteras) es la división de transporte que supervisa la regulación de vehículos autónomos en Países Bajos. Una vez que RDW apruebe FSD:</p>
-<ol>
-<li class="">Presentará la solicitud de permiso a la <strong>Unión Europea</strong></li>
-<li class="">La aprobación en un país miembro facilita aprobación en otros</li>
-<li class="">Fecha objetivo de presentación: <strong>Mayo 2025</strong></li>
-<li class="">Lanzamiento esperado: <strong>Febrero 2026</strong></li>
-</ol>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-amsterdam-es-importante">Por Qué Amsterdam Es Importante<a href="https://fsd.pepetox.es/fsd-amsterdam-ciclistas#por-qu%C3%A9-amsterdam-es-importante" class="hash-link" aria-label="Enlace directo al Por Qué Amsterdam Es Importante" title="Enlace directo al Por Qué Amsterdam Es Importante" translate="no">​</a></h3>
-<p>Si FSD puede manejar Amsterdam, puede manejar prácticamente cualquier ciudad europea. La demostración sirve múltiples propósitos:</p>
-<ul>
-<li class=""><strong>Técnico</strong>: Prueba la capacidad del sistema en el peor escenario</li>
-<li class=""><strong>Regulatorio</strong>: Muestra a autoridades que el sistema es seguro con ciclistas</li>
-<li class=""><strong>Marketing</strong>: Genera confianza en mercados europeos</li>
-<li class=""><strong>Datos</strong>: Recopila casos extremos para mejorar el sistema</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lecciones-para-formula-student-driverless">Lecciones para Formula Student Driverless<a href="https://fsd.pepetox.es/fsd-amsterdam-ciclistas#lecciones-para-formula-student-driverless" class="hash-link" aria-label="Enlace directo al Lecciones para Formula Student Driverless" title="Enlace directo al Lecciones para Formula Student Driverless" translate="no">​</a></h2>
-<p>Para equipos de FSD desarrollando sistemas autónomos, la demostración de Amsterdam ofrece insights valiosos:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-detección-de-ciclistas">1. <strong>Detección de Ciclistas</strong><a href="https://fsd.pepetox.es/fsd-amsterdam-ciclistas#1-detecci%C3%B3n-de-ciclistas" class="hash-link" aria-label="Enlace directo al 1-detección-de-ciclistas" title="Enlace directo al 1-detección-de-ciclistas" translate="no">​</a></h3>
-<p>La detección robusta de ciclistas es crítica. Consideraciones:</p>
-<ul>
-<li class="">Ciclistas en todas las posiciones posibles (carril bici, carretera, acera)</li>
-<li class="">Variedad de tamaños (desde bicicletas infantiles hasta cargo bikes)</li>
-<li class="">Oclusión parcial detrás de vehículos</li>
-<li class="">Movimientos laterales súbitos</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-predicción-de-comportamiento">2. <strong>Predicción de Comportamiento</strong><a href="https://fsd.pepetox.es/fsd-amsterdam-ciclistas#2-predicci%C3%B3n-de-comportamiento" class="hash-link" aria-label="Enlace directo al 2-predicción-de-comportamiento" title="Enlace directo al 2-predicción-de-comportamiento" translate="no">​</a></h3>
-<p>Los ciclistas son agentes menos predecibles que vehículos:</p>
-<ul>
-<li class="">No siempre siguen reglas de tráfico</li>
-<li class="">Pueden detenerse o girar sin avisar</li>
-<li class="">Interacción social (grupos que conversan mientras pedalean)</li>
-<li class="">Diferentes niveles de habilidad (niños vs adultos vs ciclistas experimentados)</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-arquitectura-de-red-neuronal">3. <strong>Arquitectura de Red Neuronal</strong><a href="https://fsd.pepetox.es/fsd-amsterdam-ciclistas#3-arquitectura-de-red-neuronal" class="hash-link" aria-label="Enlace directo al 3-arquitectura-de-red-neuronal" title="Enlace directo al 3-arquitectura-de-red-neuronal" translate="no">​</a></h3>
-<p>El enfoque de extremo a extremo de Tesla (v12+) parece manejar mejor la complejidad que sistemas modulares tradicionales:</p>
-<ul>
-<li class="">Menos "casos especiales" programados manualmente</li>
-<li class="">Aprendizaje de comportamientos implícitos de los datos</li>
-<li class="">Generalización a escenarios no vistos</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://fsd.pepetox.es/fsd-amsterdam-ciclistas#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
-<p>La demostración de FSD en Amsterdam es quizás más impresionante que la del Arco del Triunfo. Mientras París mostró capacidad en rotondas caóticas, Amsterdam demuestra algo más fundamental: la habilidad de FSD para coexistir de manera segura con el tráfico vulnerable - ciclistas y peatones - en un entorno urbano denso.</p>
-<p>Para España, donde ciudades como Barcelona, Valencia y Sevilla también tienen alta densidad de ciclistas y centros históricos con calles estrechas, esta demostración sugiere que FSD estará bien preparado para las condiciones españolas.</p>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>Para Desarrolladores de Conducción Autónoma</div><div class="admonitionContent_BuS1"><p>El código de Tesla FSD utiliza arquitecturas de transformers para la predicción multi-agente. Equipos de FSD interesados pueden explorar papers como "Multipath++" y "Scene Transformer" para arquitecturas similares.</p></div></div>]]></content:encoded>
-            <category>fsd</category>
-            <category>europa</category>
-            <category>amsterdam</category>
-            <category>ciclistas</category>
         </item>
     </channel>
 </rss>
