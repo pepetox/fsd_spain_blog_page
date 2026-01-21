@@ -2,11 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fsd.pepetox.es</id>
     <title>FSD Spain Blog</title>
-    <updated>2026-01-20T00:00:00.000Z</updated>
+    <updated>2026-01-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fsd.pepetox.es"/>
     <subtitle>FSD Spain Blog</subtitle>
     <icon>https://fsd.pepetox.es/img/fsdspain.png</icon>
+    <entry>
+        <title type="html"><![CDATA[La Prueba del 'Pan Caliente': FSD vs. La Doble Fila Española]]></title>
+        <id>https://fsd.pepetox.es/fsd-vs-doble-fila-espana</id>
+        <link href="https://fsd.pepetox.es/fsd-vs-doble-fila-espana"/>
+        <updated>2026-01-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Es domingo por la mañana en una calle estrecha de Chamberí o L'Eixample. Delante de ti, una furgoneta de reparto (o el vecino del quinto) ha decidido activar el botón mágico de "puedo aparcar donde quiera": los cuatro intermitentes de emergencia. Está en doble fila, bloqueando tu carril. A tu izquierda, una línea continua infranqueable.]]></summary>
+        <content type="html"><![CDATA[<p>Es domingo por la mañana en una calle estrecha de Chamberí o L'Eixample. Delante de ti, una furgoneta de reparto (o el vecino del quinto) ha decidido activar el botón mágico de "puedo aparcar donde quiera": los cuatro intermitentes de emergencia. Está en doble fila, bloqueando tu carril. A tu izquierda, una línea continua infranqueable.</p>
+<p>Para un conductor humano español, la decisión es automática: mirar, señalizar, invadir ligeramente el carril contrario con precaución y continuar. Pero para una Inteligencia Artificial entrenada en las amplias avenidas de California, esta maniobra es un dilema existencial.</p>
+<p>¿Cómo se comporta el FSD (Full Self-Driving) ante la institución nacional de la "doble fila"? ¿Sabe diferenciar entre un atasco y un obstáculo?</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-dilema-de-la-línea-continua">El Dilema de la Línea Continua<a href="https://fsd.pepetox.es/fsd-vs-doble-fila-espana#el-dilema-de-la-l%C3%ADnea-continua" class="hash-link" aria-label="Enlace directo al El Dilema de la Línea Continua" title="Enlace directo al El Dilema de la Línea Continua" translate="no">​</a></h2>
+<p>Aquí es donde la tecnología choca frontalmente con la normativa y la costumbre. En el código estricto de una máquina, una línea continua es un muro virtual. "No pasar". Sin embargo, la realidad de la conducción europea requiere flexibilidad.</p>
+<p>La <strong>Dirección General de Tráfico (DGT)</strong> es clara pero matizada: aunque rebasar una línea continua está prohibido para adelantar, existe una excepción crucial para <strong>rebasar obstáculos o vehículos inmovilizados</strong>, siempre que se haga sin peligro. Un coche en doble fila sin conductor se considera un obstáculo.</p>
+<p>El desafío para el Tesla no es legal, es <strong>perceptivo</strong>.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="atasco-o-voy-a-por-tabaco">¿Atasco o "Voy a por tabaco"?<a href="https://fsd.pepetox.es/fsd-vs-doble-fila-espana#atasco-o-voy-a-por-tabaco" class="hash-link" aria-label="Enlace directo al ¿Atasco o &quot;Voy a por tabaco&quot;?" title="Enlace directo al ¿Atasco o &quot;Voy a por tabaco&quot;?" translate="no">​</a></h3>
+<p>Para que el FSD decida iniciar la maniobra, su red neuronal debe responder a una pregunta crítica en milisegundos: <strong>¿Este vehículo está esperando al tráfico o está aparcado ilegalmente?</strong></p>
+<ol>
+<li class=""><strong>Luces de emergencia:</strong> Si el coche de delante tiene los <em>warnings</em> puestos, el FSD v13+ suele identificarlo rápidamente como un obstáculo estático.</li>
+<li class=""><strong>Puertas abiertas/Peatones:</strong> La detección de una puerta abierta o un conductor saliendo del vehículo es una señal de "go" inmediata para la IA.</li>
+<li class=""><strong>El "Creep" de la duda:</strong> Si no hay señales claras, verás que tu Tesla avanza lentamente (<em>creeping</em>), asomando el morro para "ver" más allá del obstáculo. Es un comportamiento casi humano, buscando confirmación visual de que el carril contrario está libre.</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-evolución-de-la-parálisis-a-la-fluidez">La Evolución: De la Parálisis a la Fluidez<a href="https://fsd.pepetox.es/fsd-vs-doble-fila-espana#la-evoluci%C3%B3n-de-la-par%C3%A1lisis-a-la-fluidez" class="hash-link" aria-label="Enlace directo al La Evolución: De la Parálisis a la Fluidez" title="Enlace directo al La Evolución: De la Parálisis a la Fluidez" translate="no">​</a></h2>
+<p>En las primeras versiones (FSD Beta v11), encontrarse un coche en doble fila en una calle de un solo carril por sentido era garantía de intervención humana. El coche simplemente se detenía detrás, esperando eternamente a que el "tráfico" se moviera.</p>
+<p>Con las actualizaciones recientes que estamos viendo en la flota de prueba en España (FVA-03/2025), el comportamiento ha cambiado radicalmente:</p>
+<ul>
+<li class=""><strong>Asertividad Calculada:</strong> El sistema ahora "entiende" que si el vehículo de delante no se ha movido en 5 segundos y no hay semáforo en rojo, probablemente no se va a mover.</li>
+<li class=""><strong>Invasión Mínima:</strong> A diferencia de un humano que quizás invade todo el carril contrario, el FSD calcula la trayectoria ajustada al milímetro, pisando la línea continua solo lo estrictamente necesario para pasar.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-reto-pendiente-la-comunicación">El Reto Pendiente: La Comunicación<a href="https://fsd.pepetox.es/fsd-vs-doble-fila-espana#el-reto-pendiente-la-comunicaci%C3%B3n" class="hash-link" aria-label="Enlace directo al El Reto Pendiente: La Comunicación" title="Enlace directo al El Reto Pendiente: La Comunicación" translate="no">​</a></h2>
+<p>Donde el FSD todavía tiene que aprender "español" es en la negociación. En nuestras calles, a menudo el adelantamiento a un doble fila implica que el coche que viene de frente te ceda el paso o viceversa. Un ligero gesto, una ráfaga de luces.</p>
+<p>Actualmente, el Tesla es un conductor tímido. Si ve venir a alguien de frente, abortará la maniobra mucho antes que un conductor madrileño. Y quizás eso sea bueno. La seguridad (Safety First) siempre debe primar sobre la prisa por esquivar al repartidor.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://fsd.pepetox.es/fsd-vs-doble-fila-espana#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
+<p>La "doble fila" es uno de esos <em>edge cases</em> culturales que demuestran por qué la conducción autónoma es tan difícil de globalizar. No basta con enseñar al coche a conducir; hay que enseñarle a entender el contexto social de la carretera.</p>
+<p>Por ahora, si te encuentras bloqueado por alguien comprando el pan, ten paciencia. Tu Tesla está pensando, calculando y, sobre todo, aprendiendo que en España, las reglas a veces tienen notas al pie.</p>]]></content>
+        <author>
+            <name>The Autonomous Pilot</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="tecnologia" term="tecnologia"/>
+        <category label="españa" term="españa"/>
+        <category label="dgt" term="dgt"/>
+        <category label="edge-cases" term="edge-cases"/>
+        <category label="fsd-beta" term="fsd-beta"/>
+        <category label="conduccion-urbana" term="conduccion-urbana"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[España, Laboratorio de Europa: Análisis de la Autorización FVA-03/2025]]></title>
         <id>https://fsd.pepetox.es/autorizacion-fsd-espana-fva-03-2025</id>
@@ -2582,157 +2626,5 @@ Meses después, en noviembre, todo se formalizó con la autorización oficial de
         <category label="europa" term="europa"/>
         <category label="dinamarca" term="dinamarca"/>
         <category label="alemania" term="alemania"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voces de la Comunidad: ¿Qué opinan los dueños de Tesla en España?]]></title>
-        <id>https://fsd.pepetox.es/voces-comunidad-tesla-espana</id>
-        <link href="https://fsd.pepetox.es/voces-comunidad-tesla-espana"/>
-        <updated>2025-02-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Recopilación de opiniones de la comunidad Tesla española sobre el FSD, las limitaciones europeas y las expectativas de futuro.]]></summary>
-        <content type="html"><![CDATA[<p>Detrás de los análisis técnicos y las noticias regulatorias hay personas reales: propietarios de Tesla que han invertido en una promesa tecnológica. ¿Qué piensan? ¿Están satisfechos? ¿Frustrados? Hemos recopilado las voces del Club Tesla España y otras comunidades para tomar el pulso al sentimiento actual.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="los-tres-arquetipos-del-propietario-español">Los tres arquetipos del propietario español<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#los-tres-arquetipos-del-propietario-espa%C3%B1ol" class="hash-link" aria-label="Enlace directo al Los tres arquetipos del propietario español" title="Enlace directo al Los tres arquetipos del propietario español" translate="no">​</a></h2>
-<p>Analizando los foros de Club Tesla España y las redes sociales, emergen claramente tres perfiles de propietario:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-el-escéptico-financiero">1. El Escéptico Financiero<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#1-el-esc%C3%A9ptico-financiero" class="hash-link" aria-label="Enlace directo al 1. El Escéptico Financiero" title="Enlace directo al 1. El Escéptico Financiero" translate="no">​</a></h3>
-<blockquote>
-<p>"Compré el FSD hace 4 años por 7.500€. En todo este tiempo, lo único que ha cambiado es que el Autopilot básico ha mejorado marginalmente. Me siento estafado."</p>
-</blockquote>
-<p>Este grupo representa a usuarios que:</p>
-<ul>
-<li class="">Adquirieron el paquete FSD o EAP hace años</li>
-<li class="">Han visto pasar múltiples "fechas de llegada" sin resultados</li>
-<li class="">Sienten que han financiado el desarrollo de Tesla sin contrapartida</li>
-<li class="">Están preocupados por la pérdida de valor de reventa</li>
-</ul>
-<p><strong>Su frustración principal</strong>: La imposibilidad de transferir la licencia de FSD a un coche nuevo. Si venden su Tesla actual y compran uno nuevo, pierden los 7.500€ invertidos (salvo promociones puntuales que Tesla ofrece ocasionalmente).</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-el-tecnófilo-pragmático">2. El Tecnófilo Pragmático<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#2-el-tecn%C3%B3filo-pragm%C3%A1tico" class="hash-link" aria-label="Enlace directo al 2. El Tecnófilo Pragmático" title="Enlace directo al 2. El Tecnófilo Pragmático" translate="no">​</a></h3>
-<blockquote>
-<p>"Entiendo las limitaciones de la regulación europea. Mientras tanto, uso el Autopilot para lo que sirve y he instalado un Commander para mitigar las molestias del temporizador de 5 segundos."</p>
-</blockquote>
-<p>Este grupo:</p>
-<ul>
-<li class="">Comprende que Tesla no controla la regulación</li>
-<li class="">Busca soluciones intermedias para mejorar la experiencia</li>
-<li class="">Mantiene expectativas realistas sobre fechas</li>
-<li class="">Aprovecha el hardware al máximo posible</li>
-</ul>
-<p><strong>Su enfoque</strong>: Usar dispositivos de terceros como el <strong>Commander de Enhance Auto</strong>, que permite automatizar funciones como la reactivación del Autopilot tras un cambio de carril. Es un parche, pero mejora significativamente la experiencia diaria.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-el-observador-esperanzado">3. El Observador Esperanzado<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#3-el-observador-esperanzado" class="hash-link" aria-label="Enlace directo al 3. El Observador Esperanzado" title="Enlace directo al 3. El Observador Esperanzado" translate="no">​</a></h3>
-<blockquote>
-<p>"Vi los vídeos de las pruebas en Madrid y me emocioné. Por primera vez en años, siento que hay movimiento real. Sigo a Saúl López y Todos Eléctricos para estar al día."</p>
-</blockquote>
-<p>Este grupo:</p>
-<ul>
-<li class="">Se ha revitalizado con los avistamientos en Madrid</li>
-<li class="">Sigue activamente a influencers del sector</li>
-<li class="">Cree que la aprobación está más cerca que nunca</li>
-<li class="">Mantiene la fe en la promesa tecnológica</li>
-</ul>
-<p><strong>Su esperanza</strong>: Que las pruebas en España aceleren la llegada y que el marco ES-AV de la DGT posicione a España como uno de los primeros países europeos en recibir el FSD completo.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="temas-candentes-en-los-foros">Temas candentes en los foros<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#temas-candentes-en-los-foros" class="hash-link" aria-label="Enlace directo al Temas candentes en los foros" title="Enlace directo al Temas candentes en los foros" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-falta-de-suscripción-mensual">La falta de suscripción mensual<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#la-falta-de-suscripci%C3%B3n-mensual" class="hash-link" aria-label="Enlace directo al La falta de suscripción mensual" title="Enlace directo al La falta de suscripción mensual" translate="no">​</a></h3>
-<p>Una queja recurrente es la ausencia de opción de <strong>suscripción mensual</strong> para el FSD en Europa:</p>
-<blockquote>
-<p>"En Estados Unidos pueden probar el FSD por $99/mes. Aquí nos obligan a pagar 7.500€ por algo que no sabemos si funcionará o cuándo."</p>
-</blockquote>
-<p>En EE.UU., Tesla ofrece el FSD por suscripción mensual, permitiendo a los usuarios probarlo sin compromiso a largo plazo. En Europa, esta opción no existe, obligando a una inversión significativa sin garantía de retorno.</p>
-<p><strong>La pregunta que se repite</strong>: ¿Por qué no ofrecer suscripción al menos para el Enhanced Autopilot, que sí funciona (con limitaciones) en Europa?</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-commander-y-soluciones-de-terceros">El Commander y soluciones de terceros<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#el-commander-y-soluciones-de-terceros" class="hash-link" aria-label="Enlace directo al El Commander y soluciones de terceros" title="Enlace directo al El Commander y soluciones de terceros" translate="no">​</a></h3>
-<p>El <strong>Commander de Enhance Auto</strong> se ha convertido en tema frecuente:</p>
-<p><strong>Defensores</strong>:</p>
-<blockquote>
-<p>"Es un game changer. El coche ya no me desactiva el Autopilot cada vez que cambio de carril. Dinero muy bien gastado."</p>
-</blockquote>
-<p><strong>Críticos</strong>:</p>
-<blockquote>
-<p>"No debería tener que comprar hardware de terceros para que mi coche funcione como debería. Tesla debería resolver esto."</p>
-</blockquote>
-<p><strong>Preocupados</strong>:</p>
-<blockquote>
-<p>"¿Qué pasa con la garantía? ¿Y si hay un accidente y el seguro descubre que tengo un dispositivo no oficial?"</p>
-</blockquote>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-valor-de-reventa-del-fsd">El valor de reventa del FSD<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#el-valor-de-reventa-del-fsd" class="hash-link" aria-label="Enlace directo al El valor de reventa del FSD" title="Enlace directo al El valor de reventa del FSD" translate="no">​</a></h3>
-<p>Un tema especialmente doloroso:</p>
-<blockquote>
-<p>"Puse mi Model 3 con FSD a la venta. Me di cuenta de que nadie quiere pagar extra por el FSD porque no funciona aquí. Básicamente regalé esos 7.500€."</p>
-</blockquote>
-<p>La realidad del mercado secundario es dura: el FSD no añade valor significativo a un Tesla europeo de segunda mano, porque el comprador sabe que no podrá usar las funciones prometidas.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="opiniones-sobre-las-pruebas-en-madrid">Opiniones sobre las pruebas en Madrid<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#opiniones-sobre-las-pruebas-en-madrid" class="hash-link" aria-label="Enlace directo al Opiniones sobre las pruebas en Madrid" title="Enlace directo al Opiniones sobre las pruebas en Madrid" translate="no">​</a></h2>
-<p>Los avistamientos de vehículos de prueba han generado reacciones mixtas:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="optimistas">Optimistas<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#optimistas" class="hash-link" aria-label="Enlace directo al Optimistas" title="Enlace directo al Optimistas" translate="no">​</a></h3>
-<blockquote>
-<p>"Por fin Tesla hace algo concreto en España. No son solo anuncios vacíos, hay coches reales probando en nuestras calles."</p>
-</blockquote>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="cautos">Cautos<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#cautos" class="hash-link" aria-label="Enlace directo al Cautos" title="Enlace directo al Cautos" translate="no">​</a></h3>
-<blockquote>
-<p>"Que estén probando no significa que vaya a llegar pronto. Llevan años probando cosas que luego no lanzan."</p>
-</blockquote>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="cínicos">Cínicos<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#c%C3%ADnicos" class="hash-link" aria-label="Enlace directo al Cínicos" title="Enlace directo al Cínicos" translate="no">​</a></h3>
-<blockquote>
-<p>"Probando en Madrid mientras los que pagamos el FSD seguimos sin poder usarlo. Gracias, Tesla."</p>
-</blockquote>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-piden-los-usuarios">Lo que piden los usuarios<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#lo-que-piden-los-usuarios" class="hash-link" aria-label="Enlace directo al Lo que piden los usuarios" title="Enlace directo al Lo que piden los usuarios" translate="no">​</a></h2>
-<p>Hemos recopilado las peticiones más frecuentes de la comunidad española:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-tesla">A Tesla<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#a-tesla" class="hash-link" aria-label="Enlace directo al A Tesla" title="Enlace directo al A Tesla" translate="no">​</a></h3>
-<ol>
-<li class=""><strong>Comunicación honesta</strong>: Dejar de anunciar fechas que luego no se cumplen</li>
-<li class=""><strong>Suscripción en Europa</strong>: Permitir probar el FSD/EAP sin compromiso</li>
-<li class=""><strong>Transferencia de licencias</strong>: Poder llevar el FSD al coche nuevo</li>
-<li class=""><strong>Actualizaciones que funcionen aquí</strong>: No solo mejoras para EE.UU.</li>
-</ol>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-los-reguladores">A los reguladores<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#a-los-reguladores" class="hash-link" aria-label="Enlace directo al A los reguladores" title="Enlace directo al A los reguladores" translate="no">​</a></h3>
-<ol>
-<li class=""><strong>Acelerar el proceso</strong>: Sin sacrificar seguridad, agilizar trámites</li>
-<li class=""><strong>Transparencia</strong>: Publicar el estado real de las evaluaciones</li>
-<li class=""><strong>Armonización europea</strong>: Evitar que cada país tenga requisitos diferentes</li>
-</ol>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-la-comunidad">A la comunidad<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#a-la-comunidad" class="hash-link" aria-label="Enlace directo al A la comunidad" title="Enlace directo al A la comunidad" translate="no">​</a></h3>
-<ol>
-<li class=""><strong>Realismo</strong>: Dejar de propagar rumores infundados</li>
-<li class=""><strong>Presión constructiva</strong>: Canalizar la frustración hacia demandas concretas</li>
-<li class=""><strong>Compartir experiencias</strong>: Documentar qué funciona y qué no</li>
-</ol>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="influencers-y-voces-autorizadas">Influencers y voces autorizadas<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#influencers-y-voces-autorizadas" class="hash-link" aria-label="Enlace directo al Influencers y voces autorizadas" title="Enlace directo al Influencers y voces autorizadas" translate="no">​</a></h2>
-<p>La comunidad española sigue a varios creadores de contenido:</p>
-<ul>
-<li class=""><strong>Saúl López</strong>: Conocido por sus análisis técnicos y pruebas exclusivas</li>
-<li class=""><strong>Todos Eléctricos</strong>: Canal con cobertura amplia del ecosistema EV</li>
-<li class=""><strong>Club Tesla España</strong>: Foro donde se concentra la discusión más técnica</li>
-</ul>
-<p>Estos creadores han mantenido viva la esperanza con cobertura de las pruebas en Madrid y análisis de las novedades regulatorias.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="un-termómetro-del-sentimiento">Un termómetro del sentimiento<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#un-term%C3%B3metro-del-sentimiento" class="hash-link" aria-label="Enlace directo al Un termómetro del sentimiento" title="Enlace directo al Un termómetro del sentimiento" translate="no">​</a></h2>
-<p>Si tuviéramos que resumir el estado de ánimo de la comunidad española de Tesla:</p>
-<table><thead><tr><th>Aspecto</th><th>Sentimiento</th></tr></thead><tbody><tr><td>Satisfacción con el coche (sin FSD)</td><td>🟢 Alto</td></tr><tr><td>Satisfacción con el Autopilot actual</td><td>🟡 Medio</td></tr><tr><td>Satisfacción con la compra de FSD/EAP</td><td>🔴 Bajo</td></tr><tr><td>Esperanza de mejora</td><td>🟡 Moderada</td></tr><tr><td>Confianza en las fechas de Tesla</td><td>🔴 Muy baja</td></tr><tr><td>Percepción del regulador europeo</td><td>🟡 Mixta</td></tr></tbody></table>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="testimonios-seleccionados">Testimonios seleccionados<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#testimonios-seleccionados" class="hash-link" aria-label="Enlace directo al Testimonios seleccionados" title="Enlace directo al Testimonios seleccionados" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-veterano">El veterano<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#el-veterano" class="hash-link" aria-label="Enlace directo al El veterano" title="Enlace directo al El veterano" translate="no">​</a></h3>
-<blockquote>
-<p>"Tengo un Model S de 2018 con HW2.5 que actualicé a HW3. He visto pasar todas las promesas de Musk sobre FSD. Ya no creo en fechas. Cuando lo vea funcionando en mi coche, me lo creeré."</p>
-</blockquote>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-recién-llegado">El recién llegado<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#el-reci%C3%A9n-llegado" class="hash-link" aria-label="Enlace directo al El recién llegado" title="Enlace directo al El recién llegado" translate="no">​</a></h3>
-<blockquote>
-<p>"Compré mi Model 3 hace 6 meses sin FSD, después de leer los foros. Mejor decisión que pude tomar. El Autopilot básico me basta para autopista."</p>
-</blockquote>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-arrepentido">El arrepentido<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#el-arrepentido" class="hash-link" aria-label="Enlace directo al El arrepentido" title="Enlace directo al El arrepentido" translate="no">​</a></h3>
-<blockquote>
-<p>"Pagué el FSD en 2020 porque Musk dijo que llegaría 'pronto'. Cinco años después, sigo esperando. Es la peor inversión que he hecho en un coche."</p>
-</blockquote>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-optimista-informado">El optimista informado<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#el-optimista-informado" class="hash-link" aria-label="Enlace directo al El optimista informado" title="Enlace directo al El optimista informado" translate="no">​</a></h3>
-<blockquote>
-<p>"Sí, hay retrasos. Sí, es frustrante. Pero la tecnología es real y está mejorando. Los vídeos de la v13 son impresionantes. Llegará, solo hay que saber esperar."</p>
-</blockquote>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://fsd.pepetox.es/voces-comunidad-tesla-espana#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
-<p>La comunidad española de Tesla es diversa y apasionada. Hay frustración genuina, especialmente entre los que pagaron por promesas incumplidas. Pero también hay comprensión de que la regulación europea no es culpa de Tesla, y esperanza renovada gracias a las pruebas visibles en Madrid.</p>
-<p>Lo que une a todos es el deseo de que España no quede atrás. Que cuando el FSD llegue a Europa, llegue aquí también. Y que los que invirtieron hace años finalmente puedan ver el retorno de su confianza y su dinero.</p>
-<p>Mientras tanto, la comunidad sigue: debatiendo en foros, compartiendo trucos, probando soluciones alternativas, y esperando el día en que puedan activar el FSD completo en las carreteras españolas.</p>
-<hr>
-<p><em>¿Te identificas con alguno de estos perfiles? ¿Qué opinas sobre el estado actual del FSD en España? Únete a la conversación en los comentarios.</em></p>]]></content>
-        <author>
-            <name>FSD Spain</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="comunidad" term="comunidad"/>
-        <category label="españa" term="españa"/>
-        <category label="club-tesla" term="club-tesla"/>
-        <category label="opiniones" term="opiniones"/>
-        <category label="fsd" term="fsd"/>
     </entry>
 </feed>
