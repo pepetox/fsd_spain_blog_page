@@ -103,6 +103,72 @@
         <category label="v13" term="v13"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[El FSD y el Paso de Cebra Español: el metro que decide Europa]]></title>
+        <id>https://fsd.pepetox.es/fsd-paso-cebra-espana</id>
+        <link href="https://fsd.pepetox.es/fsd-paso-cebra-espana"/>
+        <updated>2026-01-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[El cambio a suscripción es un giro estratégico, pero el verdadero examen europeo está en los pasos de cebra sin semáforo y la lectura del lenguaje humano.]]></summary>
+        <content type="html"><![CDATA[<p>Es de noche en un barrio residencial de Zaragoza. Una farola parpadea, llueve fino y un peatón se asoma a un paso de cebra sin semáforo. No ha pisado todavía, pero su cuerpo ya dice “voy”. Un humano frena por intuición. Una IA tiene que decidir si esa intención es real… y hacerlo en menos de un segundo.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detonante-la-suscripción-como-giro-de-guion">El detonante: la suscripción como giro de guion<a href="https://fsd.pepetox.es/fsd-paso-cebra-espana#el-detonante-la-suscripci%C3%B3n-como-giro-de-guion" class="hash-link" aria-label="Enlace directo al El detonante: la suscripción como giro de guion" title="Enlace directo al El detonante: la suscripción como giro de guion" translate="no">​</a></h2>
+<p>La última gran novedad de Tesla no es un número de versión, sino un cambio de modelo: <strong>FSD pasará a ser solo suscripción</strong> a partir del 14 de febrero de 2026. En otras palabras, el software deja de venderse como “activo” y se convierte en servicio recurrente. Esto aumenta la presión por demostrar valor en escenarios reales y repetibles, no solo en autopistas estadounidenses.</p>
+<p>Para Europa, ese valor no se mide en kilómetros rectos, sino en <strong>microdecisiones urbanas</strong> como un paso de cebra sin semáforo, donde la legalidad, la cultura vial y el lenguaje corporal están entrelazados.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-paso-de-cebra-español-no-es-un-objeto-es-una-negociación">El paso de cebra español no es un “objeto”, es una negociación<a href="https://fsd.pepetox.es/fsd-paso-cebra-espana#el-paso-de-cebra-espa%C3%B1ol-no-es-un-objeto-es-una-negociaci%C3%B3n" class="hash-link" aria-label="Enlace directo al El paso de cebra español no es un “objeto”, es una negociación" title="Enlace directo al El paso de cebra español no es un “objeto”, es una negociación" translate="no">​</a></h2>
+<p>En España, el peatón suele “anunciar” su cruce antes de hacerlo: una mirada, un avance de medio pie, un gesto con la mano. El conductor responde con una reducción sutil de velocidad. En ese juego, el paso de cebra no es solo una pintura: es un <strong>espacio de interpretación</strong>.</p>
+<p>Para el FSD, esto implica tres capas difíciles:</p>
+<ul>
+<li class=""><strong>Intención humana</strong>: diferenciar a quien solo espera del que realmente va a cruzar.</li>
+<li class=""><strong>Ambigüedad contextual</strong>: coches aparcados, visibilidad parcial, lluvia o reflejos en el asfalto.</li>
+<li class=""><strong>Prioridad legal y cultural</strong>: ceder sin bloquear el tráfico ni generar maniobras inseguras detrás.</li>
+</ul>
+<p>Si el sistema frena demasiado pronto, provoca conflicto con el flujo. Si frena tarde, pierde la confianza del peatón. El margen es estrecho y la tolerancia europea, aún más.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs. realidad<a href="https://fsd.pepetox.es/fsd-paso-cebra-espana#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad" title="Enlace directo al Expectativa vs. realidad" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>Expectativa:</strong> la red neuronal “ve” al peatón y decide.<br>
+<strong>Realidad:</strong> debe anticipar la intención <em>antes</em> de que el peatón invada el carril.</li>
+<li class=""><strong>Expectativa:</strong> el mapa ayuda.<br>
+<strong>Realidad:</strong> el mapa no sabe si hay una persona que duda bajo un paraguas.</li>
+<li class=""><strong>Expectativa:</strong> el coche frena cuando toca.<br>
+<strong>Realidad:</strong> tiene que comunicarlo de forma suave para que el peatón confíe y el coche de atrás no se impaciente.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-falta-para-superar-este-examen-europeo">Lo que falta para superar este examen europeo<a href="https://fsd.pepetox.es/fsd-paso-cebra-espana#lo-que-falta-para-superar-este-examen-europeo" class="hash-link" aria-label="Enlace directo al Lo que falta para superar este examen europeo" title="Enlace directo al Lo que falta para superar este examen europeo" translate="no">​</a></h2>
+<p>No es solo más datos; es <strong>datos europeos con etiqueta de intención</strong>. Para que la IA aprenda el “voy a cruzar”, necesita:</p>
+<ol>
+<li class=""><strong>Telemetría urbana de alta calidad</strong> en ciudades españolas (no solo en EE. UU.).</li>
+<li class=""><strong>Etiquetas de lenguaje corporal</strong> (posturas, microgestos, orientación de la cabeza).</li>
+<li class=""><strong>Simulación de baja visibilidad</strong> (lluvia fina, farolas, reflejos de neón).</li>
+<li class=""><strong>Política de conducción comunicativa</strong>: frenadas suaves, señales claras al peatón y al coche que viene detrás.</li>
+</ol>
+<p>Aquí el enfoque end-to-end es prometedor, pero solo si se entrena con la realidad cotidiana de Europa. Si quieres el marco mental de esta transición, vuelve a nuestro análisis sobre la <a class="" href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13">revolución end-to-end</a>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="regulación-como-espejo-no-como-freno">Regulación como espejo, no como freno<a href="https://fsd.pepetox.es/fsd-paso-cebra-espana#regulaci%C3%B3n-como-espejo-no-como-freno" class="hash-link" aria-label="Enlace directo al Regulación como espejo, no como freno" title="Enlace directo al Regulación como espejo, no como freno" translate="no">​</a></h2>
+<p>La regulación europea no evalúa únicamente “si el coche ve”, sino <strong>si el sistema es seguro bajo supervisión humana</strong>. El marco DCAS (Reglamento ONU R171) define el perímetro legal de estos sistemas y ya está en vigor, con requisitos claros de supervisión y validación.</p>
+<p>En paralelo, el RDW neerlandés ha confirmado que espera que Tesla <strong>demuestre</strong> en febrero de 2026 que FSD Supervised cumple los estándares exigidos, dejando claro que no es una aprobación automática.</p>
+<p>La lectura para España es directa: los pasos de cebra, más que un obstáculo, son una auditoría de seguridad cultural. Si la IA aprende a negociar esos metros, Europa se vuelve un mercado posible. Si no, todo lo demás son demos.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="cierre-la-comunidad-como-laboratorio-real">Cierre: la comunidad como laboratorio real<a href="https://fsd.pepetox.es/fsd-paso-cebra-espana#cierre-la-comunidad-como-laboratorio-real" class="hash-link" aria-label="Enlace directo al Cierre: la comunidad como laboratorio real" title="Enlace directo al Cierre: la comunidad como laboratorio real" translate="no">​</a></h2>
+<p>El futuro del FSD en Europa no depende solo del hardware, sino de <strong>cómo se comporta en las decisiones pequeñas</strong> que definen la confianza. Si estás probando FSD o sigues su evolución, comparte experiencias: cada cruce cuenta.</p>
+<p>¿Te interesa seguir el hilo? Lee también nuestro <a class="" href="https://fsd.pepetox.es/diccionario-autonomia-ap-eap-fsd-espana">diccionario de autonomía y FSD</a> y vuelve pronto: aquí conectamos cada avance con la realidad de las carreteras españolas.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-paso-cebra-espana#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class="">TechCrunch (14 enero 2026): cambio a suscripción de FSD Supervised.<br>
+<a href="https://techcrunch.com/2026/01/14/tesla-ends-one-time-purchase-of-full-self-driving-software/" target="_blank" rel="noopener noreferrer" class="">https://techcrunch.com/2026/01/14/tesla-ends-one-time-purchase-of-full-self-driving-software/</a></li>
+<li class="">RDW (24 noviembre 2025): calendario de demostración de FSD en febrero de 2026.<br>
+<a href="https://www.rdw.nl/over-rdw/nieuws/2025/tesla-fsd-supervised" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/over-rdw/nieuws/2025/tesla-fsd-supervised</a></li>
+<li class="">EUR-Lex (Reglamento ONU R171): DCAS y entrada en vigor el 22 septiembre 2024.<br>
+<a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:42024X0922(01)" target="_blank" rel="noopener noreferrer" class="">https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:42024X0922(01)</a></li>
+</ul>]]></content>
+        <author>
+            <name>The Autonomous Pilot</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="españa" term="españa"/>
+        <category label="peatones" term="peatones"/>
+        <category label="ai" term="ai"/>
+        <category label="testing" term="testing"/>
+        <category label="regulaciones" term="regulaciones"/>
+        <category label="seguridad" term="seguridad"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cuando el conductor se cansa: el verdadero test del FSD en Europa]]></title>
         <id>https://fsd.pepetox.es/fatiga-supervision-fsd-europa</id>
         <link href="https://fsd.pepetox.es/fatiga-supervision-fsd-europa"/>
@@ -2374,59 +2440,5 @@ Meses después, en noviembre, todo se formalizó con la autorización oficial de
         <category label="madrid" term="madrid"/>
         <category label="conducción-autónoma" term="conducción-autónoma"/>
         <category label="dgt" term="dgt"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla Inicia Pruebas de Robotaxis Sin Conductores de Seguridad en Austin, Avanzando Hacia FSD Sin Supervisión]]></title>
-        <id>https://fsd.pepetox.es/tesla-robotaxis-sin-conductor-seguridad-austin</id>
-        <link href="https://fsd.pepetox.es/tesla-robotaxis-sin-conductor-seguridad-austin"/>
-        <updated>2025-05-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tesla ha comenzado a probar sus Robotaxis Model Y en Austin, Texas, sin conductores de seguridad humanos, un hito clave hacia la autonomía no supervisada.]]></summary>
-        <content type="html"><![CDATA[<p>Tesla ha dado un paso monumental en su camino hacia la conducción autónoma total. La compañía ha comenzado a probar sus Robotaxis Model Y en Austin, Texas, <strong>sin conductores de seguridad humanos a bordo</strong>. Este avance cumple la promesa de Elon Musk de eliminar los monitores humanos para finales de 2025 y representa un hito clave en la validación de la autonomía no supervisada.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="un-salto-cualitativo-fsd-v142125">Un Salto Cualitativo: FSD v14.2.1.25<a href="https://fsd.pepetox.es/tesla-robotaxis-sin-conductor-seguridad-austin#un-salto-cualitativo-fsd-v142125" class="hash-link" aria-label="Enlace directo al Un Salto Cualitativo: FSD v14.2.1.25" title="Enlace directo al Un Salto Cualitativo: FSD v14.2.1.25" translate="no">​</a></h2>
-<p>La confianza para eliminar al conductor de seguridad proviene de las mejoras significativas observadas en la versión <strong>FSD v14.2.1.25</strong>. Los informes de los beta testers en Estados Unidos son contundentes: se reportan hasta <strong>1,200 millas por intervención crítica</strong>, una mejora drástica que demuestra la creciente robustez del sistema.</p>
-<p>Las pruebas no se limitan a condiciones ideales. El sistema ha demostrado su valía en escenarios adversos, como carreteras con nieve y escombros, donde las versiones anteriores mostraban dificultades.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="rendimiento-superhumano-en-videos-virales">Rendimiento Superhumano en Videos Virales<a href="https://fsd.pepetox.es/tesla-robotaxis-sin-conductor-seguridad-austin#rendimiento-superhumano-en-videos-virales" class="hash-link" aria-label="Enlace directo al Rendimiento Superhumano en Videos Virales" title="Enlace directo al Rendimiento Superhumano en Videos Virales" translate="no">​</a></h2>
-<p>La comunidad de beta testers ha jugado un papel crucial en documentar el rendimiento casi "superhumano" de FSD. Varios videos virales destacan capacidades que superan la percepción humana:</p>
-<ul>
-<li class=""><strong>Detección de peligros ocultos</strong>: Un video de <code>@01Ananto</code> muestra al FSD deteniéndose por un perro que estaba completamente oculto a la vista del conductor.</li>
-<li class=""><strong>Maniobras complejas en condiciones adversas</strong>: Otro video del mismo usuario muestra al vehículo dando marcha atrás en una pendiente nevada con una precisión asombrosa.</li>
-<li class=""><strong>Navegación en nieve densa</strong>: <code>@billykyle</code> compartió imágenes del FSD navegando con confianza en medio de una densa nevada, un escenario que pone a prueba a los conductores más experimentados.</li>
-</ul>
-<p>Estos ejemplos, junto con otros que muestran navegación avanzada con waypoints y la integración con Grok, están generando un entusiasmo global y una creciente confianza en la tecnología.</p>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">FSD pauses for a hidden dog</p>— Ananto (@01Ananto) <a href="https://x.com/01Ananto/status/2000032840591831079">May 25, 2025</a></blockquote>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">FSD reversing uphill in snow</p>— Ananto (@01Ananto) <a href="https://x.com/01Ananto/status/2000318276904317267">May 25, 2025</a></blockquote>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="desglose-por-región">Desglose por Región<a href="https://fsd.pepetox.es/tesla-robotaxis-sin-conductor-seguridad-austin#desglose-por-regi%C3%B3n" class="hash-link" aria-label="Enlace directo al Desglose por Región" title="Enlace directo al Desglose por Región" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="españa-y-europa-a-la-espera-de-avances-regulatorios">España y Europa: A la Espera de Avances Regulatorios<a href="https://fsd.pepetox.es/tesla-robotaxis-sin-conductor-seguridad-austin#espa%C3%B1a-y-europa-a-la-espera-de-avances-regulatorios" class="hash-link" aria-label="Enlace directo al España y Europa: A la Espera de Avances Regulatorios" title="Enlace directo al España y Europa: A la Espera de Avances Regulatorios" translate="no">​</a></h3>
-<p>Lamentablemente, en las últimas 24 horas no se han reportado actualizaciones específicas sobre la normativa UNECE ni sobre posibles fechas de aprobación o nuevas pruebas beta en suelo europeo. Las discusiones recientes siguen apuntando a <strong>demoras regulatorias persistentes</strong>. Aunque Tesla está solicitando activamente accesos tempranos y exenciones en varios países de la UE, no hay avances concretos confirmados.</p>
-<p>El entusiasmo es palpable en redes sociales, con menciones a demostraciones en Dinamarca, pero no hay noticias oficiales sobre España. La aprobación inicial para pruebas en España (FVA-03/2025) data de noviembre, sin novedades desde entonces.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="global-eeuu-y-china-austin-el-epicentro-de-la-revolución">Global (EE.UU. y China): Austin, el Epicentro de la Revolución<a href="https://fsd.pepetox.es/tesla-robotaxis-sin-conductor-seguridad-austin#global-eeuu-y-china-austin-el-epicentro-de-la-revoluci%C3%B3n" class="hash-link" aria-label="Enlace directo al Global (EE.UU. y China): Austin, el Epicentro de la Revolución" title="Enlace directo al Global (EE.UU. y China): Austin, el Epicentro de la Revolución" translate="no">​</a></h3>
-<p>En Estados Unidos, el foco está claramente en Austin. Los Model Y Robotaxis operando sin supervisión son la noticia del momento, respaldados por las mejoras de la v14. No hay menciones específicas a China en las últimas horas, aunque el despliegue global de las versiones v13/v14 sigue su curso.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes-y-enlaces">Fuentes y Enlaces<a href="https://fsd.pepetox.es/tesla-robotaxis-sin-conductor-seguridad-austin#fuentes-y-enlaces" class="hash-link" aria-label="Enlace directo al Fuentes y Enlaces" title="Enlace directo al Fuentes y Enlaces" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="noticias-web">Noticias Web:<a href="https://fsd.pepetox.es/tesla-robotaxis-sin-conductor-seguridad-austin#noticias-web" class="hash-link" aria-label="Enlace directo al Noticias Web:" title="Enlace directo al Noticias Web:" translate="no">​</a></h3>
-<ul>
-<li class=""><strong>Teslarati</strong>: <a href="https://www.teslarati.com/tesla-full-self-driving-v14-2-1-25-latest-update-impresses-last-came-up-short/" target="_blank" rel="noopener noreferrer" class="">Tesla refines Full Self-Driving v14.2.1.25</a></li>
-<li class=""><strong>InsideEVs</strong>: <a href="https://insideevs.com/news/781782/tesla-removes-robotaxi-model-y-safety-driver-testing/" target="_blank" rel="noopener noreferrer" class="">Robotaxis sin safety drivers en Austin</a></li>
-<li class=""><strong>Investor's Business Daily</strong>: <a href="https://www.investors.com/news/tesla-model-y-driving-without-safety-monitor-austin-elon-musk/" target="_blank" rel="noopener noreferrer" class="">Model Y sin monitor en Austin</a></li>
-<li class=""><strong>Not A Tesla App</strong>: <a href="https://www.notateslaapp.com/news/2586/teslas-fsd-in-europe-faces-more-regulatory-delays" target="_blank" rel="noopener noreferrer" class="">Demoras regulatorias en Europa</a></li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="hilos-de-x-de-beta-testers">Hilos de X de Beta Testers:<a href="https://fsd.pepetox.es/tesla-robotaxis-sin-conductor-seguridad-austin#hilos-de-x-de-beta-testers" class="hash-link" aria-label="Enlace directo al Hilos de X de Beta Testers:" title="Enlace directo al Hilos de X de Beta Testers:" translate="no">​</a></h3>
-<ul>
-<li class=""><strong>FSD en nieve densa</strong>: <a href="https://x.com/billykyle/status/2000302527661895875" target="_blank" rel="noopener noreferrer" class="">@billykyle</a></li>
-<li class=""><strong>Navegación con waypoints y Grok</strong>: <a href="https://x.com/BLKMDL3/status/2000093441829781605" target="_blank" rel="noopener noreferrer" class="">@BLKMDL3</a></li>
-<li class=""><strong>Pull into supercharger</strong>: <a href="https://x.com/BLKMDL3/status/2000297699330130035" target="_blank" rel="noopener noreferrer" class="">@BLKMDL3</a></li>
-<li class=""><strong>Test de Barron's en v14</strong>: <a href="https://x.com/SawyerMerritt/status/2000339047999312127" target="_blank" rel="noopener noreferrer" class="">@SawyerMerritt</a></li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://fsd.pepetox.es/tesla-robotaxis-sin-conductor-seguridad-austin#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
-<p>El inicio de las pruebas sin conductor de seguridad en Austin no es un paso más, es un salto hacia el futuro de la movilidad. Mientras Europa sigue lidiando con la burocracia, Tesla pisa el acelerador en Estados Unidos, demostrando que la era del transporte autónomo está más cerca que nunca. Cada milla recorrida sin intervención en Texas es una prueba más de que el FSD no solo es viable, sino que está a punto de convertirse en una realidad cotidiana.</p>]]></content>
-        <author>
-            <name>FSD Spain</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="fsd" term="fsd"/>
-        <category label="robotaxi" term="robotaxi"/>
-        <category label="austin" term="austin"/>
-        <category label="europa" term="europa"/>
-        <category label="conducción-autónoma" term="conducción-autónoma"/>
-        <category label="v14" term="v14"/>
     </entry>
 </feed>
