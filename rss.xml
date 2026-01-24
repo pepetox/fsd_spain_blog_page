@@ -4,10 +4,76 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Fri, 23 Jan 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jan 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[El FSD frente a las motos que se cuelan: la prueba invisible de España]]></title>
+            <link>https://fsd.pepetox.es/fsd-motos-filtrado-carril</link>
+            <guid>https://fsd.pepetox.es/fsd-motos-filtrado-carril</guid>
+            <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[El filtrado de motos en España pone a prueba la percepción y predicción del FSD justo cuando Tesla acelera su despliegue en EE. UU.]]></description>
+            <content:encoded><![CDATA[<p>Son las 08:12 en la M-30. El tráfico está denso, y dos motos aparecen entre carriles a la misma velocidad que tu coche mientras un patinete cruza desde una acera sin semáforo claro. Para un humano es “ruido urbano”. Para una red neuronal, es el examen que separa una demo brillante de la conducción europea real.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detonante-austin-acelera-mientras-europa-mira-con-lupa">El detonante: Austin acelera mientras Europa mira con lupa<a href="https://fsd.pepetox.es/fsd-motos-filtrado-carril#el-detonante-austin-acelera-mientras-europa-mira-con-lupa" class="hash-link" aria-label="Enlace directo al El detonante: Austin acelera mientras Europa mira con lupa" title="Enlace directo al El detonante: Austin acelera mientras Europa mira con lupa" translate="no">​</a></h2>
+<p>Esta semana Tesla ha empezado a ofrecer viajes de robotaxi sin conductor de seguridad en Austin. Y el 14 de enero anunció que FSD (Supervised) pasará a ser solo por suscripción a partir del 14 de febrero, un movimiento que busca más adopción y más datos reales. Es un salto de ambición. Pero Europa no está pendiente de la espectacularidad: está pendiente de la <strong>consistencia con usuarios vulnerables</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-realidad-española-motos-patinetes-y-micro-decisión-cada-segundo">La realidad española: motos, patinetes y micro-decisión cada segundo<a href="https://fsd.pepetox.es/fsd-motos-filtrado-carril#la-realidad-espa%C3%B1ola-motos-patinetes-y-micro-decisi%C3%B3n-cada-segundo" class="hash-link" aria-label="Enlace directo al La realidad española: motos, patinetes y micro-decisión cada segundo" title="Enlace directo al La realidad española: motos, patinetes y micro-decisión cada segundo" translate="no">​</a></h2>
+<p>En Estados Unidos, los carriles y las distancias suelen ser previsibles. En España, el <strong>filtrado de motos</strong> y la convivencia con patinetes eléctricos convierten la escena en un problema de predicción continua:</p>
+<ul>
+<li class=""><strong>Diferencias de velocidad laterales</strong>: la moto entra y sale de tu ángulo en décimas de segundo.</li>
+<li class=""><strong>Ocultaciones</strong>: un coche alto o una furgoneta puede tapar a una moto hasta el último instante.</li>
+<li class=""><strong>Señales ambiguas</strong>: un patinete “asoma” sin clara prioridad, y la IA debe decidir si cede o mantiene.</li>
+</ul>
+<p>Este es el tipo de escenario donde el enfoque end-to-end promete mucho… pero solo si ha visto suficiente variedad europea. Si quieres profundizar en esa transición, lee nuestro análisis de <a class="" href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13">la revolución end-to-end</a>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-este-problema-es-técnico-no-solo-legal">Por qué este problema es técnico (no solo legal)<a href="https://fsd.pepetox.es/fsd-motos-filtrado-carril#por-qu%C3%A9-este-problema-es-t%C3%A9cnico-no-solo-legal" class="hash-link" aria-label="Enlace directo al Por qué este problema es técnico (no solo legal)" title="Enlace directo al Por qué este problema es técnico (no solo legal)" translate="no">​</a></h2>
+<p>El reto no es “detectar una moto”. El reto es <strong>predecir intención</strong> con pocos fotogramas y margen de error cero. Para FSD, eso implica:</p>
+<ol>
+<li class=""><strong>Modelos temporales robustos</strong>: no basta un frame; hay que entender trayectoria en milisegundos.</li>
+<li class=""><strong>Estimación de riesgo</strong>: diferenciar una moto que filtra en línea recta de otra que cambiará de carril.</li>
+<li class=""><strong>Frenado y lateralidad suaves</strong>: un frenazo brusco puede provocar alcance; un no-cambio puede ser peligroso.</li>
+</ol>
+<p>Aquí la IA se juega la confianza del conductor y, sobre todo, la seguridad del entorno. Y este es el tipo de “micro-comportamiento” que Europa evaluará con lupa.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-en-la-calle-española">Expectativa vs. realidad en la calle española<a href="https://fsd.pepetox.es/fsd-motos-filtrado-carril#expectativa-vs-realidad-en-la-calle-espa%C3%B1ola" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad en la calle española" title="Enlace directo al Expectativa vs. realidad en la calle española" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>Expectativa:</strong> la moto es un objeto más.</li>
+<li class=""><strong>Realidad:</strong> es un actor rápido, impredecible y socialmente aceptado.</li>
+<li class=""><strong>Expectativa:</strong> si hay hueco, el coche mantiene carril.</li>
+<li class=""><strong>Realidad:</strong> a veces conviene suavizar, abrir espacio o anticipar una maniobra humana.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-tendrá-que-demostrar-tesla-ante-europa">Qué tendrá que demostrar Tesla ante Europa<a href="https://fsd.pepetox.es/fsd-motos-filtrado-carril#qu%C3%A9-tendr%C3%A1-que-demostrar-tesla-ante-europa" class="hash-link" aria-label="Enlace directo al Qué tendrá que demostrar Tesla ante Europa" title="Enlace directo al Qué tendrá que demostrar Tesla ante Europa" translate="no">​</a></h2>
+<p>El regulador holandés RDW ya ha fijado una demostración para febrero de 2026. Y la regulación ONU R171 (DCAS) deja claro que seguimos en Nivel 2: el conductor es responsable y debe supervisar. En ese marco, el éxito de FSD no se mide solo en kilómetros, sino en <strong>comportamientos seguros frente a usuarios vulnerables</strong>.</p>
+<p>Lo que puede marcar la diferencia:</p>
+<ul>
+<li class=""><strong>Detección temprana de motos en filtrado</strong> con suavidad de trayectoria.</li>
+<li class=""><strong>Gestión del espacio lateral</strong> sin cambios bruscos ni bloqueos.</li>
+<li class=""><strong>Coherencia legal</strong> cuando la norma no es explícita, pero el contexto sí lo es.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-debería-mirar-la-comunidad-fsd-en-españa">Lo que debería mirar la comunidad FSD en España<a href="https://fsd.pepetox.es/fsd-motos-filtrado-carril#lo-que-deber%C3%ADa-mirar-la-comunidad-fsd-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Lo que debería mirar la comunidad FSD en España" title="Enlace directo al Lo que debería mirar la comunidad FSD en España" translate="no">​</a></h2>
+<p>Si quieres medir si FSD está listo para nuestras calles, fíjate en estos indicadores:</p>
+<ul>
+<li class="">¿Detecta motos antes de que “aparezcan” claramente en el carril?</li>
+<li class="">¿Mantiene un buffer lateral estable sin zigzags?</li>
+<li class="">¿Evita frenar tarde cuando una moto se abre paso?</li>
+</ul>
+<p>Y si te interesa cómo Europa evalúa estos sistemas, puedes leer nuestro <a class="" href="https://fsd.pepetox.es/examen-final-rdw-tesla-fsd">examen final del RDW</a>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="cierre-la-ia-no-se-examina-en-el-desierto">Cierre: la IA no se examina en el desierto<a href="https://fsd.pepetox.es/fsd-motos-filtrado-carril#cierre-la-ia-no-se-examina-en-el-desierto" class="hash-link" aria-label="Enlace directo al Cierre: la IA no se examina en el desierto" title="Enlace directo al Cierre: la IA no se examina en el desierto" translate="no">​</a></h2>
+<p>El futuro no se decide en autopistas perfectas, sino en calles con motos, patinetes y reglas implícitas. FSD puede ser brillante en Austin, pero <strong>su verdadera prueba europea está en Madrid, Barcelona y Valencia</strong>. Si Tesla quiere ganar aquí, tiene que ganar en lo pequeño: en cada moto que se cuela, en cada gesto que anticipa.</p>
+<p>¿Has visto a un ADAS reaccionar bien (o mal) ante motos en filtrado? Cuéntanos tu experiencia y sigue el blog para no perderte el pulso real de la autonomía en Europa.</p>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-motos-filtrado-carril#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h3>
+<ul>
+<li class="">TechCrunch — Tesla lanza viajes de robotaxi en Austin sin conductor de seguridad (22 enero 2026): <a href="https://techcrunch.com/2026/01/22/tesla-launches-robotaxi-rides-in-austin-with-no-human-safety-driver/" target="_blank" rel="noopener noreferrer" class="">https://techcrunch.com/2026/01/22/tesla-launches-robotaxi-rides-in-austin-with-no-human-safety-driver/</a></li>
+<li class="">TechCrunch — Tesla pasará a vender FSD solo por suscripción (14 enero 2026): <a href="https://techcrunch.com/2026/01/14/tesla-will-only-offer-subscriptions-for-full-self-driving-supervised-going-forward/" target="_blank" rel="noopener noreferrer" class="">https://techcrunch.com/2026/01/14/tesla-will-only-offer-subscriptions-for-full-self-driving-supervised-going-forward/</a></li>
+<li class="">RDW — Comunicado oficial sobre la demostración de FSD Supervised en febrero de 2026 (24 noviembre 2025): <a href="https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action</a></li>
+<li class="">UNECE — Reglamento ONU R171 (DCAS) y entrada en vigor (4 octubre 2024): <a href="https://unece.org/media/press/395206" target="_blank" rel="noopener noreferrer" class="">https://unece.org/media/press/395206</a></li>
+</ul>]]></content:encoded>
+            <category>fsd</category>
+            <category>españa</category>
+            <category>ai</category>
+            <category>testing</category>
+            <category>seguridad</category>
+            <category>motos</category>
+        </item>
         <item>
             <title><![CDATA[Carril bus, paneles variables y la IA que no puede dudar]]></title>
             <link>https://fsd.pepetox.es/fsd-carril-bus-paneles-variables</link>
@@ -1834,326 +1900,6 @@ En nieve, cuando un vehículo se detiene súbitamente (común por derrapes), FSD
             <category>pruebas</category>
             <category>regulación</category>
             <category>v14.2.1</category>
-        </item>
-        <item>
-            <title><![CDATA[Guía Definitiva: Los Mejores Canales de YouTube Para Seguir Tesla FSD]]></title>
-            <link>https://fsd.pepetox.es/mejores-canales-youtube-fsd</link>
-            <guid>https://fsd.pepetox.es/mejores-canales-youtube-fsd</guid>
-            <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Descubre los canales de YouTube imprescindibles para estar al día sobre Full Self-Driving de Tesla, desde testers beta experimentados hasta análisis técnicos profundos.]]></description>
-            <content:encoded><![CDATA[<p>Si quieres estar realmente al día sobre Tesla Full Self-Driving, YouTube es el lugar donde está la acción. Mientras los medios tradicionales publican noticias ocasionales, una comunidad de creadores de contenido documenta cada actualización de FSD con videos diarios. Aquí está tu guía de los canales imprescindibles.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="canales-en-inglés---los-grandes-referencias">Canales en Inglés - Los Grandes Referencias<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#canales-en-ingl%C3%A9s---los-grandes-referencias" class="hash-link" aria-label="Enlace directo al Canales en Inglés - Los Grandes Referencias" title="Enlace directo al Canales en Inglés - Los Grandes Referencias" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-ai-drivr-aidrivr">🏆 AI DRIVR (@AIDRIVR)<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#-ai-drivr-aidrivr" class="hash-link" aria-label="Enlace directo al 🏆 AI DRIVR (@AIDRIVR)" title="Enlace directo al 🏆 AI DRIVR (@AIDRIVR)" translate="no">​</a></h3>
-<p><strong>Por qué seguirlo:</strong>
-AI DRIVR es considerado uno de los <strong>mejores y más imparciales testers de FSD beta</strong>. Ex-empleado de Tesla y tester OG (original) desde las primeras versiones, su canal es referencia obligada para evaluar cada nueva actualización.</p>
-<p><strong>Tipo de contenido:</strong></p>
-<ul>
-<li class="">✅ Tests detallados de cada versión de FSD (v12.x, v13.x)</li>
-<li class="">✅ Escenarios desafiantes: parking lots, ciudad, autopista</li>
-<li class="">✅ Análisis sin sesgo comercial</li>
-<li class="">✅ Comparaciones entre versiones</li>
-<li class="">✅ Videos frecuentes (casi diarios en periodos de actualización)</li>
-</ul>
-<p><strong>Video destacado:</strong></p>
-<p><a href="https://www.youtube.com/c/AIDRIVR" target="_blank" rel="noopener noreferrer" class="">▶️ Ver en YouTube: "FSD 13 is MIND BLOWING" - AI DRIVR</a></p>
-<p>Su reacción a FSD v13 captura la mejora exponencial del sistema.</p>
-<p><strong>Características únicas:</strong></p>
-<ul>
-<li class="">Tests en <strong>todas las condiciones</strong>: lluvia, nieve, noche, tráfico intenso</li>
-<li class=""><strong>Stress tests</strong>: sitúa deliberadamente a FSD en escenarios extremos</li>
-<li class=""><strong>Métricas</strong>: documenta intervenciones necesarias y "millas por intervención"</li>
-<li class=""><strong>Narrativa clara</strong>: explica qué está haciendo el sistema y por qué</li>
-</ul>
-<p><strong>Nivel técnico:</strong> Medio-Alto
-<strong>Frecuencia:</strong> 4-6 videos/semana</p>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>Recomendación</div><div class="admonitionContent_BuS1"><p>Si solo puedes seguir UN canal sobre FSD, que sea este. AI DRIVR ofrece el mejor balance entre cobertura completa y análisis crítico.</p></div></div>
-<hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-chuck-cook">🎯 Chuck Cook<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#-chuck-cook" class="hash-link" aria-label="Enlace directo al 🎯 Chuck Cook" title="Enlace directo al 🎯 Chuck Cook" translate="no">​</a></h3>
-<p><strong>Por qué seguirlo:</strong>
-Chuck Cook es <strong>legendario en la comunidad FSD</strong> por una razón específica: su famoso "unprotected left turn" (giro a la izquierda sin protección) en Jacksonville, Florida. Tesla literalmente nombró este tipo de giros como "Chuck Cook style" en sus notas de actualización.</p>
-<p><strong>Tipo de contenido:</strong></p>
-<ul>
-<li class="">✅ Focus obsesivo en unprotected left turns (UPL)</li>
-<li class="">✅ Documentación histórica de mejoras de FSD</li>
-<li class="">✅ Colaboración directa con ingenieros de Tesla</li>
-<li class="">✅ Tests de regresión (verificar que mejoras no rompan funcionalidad previa)</li>
-</ul>
-<p><strong>La Historia del UPL:</strong>
-El giro que hizo famoso a Chuck es un cruce de:</p>
-<ul>
-<li class="">3 carriles de highway dividida</li>
-<li class="">Velocidad de tráfico: 50+ mph</li>
-<li class="">Visibilidad limitada por mediana</li>
-<li class="">Requiere timing perfecto y confianza</li>
-</ul>
-<p>Durante <strong>más de un año</strong>, FSD falló consistentemente este giro. Chuck documentó cada intento, cada versión, cada mejora incremental. Los ingenieros de Tesla usaron sus datos para entrenar el sistema. Hoy, FSD lo ejecuta consistentemente.</p>
-<p><strong>Videos imprescindibles:</strong></p>
-<ul>
-<li class="">Serie completa de UPL mostrando evolución desde FSD Beta 9 hasta v14</li>
-<li class="">Encuentro con Elon Musk en AI Day discutiendo el giro</li>
-<li class="">Reunión 2024 de accionistas donde Tesla reveló haber encontrado 1,000+ UPLs similares en USA</li>
-</ul>
-<p><strong>Background único:</strong>
-Ex-piloto de US Navy/Air Force, Chuck aporta perspectiva de alguien entrenado en sistemas complejos y evaluación de riesgo.</p>
-<p><strong>Nivel técnico:</strong> Medio
-<strong>Frecuencia:</strong> 2-3 videos/semana</p>
-<hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-whole-mars-catalog-wholemarsblog">🌍 Whole Mars Catalog (@WholeMarsBlog)<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#-whole-mars-catalog-wholemarsblog" class="hash-link" aria-label="Enlace directo al 🌍 Whole Mars Catalog (@WholeMarsBlog)" title="Enlace directo al 🌍 Whole Mars Catalog (@WholeMarsBlog)" translate="no">​</a></h3>
-<p><strong>Por qué seguirlo:</strong>
-Omar Qazi, creador de Whole Mars Catalog, es probablemente el YouTuber de FSD <strong>más visible</strong> y <strong>más controversial</strong>. Con miles de suscriptores y millones de visualizaciones, su canal ha sido extremadamente influyente.</p>
-<p><strong>Tipo de contenido:</strong></p>
-<ul>
-<li class="">✅ Demos de trayectos sin intervenciones (zero intervention)</li>
-<li class="">✅ Comparaciones FSD vs competencia (Mercedes, BMW, etc.)</li>
-<li class="">✅ Cobertura de eventos Tesla</li>
-<li class="">✅ Interacción frecuente con Elon Musk en X</li>
-</ul>
-<p><strong>Lo bueno:</strong></p>
-<ul>
-<li class=""><strong>Alta producción</strong>: videos bien editados y atractivos</li>
-<li class=""><strong>Acceso temprano</strong>: Tester beta desde el inicio del programa</li>
-<li class=""><strong>Viralidad</strong>: Sus videos alcanzan audiencia masiva</li>
-<li class=""><strong>Retorno de inversión (ROI) documentado</strong>: Omar reveló que "pagó su FSD" con ingresos del canal</li>
-</ul>
-<p><strong>Lo controversial:</strong></p>
-<ul>
-<li class=""><strong>Sesgo pro-Tesla</strong>: Criticado por mostrar solo pruebas exitosas</li>
-<li class=""><strong>Omisión de fallos</strong>: Videos con desconexiones no siempre publicados</li>
-<li class=""><strong>Video polémico 2022</strong>: YouTube eliminó un video donde niños viajaban en coche con FSD beta</li>
-</ul>
-<p><strong>Famoso por:</strong>
-Serie de videos "FSD 12 - Episode #50" celebrando 50 pruebas sin intervención - hazaña impresionante pero cuestionada por metodología de selección.</p>
-<p><strong>Veredicto:</strong>
-Canal valioso para ver lo que FSD puede hacer en su mejor momento, pero toma los "trayectos sin intervenciones" (zero intervention drives) con cautela. Complementa con canales más críticos como AI DRIVR.</p>
-<p><strong>Nivel técnico:</strong> Bajo-Medio
-<strong>Frecuencia:</strong> 3-5 videos/semana</p>
-<hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-otros-canales-internacionales-destacados">📊 Otros Canales Internacionales Destacados<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#-otros-canales-internacionales-destacados" class="hash-link" aria-label="Enlace directo al 📊 Otros Canales Internacionales Destacados" title="Enlace directo al 📊 Otros Canales Internacionales Destacados" translate="no">​</a></h3>
-<p><strong>Tesla Raj</strong></p>
-<ul>
-<li class=""><strong>Enfoque (Focus)</strong> en comparativas de versiones de FSD</li>
-<li class="">Tests de larga distancia (road trips completos en FSD)</li>
-<li class="">Análisis de hardware (HW3 vs HW4)</li>
-</ul>
-<p><strong>Dirty Tesla</strong></p>
-<ul>
-<li class=""><strong>Reseñas (Reviews)</strong> técnicas detalladas</li>
-<li class="">Discusión de arquitectura de redes neuronales</li>
-<li class="">Cobertura de Tesla AI Day y eventos</li>
-</ul>
-<p><strong>Andrej Karpathy Fan Channels</strong></p>
-<ul>
-<li class="">Aunque Andrej (ex-director de Tesla AI) no tiene canal personal, múltiples canales archivan sus charlas</li>
-<li class="">Imprescindible para entender filosofía técnica detrás de FSD</li>
-</ul>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="canales-en-español---cobertura-para-hispanohablantes">Canales en Español - Cobertura Para Hispanohablantes<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#canales-en-espa%C3%B1ol---cobertura-para-hispanohablantes" class="hash-link" aria-label="Enlace directo al Canales en Español - Cobertura Para Hispanohablantes" title="Enlace directo al Canales en Español - Cobertura Para Hispanohablantes" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-saúl-lópez---pásate-a-lo-eléctrico">🇪🇸 Saúl López - "Pásate a lo Eléctrico"<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#-sa%C3%BAl-l%C3%B3pez---p%C3%A1sate-a-lo-el%C3%A9ctrico" class="hash-link" aria-label="Enlace directo al 🇪🇸 Saúl López - &quot;Pásate a lo Eléctrico&quot;" title="Enlace directo al 🇪🇸 Saúl López - &quot;Pásate a lo Eléctrico&quot;" translate="no">​</a></h3>
-<p><strong>El canal de Tesla más grande en español</strong></p>
-<p><strong>Trayectoria (Background):</strong></p>
-<ul>
-<li class="">Vice Presidente de <strong>Tesla Club España</strong></li>
-<li class="">87,000+ seguidores</li>
-<li class="">21+ millones de visualizaciones</li>
-<li class="">Canal activo desde octubre 2013</li>
-</ul>
-<p><strong>Tipo de contenido:</strong></p>
-<ul>
-<li class="">✅ <strong>Reseñas (Reviews)</strong> de vehículos Tesla</li>
-<li class="">✅ Análisis de actualizaciones de software</li>
-<li class="">✅ Noticias de movilidad eléctrica en España</li>
-<li class="">✅ Comparativas con otros eléctricos</li>
-<li class="">✅ Cobertura de eventos Tesla</li>
-</ul>
-<p><strong>Perspectiva española:</strong>
-Aunque FSD aún no está disponible para compra en España, Saúl cubre:</p>
-<ul>
-<li class="">Desarrollo de FSD en USA y Europa</li>
-<li class="">Autopilot (disponible en Europa)</li>
-<li class="">Predicciones de llegada de FSD a España</li>
-<li class="">Marco regulatorio español</li>
-</ul>
-<p><strong>Valor único:</strong>
-Conecta tecnología Tesla con realidad española: infraestructura de carga, incentivos, adaptación a conducción europea.</p>
-<p><strong>Nivel técnico:</strong> Bajo-Medio (accesible para público general)
-<strong>Frecuencia:</strong> 3-4 videos/semana
-<strong>Idioma:</strong> Español</p>
-<p><a href="https://www.youtube.com/@pasatealelectrico" target="_blank" rel="noopener noreferrer" class="">▶️ Ver canal: Pásate a lo eléctrico</a></p>
-<hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-lars-hoffmann---todoselectricos">🇪🇸 Lars Hoffmann - "TodosElectricos"<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#-lars-hoffmann---todoselectricos" class="hash-link" aria-label="Enlace directo al 🇪🇸 Lars Hoffmann - &quot;TodosElectricos&quot;" title="Enlace directo al 🇪🇸 Lars Hoffmann - &quot;TodosElectricos&quot;" translate="no">​</a></h3>
-<p><strong>El pionero de movilidad eléctrica en España</strong></p>
-<p><strong>Trayectoria (Background):</strong></p>
-<ul>
-<li class="">Casi 40,000 suscriptores</li>
-<li class="">Creador de TeslaParaTodos.com</li>
-<li class="">Focus en <strong>toda</strong> la movilidad eléctrica (no solo Tesla)</li>
-</ul>
-<p><strong>Tipo de contenido:</strong></p>
-<ul>
-<li class="">✅ <strong>Reseñas (Reviews)</strong> de múltiples marcas (Tesla, BYD, Volkswagen, etc.)</li>
-<li class="">✅ Análisis de mercado español</li>
-<li class="">✅ Infraestructura de carga en España</li>
-<li class="">✅ Viajes de larga distancia en eléctrico</li>
-</ul>
-<p><strong>Perspectiva FSD:</strong>
-Lars cubre FSD desde el <strong>ángulo</strong> de competencia en conducción autónoma**:</p>
-<ul>
-<li class="">Compara aproximación de Tesla (visión) vs otros (LIDAR)</li>
-<li class="">Analiza Mercedes Drive Pilot (disponible en Europa)</li>
-<li class="">Discute regulación europea</li>
-</ul>
-<p><strong>Crítico equilibrado:</strong>
-No es fanático ciego de Tesla; ofrece perspectiva balanceada sobre ventajas y limitaciones.</p>
-<p><strong>Nivel técnico:</strong> Medio
-<strong>Frecuencia:</strong> 2-3 videos/semana
-<strong>Idioma:</strong> Español</p>
-<p><a href="https://www.youtube.com/@todoselectricos" target="_blank" rel="noopener noreferrer" class="">▶️ Ver canal: TodosElectricos</a></p>
-<hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-la-familia-fuertes">🇪🇸 La Familia Fuertes<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#-la-familia-fuertes" class="hash-link" aria-label="Enlace directo al 🇪🇸 La Familia Fuertes" title="Enlace directo al 🇪🇸 La Familia Fuertes" translate="no">​</a></h3>
-<p><strong>Perspectiva de uso real en familia</strong></p>
-<p><strong>Trayectoria (Background):</strong></p>
-<ul>
-<li class="">Canal desde junio 2012</li>
-<li class="">Focus en <strong>vivir con Tesla</strong></li>
-</ul>
-<p><strong>Tipo de contenido:</strong></p>
-<ul>
-<li class="">✅ Experiencias de viajes familiares con un Model S</li>
-<li class="">✅ Uso diario real (no marketing)</li>
-<li class="">✅ Problemas y soluciones prácticas</li>
-<li class="">✅ Costos reales de propiedad</li>
-</ul>
-<p><strong>Por qué es valioso:</strong>
-Muestra Tesla y sus sistemas de asistencia <strong>sin filtro de marketing</strong>. Es cómo realmente es vivir con la tecnología.</p>
-<p><strong>Nivel técnico:</strong> Bajo (enfoque lifestyle)
-<strong>Frecuencia:</strong> Irregular
-<strong>Idioma:</strong> Español</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="canales-técnicos-profundos">Canales Técnicos Profundos<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#canales-t%C3%A9cnicos-profundos" class="hash-link" aria-label="Enlace directo al Canales Técnicos Profundos" title="Enlace directo al Canales Técnicos Profundos" translate="no">​</a></h2>
-<p>Para audiencia técnica (desarrolladores, ingenieros, equipos de FSD):</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lex-fridman-podcast">Lex Fridman Podcast<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#lex-fridman-podcast" class="hash-link" aria-label="Enlace directo al Lex Fridman Podcast" title="Enlace directo al Lex Fridman Podcast" translate="no">​</a></h3>
-<ul>
-<li class=""><strong>Entrevistas con líderes de Tesla AI</strong>: Andrej Karpathy, Elon Musk</li>
-<li class="">Discusiones de 2-3 horas sobre arquitectura de FSD</li>
-<li class="">Nivel: Muy Alto</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="yannic-kilcher">Yannic Kilcher<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#yannic-kilcher" class="hash-link" aria-label="Enlace directo al Yannic Kilcher" title="Enlace directo al Yannic Kilcher" translate="no">​</a></h3>
-<ul>
-<li class="">Análisis de artículos técnicos (papers) de Tesla AI (resúmenes del Tesla AI Day)</li>
-<li class="">Explicación de Transformers, Vision Transformers, BEV networks</li>
-<li class="">Nivel: Experto (PhD level)</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="two-bit-da-vinci">Two Bit da Vinci<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#two-bit-da-vinci" class="hash-link" aria-label="Enlace directo al Two Bit da Vinci" title="Enlace directo al Two Bit da Vinci" translate="no">​</a></h3>
-<ul>
-<li class="">Explicaciones accesibles de tecnología FSD</li>
-<li class="">Contexto de competencia (Waymo, Cruise, etc.)</li>
-<li class="">Nivel: Medio-Alto</li>
-</ul>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="cómo-consumir-contenido-de-fsd-efectivamente">Cómo Consumir Contenido de FSD Efectivamente<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#c%C3%B3mo-consumir-contenido-de-fsd-efectivamente" class="hash-link" aria-label="Enlace directo al Cómo Consumir Contenido de FSD Efectivamente" title="Enlace directo al Cómo Consumir Contenido de FSD Efectivamente" translate="no">​</a></h2>
-<p>Con docenas de canales publicando videos diarios, puedes saturarte rápido. Aquí está una estrategia:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="nivel-1-casual-30-minsemana">Nivel 1: Casual (30 min/semana)<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#nivel-1-casual-30-minsemana" class="hash-link" aria-label="Enlace directo al Nivel 1: Casual (30 min/semana)" title="Enlace directo al Nivel 1: Casual (30 min/semana)" translate="no">​</a></h3>
-<p><strong>Objetivo</strong>: Estar informado de actualizaciones principales</p>
-<p><strong>Sigue</strong>:</p>
-<ul>
-<li class="">✅ AI DRIVR - 1 video por semana</li>
-<li class="">✅ Saúl López - Para contexto español</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="nivel-2-entusiasta-2-horassemana">Nivel 2: Entusiasta (2 horas/semana)<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#nivel-2-entusiasta-2-horassemana" class="hash-link" aria-label="Enlace directo al Nivel 2: Entusiasta (2 horas/semana)" title="Enlace directo al Nivel 2: Entusiasta (2 horas/semana)" translate="no">​</a></h3>
-<p><strong>Objetivo</strong>: Entender mejoras de cada versión</p>
-<p><strong>Sigue:</strong></p>
-<ul>
-<li class="">✅ AI DRIVR - 2-3 videos/semana</li>
-<li class="">✅ Chuck Cook - Tests de UPL</li>
-<li class="">✅ Whole Mars Catalog - Casos de éxito</li>
-<li class="">✅ Lars Hoffmann - Comparativa con competencia</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="nivel-3-técnicodesarrollador-5-horassemana">Nivel 3: Técnico/Desarrollador (5+ horas/semana)<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#nivel-3-t%C3%A9cnicodesarrollador-5-horassemana" class="hash-link" aria-label="Enlace directo al Nivel 3: Técnico/Desarrollador (5+ horas/semana)" title="Enlace directo al Nivel 3: Técnico/Desarrollador (5+ horas/semana)" translate="no">​</a></h3>
-<p><strong>Objetivo</strong>: Entender arquitectura y aplicar a tus proyectos</p>
-<p><strong>Sigue:</strong></p>
-<ul>
-<li class="">✅ AI DRIVR - Cobertura completa</li>
-<li class="">✅ Chuck Cook - Casos edge</li>
-<li class="">✅ Lex Fridman - Entrevistas completas de ingenieros</li>
-<li class="">✅ Yannic Kilcher - Artículos técnicos (papers)</li>
-<li class="">✅ Dirty Tesla - Análisis de hardware</li>
-<li class="">✅ Twitter de @karpathy, @elonmusk, @WholeMarsBlog para updates en tiempo real</li>
-</ul>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="recursos-adicionales-fuera-de-youtube">Recursos Adicionales Fuera de YouTube<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#recursos-adicionales-fuera-de-youtube" class="hash-link" aria-label="Enlace directo al Recursos Adicionales Fuera de YouTube" title="Enlace directo al Recursos Adicionales Fuera de YouTube" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="podcasts">Podcasts<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#podcasts" class="hash-link" aria-label="Enlace directo al Podcasts" title="Enlace directo al Podcasts" translate="no">​</a></h3>
-<ul>
-<li class=""><strong>Tesla Daily</strong> (Rob Maurer) - Resumen diario de noticias Tesla</li>
-<li class=""><strong>Ride the Lightning</strong> - Entrevistas con empleados Tesla</li>
-<li class=""><strong>Autonocast</strong> - Industria completa de conducción autónoma</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="escritos">Escritos<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#escritos" class="hash-link" aria-label="Enlace directo al Escritos" title="Enlace directo al Escritos" translate="no">​</a></h3>
-<ul>
-<li class=""><strong>Blog de Tesla AI</strong> - Publicaciones técnicas oficiales (poco frecuentes pero oro puro)</li>
-<li class=""><strong>NotATeslaApp.com</strong> - Tracking detallado de versiones FSD</li>
-<li class=""><strong>TeslaOracle.com</strong> - Noticias y leaks</li>
-<li class=""><strong>Teslarati.com</strong> - Periodismo especializado</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="redes-sociales">Redes Sociales<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#redes-sociales" class="hash-link" aria-label="Enlace directo al Redes Sociales" title="Enlace directo al Redes Sociales" translate="no">​</a></h3>
-<ul>
-<li class=""><strong>X (Twitter)</strong>: #FSDBeta #TeslaFSD #FSD13</li>
-<li class=""><strong>Reddit</strong>: r/TeslaMotors, r/SelfDrivingCars</li>
-<li class=""><strong>Tesla Motors Club</strong>: Foros con threads de cada versión FSD</li>
-</ul>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="advertencia-sobre-sesgo-de-confirmación">Advertencia Sobre Sesgo de Confirmación<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#advertencia-sobre-sesgo-de-confirmaci%C3%B3n" class="hash-link" aria-label="Enlace directo al Advertencia Sobre Sesgo de Confirmación" title="Enlace directo al Advertencia Sobre Sesgo de Confirmación" translate="no">​</a></h2>
-<p><strong>Importante</strong>: La mayoría de canales de YouTube sobre FSD son creados por <strong>propietarios de Tesla y fans</strong>. Esto crea sesgo positivo inherente.</p>
-<p><strong>Para perspectiva balanceada, también sigue:</strong></p>
-<ul>
-<li class=""><strong>MISSY</strong> - Cubre fallos y problemas de FSD sin suavizar</li>
-<li class=""><strong>Canales de competidores</strong> - Waymo, Cruise, Mercedes para comparar aproximaciones</li>
-<li class=""><strong>Medios tradicionales</strong> - NYT, WSJ tienen cobertura crítica (aunque a veces desinformada)</li>
-</ul>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="proyectos-de-investigación-interesantes">Proyectos de Investigación Interesantes<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#proyectos-de-investigaci%C3%B3n-interesantes" class="hash-link" aria-label="Enlace directo al Proyectos de Investigación Interesantes" title="Enlace directo al Proyectos de Investigación Interesantes" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="teslas-fsd-an-analysis-of-youtube-commentary-drives">"Tesla's FSD: An analysis of YouTube commentary drives"<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#teslas-fsd-an-analysis-of-youtube-commentary-drives" class="hash-link" aria-label="Enlace directo al &quot;Tesla's FSD: An analysis of YouTube commentary drives&quot;" title="Enlace directo al &quot;Tesla's FSD: An analysis of YouTube commentary drives&quot;" translate="no">​</a></h3>
-<p>Un paper académico reciente (disponible en ResearchGate) analizó <strong>910 transcripciones de videos de FSD</strong> desde v9.0 hasta v13.2.2.1, usando modelos de lenguaje grandes para asignar puntuaciones cuantitativas.</p>
-<p><strong>Hallazgos clave:</strong></p>
-<ul>
-<li class="">FSD ha mejorado <strong>sustancialmente</strong> desde adoptar red de extremo a extremo en v12</li>
-<li class="">Métricas de seguridad mejoran versión a versión</li>
-<li class="">Comportamiento se vuelve más "humano" pero menos agresivo</li>
-</ul>
-<p><strong>Implicación</strong>: Los videos de YouTube son ahora <strong>fuente de datos académicos</strong> - son registro histórico del desarrollo de conducción autónoma.</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="para-desarrolladores-e-ingenieros">Para Desarrolladores e Ingenieros<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#para-desarrolladores-e-ingenieros" class="hash-link" aria-label="Enlace directo al Para Desarrolladores e Ingenieros" title="Enlace directo al Para Desarrolladores e Ingenieros" translate="no">​</a></h2>
-<p>Estos canales son valiosos para desarrolladores porque:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-inspiración-tecnológica">1. <strong>Inspiración Tecnológica</strong><a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#1-inspiraci%C3%B3n-tecnol%C3%B3gica" class="hash-link" aria-label="Enlace directo al 1-inspiración-tecnológica" title="Enlace directo al 1-inspiración-tecnológica" translate="no">​</a></h3>
-<p>Ver qué es posible con conducción autónoma en el mundo real</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-aprender-de-fallos">2. <strong>Aprender de Fallos</strong><a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#2-aprender-de-fallos" class="hash-link" aria-label="Enlace directo al 2-aprender-de-fallos" title="Enlace directo al 2-aprender-de-fallos" translate="no">​</a></h3>
-<p>Videos muestran edge cases que puedes enfrentar en competencia:</p>
-<ul>
-<li class="">Conos desplazados</li>
-<li class="">Sombras engañando sensores</li>
-<li class="">Cambios súbitos de superficie</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-benchmarking">3. <strong>Benchmarking</strong><a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#3-benchmarking" class="hash-link" aria-label="Enlace directo al 3-benchmarking" title="Enlace directo al 3-benchmarking" translate="no">​</a></h3>
-<p>Comparar tu aproximación (típicamente modular) con extremo a extremo de Tesla</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-tendencias-de-la-industria">4. <strong>Tendencias de la Industria</strong><a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#4-tendencias-de-la-industria" class="hash-link" aria-label="Enlace directo al 4-tendencias-de-la-industria" title="Enlace directo al 4-tendencias-de-la-industria" translate="no">​</a></h3>
-<p>Entender hacia dónde va conducción autónoma comercial</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-inspirar-vocaciones">5. <strong>Inspirar Vocaciones</strong><a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#5-inspirar-vocaciones" class="hash-link" aria-label="Enlace directo al 5-inspirar-vocaciones" title="Enlace directo al 5-inspirar-vocaciones" translate="no">​</a></h3>
-<p>Mostrar a nuevos miembros del equipo el estado del arte - "esto es a lo que aspiramos"</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://fsd.pepetox.es/mejores-canales-youtube-fsd#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
-<p>La cantidad de contenido sobre FSD en YouTube es abrumadora - probablemente se publican <strong>100+ horas de video de FSD semanalmente</strong>. Esta guía te da los canales esenciales para mantenerte informado sin ahogarte en contenido.</p>
-<p><strong>Recomendación final:</strong></p>
-<ul>
-<li class=""><strong>Imprescindible</strong>: AI DRIVR</li>
-<li class=""><strong>Para contexto español</strong>: Saúl López + Lars Hoffmann</li>
-<li class=""><strong>Para diversión</strong>: Whole Mars Catalog</li>
-<li class=""><strong>Para profundidad técnica</strong>: Lex Fridman + Yannic Kilcher</li>
-</ul>
-<p>Y recuerda: estos YouTubers están documentando historia en tiempo real. Dentro de 10 años, estos videos serán archivo histórico de cómo se desarrolló la conducción autónoma de nivel 5.</p>
-<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Contribuye a la Documentación</div><div class="admonitionContent_BuS1"><p>Si tienes acceso a FSD en España cuando llegue, ¡considera documentar tu experiencia! La perspectiva española será valiosa para la comunidad global.</p></div></div>]]></content:encoded>
-            <category>fsd</category>
-            <category>youtube</category>
-            <category>contenido</category>
-            <category>recursos</category>
         </item>
     </channel>
 </rss>
