@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkfsd_spain_blog=globalThis.webpackChunkfsd_spain_blog||[]).push([[5434],{6119:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/","page":1,"postsPerPage":10,"totalPages":5,"totalCount":41,"nextPage":"/page/2","blogDescription":"Noticias, tutoriales y recursos sobre Conducci\xf3n Aut\xf3noma en Espa\xf1a","blogTitle":"FSD Spain Blog"}}')}}]);
