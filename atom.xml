@@ -2,11 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fsd.pepetox.es</id>
     <title>FSD Spain Blog</title>
-    <updated>2026-01-25T00:00:00.000Z</updated>
+    <updated>2026-01-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fsd.pepetox.es"/>
     <subtitle>FSD Spain Blog</subtitle>
     <icon>https://fsd.pepetox.es/img/fsdspain.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Tesla cambia las reglas: Autopilot deja de ser estándar (y por qué importa en Europa)]]></title>
+        <id>https://fsd.pepetox.es/autopilot-deja-de-ser-estandar</id>
+        <link href="https://fsd.pepetox.es/autopilot-deja-de-ser-estandar"/>
+        <updated>2026-01-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Autopilot deja de venir “de serie” en nuevos Tesla en Norteamérica: qué significa (TACC vs Autosteer), por qué lo hacen y qué podría implicar para España.]]></summary>
+        <content type="html"><![CDATA[<p>Imagina que te compras un Tesla “pelado” para el día a día, sin extras raros, y das por hecho lo que durante años fue la norma: <strong>Autopilot incluido</strong>. Te subes, activas el asistente, esperas el centrado en carril… y descubres que el coche “solo” mantiene la distancia y la velocidad. Bienvenido a un cambio de política que, aunque hoy se cuece fuera de la UE, <strong>puede anticipar un giro comercial importante</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-ha-cambiado-exactamente-y-dónde">Qué ha cambiado exactamente (y dónde)<a href="https://fsd.pepetox.es/autopilot-deja-de-ser-estandar#qu%C3%A9-ha-cambiado-exactamente-y-d%C3%B3nde" class="hash-link" aria-label="Enlace directo al Qué ha cambiado exactamente (y dónde)" title="Enlace directo al Qué ha cambiado exactamente (y dónde)" translate="no">​</a></h2>
+<p>En los últimos días se ha reportado un ajuste en la oferta de Tesla en Norteamérica: <strong>Autopilot (tal y como se entendía hasta ahora) deja de venir estándar en nuevos pedidos</strong>, y lo que queda de serie es esencialmente el control de crucero adaptativo (TACC) junto con los sistemas de seguridad activa (ver fuentes al final).</p>
+<p>Si lo traducimos a funciones “de calle”:</p>
+<ul>
+<li class=""><strong>TACC (Traffic-Aware Cruise Control):</strong> mantiene velocidad y distancia con el coche de delante. Es útil, pero no “conduce”.</li>
+<li class=""><strong>Autosteer / centrado en carril:</strong> es el componente que, para la mayoría, hacía que Autopilot se sintiera como “asistencia de conducción” real en autopista.</li>
+</ul>
+<p>La confusión aquí es normal porque Tesla lleva años cambiando nombres, paquetes y precio (si quieres repasar el mapa, tenemos un diccionario rápido: <a class="" href="https://fsd.pepetox.es/diccionario-autonomia-ap-eap-fsd-espana">AP / EAP / FSD</a>). Y además, en Europa, las capacidades y limitaciones vienen condicionadas por el marco UNECE (historia incluida: <a class="" href="https://fsd.pepetox.es/gran-castracion-2019-autopilot-europa">la “gran castración” de 2019</a>).</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-este-cambio-no-es-un-detalle-solo-de-ee-uu">Por qué este cambio no es un detalle “solo de EE. UU.”<a href="https://fsd.pepetox.es/autopilot-deja-de-ser-estandar#por-qu%C3%A9-este-cambio-no-es-un-detalle-solo-de-ee-uu" class="hash-link" aria-label="Enlace directo al Por qué este cambio no es un detalle “solo de EE. UU.”" title="Enlace directo al Por qué este cambio no es un detalle “solo de EE. UU.”" translate="no">​</a></h2>
+<p>La parte interesante no es solo qué se quita, sino <strong>qué mensaje lanza</strong>:</p>
+<ol>
+<li class=""><strong>Deja de tratarse como “estándar” una función que define la identidad del producto.</strong> Para mucha gente, Autopilot era parte del “pack Tesla”, como el iPhone con su cámara: no el extra, sino el punto de partida.</li>
+<li class=""><strong>La línea entre asistencia (L2) y producto premium se hace más dura.</strong> Si el centrado en carril se paga aparte, la barrera de entrada a la “experiencia FSD” sube.</li>
+<li class=""><strong>Europa es especialmente sensible a cómo se empaqueta y se comunica la asistencia.</strong> Aquí, el debate no es solo técnico: es legal, de expectativas y de responsabilidad del conductor.</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="tres-hipótesis-sobre-el-por-qué-sin-humo">Tres hipótesis sobre el “por qué” (sin humo)<a href="https://fsd.pepetox.es/autopilot-deja-de-ser-estandar#tres-hip%C3%B3tesis-sobre-el-por-qu%C3%A9-sin-humo" class="hash-link" aria-label="Enlace directo al Tres hipótesis sobre el “por qué” (sin humo)" title="Enlace directo al Tres hipótesis sobre el “por qué” (sin humo)" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-precio-y-suscripción-convertir-hábito-en-arpu">1) Precio y suscripción: convertir “hábito” en “ARPU”<a href="https://fsd.pepetox.es/autopilot-deja-de-ser-estandar#1-precio-y-suscripci%C3%B3n-convertir-h%C3%A1bito-en-arpu" class="hash-link" aria-label="Enlace directo al 1) Precio y suscripción: convertir “hábito” en “ARPU”" title="Enlace directo al 1) Precio y suscripción: convertir “hábito” en “ARPU”" translate="no">​</a></h3>
+<p>La lectura más directa: Tesla quiere que más conductores pasen por caja (una vez, o mes a mes) para acceder a las funciones que sienten como “conducción asistida completa”. Si el centrado en carril ya no viene incluido, <strong>el upsell es más agresivo</strong>.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-riesgo-reputacional-menos-malentendidos-menos-titulares">2) Riesgo reputacional: menos malentendidos, menos titulares<a href="https://fsd.pepetox.es/autopilot-deja-de-ser-estandar#2-riesgo-reputacional-menos-malentendidos-menos-titulares" class="hash-link" aria-label="Enlace directo al 2) Riesgo reputacional: menos malentendidos, menos titulares" title="Enlace directo al 2) Riesgo reputacional: menos malentendidos, menos titulares" translate="no">​</a></h3>
+<p>Autopilot ha sido durante años un foco de malentendidos y accidentes mediáticos. Separar claramente “lo estándar” (crucero adaptativo + seguridad activa) de “lo avanzado” podría ser, también, una forma de reducir expectativas. Esto no elimina el problema de fondo —la comunicación y el uso real—, pero sí cambia el punto de partida.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-producto-y-soporte-simplificar-lo-que-hay-que-explicar">3) Producto y soporte: simplificar lo que “hay que explicar”<a href="https://fsd.pepetox.es/autopilot-deja-de-ser-estandar#3-producto-y-soporte-simplificar-lo-que-hay-que-explicar" class="hash-link" aria-label="Enlace directo al 3) Producto y soporte: simplificar lo que “hay que explicar”" title="Enlace directo al 3) Producto y soporte: simplificar lo que “hay que explicar”" translate="no">​</a></h3>
+<p>Una asistencia que centra carril parece fácil… hasta que te encuentras obras, señalización confusa, carriles que desaparecen, lluvia o un adelantamiento raro. Si el sistema no está a la altura de lo que el usuario cree que hace, el coste de soporte, reclamaciones y frustración crece. Quitar “de serie” la parte más visible puede ser una manera de <strong>reducir fricción en el usuario generalista</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="implicaciones-prácticas-si-compras-un-tesla-en-españa-enero-2026">Implicaciones prácticas si compras un Tesla en España (enero 2026)<a href="https://fsd.pepetox.es/autopilot-deja-de-ser-estandar#implicaciones-pr%C3%A1cticas-si-compras-un-tesla-en-espa%C3%B1a-enero-2026" class="hash-link" aria-label="Enlace directo al Implicaciones prácticas si compras un Tesla en España (enero 2026)" title="Enlace directo al Implicaciones prácticas si compras un Tesla en España (enero 2026)" translate="no">​</a></h2>
+<p>Hoy, este cambio se está reportando fuera de la UE, pero el consejo práctico para España es simple: <strong>no asumas paquetes</strong>.</p>
+<p>Antes de cerrar compra, revisa:</p>
+<ol>
+<li class=""><strong>Qué aparece como “incluido” en el configurador</strong> para tu país (y en el resumen final del pedido).</li>
+<li class=""><strong>Qué define Tesla como funciones estándar</strong> en su documentación de soporte, especialmente en “Asistencia al conductor” y “Seguridad” (ver fuentes).</li>
+<li class=""><strong>Qué función te importa de verdad:</strong> hay gente que “vive” en TACC y hay gente que quiere centrado en carril sí o sí.</li>
+</ol>
+<p>Y, si estás comparando con otros L2 “hands-off, eyes-on” en Europa, recuerda: algunos competidores venden “hands-free” geovallado como paquete, otros lo incluyen por niveles de acabado, y otros lo reservan a suscripciones. El empaquetado es parte del producto.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-la-comunidad-debería-vigilar-para-anticipar-europa">Lo que la comunidad debería vigilar (para anticipar Europa)<a href="https://fsd.pepetox.es/autopilot-deja-de-ser-estandar#lo-que-la-comunidad-deber%C3%ADa-vigilar-para-anticipar-europa" class="hash-link" aria-label="Enlace directo al Lo que la comunidad debería vigilar (para anticipar Europa)" title="Enlace directo al Lo que la comunidad debería vigilar (para anticipar Europa)" translate="no">​</a></h2>
+<p>Si Tesla extiende el cambio, lo verás antes en estas señales:</p>
+<ul>
+<li class=""><strong>Variación por mercado</strong>: primero un país, luego otro.</li>
+<li class=""><strong>Cambio de naming</strong>: “Autopilot” deja de estar en el lenguaje de serie y aparece otro término estándar.</li>
+<li class=""><strong>Rebajas o promociones temporales</strong>: para amortiguar el impacto.</li>
+<li class=""><strong>Ajustes en el onboarding del coche</strong>: pantallas, tutoriales y disclaimers.</li>
+</ul>
+<p>En Europa, además, este tipo de decisión interactúa con regulación y homologación: el usuario aquí es más consciente (o debería serlo) de que L2 es L2, que la supervisión manda, y que el sistema no es una promesa sino un conjunto de funciones con límites.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway-tesla-está-redefiniendo-el-mínimo-viable-de-asistencia">Takeaway: Tesla está redefiniendo el “mínimo viable” de asistencia<a href="https://fsd.pepetox.es/autopilot-deja-de-ser-estandar#takeaway-tesla-est%C3%A1-redefiniendo-el-m%C3%ADnimo-viable-de-asistencia" class="hash-link" aria-label="Enlace directo al Takeaway: Tesla está redefiniendo el “mínimo viable” de asistencia" title="Enlace directo al Takeaway: Tesla está redefiniendo el “mínimo viable” de asistencia" translate="no">​</a></h2>
+<p>Durante años, el estándar implícito era: “compras Tesla, tienes Autopilot”. Si ahora el estándar pasa a ser “compras Tesla, tienes crucero adaptativo”, el cambio no es técnico: <strong>es de estrategia</strong>. Y cuando una empresa redefine su “mínimo”, el mercado suele seguirlo (o aprovechar el hueco).</p>
+<p>Si este giro llega a Europa, la pregunta para España será clara: ¿cuánto vale para ti el centrado en carril y el resto del paquete… cuando deja de ser automático? Te leo en comentarios: ¿usarías TACC “a pelo” o Autosteer es imprescindible para tu día a día?</p>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/autopilot-deja-de-ser-estandar#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h3>
+<ul>
+<li class="">The Verge — Tesla reportedly removed Autopilot as a standard feature for new orders (enero 2026). <a href="https://www.theverge.com/2026/1/24/24351608/tesla-autopilot-standard-feature-removed" target="_blank" rel="noopener noreferrer" class="">https://www.theverge.com/2026/1/24/24351608/tesla-autopilot-standard-feature-removed</a></li>
+<li class="">Electrek — Tesla quietly removes Autopilot as standard; keeps adaptive cruise control and safety features (enero 2026). <a href="https://electrek.co/2026/01/24/tesla-removes-autopilot-as-standard-keeps-adaptive-cruise-control-and-safety/" target="_blank" rel="noopener noreferrer" class="">https://electrek.co/2026/01/24/tesla-removes-autopilot-as-standard-keeps-adaptive-cruise-control-and-safety/</a></li>
+<li class="">Tesla — “Safety Features” (explica qué incluye Tesla como seguridad activa y menciona TACC como parte de la asistencia). <a href="https://www.tesla.com/support/safety-features" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/support/safety-features</a></li>
+</ul>]]></content>
+        <author>
+            <name>The Autonomous Pilot</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="autopilot" term="autopilot"/>
+        <category label="tesla" term="tesla"/>
+        <category label="fsd" term="fsd"/>
+        <category label="europa" term="europa"/>
+        <category label="seguridad" term="seguridad"/>
+        <category label="regulations" term="regulations"/>
+        <category label="producto" term="producto"/>
+        <category label="suscripcion" term="suscripcion"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Competidores del FSD: quién está realmente avanzado y dónde]]></title>
         <id>https://fsd.pepetox.es/competidores-fsd-estado-arte-2026</id>
@@ -1800,289 +1870,5 @@ Pruebas beta demuestran <strong>manejo preciso en calles estrechas</strong> con 
         <category label="v14" term="v14"/>
         <category label="unece" term="unece"/>
         <category label="seguridad" term="seguridad"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla FSD v14.2.1.25 Demuestra Salvadas de Vida y Manejo Superior en Condiciones Extremas de Nieve]]></title>
-        <id>https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas</id>
-        <link href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas"/>
-        <updated>2025-12-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[FSD v14.2.1.25 de Tesla demuestra capacidades excepcionales en nieve extrema y previene colisiones mortales. Análisis de casos reales y mejoras técnicas.]]></summary>
-        <content type="html"><![CDATA[<p>Tesla FSD v14.2.1.25 está redefiniendo lo que significa conducir en condiciones extremas. En las últimas semanas, propietarios de Tesla han compartido videos impactantes del sistema evitando colisiones mortales y navegando carreteras nevadas sin plomar con una confianza que rivaliza con conductores experimentados. Esta versión no solo mejora la conducción autónoma - potencialmente <strong>está salvando vidas</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-casos-reales-cuando-fsd-marca-la-diferencia">🚨 Casos Reales: Cuando FSD Marca la Diferencia<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#-casos-reales-cuando-fsd-marca-la-diferencia" class="hash-link" aria-label="Enlace directo al 🚨 Casos Reales: Cuando FSD Marca la Diferencia" title="Enlace directo al 🚨 Casos Reales: Cuando FSD Marca la Diferencia" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="colisión-frontal-evitada-a-75-mph-noviembre-2025">Colisión Frontal Evitada a 75 mph (Noviembre 2025)<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#colisi%C3%B3n-frontal-evitada-a-75-mph-noviembre-2025" class="hash-link" aria-label="Enlace directo al Colisión Frontal Evitada a 75 mph (Noviembre 2025)" title="Enlace directo al Colisión Frontal Evitada a 75 mph (Noviembre 2025)" translate="no">​</a></h3>
-<p>El caso más dramático reportado ocurrió en <strong>noviembre de 2025</strong> en una autopista de dos carriles. Un conductor llamado Lee viajaba en su Cybertruck a 75 mph usando FSD cuando un pickup intentó un adelantamiento peligroso detrás de un semi-remolque.</p>
-<p><strong>Lo que sucedió:</strong></p>
-<ul>
-<li class="">El pickup invadió el carril contrario directamente hacia Lee</li>
-<li class="">El Cybertruck con FSD <strong>ya estaba esquivando antes de que Lee intentara reaccionar</strong></li>
-<li class="">La maniobra fue precisa y calculada, evitando una colisión frontal mortal</li>
-<li class="">El video muestra claramente que sin FSD, el impacto habría sido inevitable</li>
-</ul>
-<blockquote>
-<p>"El Cybertruck estaba moviéndose para evitar la colisión antes de que yo pudiera siquiera procesar lo que estaba pasando. Me salvó la vida, sin duda." - Lee, propietario de Cybertruck</p>
-</blockquote>
-<p><strong>Análisis técnico:</strong></p>
-<ul>
-<li class=""><strong>Tiempo de reacción humano</strong>: ~1 segundo</li>
-<li class=""><strong>Tiempo de reacción FSD</strong>: ~50-100 milisegundos</li>
-<li class=""><strong>A 75 mph</strong>: En 1 segundo, un vehículo recorre <strong>110 pies (33 metros)</strong></li>
-<li class=""><strong>Esa diferencia de 0.9 segundos</strong> puede significar la diferencia entre la vida y la muerte</li>
-</ul>
-<div class="theme-admonition theme-admonition-danger admonition_xJq3 alert alert--danger"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M5.05.31c.81 2.17.41 3.38-.52 4.31C3.55 5.67 1.98 6.45.9 7.98c-1.45 2.05-1.7 6.53 3.53 7.7-2.2-1.16-2.67-4.52-.3-6.61-.61 2.03.53 3.33 1.94 2.86 1.39-.47 2.3.53 2.27 1.67-.02.78-.31 1.44-1.13 1.81 3.42-.59 4.78-3.42 4.78-5.56 0-2.84-2.53-3.22-1.25-5.61-1.52.13-2.03 1.13-1.89 2.75.09 1.08-1.02 1.8-1.86 1.33-.67-.41-.66-1.19-.06-1.78C8.18 5.31 8.68 2.45 5.05.32L5.03.3l.02.01z"></path></svg></span>Datos Críticos</div><div class="admonitionContent_BuS1"><p>A velocidades de autopista, cada milisegundo cuenta. FSD reacciona <strong>10 veces más rápido</strong> que el conductor humano promedio, permitiendo maniobras de evasión que serían imposibles manualmente.</p></div></div>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="coche-en-trompo-frenado-de-emergencia-agosto-2025">Coche en Trompo: Frenado de Emergencia (Agosto 2025)<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#coche-en-trompo-frenado-de-emergencia-agosto-2025" class="hash-link" aria-label="Enlace directo al Coche en Trompo: Frenado de Emergencia (Agosto 2025)" title="Enlace directo al Coche en Trompo: Frenado de Emergencia (Agosto 2025)" translate="no">​</a></h3>
-<p>Un propietario llamado Prakash compartió video de su Tesla deteniendo el vehículo justo a tiempo cuando un coche hizo un giro de 360 grados directamente frente a él en tráfico.</p>
-<p><strong>Testimonio del conductor:</strong></p>
-<blockquote>
-<p>"No hay forma de que yo hubiera reaccionado tan rápido. El FSD detectó la pérdida de control del otro vehículo antes de que completara el primer giro. Frenazo perfecto, cero daños." - Prakash</p>
-</blockquote>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="emergencia-médica-fsd-conduce-a-hospital-agosto-2025">Emergencia Médica: FSD Conduce a Hospital (Agosto 2025)<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#emergencia-m%C3%A9dica-fsd-conduce-a-hospital-agosto-2025" class="hash-link" aria-label="Enlace directo al Emergencia Médica: FSD Conduce a Hospital (Agosto 2025)" title="Enlace directo al Emergencia Médica: FSD Conduce a Hospital (Agosto 2025)" translate="no">​</a></h3>
-<p>El <strong>25 de agosto en Reno, Nevada</strong>, un hombre sufrió un ataque cardíaco en el trabajo. En un momento de lucidez, activó FSD con destino al hospital más cercano.</p>
-<p><strong>Cronología del incidente:</strong></p>
-<ol>
-<li class="">✅ FSD navegó 8 millas en tráfico urbano sin intervención</li>
-<li class="">✅ Llegó a la sala de emergencias del hospital</li>
-<li class="">✅ El paciente sufrió paro cardíaco al llegar, pero sobrevivió gracias a la atención inmediata</li>
-</ol>
-<p><strong>Sin FSD, el resultado habría sido muy diferente.</strong> Esta historia demuestra que FSD no solo previene accidentes - también puede salvar vidas en emergencias médicas.</p>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>Capacidad Demostrada</div><div class="admonitionContent_BuS1"><p>Este caso valida la visión de Tesla del "Robotaxi": un vehículo que puede transportar pasajeros incapacitados de forma segura y autónoma. La tecnología ya existe; solo falta la aprobación regulatoria.</p></div></div>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="️-rendimiento-en-condiciones-extremas-de-nieve">❄️ Rendimiento en Condiciones Extremas de Nieve<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#%EF%B8%8F-rendimiento-en-condiciones-extremas-de-nieve" class="hash-link" aria-label="Enlace directo al ❄️ Rendimiento en Condiciones Extremas de Nieve" title="Enlace directo al ❄️ Rendimiento en Condiciones Extremas de Nieve" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="detección-inteligente-de-nieve">Detección Inteligente de Nieve<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#detecci%C3%B3n-inteligente-de-nieve" class="hash-link" aria-label="Enlace directo al Detección Inteligente de Nieve" title="Enlace directo al Detección Inteligente de Nieve" translate="no">​</a></h3>
-<p>FSD v14.2.1.25 introduce <strong>detección específica de nieve</strong> que va más allá de la simple detección de precipitación:</p>
-<table><thead><tr><th>Capacidad</th><th>Descripción</th><th>Impacto en Seguridad</th></tr></thead><tbody><tr><td><strong>Diferenciación nieve/lluvia</strong></td><td>El sistema detecta nieve como sustancia separada de lluvia</td><td>✅ Ajusta parámetros de tracción apropiadamente</td></tr><tr><td><strong>Ajuste de velocidad automático</strong></td><td>Reduce velocidad al detectar nieve</td><td>✅ Limitó a 40-55 mph en interestatales de 70 mph</td></tr><tr><td><strong>Perfil de conducción conservador</strong></td><td>Aumenta distancias de frenado y suaviza aceleraciones</td><td>✅ Previene derrapes y pérdida de control</td></tr><tr><td><strong>Evaluación continua de tracción</strong></td><td>Monitorea respuesta del vehículo en tiempo real</td><td>✅ Adapta conducción a condiciones cambiantes</td></tr></tbody></table>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="pruebas-reales-en-carreteras-nevadas">Pruebas Reales en Carreteras Nevadas<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#pruebas-reales-en-carreteras-nevadas" class="hash-link" aria-label="Enlace directo al Pruebas Reales en Carreteras Nevadas" title="Enlace directo al Pruebas Reales en Carreteras Nevadas" translate="no">​</a></h3>
-<p><strong>New Hampshire - Carreteras Rurales sin Plomar (Diciembre 2025)</strong></p>
-<p>Sawyer Merritt, reconocido analista de Tesla, probó FSD V14.2.1 en <strong>caminos rurales sin plomar</strong> en New Hampshire durante una nevada activa.</p>
-<p><strong>Condiciones del test:</strong></p>
-<ul>
-<li class="">Nieve acumulada sin marcar carriles</li>
-<li class="">Visibilidad reducida por nevadas activas</li>
-<li class="">Superficies irregulares sin tratamiento</li>
-<li class="">Velocidades bajas (15-35 mph)</li>
-</ul>
-<p><strong>Resultados:</strong></p>
-<ul>
-<li class="">✅ FSD mantuvo el vehículo centrado en el camino sin marcas visibles</li>
-<li class="">✅ Ajustó velocidad automáticamente según condiciones</li>
-<li class="">✅ Manejó curvas con "inputs deliberados y medidos"</li>
-<li class="">✅ Demostró "cautela extra" en áreas de baja visibilidad</li>
-</ul>
-<blockquote>
-<p>"FSD v14.2.1 en nieve a velocidades bajas fue en general manejable. Extra cauteloso, pero eso es exactamente lo que quieres en estas condiciones." - Sawyer Merritt</p>
-</blockquote>
-<p><strong>Prueba Cybertruck - 100 Millas en Nieve (Diciembre 2025)</strong></p>
-<p>Múltiples propietarios de Cybertruck realizaron pruebas exhaustivas de <strong>100+ millas</strong> en condiciones de nieve:</p>
-<p><strong>Escenarios probados:</strong></p>
-<ul>
-<li class="">Autopistas interestatales nevadas (70 mph → reducido a 45-55 mph)</li>
-<li class="">Carreteras secundarias con nieve compactada</li>
-<li class="">Áreas urbanas con nieve parcialmente despejada</li>
-<li class="">Rampa de entrada/salida con hielo negro</li>
-</ul>
-<p><strong>Observaciones clave:</strong></p>
-<ol>
-<li class=""><strong>Reconocimiento de superficie</strong>: FSD detectó cambios entre asfalto seco, mojado, nieve y hielo, ajustando comportamiento</li>
-<li class=""><strong>Frenado adaptativo</strong>: Aumentó distancias de frenado en superficies resbaladizas</li>
-<li class=""><strong>Cambios de carril</strong>: Ejecutados con extra cautela, verificando tracción antes de maniobrar</li>
-<li class=""><strong>Límites reconocidos</strong>: En secciones sin plomar con visibilidad casi nula, FSD requirió intervención</li>
-</ol>
-<div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>Limitaciones Conocidas</div><div class="admonitionContent_BuS1"><p>FSD funciona <strong>excepcionalmente</strong> en carreteras nevadas pero estructuradas (carriles visibles o GPS preciso). En condiciones de <strong>nieve sin plomar + visibilidad nula</strong>, el sistema se vuelve impredecible y requiere supervisión constante. Esto es consistente con el estatus "Supervisado" del sistema.</p></div></div>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-comparativa-de-rendimiento-v13-vs-v142125-en-nieve">📊 Comparativa de Rendimiento: v13 vs v14.2.1.25 en Nieve<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#-comparativa-de-rendimiento-v13-vs-v142125-en-nieve" class="hash-link" aria-label="Enlace directo al 📊 Comparativa de Rendimiento: v13 vs v14.2.1.25 en Nieve" title="Enlace directo al 📊 Comparativa de Rendimiento: v13 vs v14.2.1.25 en Nieve" translate="no">​</a></h2>
-<table><thead><tr><th>Métrica</th><th>FSD v13</th><th>FSD v14.2.1.25</th><th>Mejora</th></tr></thead><tbody><tr><td>Detección de nieve</td><td>Genérica (precipitación)</td><td>Específica (diferencia lluvia/nieve)</td><td>⬆️ <strong>Sustancial</strong></td></tr><tr><td>Ajuste de velocidad</td><td>Reactivo</td><td>Proactivo al detectar nieve</td><td>⬆️ <strong>+40% más rápido</strong></td></tr><tr><td>Cambios de carril en nieve</td><td>Dubitativos</td><td>Confiados pero cautelosos</td><td>⬆️ <strong>+65% de confiabilidad</strong></td></tr><tr><td>Manejo de carriles ocultos</td><td>Problemas frecuentes</td><td>Usa GPS + contexto visual</td><td>⬆️ <strong>Funciona donde v13 falló</strong></td></tr><tr><td>Millas por intervención (nieve)</td><td>~50-100 millas</td><td>~200-400 millas</td><td>⬆️ <strong>2-4x mejora</strong></td></tr></tbody></table>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-mejoras-técnicas-de-v142125">🧠 Mejoras Técnicas de v14.2.1.25<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#-mejoras-t%C3%A9cnicas-de-v142125" class="hash-link" aria-label="Enlace directo al 🧠 Mejoras Técnicas de v14.2.1.25" title="Enlace directo al 🧠 Mejoras Técnicas de v14.2.1.25" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-encoder-visual-de-mayor-resolución">1. Encoder Visual de Mayor Resolución<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#1-encoder-visual-de-mayor-resoluci%C3%B3n" class="hash-link" aria-label="Enlace directo al 1. Encoder Visual de Mayor Resolución" title="Enlace directo al 1. Encoder Visual de Mayor Resolución" translate="no">​</a></h3>
-<p>FSD v14.2 incluye un <strong>encoder de red neuronal mejorado</strong> que procesa imágenes de las cámaras a mayor resolución:</p>
-<p><strong>Antes (v13):</strong></p>
-<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">Cámaras (1280x960) → Downsampling → Neural Network (640x480 efectivo)</span><br></span></code></pre></div></div>
-<p><strong>Ahora (v14.2+):</strong></p>
-<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">Cámaras (1280x960) → Neural Network Multi-Resolución → Features de alta y baja resolución</span><br></span></code></pre></div></div>
-<p><strong>Ventajas observables:</strong></p>
-<ul>
-<li class="">Mejor detección de señales a distancia (útil en nieve cuando están parcialmente cubiertas)</li>
-<li class="">Identificación mejorada de bordes de carretera sin marcas visibles</li>
-<li class="">Detección de objetos pequeños (hielo negro, baches) a mayor distancia</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-detección-mejorada-de-vehículos-de-emergencia">2. Detección Mejorada de Vehículos de Emergencia<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#2-detecci%C3%B3n-mejorada-de-veh%C3%ADculos-de-emergencia" class="hash-link" aria-label="Enlace directo al 2. Detección Mejorada de Vehículos de Emergencia" title="Enlace directo al 2. Detección Mejorada de Vehículos de Emergencia" translate="no">​</a></h3>
-<p>El sistema ahora detecta vehículos de emergencia con <strong>5.8% más de precisión</strong> gracias a:</p>
-<ul>
-<li class="">Nuevo dataset de entrenamiento con más escenarios de baja visibilidad</li>
-<li class="">Régimen de entrenamiento mejorado</li>
-<li class="">Integración de audio (detecta sirenas, aunque aún no se usa para decisiones)</li>
-</ul>
-<p><strong>Relevancia en nieve:</strong>
-Los vehículos de emergencia son comunes en condiciones invernales (accidentes, quitanieves, ambulancias). La detección mejorada permite a FSD ceder paso apropiadamente incluso con luces oscurecidas por nieve.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-maniobras-de-evasión-de-colisiones-en-shadow-mode">3. Maniobras de Evasión de Colisiones en Shadow Mode<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#3-maniobras-de-evasi%C3%B3n-de-colisiones-en-shadow-mode" class="hash-link" aria-label="Enlace directo al 3. Maniobras de Evasión de Colisiones en Shadow Mode" title="Enlace directo al 3. Maniobras de Evasión de Colisiones en Shadow Mode" translate="no">​</a></h3>
-<p>Una de las adiciones más importantes de v14:</p>
-<p><strong>"Emergency Collision Avoidance Maneuvering"</strong> ahora opera en <strong>shadow mode</strong>, lo que significa:</p>
-<ul>
-<li class="">El sistema simula maniobras de evasión en cada escenario potencial de colisión</li>
-<li class="">Aprende cuándo hubiera sido necesario intervenir (incluso si no lo fue)</li>
-<li class="">Mejora continuamente el modelo con cada "casi-accidente"</li>
-</ul>
-<p><strong>Cómo funciona:</strong></p>
-<ol>
-<li class="">FSD detecta situación potencialmente peligrosa</li>
-<li class="">Calcula múltiples trayectorias de evasión</li>
-<li class="">Si el peligro se materializa, ejecuta la trayectoria óptima en menos de 100ms</li>
-<li class="">Si el peligro no se materializa, guarda el escenario para entrenamiento</li>
-</ol>
-<p><strong>Esto explica los casos de "salvadas" reportados</strong>: FSD está constantemente preparado para maniobrar, incluso cuando parece que solo está conduciendo normalmente.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-freno-de-emergencia-automático-aeb-mejorado">4. Freno de Emergencia Automático (AEB) Mejorado<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#4-freno-de-emergencia-autom%C3%A1tico-aeb-mejorado" class="hash-link" aria-label="Enlace directo al 4. Freno de Emergencia Automático (AEB) Mejorado" title="Enlace directo al 4. Freno de Emergencia Automático (AEB) Mejorado" translate="no">​</a></h3>
-<p>FSD v14.2 integra el <strong>AEB mejorado</strong> que funciona:</p>
-<p>✅ <strong>Rango de velocidad</strong>: 3 mph - 124 mph (5 km/h - 200 km/h)
-✅ <strong>Dirección</strong>: Hacia adelante <strong>Y hacia atrás</strong> (novedad)
-✅ <strong>Detección perpendicular</strong>: Vehículos cruzando perpendicularmente
-✅ <strong>Objetos ocluidos</strong>: Predice vehículos ocultos por otros objetos</p>
-<p><strong>Ejemplo práctico:</strong>
-En nieve, cuando un vehículo se detiene súbitamente (común por derrapes), FSD:</p>
-<ol>
-<li class="">Detecta frenado del vehículo adelante</li>
-<li class="">Predice trayectoria considerando superficie resbaladiza</li>
-<li class="">Aplica frenos con máxima fuerza sin bloquear ruedas</li>
-<li class="">Evalúa si evasión lateral es más segura que frenado directo</li>
-</ol>
-<p>Todo esto ocurre en <strong>menos de 100 milisegundos</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-estadísticas-de-seguridad-es-fsd-más-seguro-que-humanos">📈 Estadísticas de Seguridad: ¿Es FSD Más Seguro que Humanos?<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#-estad%C3%ADsticas-de-seguridad-es-fsd-m%C3%A1s-seguro-que-humanos" class="hash-link" aria-label="Enlace directo al 📈 Estadísticas de Seguridad: ¿Es FSD Más Seguro que Humanos?" title="Enlace directo al 📈 Estadísticas de Seguridad: ¿Es FSD Más Seguro que Humanos?" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="datos-oficiales-de-tesla-actualizado-q3-2025">Datos Oficiales de Tesla (Actualizado Q3 2025)<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#datos-oficiales-de-tesla-actualizado-q3-2025" class="hash-link" aria-label="Enlace directo al Datos Oficiales de Tesla (Actualizado Q3 2025)" title="Enlace directo al Datos Oficiales de Tesla (Actualizado Q3 2025)" translate="no">​</a></h3>
-<table><thead><tr><th>Modo de Conducción</th><th>Millas por Accidente</th></tr></thead><tbody><tr><td><strong>Con FSD Supervisado activo</strong></td><td>1 accidente cada <strong>6.8 millones de millas</strong></td></tr><tr><td>Autopilot (sin FSD)</td><td>1 accidente cada 5.2 millones de millas</td></tr><tr><td>Tesla sin Autopilot ni FSD</td><td>1 accidente cada 1.6 millones de millas</td></tr><tr><td><strong>Promedio Nacional EE.UU.</strong></td><td>1 accidente cada <strong>600,000 millas</strong></td></tr></tbody></table>
-<p><strong>FSD es ~11 veces más seguro que el conductor promedio</strong> según estos datos.</p>
-<div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>Contexto Crítico</div><div class="admonitionContent_BuS1"><p>Estos datos incluyen <strong>desactivaciones en los 5 segundos previos</strong> a un accidente (es decir, si el conductor toma control justo antes de un impacto, cuenta como "con FSD").</p><p>Además, FSD se usa predominantemente en autopistas y condiciones favorables, mientras que el promedio nacional incluye conductores ebrios, distraídos, y en todas las condiciones. <strong>La comparación no es perfectamente equitativa</strong>, pero aún así es estadísticamente significativa.</p></div></div>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="análisis-independiente">Análisis Independiente<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#an%C3%A1lisis-independiente" class="hash-link" aria-label="Enlace directo al Análisis Independiente" title="Enlace directo al Análisis Independiente" translate="no">​</a></h3>
-<p>Will Lockett, analista de tecnología automotriz, analizó los datos de Tesla y concluyó:</p>
-<blockquote>
-<p>"Incluso ajustando por sesgos de uso (autopistas vs ciudad, día vs noche, etc.), FSD parece ser <strong>al menos 5-7 veces más seguro</strong> que el conductor promedio. En condiciones ideales, podría ser hasta 10-12 veces más seguro."</p>
-</blockquote>
-<p><strong>Factores de seguridad de FSD:</strong></p>
-<ol>
-<li class="">✅ <strong>Atención 360° constante</strong>: Nunca se distrae</li>
-<li class="">✅ <strong>Tiempo de reacción superior</strong>: 10x más rápido que humanos</li>
-<li class="">✅ <strong>Predicción de trayectorias</strong>: Anticipa comportamientos peligrosos</li>
-<li class="">✅ <strong>Consistencia</strong>: No se cansa, no se estresa, no tiene emociones</li>
-</ol>
-<p><strong>Factores de riesgo de FSD:</strong></p>
-<ol>
-<li class="">❌ <strong>Casos edge no entrenados</strong>: Situaciones raras pueden confundir al sistema</li>
-<li class="">❌ <strong>Falta de contexto cultural</strong>: No entiende gestos de policías dirigiendo tráfico</li>
-<li class="">❌ <strong>Problemas con baja visibilidad</strong>: Niebla densa, polvo, nieve intensa</li>
-</ol>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-implicaciones-para-europa-y-españa">🌍 Implicaciones para Europa y España<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#-implicaciones-para-europa-y-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al 🌍 Implicaciones para Europa y España" title="Enlace directo al 🌍 Implicaciones para Europa y España" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="estado-actual-en-españa">Estado Actual en España<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#estado-actual-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Estado Actual en España" title="Enlace directo al Estado Actual en España" translate="no">​</a></h3>
-<ul>
-<li class=""><strong>Pruebas aprobadas</strong>: Sí, bajo programa <strong>ES-AV</strong> desde noviembre 2024</li>
-<li class=""><strong>Disponibilidad pública</strong>: No, solo testing interno de Tesla</li>
-<li class=""><strong>Marco legal</strong>: Reglamento UNECE vigente desde julio 2025</li>
-<li class=""><strong>Fecha estimada de lanzamiento</strong>: Febrero-abril 2026 (pendiente aprobación final)</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-fsd-en-nieve-importa-para-españa">Por Qué FSD en Nieve Importa para España<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#por-qu%C3%A9-fsd-en-nieve-importa-para-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Por Qué FSD en Nieve Importa para España" title="Enlace directo al Por Qué FSD en Nieve Importa para España" translate="no">​</a></h3>
-<p>Aunque España no tiene condiciones de nieve extremas como New Hampshire, <strong>las capacidades demostradas son transferibles</strong>:</p>
-<p><strong>Habilidades clave que funcionan en España:</strong></p>
-<ol>
-<li class=""><strong>Detección de superficies resbaladizas</strong>: Aplica igualmente a lluvia torrencial en carreteras españolas</li>
-<li class=""><strong>Ajuste de velocidad automático</strong>: Útil en zonas de obras, niebla, o tráfico denso</li>
-<li class=""><strong>Maniobras de evasión de colisiones</strong>: Crítico en ciudades con tráfico impredecible</li>
-<li class=""><strong>Reconocimiento de carriles ocultos</strong>: Común en carreteras rurales españolas sin marcas</li>
-</ol>
-<p><strong>Zonas de España donde FSD en condiciones adversas será crucial:</strong></p>
-<ul>
-<li class="">✅ <strong>Puertos de montaña</strong>: Somosierra, Pajares, Pirineos (nieve y hielo en invierno)</li>
-<li class="">✅ <strong>Galicia/Asturias</strong>: Lluvia intensa y niebla frecuente</li>
-<li class="">✅ <strong>Madrid/Barcelona centro</strong>: Tráfico denso y comportamientos impredecibles</li>
-<li class="">✅ <strong>Carreteras rurales</strong>: Andalucía, Castilla - sin marcas claras, ganado ocasional</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="preparación-para-propietarios-españoles">Preparación para Propietarios Españoles<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#preparaci%C3%B3n-para-propietarios-espa%C3%B1oles" class="hash-link" aria-label="Enlace directo al Preparación para Propietarios Españoles" title="Enlace directo al Preparación para Propietarios Españoles" translate="no">​</a></h3>
-<p>Si tienes un Tesla en España y esperas FSD en 2026:</p>
-<p><strong>1. Asegura Hardware Adecuado</strong></p>
-<ul>
-<li class="">HW3: Funcionará, pero experiencia limitada</li>
-<li class=""><strong>HW4 (recomendado)</strong>: Full feature set, rendimiento óptimo</li>
-<li class="">Consulta tu versión: <strong>Controles → Software → Info Adicional</strong></li>
-</ul>
-<p><strong>2. Mantén Software Actualizado</strong></p>
-<ul>
-<li class="">Activa "Actualizaciones Avanzadas" en configuración</li>
-<li class="">Instala updates inmediatamente cuando aparezcan</li>
-<li class="">Las mejoras de FSD se despliegan incrementalmente</li>
-</ul>
-<p><strong>3. Practica con Navigate on Autopilot</strong></p>
-<ul>
-<li class="">Es lo más cercano a FSD disponible en España ahora</li>
-<li class="">Acostúmbrate a supervisar sistemas autónomos</li>
-<li class="">Aprende cuándo intervenir y cuándo confiar</li>
-</ul>
-<p><strong>4. Sigue las Pruebas Europeas</strong></p>
-<ul>
-<li class="">Dinamarca, Alemania, Francia tienen testing activo</li>
-<li class="">Videos y reportes dan pistas de rendimiento en carreteras europeas</li>
-<li class="">Únete a comunidades como <strong>Tesla Club España</strong> para información actualizada</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-el-futuro-robotaxis-y-autonomía-sin-supervisión">🔮 El Futuro: Robotaxis y Autonomía sin Supervisión<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#-el-futuro-robotaxis-y-autonom%C3%ADa-sin-supervisi%C3%B3n" class="hash-link" aria-label="Enlace directo al 🔮 El Futuro: Robotaxis y Autonomía sin Supervisión" title="Enlace directo al 🔮 El Futuro: Robotaxis y Autonomía sin Supervisión" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="austin-laboratorio-de-robotaxis">Austin: Laboratorio de Robotaxis<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#austin-laboratorio-de-robotaxis" class="hash-link" aria-label="Enlace directo al Austin: Laboratorio de Robotaxis" title="Enlace directo al Austin: Laboratorio de Robotaxis" translate="no">​</a></h3>
-<p>Tesla está probando <strong>Robotaxis sin conductor</strong> en Austin, Texas, con empleados como usuarios internos:</p>
-<p><strong>Características del programa:</strong></p>
-<ul>
-<li class="">Model 3/Y equipados con HW4 y FSD v14+</li>
-<li class="">Sin conductor de seguridad (solo supervisión remota)</li>
-<li class="">Rutas pre-aprobadas en áreas controladas</li>
-<li class="">Objetivo: Acumular millas de validación para aprobación regulatoria</li>
-</ul>
-<p><strong>Hitos logrados (reportados):</strong></p>
-<ul>
-<li class="">✅ 10,000+ viajes sin conductor completados</li>
-<li class="">✅ Cero accidentes críticos</li>
-<li class="">✅ Intervenciones remotas: menos del 1% de viajes</li>
-<li class="">✅ Puntuación de pasajeros: 4.8/5.0 promedio</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="timeline-proyectado">Timeline Proyectado<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#timeline-proyectado" class="hash-link" aria-label="Enlace directo al Timeline Proyectado" title="Enlace directo al Timeline Proyectado" translate="no">​</a></h3>
-<table><thead><tr><th>Fecha</th><th>Hito Esperado</th></tr></thead><tbody><tr><td><strong>Q1 2026</strong></td><td>FSD sin supervisión aprobado en Texas y California</td></tr><tr><td><strong>Q2 2026</strong></td><td>Lanzamiento público de Robotaxi en Austin</td></tr><tr><td><strong>Q3 2026</strong></td><td>Expansión a San Francisco, Los Angeles</td></tr><tr><td><strong>Q4 2026</strong></td><td>Primeras aprobaciones en Europa (Holanda, Alemania)</td></tr><tr><td><strong>2027</strong></td><td>FSD sin supervisión en España (optimista)</td></tr></tbody></table>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>España en la Carrera</div><div class="admonitionContent_BuS1"><p>España está mejor posicionada que otros países europeos gracias al <strong>programa ES-AV</strong> activo. Si las pruebas en Madrid y otras ciudades continúan sin incidentes, podríamos ver aprobación en 2026-2027, antes de otros mercados europeos.</p></div></div>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-conclusión-el-fsd-que-salva-vidas-ya-está-aquí">🏁 Conclusión: El FSD Que Salva Vidas Ya Está Aquí<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#-conclusi%C3%B3n-el-fsd-que-salva-vidas-ya-est%C3%A1-aqu%C3%AD" class="hash-link" aria-label="Enlace directo al 🏁 Conclusión: El FSD Que Salva Vidas Ya Está Aquí" title="Enlace directo al 🏁 Conclusión: El FSD Que Salva Vidas Ya Está Aquí" translate="no">​</a></h2>
-<p>FSD v14.2.1.25 marca un punto de inflexión donde la <strong>teoría se encuentra con la realidad</strong>. No estamos hablando de capacidades futuras o promesas - estamos viendo evidencia tangible de un sistema que:</p>
-<p>✅ <strong>Previene colisiones mortales</strong> más rápido que cualquier humano
-✅ <strong>Conduce en condiciones extremas</strong> que desafían a conductores experimentados
-✅ <strong>Puede salvar vidas</strong> en emergencias médicas
-✅ <strong>Mejora constantemente</strong> con cada actualización</p>
-<p>Para propietarios en España esperando FSD, estas demostraciones en nieve extrema y situaciones de alto riesgo validan que la tecnología está madura. Los desafíos que quedan son principalmente <strong>regulatorios</strong>, no técnicos.</p>
-<p><strong>La pregunta ya no es "¿Puede FSD conducir de forma segura?"</strong> - claramente puede.</p>
-<p><strong>La pregunta es "¿Cuándo los reguladores darán luz verde?"</strong></p>
-<p>Basado en el progreso de pruebas en Europa y el despliegue inminente de Robotaxis en EE.UU., la respuesta para España podría ser: <strong>Más pronto de lo que pensamos</strong>.</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="enlaces-de-interés">Enlaces de Interés<a href="https://fsd.pepetox.es/fsd-v14-2-1-25-salvadas-vida-nieve-condiciones-extremas#enlaces-de-inter%C3%A9s" class="hash-link" aria-label="Enlace directo al Enlaces de Interés" title="Enlace directo al Enlaces de Interés" translate="no">​</a></h2>
-<p><strong>Casos de "Salvadas" Reportados:</strong></p>
-<ul>
-<li class=""><a href="https://cbsaustin.com/news/local/driver-says-tesla-fsd-saved-his-life-tech-this-out" target="_blank" rel="noopener noreferrer" class="">Conductor dice que FSD le salvó la vida</a></li>
-<li class=""><a href="https://talker.news/2025/11/18/man-credits-tesla-for-saving-life-from-head-on-highway-collision/" target="_blank" rel="noopener noreferrer" class="">Hombre agradece a Tesla por evitar colisión frontal en autopista</a></li>
-<li class=""><a href="https://www.thecooldown.com/green-tech/tesla-fsd-save-accident-suv/" target="_blank" rel="noopener noreferrer" class="">FSD evita accidente con coche en trompo</a></li>
-<li class=""><a href="https://www.teslaoracle.com/2024/04/12/the-true-story-of-how-fsd-v12-helped-a-tesla-owner-reach-hospital-and-saved-his-life/" target="_blank" rel="noopener noreferrer" class="">FSD ayuda a conductor con ataque cardíaco a llegar al hospital</a></li>
-</ul>
-<p><strong>Rendimiento en Nieve:</strong></p>
-<ul>
-<li class=""><a href="https://www.teslarati.com/tesla-full-self-driving-shows-confident-navigation-heavy-snow/" target="_blank" rel="noopener noreferrer" class="">Tesla FSD muestra navegación confiada en nieve intensa</a></li>
-<li class=""><a href="https://blockchain.news/ainews/tesla-fsd-v14-2-1-demonstrates-enhanced-snow-driving-capabilities-on-rural-roads" target="_blank" rel="noopener noreferrer" class="">FSD v14.2.1 demuestra capacidades mejoradas en nieve</a></li>
-<li class=""><a href="https://www.webpronews.com/tesla-fsd-14-2-boosts-snow-performance-in-cybertruck-tests/" target="_blank" rel="noopener noreferrer" class="">Pruebas de FSD 14.2 en Cybertruck mejoran rendimiento en nieve</a></li>
-<li class=""><a href="https://www.32cars.ru/en/posts/id5004-tesla-fsd-v14-masters-snow-early-winter-testing-report" target="_blank" rel="noopener noreferrer" class="">FSD v14 supera pruebas de invierno</a></li>
-</ul>
-<p><strong>Datos Técnicos y Seguridad:</strong></p>
-<ul>
-<li class=""><a href="https://www.notateslaapp.com/software-updates/version/2025.44.25.5/release-notes" target="_blank" rel="noopener noreferrer" class="">Notas oficiales de versión 2025.44.25.5 (FSD 14.2.1.25)</a></li>
-<li class=""><a href="https://www.tesla.com/fsd/safety" target="_blank" rel="noopener noreferrer" class="">Reporte de seguridad vehicular de Tesla FSD</a></li>
-<li class=""><a href="https://www.teslarati.com/tesla-fsd-v14-2-1-is-getting-rave-reviews-from-owners/" target="_blank" rel="noopener noreferrer" class="">FSD v14.2.1 recibe críticas excepcionales</a></li>
-<li class=""><a href="https://wlockett.medium.com/is-teslas-fsd-suddenly-safe-d22058f5c1f2" target="_blank" rel="noopener noreferrer" class="">¿Es el FSD de Tesla realmente seguro?</a></li>
-</ul>
-<p><strong>Mejoras de Sistemas de Emergencia:</strong></p>
-<ul>
-<li class=""><a href="https://www.notateslaapp.com/news/1376/tesla-s-automatic-emergency-braking-now-works-in-reverse-and-at-speeds-over-100-mph" target="_blank" rel="noopener noreferrer" class="">Freno de emergencia automático de Tesla ahora funciona en reversa y a más de 100 mph</a></li>
-<li class=""><a href="https://www.autopilotreview.com/full-self-driving-update/" target="_blank" rel="noopener noreferrer" class="">FSD v14.2.1 está mejor que nunca</a></li>
-</ul>
-<p><em>¿Tienes un Tesla? ¿Has experimentado situaciones donde Autopilot o FSD evitó un accidente? ¿Estás esperando el lanzamiento en España? Comparte tu experiencia en los comentarios.</em></p>]]></content>
-        <author>
-            <name>FSD Spain</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="fsd" term="fsd"/>
-        <category label="v14" term="v14"/>
-        <category label="seguridad" term="seguridad"/>
-        <category label="nieve" term="nieve"/>
-        <category label="invierno" term="invierno"/>
-        <category label="accidentes" term="accidentes"/>
-        <category label="salvadas" term="salvadas"/>
     </entry>
 </feed>
