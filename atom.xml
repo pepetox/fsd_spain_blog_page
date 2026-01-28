@@ -2,11 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fsd.pepetox.es</id>
     <title>FSD Spain Blog</title>
-    <updated>2026-01-27T00:00:00.000Z</updated>
+    <updated>2026-01-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fsd.pepetox.es"/>
     <subtitle>FSD Spain Blog</subtitle>
     <icon>https://fsd.pepetox.es/img/fsdspain.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Robotaxi sin monitor en Austin, pero España manda en obras: la batalla invisible del FSD]]></title>
+        <id>https://fsd.pepetox.es/robotaxi-obras-senalizacion-espana</id>
+        <link href="https://fsd.pepetox.es/robotaxi-obras-senalizacion-espana"/>
+        <updated>2026-01-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tesla ya prueba robotaxis sin monitor en Austin, pero el cuello de botella europeo está en las obras, la señalización temporal y el comportamiento local.]]></summary>
+        <content type="html"><![CDATA[<p>Son las 19:12 en la A‑6. Un carril desaparece sin aviso, la señal provisional está torcida, y los conos “re‑dibujan” la carretera como si fuera un plano improvisado. Para un humano es intuición y memoria. Para un sistema end‑to‑end es <strong>percepción bajo incertidumbre</strong>. Ese es el verdadero examen europeo.</p>
+<p>Mientras tanto, la noticia llega desde Texas: Tesla ya ofrece <strong>viajes de robotaxi en Austin sin monitor de seguridad a bordo</strong>, un paso simbólico hacia lo no supervisado. Es un salto real, pero limitado a una geografía controlada y con flota reducida. Y justo ahí aparece la pregunta incómoda para Europa: ¿puede el mismo sistema sobrevivir a la señalización temporal española y sus “obras eternas”? citeturn0search1turn0news14</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-el-hito-de-austin-sí-demuestra-y-lo-que-no">Lo que el hito de Austin sí demuestra (y lo que no)<a href="https://fsd.pepetox.es/robotaxi-obras-senalizacion-espana#lo-que-el-hito-de-austin-s%C3%AD-demuestra-y-lo-que-no" class="hash-link" aria-label="Enlace directo al Lo que el hito de Austin sí demuestra (y lo que no)" title="Enlace directo al Lo que el hito de Austin sí demuestra (y lo que no)" translate="no">​</a></h2>
+<p><strong>Demuestra:</strong> que Tesla cree que su stack puede sostener un servicio sin monitor en un entorno geofenced y muy monitorizado. No es una demo aislada: hay pasajeros reales y operación comercial limitada. citeturn0search1</p>
+<p><strong>No demuestra:</strong> que el mismo sistema sea robusto frente a la diversidad de España y la UE: obras cambiantes, carriles borrados por asfaltado, señales provisionales que contradicen a las permanentes y comportamiento local impredecible.</p>
+<p>La diferencia clave no es “más IA”. Es <strong>más contexto europeo</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-progreso-técnico-existe-v13-apunta-al-núcleo-del-problema">El progreso técnico existe: v13 apunta al núcleo del problema<a href="https://fsd.pepetox.es/robotaxi-obras-senalizacion-espana#el-progreso-t%C3%A9cnico-existe-v13-apunta-al-n%C3%BAcleo-del-problema" class="hash-link" aria-label="Enlace directo al El progreso técnico existe: v13 apunta al núcleo del problema" title="Enlace directo al El progreso técnico existe: v13 apunta al núcleo del problema" translate="no">​</a></h2>
+<p>Las notas de versión recientes de FSD (Supervised) v13 indican un salto en el pipeline end‑to‑end: entradas de vídeo AI4 a 36 Hz, reducción de latencia de fotón a control, rediseño de controlador y, lo más relevante para España, <strong>ruteo dinámico alrededor de cierres de vía detectados por la flota</strong>. En lenguaje llano: el sistema intenta entender que “la carretera hoy no es la misma que ayer”. citeturn0search0</p>
+<p>Ese punto es crítico para nuestras carreteras, porque las obras en España no siempre se señalan como en los manuales. El éxito del FSD aquí depende de:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-percepción-robusta-de-señalización-temporal">1) Percepción robusta de señalización temporal<a href="https://fsd.pepetox.es/robotaxi-obras-senalizacion-espana#1-percepci%C3%B3n-robusta-de-se%C3%B1alizaci%C3%B3n-temporal" class="hash-link" aria-label="Enlace directo al 1) Percepción robusta de señalización temporal" title="Enlace directo al 1) Percepción robusta de señalización temporal" translate="no">​</a></h3>
+<p>Conos, paneles móviles y líneas amarillas sobre blancas son el “ruido” típico en España. El modelo necesita distinguir lo temporal de lo permanente sin vacilar ni provocar frenazos.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-decisiones-sociales-aceptables">2) Decisiones sociales aceptables<a href="https://fsd.pepetox.es/robotaxi-obras-senalizacion-espana#2-decisiones-sociales-aceptables" class="hash-link" aria-label="Enlace directo al 2) Decisiones sociales aceptables" title="Enlace directo al 2) Decisiones sociales aceptables" translate="no">​</a></h3>
+<p>No basta con obedecer el código: hay que <strong>anticipar</strong> (por ejemplo, un cambio de carril tardío porque “todo el mundo se mete” 200 metros antes). El modelo debe ser conservador sin bloquear el flujo.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-validación-por-escenarios-no-por-kilómetros">3) Validación por escenarios, no por kilómetros<a href="https://fsd.pepetox.es/robotaxi-obras-senalizacion-espana#3-validaci%C3%B3n-por-escenarios-no-por-kil%C3%B3metros" class="hash-link" aria-label="Enlace directo al 3) Validación por escenarios, no por kilómetros" title="Enlace directo al 3) Validación por escenarios, no por kilómetros" translate="no">​</a></h3>
+<p>Europa no pide “muchos kilómetros”. Pide <strong>escenarios críticos</strong> que demuestren control en situaciones ambiguas. Aquí es donde el FSD debe ganar la confianza, no en autopistas perfectas.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs. realidad<a href="https://fsd.pepetox.es/robotaxi-obras-senalizacion-espana#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad" title="Enlace directo al Expectativa vs. realidad" translate="no">​</a></h2>
+<p><strong>Expectativa:</strong> “Si ya hay robotaxis sin monitor en Austin, Europa debería estar cerca.”</p>
+<p><strong>Realidad:</strong> Austin es un laboratorio urbano controlado; España es un mosaico de obras, señalización contradictoria y comportamientos culturales. La brecha no es solo legal: es <strong>operacional</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conectar-el-punto-con-la-comunidad-fsd-en-españa">Conectar el punto con la comunidad FSD en España<a href="https://fsd.pepetox.es/robotaxi-obras-senalizacion-espana#conectar-el-punto-con-la-comunidad-fsd-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Conectar el punto con la comunidad FSD en España" title="Enlace directo al Conectar el punto con la comunidad FSD en España" translate="no">​</a></h2>
+<p>Si quieres ver cómo otros escenarios europeos desafían al sistema, te recomiendo nuestro análisis sobre rotondas españolas, donde la ambigüedad manda: <a class="" href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana">El desafío de la rotonda para FSD en España</a>.</p>
+<p><strong>Takeaway:</strong> el robotaxi sin monitor es un hito real, pero el cuello de botella europeo está en la carretera de obras, no en el marketing. Si Tesla quiere convencer a Europa, debe demostrar que <strong>lee y respeta la señalización temporal</strong> con la misma solvencia que un conductor local.</p>
+<p>¿Has visto alguna “obra imposible” donde hoy ningún sistema aguantaría? Compártela y la analizamos.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/robotaxi-obras-senalizacion-espana#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class="">TechCrunch — “Tesla launches robotaxi rides in Austin with no human safety driver” (22 Jan 2026): <a href="https://techcrunch.com/2026/01/22/tesla-launches-robotaxi-rides-in-austin-with-no-human-safety-driver/" target="_blank" rel="noopener noreferrer" class="">https://techcrunch.com/2026/01/22/tesla-launches-robotaxi-rides-in-austin-with-no-human-safety-driver/</a></li>
+<li class="">The Verge — “Tesla is finally doing unsupervised robotaxi rides” (Jan 2026): <a href="https://www.theverge.com/transportation/866165/tesla-robotaxi-unsupervised-austin-texas-safety-monitor" target="_blank" rel="noopener noreferrer" class="">https://www.theverge.com/transportation/866165/tesla-robotaxi-unsupervised-austin-texas-safety-monitor</a></li>
+<li class="">Not a Tesla App — “2024.39.15 (FSD 13.2.1) Official Tesla Release Notes” (v13.2.1): <a href="https://www.notateslaapp.com/software-updates/version/2024.39.15/release-notes" target="_blank" rel="noopener noreferrer" class="">https://www.notateslaapp.com/software-updates/version/2024.39.15/release-notes</a></li>
+</ul>]]></content>
+        <author>
+            <name>The Autonomous Pilot</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="tesla" term="tesla"/>
+        <category label="ai" term="ai"/>
+        <category label="testing" term="testing"/>
+        <category label="europa" term="europa"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[La noche española no perdona: el reto invisible de FSD bajo faros, reflejos y lluvia]]></title>
         <id>https://fsd.pepetox.es/noche-reflejos-fsd-espana</id>
@@ -1080,452 +1125,5 @@ La nueva normativa que se está cocinando en Ginebra es "agnóstica" respecto a 
         <category label="europa" term="europa"/>
         <category label="normativa" term="normativa"/>
         <category label="v14" term="v14"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla Completa el Primer Viaje Coast-to-Coast con FSD Supervised Sin Intervenciones Humanas]]></title>
-        <id>https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones</id>
-        <link href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones"/>
-        <updated>2026-01-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tesla logra un hito histórico con el primer viaje de costa a costa en EE.UU. usando FSD Supervised sin ninguna intervención, mientras la versión v14.2.2.2 se despliega globalmente con mejoras en nieve y giros complejos.]]></summary>
-        <content type="html"><![CDATA[<p>Tesla ha alcanzado un <strong>hito histórico</strong> que marca un antes y después en la conducción autónoma: un viaje completo de costa a costa en Estados Unidos utilizando FSD Supervised <strong>sin una sola intervención humana</strong>. Este logro valida años de desarrollo y demuestra que el sistema ha alcanzado niveles de seguridad y fiabilidad sin precedentes. Mientras tanto, la versión <strong>FSD v14.2.2.2</strong> se despliega ampliamente con mejoras cruciales en manejo de nieve, giros desprotegidos y decisiones de carril, según reportan beta testers.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-hito-histórico-coast-to-coast-sin-tocar-el-volante">🚗 Hito Histórico: Coast-to-Coast Sin Tocar el Volante<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#-hito-hist%C3%B3rico-coast-to-coast-sin-tocar-el-volante" class="hash-link" aria-label="Enlace directo al 🚗 Hito Histórico: Coast-to-Coast Sin Tocar el Volante" title="Enlace directo al 🚗 Hito Histórico: Coast-to-Coast Sin Tocar el Volante" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-viaje-que-cambia-todo">El Viaje Que Cambia Todo<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#el-viaje-que-cambia-todo" class="hash-link" aria-label="Enlace directo al El Viaje Que Cambia Todo" title="Enlace directo al El Viaje Que Cambia Todo" translate="no">​</a></h3>
-<p>Por primera vez en la historia, un vehículo Tesla ha completado un viaje transcontinental de costa a costa en Estados Unidos <strong>sin ninguna intervención del conductor</strong>. Este logro no es simplemente una demostración técnica impresionante: es la <strong>validación definitiva</strong> de que FSD Supervised ha alcanzado un nivel de madurez que lo hace más fiable que nunca.</p>
-<p><strong>Detalles del viaje:</strong></p>
-<table><thead><tr><th>Métrica</th><th>Valor</th><th>Significado</th></tr></thead><tbody><tr><td><strong>Distancia total</strong></td><td>~3,000 millas (~4,800 km)</td><td>Costa Este a Costa Oeste</td></tr><tr><td><strong>Intervenciones humanas</strong></td><td>0</td><td>Cero toques al volante o pedales</td></tr><tr><td><strong>Versión FSD</strong></td><td>v14.2.2.2</td><td>Última generación</td></tr><tr><td><strong>Condiciones</strong></td><td>Variadas</td><td>Autopistas, ciudades, clima diverso</td></tr><tr><td><strong>Tiempo de viaje</strong></td><td>~45 horas</td><td>Incluyendo paradas de carga</td></tr></tbody></table>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>Validación Real</div><div class="admonitionContent_BuS1"><p>Este viaje no se realizó en condiciones controladas o rutas pre-mapeadas. El sistema navegó autopistas interestatales, carreteras secundarias, zonas urbanas y condiciones climáticas variables, exactamente como lo haría un conductor humano en un viaje real.</p></div></div>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-es-un-hito-tan-importante">¿Por Qué Es un Hito Tan Importante?<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#por-qu%C3%A9-es-un-hito-tan-importante" class="hash-link" aria-label="Enlace directo al ¿Por Qué Es un Hito Tan Importante?" title="Enlace directo al ¿Por Qué Es un Hito Tan Importante?" translate="no">​</a></h3>
-<p><strong>Reducción de Intervenciones Críticas:</strong>
-El viaje coast-to-coast demuestra que FSD ha alcanzado un punto donde las intervenciones críticas son prácticamente nulas en condiciones normales de conducción. Esto representa:</p>
-<ul>
-<li class=""><strong>Confiabilidad demostrada</strong>: Miles de millas sin errores críticos</li>
-<li class=""><strong>Capacidad de generalización</strong>: Manejo exitoso de escenarios diversos</li>
-<li class=""><strong>Seguridad validada</strong>: Operación continua sin incidentes</li>
-</ul>
-<p><strong>Datos de Seguridad Respaldados:</strong>
-Tesla ha enfatizado en sus reportes de seguridad que FSD está alcanzando niveles de conducción con <strong>mínima supervisión necesaria</strong>:</p>
-<ul>
-<li class="">Reducción de accidentes del <strong>60-70%</strong> comparado con conducción humana promedio</li>
-<li class="">Millas consecutivas sin intervención: <strong>6,000+</strong> (récords reportados)</li>
-<li class="">Cero accidentes en operaciones de 2025 en California (datos regulatorios)</li>
-</ul>
-<div class="theme-admonition theme-admonition-danger admonition_xJq3 alert alert--danger"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M5.05.31c.81 2.17.41 3.38-.52 4.31C3.55 5.67 1.98 6.45.9 7.98c-1.45 2.05-1.7 6.53 3.53 7.7-2.2-1.16-2.67-4.52-.3-6.61-.61 2.03.53 3.33 1.94 2.86 1.39-.47 2.3.53 2.27 1.67-.02.78-.31 1.44-1.13 1.81 3.42-.59 4.78-3.42 4.78-5.56 0-2.84-2.53-3.22-1.25-5.61-1.52.13-2.03 1.13-1.89 2.75.09 1.08-1.02 1.8-1.86 1.33-.67-.41-.66-1.19-.06-1.78C8.18 5.31 8.68 2.45 5.05.32L5.03.3l.02.01z"></path></svg></span>Contexto Importante</div><div class="admonitionContent_BuS1"><p>Estos datos incluyen desconexiones en los 5 segundos previos a eventos, y FSD se usa predominantemente en condiciones favorables. Sin embargo, la mejora estadística sigue siendo significativa y validada por múltiples fuentes independientes.</p></div></div>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-fsd-v14222-la-versión-que-cambia-todo">🔄 FSD v14.2.2.2: La Versión Que Cambia Todo<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#-fsd-v14222-la-versi%C3%B3n-que-cambia-todo" class="hash-link" aria-label="Enlace directo al 🔄 FSD v14.2.2.2: La Versión Que Cambia Todo" title="Enlace directo al 🔄 FSD v14.2.2.2: La Versión Que Cambia Todo" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="rollout-masivo-en-curso">Rollout Masivo en Curso<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#rollout-masivo-en-curso" class="hash-link" aria-label="Enlace directo al Rollout Masivo en Curso" title="Enlace directo al Rollout Masivo en Curso" translate="no">​</a></h3>
-<p>La versión <strong>v14.2.2.2</strong> se está desplegando ampliamente a vehículos equipados con hardware AI4 (HW4), trayendo mejoras sustanciales que los beta testers califican como "el mejor FSD hasta la fecha":</p>
-<p><strong>Mejoras Clave Reportadas:</strong></p>
-<table><thead><tr><th>Área de Mejora</th><th>Antes (v14.2)</th><th>Ahora (v14.2.2.2)</th><th>Impacto</th></tr></thead><tbody><tr><td><strong>Manejo en nieve</strong></td><td>Funcional</td><td>Excepcional</td><td>⬆️ Detección específica de nieve</td></tr><tr><td><strong>Giros desprotegidos</strong></td><td>Conservador</td><td>Asertivo y seguro</td><td>⬆️ +40% confianza</td></tr><tr><td><strong>Decisiones de carril</strong></td><td>Ocasionalmente indecisas</td><td>Precisas y fluidas</td><td>⬆️ Reducción de cambios innecesarios</td></tr><tr><td><strong>Perfiles de velocidad</strong></td><td>A veces abruptos</td><td>Suaves y naturales</td><td>⬆️ Conducción más humana</td></tr></tbody></table>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="rendimiento-en-nieve-un-caso-de-uso-crítico">Rendimiento en Nieve: Un Caso de Uso Crítico<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#rendimiento-en-nieve-un-caso-de-uso-cr%C3%ADtico" class="hash-link" aria-label="Enlace directo al Rendimiento en Nieve: Un Caso de Uso Crítico" title="Enlace directo al Rendimiento en Nieve: Un Caso de Uso Crítico" translate="no">​</a></h3>
-<p>Una de las mejoras más destacadas de v14.2.2.2 es su capacidad mejorada para manejar condiciones de nieve extrema:</p>
-<p><strong>Capacidades Demostradas:</strong></p>
-<ul>
-<li class="">✅ <strong>Detección específica de nieve</strong>: Diferencia entre lluvia y nieve, ajustando parámetros de tracción</li>
-<li class="">✅ <strong>Ajuste automático de velocidad</strong>: Reduce velocidad proactivamente al detectar nieve en carretera</li>
-<li class="">✅ <strong>Manejo de carriles ocultos</strong>: Usa GPS y contexto visual cuando las marcas están cubiertas</li>
-<li class="">✅ <strong>Frenado adaptativo</strong>: Aumenta distancias de seguridad en superficies resbaladizas</li>
-</ul>
-<p><strong>Video viral de beta tester:</strong>
-Un conductor de Uber compartió un video de <strong>43 minutos</strong> conduciendo en condiciones de nieve usando FSD v14.2.2.2 sin una sola intervención, navegando carreteras rurales y urbanas con confianza.</p>
-<blockquote>
-<p>"El sistema maneja la nieve mejor que yo. Detecta pérdida de tracción antes de que yo la sienta y ajusta suavemente. Es como tener un piloto de rally profesional." - Beta tester en X</p>
-</blockquote>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="giros-desprotegidos-más-confianza-menos-espera">Giros Desprotegidos: Más Confianza, Menos Espera<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#giros-desprotegidos-m%C3%A1s-confianza-menos-espera" class="hash-link" aria-label="Enlace directo al Giros Desprotegidos: Más Confianza, Menos Espera" title="Enlace directo al Giros Desprotegidos: Más Confianza, Menos Espera" translate="no">​</a></h3>
-<p>Los temidos giros desprotegidos (unprotected left turns) han sido históricamente un punto débil del FSD. La v14.2.2.2 muestra mejoras dramáticas:</p>
-<p><strong>Comportamiento Mejorado:</strong></p>
-<ul>
-<li class=""><strong>Evaluación de gaps</strong>: Identifica huecos en el tráfico con más precisión</li>
-<li class=""><strong>Ejecución decidida</strong>: Completa el giro sin vacilaciones innecesarias</li>
-<li class=""><strong>Tiempo de espera reducido</strong>: Ya no espera excesivamente cuando hay oportunidad segura</li>
-<li class=""><strong>Manejo de múltiples carriles</strong>: Navega intersecciones complejas con tráfico cruzado</li>
-</ul>
-<p>Videos compartidos por usuarios muestran giros que versiones anteriores habrían evitado o ejecutado con extrema cautela, ahora completados con la confianza de un conductor experimentado.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="decisiones-de-carril-y-perfiles-de-velocidad">Decisiones de Carril y Perfiles de Velocidad<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#decisiones-de-carril-y-perfiles-de-velocidad" class="hash-link" aria-label="Enlace directo al Decisiones de Carril y Perfiles de Velocidad" title="Enlace directo al Decisiones de Carril y Perfiles de Velocidad" translate="no">​</a></h3>
-<p><strong>Mejoras en Autopista:</strong></p>
-<ul>
-<li class=""><strong>Modo Hurry optimizado</strong>: Fluye con el tráfico real sin exceder límites peligrosamente</li>
-<li class=""><strong>Cambios de carril asertivos</strong>: Ya no duda innecesariamente al cambiar de carril</li>
-<li class=""><strong>Mantenimiento de carril suave</strong>: Correcciones micro en lugar de movimientos bruscos</li>
-<li class=""><strong>Adaptación a tráfico</strong>: Lee el comportamiento de conductores circundantes y ajusta</li>
-</ul>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>Experiencia de Usuario</div><div class="admonitionContent_BuS1"><p>Múltiples usuarios reportan que sus pasajeros ya no notan cuándo FSD está activo. La conducción se siente completamente natural, sin los movimientos robóticos característicos de versiones anteriores.</p></div></div>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-europa-avances-y-desafíos-regulatorios">🇪🇺 Europa: Avances y Desafíos Regulatorios<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#-europa-avances-y-desaf%C3%ADos-regulatorios" class="hash-link" aria-label="Enlace directo al 🇪🇺 Europa: Avances y Desafíos Regulatorios" title="Enlace directo al 🇪🇺 Europa: Avances y Desafíos Regulatorios" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="españa-liderando-el-testing-en-europa-del-sur">España: Liderando el Testing en Europa del Sur<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#espa%C3%B1a-liderando-el-testing-en-europa-del-sur" class="hash-link" aria-label="Enlace directo al España: Liderando el Testing en Europa del Sur" title="Enlace directo al España: Liderando el Testing en Europa del Sur" translate="no">​</a></h3>
-<p><strong>Estado Actual en España:</strong></p>
-<p>España mantiene su posición de liderazgo en el testing de FSD en Europa del Sur gracias al programa <strong>ES-AV</strong> aprobado en noviembre de 2025:</p>
-<table><thead><tr><th>Aspecto</th><th>Estado</th><th>Detalles</th></tr></thead><tbody><tr><td><strong>Autorización de pruebas</strong></td><td>✅ Activa</td><td>Válida hasta 2027</td></tr><tr><td><strong>Cobertura geográfica</strong></td><td>🌍 Nacional</td><td>Cualquier carretera pública</td></tr><tr><td><strong>Vehículos autorizados</strong></td><td>19 unidades</td><td>En expansión</td></tr><tr><td><strong>Marco legal</strong></td><td>✅ Vigente</td><td>Desde julio 2025</td></tr></tbody></table>
-<p><strong>Lo que esto significa:</strong>
-Tesla puede probar FSD en carreteras españolas bajo supervisión, acumulando datos y kilómetros que servirán para demostrar la seguridad del sistema ante reguladores europeos.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="retrasos-regulatorios-unece-el-obstáculo-persistente">Retrasos Regulatorios UNECE: El Obstáculo Persistente<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#retrasos-regulatorios-unece-el-obst%C3%A1culo-persistente" class="hash-link" aria-label="Enlace directo al Retrasos Regulatorios UNECE: El Obstáculo Persistente" title="Enlace directo al Retrasos Regulatorios UNECE: El Obstáculo Persistente" translate="no">​</a></h3>
-<p>A pesar del progreso técnico, <strong>las regulaciones UNECE</strong> (United Nations Economic Commission for Europe) siguen siendo el principal obstáculo para el despliegue de FSD en Europa:</p>
-<p><strong>Limitaciones Actuales:</strong></p>
-<ul>
-<li class=""><strong>UN Regulation 79</strong>: Restringe sistemas de asistencia de dirección</li>
-<li class=""><strong>UN Regulation 157</strong>: Define requisitos para conducción automatizada (solo nivel 3)</li>
-<li class=""><strong>Feature Ghetto</strong>: Propietarios europeos sin acceso a capacidades completas de FSD</li>
-</ul>
-<p><strong>El Problema:</strong>
-Las regulaciones UNECE fueron diseñadas antes de que existieran sistemas como FSD. Están escritas para vehículos con sistemas basados en mapas HD y sensores redundantes (LiDAR), no para sistemas de visión pura (vision-only) como Tesla.</p>
-<div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>Presión de la Industria</div><div class="admonitionContent_BuS1"><p>Se reporta resistencia activa de fabricantes tradicionales europeos para retrasar aprobaciones de FSD, a pesar de que los datos muestran reducción de accidentes del 60-70% en mercados donde opera.</p></div></div>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="países-bajos-la-ventana-de-esperanza-para-q1-2026">Países Bajos: La Ventana de Esperanza para Q1 2026<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#pa%C3%ADses-bajos-la-ventana-de-esperanza-para-q1-2026" class="hash-link" aria-label="Enlace directo al Países Bajos: La Ventana de Esperanza para Q1 2026" title="Enlace directo al Países Bajos: La Ventana de Esperanza para Q1 2026" translate="no">​</a></h3>
-<p>La agencia reguladora holandesa <strong>RDW (Rijksdienst voor het Wegverkeer)</strong> se perfila como el catalizador para la apertura de FSD en Europa:</p>
-<p><strong>Timeline Esperado:</strong></p>
-<table><thead><tr><th>Fecha</th><th>Hito</th><th>Probabilidad</th></tr></thead><tbody><tr><td><strong>Enero 2026</strong></td><td>Revisión de evidencia de seguridad</td><td>Alta</td></tr><tr><td><strong>Febrero 2026</strong></td><td>Posible aprobación para pruebas beta</td><td>Media-Alta</td></tr><tr><td><strong>Q1 2026</strong></td><td>Inicio de beta pública en Países Bajos</td><td>Media</td></tr><tr><td><strong>Q2-Q3 2026</strong></td><td>Extensión a otros mercados (España, Alemania, Francia)</td><td>Media</td></tr></tbody></table>
-<p><strong>Factores a favor:</strong></p>
-<ul>
-<li class="">✅ Tesla ha acumulado <strong>1+ millón de kilómetros</strong> en 17 países europeos</li>
-<li class="">✅ Datos de seguridad demuestran reducción del 50% en crashes globalmente</li>
-<li class="">✅ Framework UNECE WP.29 facilita armonización de estándares</li>
-<li class="">✅ Regulaciones R155/R156 ya aprueban actualizaciones OTA de Tesla</li>
-</ul>
-<p><strong>Factores en contra:</strong></p>
-<ul>
-<li class="">❌ Presión política de fabricantes tradicionales</li>
-<li class="">❌ Burocracia regulatoria europea</li>
-<li class="">❌ Diferencias en interpretación de regulaciones entre países</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="videos-de-pruebas-europeas-fsd-en-acción">Videos de Pruebas Europeas: FSD en Acción<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#videos-de-pruebas-europeas-fsd-en-acci%C3%B3n" class="hash-link" aria-label="Enlace directo al Videos de Pruebas Europeas: FSD en Acción" title="Enlace directo al Videos de Pruebas Europeas: FSD en Acción" translate="no">​</a></h3>
-<p><strong>Hamburgo, Alemania:</strong>
-Un video viral muestra FSD v14 navegando zonas de construcción <strong>sin datos de mapas actualizados</strong>. El sistema usa visión pura para:</p>
-<ul>
-<li class="">Interpretar señalización temporal</li>
-<li class="">Detectar desvíos provisionales</li>
-<li class="">Navegar carriles estrechos con tráfico en sentido contrario</li>
-</ul>
-<p><strong>Odense, Dinamarca:</strong>
-Footage compartido por beta testers muestra FSD cediendo paso a ciclistas con precisión milimétrica, un escenario crítico en ciudades europeas donde ciclistas tienen prioridad.</p>
-<p><strong>Munich, Alemania:</strong>
-Pruebas en calles del centro histórico demuestran manejo preciso en espacios estrechos típicos de ciudades europeas antiguas.</p>
-<p><strong>Implicaciones para España:</strong>
-Las carreteras españolas comparten muchas características con estos entornos:</p>
-<ul>
-<li class="">Calles estrechas en centros urbanos (Barcelona, Madrid, Sevilla)</li>
-<li class="">Tráfico mixto con ciclistas y peatones</li>
-<li class="">Construcciones frecuentes y desvíos temporales</li>
-<li class="">Rotondas complejas (especialmente comunes en España)</li>
-</ul>
-<p>Si FSD maneja Hamburgo y Munich, manejará Barcelona y Madrid sin problemas.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-china-expansión-a-hardware-legacy-y-competencia-local">🇨🇳 China: Expansión a Hardware Legacy y Competencia Local<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#-china-expansi%C3%B3n-a-hardware-legacy-y-competencia-local" class="hash-link" aria-label="Enlace directo al 🇨🇳 China: Expansión a Hardware Legacy y Competencia Local" title="Enlace directo al 🇨🇳 China: Expansión a Hardware Legacy y Competencia Local" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="rollout-de-fsd-v126-para-hw3-inclusión-de-vehículos-legacy">Rollout de FSD v12.6 para HW3: Inclusión de Vehículos Legacy<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#rollout-de-fsd-v126-para-hw3-inclusi%C3%B3n-de-veh%C3%ADculos-legacy" class="hash-link" aria-label="Enlace directo al Rollout de FSD v12.6 para HW3: Inclusión de Vehículos Legacy" title="Enlace directo al Rollout de FSD v12.6 para HW3: Inclusión de Vehículos Legacy" translate="no">​</a></h3>
-<p>Tesla ha iniciado el rollout de <strong>FSD v12.6 para vehículos con HW3</strong> (hardware de tercera generación) en China, comenzando con empleados:</p>
-<p><strong>Significado del Rollout:</strong></p>
-<ul>
-<li class=""><strong>Inclusión de flota legacy</strong>: Millones de Tesla con HW3 podrán acceder a FSD</li>
-<li class=""><strong>Validación de HW3</strong>: Demuestra que el hardware antiguo sigue siendo capaz</li>
-<li class=""><strong>Expansión masiva</strong>: China tiene la mayor concentración de Tesla HW3 del mundo</li>
-</ul>
-<p><strong>Cronología Esperada:</strong></p>
-<ol>
-<li class=""><strong>Diciembre 2025 - Enero 2026</strong>: Empleados con HW3 (en curso)</li>
-<li class=""><strong>Febrero 2026</strong>: Beta limitada a early adopters</li>
-<li class=""><strong>Q1-Q2 2026</strong>: Rollout general a propietarios chinos con HW3</li>
-</ol>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>Lección para Europa</div><div class="admonitionContent_BuS1"><p>Si China aprueba FSD para HW3, presiona a Europa a hacer lo mismo. Los reguladores europeos estarán bajo presión para no quedarse atrás del mercado chino.</p></div></div>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="byd-y-competidores-la-carrera-por-la-autonomía-en-china">BYD y Competidores: La Carrera por la Autonomía en China<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#byd-y-competidores-la-carrera-por-la-autonom%C3%ADa-en-china" class="hash-link" aria-label="Enlace directo al BYD y Competidores: La Carrera por la Autonomía en China" title="Enlace directo al BYD y Competidores: La Carrera por la Autonomía en China" translate="no">​</a></h3>
-<p>El mercado chino de conducción autónoma se está calentando, con <strong>BYD</strong> mostrando sistemas similares a FSD en pruebas públicas:</p>
-<p><strong>BYD ADAS en Desarrollo:</strong></p>
-<ul>
-<li class="">Sistemas basados en cámaras con capacidades similares a FSD</li>
-<li class="">Pruebas en ciudades chinas (Shenzhen, Beijing)</li>
-<li class="">Integración con infraestructura china (V2X, mapas locales)</li>
-</ul>
-<p><strong>Comparativa Reportada:</strong></p>
-<table><thead><tr><th>Métrica</th><th>Tesla FSD</th><th>BYD ADAS (Beta)</th></tr></thead><tbody><tr><td><strong>Millas por intervención</strong></td><td>6,000+</td><td>N/A (testing inicial)</td></tr><tr><td><strong>Cobertura geográfica</strong></td><td>Global</td><td>China</td></tr><tr><td><strong>Hardware requerido</strong></td><td>HW3/HW4</td><td>Propietario BYD</td></tr><tr><td><strong>Madurez del sistema</strong></td><td>Producción</td><td>Beta temprana</td></tr></tbody></table>
-<p><strong>Ventaja de Tesla:</strong>
-A pesar de la competencia local, Tesla mantiene liderazgo en millas acumuladas, intervenciones y experiencia en múltiples mercados. La flota de Tesla ha conducido <strong>miles de millones de millas</strong> en modo FSD, una ventaja de datos imposible de igualar a corto plazo.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="colaboración-con-baidu-mejoras-locales">Colaboración con Baidu: Mejoras Locales<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#colaboraci%C3%B3n-con-baidu-mejoras-locales" class="hash-link" aria-label="Enlace directo al Colaboración con Baidu: Mejoras Locales" title="Enlace directo al Colaboración con Baidu: Mejoras Locales" translate="no">​</a></h3>
-<p>Tesla está colaborando con <strong>Baidu</strong> para mejorar sistemas ADAS en China:</p>
-<p><strong>Áreas de Colaboración:</strong></p>
-<ul>
-<li class=""><strong>Mapas 3D</strong>: Integración de mapas de alta definición de Baidu</li>
-<li class=""><strong>Datos locales</strong>: Mejoras en navegación urbana china</li>
-<li class=""><strong>Infraestructura V2X</strong>: Comunicación vehículo-infraestructura</li>
-</ul>
-<p><strong>Actualización de Año Nuevo Chino:</strong>
-Se espera una actualización significativa durante el Año Nuevo Chino 2026 con:</p>
-<ul>
-<li class="">Mapas 3D mejorados para ciudades principales</li>
-<li class="">Mejor manejo de tráfico chino (estilo de conducción único)</li>
-<li class="">Integración con señalización local</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-seguridad-los-números-que-importan">📊 Seguridad: Los Números Que Importan<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#-seguridad-los-n%C3%BAmeros-que-importan" class="hash-link" aria-label="Enlace directo al 📊 Seguridad: Los Números Que Importan" title="Enlace directo al 📊 Seguridad: Los Números Que Importan" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="página-de-seguridad-de-tesla-transparencia-total">Página de Seguridad de Tesla: Transparencia Total<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#p%C3%A1gina-de-seguridad-de-tesla-transparencia-total" class="hash-link" aria-label="Enlace directo al Página de Seguridad de Tesla: Transparencia Total" title="Enlace directo al Página de Seguridad de Tesla: Transparencia Total" translate="no">​</a></h3>
-<p>Tesla ha lanzado (o actualizado) su <strong>página de seguridad dedicada</strong> que detalla métricas en tiempo real:</p>
-<p><strong>Métricas Disponibles:</strong></p>
-<ul>
-<li class=""><strong>Prevención de crashes</strong>: Contador de miles de evitaciones diarias</li>
-<li class=""><strong>Millas globales</strong>: Contador en vivo de millas acumuladas en FSD</li>
-<li class=""><strong>Comparativas</strong>: Datos vs. promedios nacionales de EE.UU.</li>
-</ul>
-<p><strong>Acceso:</strong> <a href="https://www.tesla.com/fsd/safety" target="_blank" rel="noopener noreferrer" class="">tesla.com/fsd/safety</a></p>
-<p>Esta transparencia es estratégica: <strong>acelera aprobaciones regulatorias</strong> demostrando con datos objetivos que FSD reduce accidentes.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="datos-de-seguridad-actualizados-q4-2025">Datos de Seguridad Actualizados (Q4 2025)<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#datos-de-seguridad-actualizados-q4-2025" class="hash-link" aria-label="Enlace directo al Datos de Seguridad Actualizados (Q4 2025)" title="Enlace directo al Datos de Seguridad Actualizados (Q4 2025)" translate="no">​</a></h3>
-<table><thead><tr><th>Modo de Conducción</th><th>Millas por Accidente</th><th>vs. Promedio Nacional</th></tr></thead><tbody><tr><td><strong>Con FSD Supervisado activo</strong></td><td>1 cada 6.8M millas</td><td>11.3x más seguro</td></tr><tr><td>Autopilot (sin FSD)</td><td>1 cada 5.2M millas</td><td>8.7x más seguro</td></tr><tr><td>Tesla sin Autopilot ni FSD</td><td>1 cada 1.6M millas</td><td>2.7x más seguro</td></tr><tr><td><strong>Promedio Nacional EE.UU.</strong></td><td>1 cada 600K millas</td><td>Baseline</td></tr></tbody></table>
-<p><strong>Interpretación:</strong></p>
-<ul>
-<li class="">FSD es <strong>~11 veces más seguro</strong> que el conductor promedio (según datos de Tesla)</li>
-<li class="">Incluso Tesla sin ninguna asistencia es <strong>2.7x más seguro</strong> (vehículos más seguros base)</li>
-<li class="">La diferencia entre FSD (6.8M) y Autopilot (5.2M) es <strong>+30% de mejora</strong></li>
-</ul>
-<div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>Contexto Necesario</div><div class="admonitionContent_BuS1"><ul>
-<li class="">Datos incluyen desconexiones en 5 segundos previos a accidentes</li>
-<li class="">FSD se usa predominantemente en autopistas y condiciones favorables</li>
-<li class="">Promedio nacional incluye conductores ebrios, distraídos, y todas las condiciones</li>
-</ul><p><strong>Conclusión:</strong> Aunque no es comparación perfecta, la mejora estadística es significativa y consistente.</p></div></div>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="intervenciones-críticas-mínimas-y-decrecientes">Intervenciones Críticas: Mínimas y Decrecientes<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#intervenciones-cr%C3%ADticas-m%C3%ADnimas-y-decrecientes" class="hash-link" aria-label="Enlace directo al Intervenciones Críticas: Mínimas y Decrecientes" title="Enlace directo al Intervenciones Críticas: Mínimas y Decrecientes" translate="no">​</a></h3>
-<p><strong>Reportes de Beta Testers (Diciembre 2025):</strong></p>
-<ul>
-<li class=""><strong>Récord individual</strong>: 6,000+ millas sin intervención crítica</li>
-<li class=""><strong>Promedio v14.2.2.2</strong>: ~400-800 millas por intervención crítica</li>
-<li class=""><strong>Mejora vs. v13</strong>: ~4-6x mejora en millas por intervención</li>
-</ul>
-<p><strong>Definición de "Intervención Crítica":</strong>
-Una intervención donde el sistema hubiera cometido un error que podría resultar en accidente o violación de tráfico seria sin la intervención del conductor.</p>
-<p><strong>Tipos de Intervenciones Residuales:</strong></p>
-<ol>
-<li class=""><strong>Giros en intersecciones complejas</strong>: Ocasionalmente demasiado conservador</li>
-<li class=""><strong>Construcciones no señalizadas</strong>: Requiere intervención en escenarios muy inusuales</li>
-<li class=""><strong>Gestos de policías/trabajadores</strong>: No reconoce señales manuales humanas</li>
-<li class=""><strong>Objetos inusuales en carretera</strong>: Animales grandes, escombros extraños</li>
-</ol>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-implicaciones-globales-el-futuro-se-acelera">🌍 Implicaciones Globales: El Futuro Se Acelera<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#-implicaciones-globales-el-futuro-se-acelera" class="hash-link" aria-label="Enlace directo al 🌍 Implicaciones Globales: El Futuro Se Acelera" title="Enlace directo al 🌍 Implicaciones Globales: El Futuro Se Acelera" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="timeline-consolidado-por-región">Timeline Consolidado por Región<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#timeline-consolidado-por-regi%C3%B3n" class="hash-link" aria-label="Enlace directo al Timeline Consolidado por Región" title="Enlace directo al Timeline Consolidado por Región" translate="no">​</a></h3>
-<p><strong>Estados Unidos:</strong></p>
-<ul>
-<li class="">✅ <strong>Ahora</strong>: FSD v14.2.2.2 en rollout masivo</li>
-<li class="">✅ <strong>Q1 2026</strong>: Posible aprobación de FSD Unsupervised en Texas/California</li>
-<li class="">🔄 <strong>Q2 2026</strong>: Lanzamiento de servicio Robotaxi en Austin</li>
-</ul>
-<p><strong>China:</strong></p>
-<ul>
-<li class="">✅ <strong>Ahora</strong>: Rollout HW3 a empleados iniciado</li>
-<li class="">🔄 <strong>Q1 2026</strong>: Beta pública esperada</li>
-<li class="">🔄 <strong>Q2 2026</strong>: Aprobación L3 "hands-off" esperada</li>
-</ul>
-<p><strong>Europa:</strong></p>
-<ul>
-<li class="">✅ <strong>Ahora</strong>: Testing activo en 17 países (incluyendo España)</li>
-<li class="">🔄 <strong>Febrero 2026</strong>: Posible aprobación en Países Bajos</li>
-<li class="">🔄 <strong>Q2-Q3 2026</strong>: Extensión a España, Alemania, Francia</li>
-</ul>
-<p><strong>España Específicamente:</strong></p>
-<ul>
-<li class="">✅ <strong>Ahora</strong>: Pruebas ES-AV activas hasta 2027</li>
-<li class="">🔄 <strong>Q2-Q3 2026</strong>: Posible beta pública (sujeto a UNECE)</li>
-<li class="">🔄 <strong>2027</strong>: Lanzamiento comercial FSD Supervisado (escenario optimista)</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-efecto-dominó-regulatorio">El Efecto Dominó Regulatorio<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#el-efecto-domin%C3%B3-regulatorio" class="hash-link" aria-label="Enlace directo al El Efecto Dominó Regulatorio" title="Enlace directo al El Efecto Dominó Regulatorio" translate="no">​</a></h3>
-<p><strong>Cómo la Aprobación en un País Acelera Otros:</strong></p>
-<ol>
-<li class=""><strong>Países Bajos aprueba</strong> → Presiona a otros países UE bajo framework UNECE</li>
-<li class=""><strong>China aprueba HW3</strong> → Valida seguridad del hardware, presiona a Europa</li>
-<li class=""><strong>Texas/California aprueba Unsupervised</strong> → Demuestra viabilidad de autonomía completa</li>
-</ol>
-<p><strong>España está en posición privilegiada:</strong></p>
-<ul>
-<li class="">Programa ES-AV activo acumula datos de seguridad locales</li>
-<li class="">Framework UNECE ya vigente desde julio 2025</li>
-<li class="">Vecindad con Francia (también en testing) facilita coordinación</li>
-<li class="">Gobierno español históricamente pro-innovación en movilidad</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-el-camino-hacia-fsd-unsupervised-sin-supervisión">🚀 El Camino hacia FSD Unsupervised (Sin Supervisión)<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#-el-camino-hacia-fsd-unsupervised-sin-supervisi%C3%B3n" class="hash-link" aria-label="Enlace directo al 🚀 El Camino hacia FSD Unsupervised (Sin Supervisión)" title="Enlace directo al 🚀 El Camino hacia FSD Unsupervised (Sin Supervisión)" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="austin-el-laboratorio-del-robotaxi">Austin: El Laboratorio del Robotaxi<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#austin-el-laboratorio-del-robotaxi" class="hash-link" aria-label="Enlace directo al Austin: El Laboratorio del Robotaxi" title="Enlace directo al Austin: El Laboratorio del Robotaxi" translate="no">​</a></h3>
-<p>Tesla está probando <strong>Robotaxis sin conductor de seguridad</strong> en Austin, Texas:</p>
-<p><strong>Estado del Programa:</strong></p>
-<ul>
-<li class="">Model Y equipados con HW4 y FSD v14+</li>
-<li class="">Sin conductor en el asiento delantero (solo supervisión remota)</li>
-<li class="">Empleados de Tesla como usuarios internos</li>
-<li class="">Rutas urbanas reales (no controladas)</li>
-</ul>
-<p><strong>Hitos Logrados (reportados en medios):</strong></p>
-<ul>
-<li class="">✅ 1 millón de millas diarias acumuladas por la flota FSD</li>
-<li class="">✅ Cero accidentes en operaciones reguladas 2025 (California)</li>
-<li class="">✅ Videos virales de robotaxis circulando vacíos</li>
-</ul>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>Validación Final</div><div class="admonitionContent_BuS1"><p>Los robotaxis operando sin conductor son la <strong>prueba definitiva</strong> de que FSD ha alcanzado madurez. Si el sistema puede conducir sin nadie en el vehículo, puede conducir con supervisión mínima con ocupantes.</p></div></div>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-falta-para-unsupervised-en-mercados-masivos">Qué Falta para Unsupervised en Mercados Masivos<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#qu%C3%A9-falta-para-unsupervised-en-mercados-masivos" class="hash-link" aria-label="Enlace directo al Qué Falta para Unsupervised en Mercados Masivos" title="Enlace directo al Qué Falta para Unsupervised en Mercados Masivos" translate="no">​</a></h3>
-<p><strong>Obstáculos Técnicos Restantes:</strong></p>
-<ol>
-<li class="">✅ <strong>Conducción urbana confiable</strong>: Resuelto en v14+</li>
-<li class="">✅ <strong>Park-to-park autónomo</strong>: Funcional en v13.2+</li>
-<li class="">🔄 <strong>Manejo de casos edge extremos</strong>: 95% resuelto, 5% restante crítico</li>
-<li class="">🔄 <strong>Redundancia de sistemas</strong>: Mejoras en curso (frenos, dirección, energía)</li>
-</ol>
-<p><strong>Obstáculos Regulatorios:</strong></p>
-<ul>
-<li class=""><strong>Estados Unidos</strong>: Aprobación estatal (Texas y California más cercanos)</li>
-<li class=""><strong>Europa</strong>: UNECE debe aprobar nivel 3+ (en discusión)</li>
-<li class=""><strong>China</strong>: Aprobación L3 esperada Q1-Q2 2026</li>
-<li class=""><strong>Seguros</strong>: Frameworks de responsabilidad aún indefinidos en muchos países</li>
-</ul>
-<p><strong>Timeline Realista:</strong></p>
-<table><thead><tr><th>Región</th><th>Unsupervised Esperado</th><th>Confianza</th></tr></thead><tbody><tr><td><strong>Austin, TX</strong></td><td>Q1-Q2 2026</td><td>Alta</td></tr><tr><td><strong>California</strong></td><td>Q2-Q3 2026</td><td>Media</td></tr><tr><td><strong>China (ciudades piloto)</strong></td><td>Q3-Q4 2026</td><td>Media</td></tr><tr><td><strong>Europa (Países Bajos)</strong></td><td>2027</td><td>Media-Baja</td></tr><tr><td><strong>España</strong></td><td>2027-2028</td><td>Media-Baja</td></tr></tbody></table>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-casos-de-uso-videos-virales-que-demuestran-capacidad">📝 Casos de Uso: Videos Virales Que Demuestran Capacidad<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#-casos-de-uso-videos-virales-que-demuestran-capacidad" class="hash-link" aria-label="Enlace directo al 📝 Casos de Uso: Videos Virales Que Demuestran Capacidad" title="Enlace directo al 📝 Casos de Uso: Videos Virales Que Demuestran Capacidad" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="video-de-uber-con-fsd-v14222-43-minutos">Video de Uber con FSD v14.2.2.2 (43 minutos)<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#video-de-uber-con-fsd-v14222-43-minutos" class="hash-link" aria-label="Enlace directo al Video de Uber con FSD v14.2.2.2 (43 minutos)" title="Enlace directo al Video de Uber con FSD v14.2.2.2 (43 minutos)" translate="no">​</a></h3>
-<p>Un conductor de Uber compartió un video completo de <strong>43 minutos</strong> conduciendo pasajeros usando FSD v14.2.2.2:</p>
-<p><strong>Escenarios en el video:</strong></p>
-<ul>
-<li class="">✅ Recogidas en zonas urbanas congestionadas</li>
-<li class="">✅ Navegación en rush hour</li>
-<li class="">✅ Giros complejos en intersecciones sin señal</li>
-<li class="">✅ Manejo de peatones cruzando inesperadamente</li>
-<li class="">✅ Estacionamiento en destinos finales</li>
-</ul>
-<p><strong>Resultado:</strong> Cero intervenciones críticas. Los pasajeros no notaron que FSD estaba activo.</p>
-<blockquote>
-<p>"Varios pasajeros me preguntaron si yo había conducido siempre así de suave. No sabían que el coche se conducía solo." - Conductor de Uber en X</p>
-</blockquote>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="video-en-nieve-new-hampshire">Video en Nieve (New Hampshire)<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#video-en-nieve-new-hampshire" class="hash-link" aria-label="Enlace directo al Video en Nieve (New Hampshire)" title="Enlace directo al Video en Nieve (New Hampshire)" translate="no">​</a></h3>
-<p>Video de carreteras rurales sin plomar en New Hampshire durante nevada activa:</p>
-<p><strong>Condiciones:</strong></p>
-<ul>
-<li class="">Nieve acumulada sin marcar carriles</li>
-<li class="">Visibilidad reducida</li>
-<li class="">Superficies irregulares sin tratamiento</li>
-<li class="">Velocidades bajas (15-35 mph)</li>
-</ul>
-<p><strong>Rendimiento FSD:</strong></p>
-<ul>
-<li class="">✅ Mantuvo vehículo centrado sin marcas visibles</li>
-<li class="">✅ Ajustó velocidad automáticamente</li>
-<li class="">✅ Navegó curvas con inputs deliberados</li>
-<li class="">✅ Demostró cautela extra apropiada</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="video-de-giro-desprotegido-intersección-compleja">Video de Giro Desprotegido (Intersección Compleja)<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#video-de-giro-desprotegido-intersecci%C3%B3n-compleja" class="hash-link" aria-label="Enlace directo al Video de Giro Desprotegido (Intersección Compleja)" title="Enlace directo al Video de Giro Desprotegido (Intersección Compleja)" translate="no">​</a></h3>
-<p>Un beta tester compartió video de FSD ejecutando un giro desprotegido a la izquierda en una intersección de 6 carriles con tráfico intenso:</p>
-<p><strong>Análisis del video:</strong></p>
-<ol>
-<li class="">FSD esperó en posición correcta</li>
-<li class="">Identificó gap seguro en tráfico</li>
-<li class="">Ejecutó giro decisivo sin vacilación</li>
-<li class="">Se insertó en carril correcto sin ajustes</li>
-</ol>
-<p><strong>Comentario del usuario:</strong></p>
-<blockquote>
-<p>"Versiones anteriores habrían esperado eternamente. v14.2.2.2 lo hizo mejor que yo."</p>
-</blockquote>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-análisis-técnico-qué-hace-posible-este-progreso">🔍 Análisis Técnico: ¿Qué Hace Posible Este Progreso?<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#-an%C3%A1lisis-t%C3%A9cnico-qu%C3%A9-hace-posible-este-progreso" class="hash-link" aria-label="Enlace directo al 🔍 Análisis Técnico: ¿Qué Hace Posible Este Progreso?" title="Enlace directo al 🔍 Análisis Técnico: ¿Qué Hace Posible Este Progreso?" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="arquitectura-end-to-end-de-v14">Arquitectura End-to-End de v14<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#arquitectura-end-to-end-de-v14" class="hash-link" aria-label="Enlace directo al Arquitectura End-to-End de v14" title="Enlace directo al Arquitectura End-to-End de v14" translate="no">​</a></h3>
-<p>La versión 14 representa una <strong>reescritura completa</strong> del stack de FSD:</p>
-<p><strong>Antes (v12-v13):</strong></p>
-<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">Cámaras → Percepción (múltiples NNs) → Planificación (heurísticas) → Control (híbrido)</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">         [Detección de objetos]      [Rutas, decisiones]         [Volante, pedales]</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">         [Múltiples modelos]          [Código + NN]               [Código + NN]</span><br></span></code></pre></div></div>
-<p><strong>Ahora (v14+):</strong></p>
-<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">Cámaras → Red Neuronal End-to-End Unificada → Control Directo</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">         [Single unified model]                  [Outputs directos]</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">         [Aprende de extremo a extremo]          [Volante + pedales]</span><br></span></code></pre></div></div>
-<p><strong>Ventajas Observables:</strong></p>
-<ul>
-<li class="">⚡ <strong>Latencia reducida</strong>: ~40% menos tiempo de reacción</li>
-<li class="">🧠 <strong>Comportamiento más humano</strong>: Aprende patrones completos, no pasos</li>
-<li class="">📈 <strong>Mejora continua</strong>: Un modelo unificado se optimiza globalmente</li>
-<li class="">💾 <strong>Eficiencia de hardware</strong>: Mismo HW3, mejor rendimiento</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="mejoras-en-encoder-visual-hw4">Mejoras en Encoder Visual (HW4)<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#mejoras-en-encoder-visual-hw4" class="hash-link" aria-label="Enlace directo al Mejoras en Encoder Visual (HW4)" title="Enlace directo al Mejoras en Encoder Visual (HW4)" translate="no">​</a></h3>
-<p>Los vehículos con <strong>HW4</strong> se benefician de mejoras adicionales:</p>
-<p><strong>Encoder de Red Neuronal de Mayor Resolución:</strong></p>
-<ul>
-<li class=""><strong>Input</strong>: 1280x960 píxeles (cámaras Tesla)</li>
-<li class=""><strong>Procesamiento</strong>: Multi-resolución (features de alta y baja)</li>
-<li class=""><strong>Output</strong>: Representación de escena de alta fidelidad</li>
-</ul>
-<p><strong>Ventajas Prácticas:</strong></p>
-<ul>
-<li class="">Mejor detección de señales a distancia</li>
-<li class="">Identificación mejorada de bordes de carretera</li>
-<li class="">Detección de objetos pequeños (hielo, baches) a mayor distancia</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="freno-de-emergencia-automático-aeb-mejorado">Freno de Emergencia Automático (AEB) Mejorado<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#freno-de-emergencia-autom%C3%A1tico-aeb-mejorado" class="hash-link" aria-label="Enlace directo al Freno de Emergencia Automático (AEB) Mejorado" title="Enlace directo al Freno de Emergencia Automático (AEB) Mejorado" translate="no">​</a></h3>
-<p><strong>Capacidades Expandidas en v14.2:</strong></p>
-<table><thead><tr><th>Característica</th><th>Antes</th><th>Ahora (v14.2+)</th></tr></thead><tbody><tr><td><strong>Rango de velocidad</strong></td><td>5-80 mph</td><td>3-124 mph</td></tr><tr><td><strong>Dirección</strong></td><td>Solo adelante</td><td>Adelante Y atrás</td></tr><tr><td><strong>Detección perpendicular</strong></td><td>Limitada</td><td>Completa</td></tr><tr><td><strong>Objetos ocluidos</strong></td><td>No</td><td>Sí (predicción)</td></tr></tbody></table>
-<p><strong>Ejemplo en Acción:</strong></p>
-<ol>
-<li class="">Vehículo delante frena súbitamente</li>
-<li class="">FSD detecta desaceleración en menos de 50ms</li>
-<li class="">Predice trayectoria considerando superficie</li>
-<li class="">Aplica frenos con fuerza óptima sin bloquear</li>
-<li class="">Evalúa si evasión lateral es más segura</li>
-</ol>
-<p>Todo en <strong>menos de 100 milisegundos</strong>.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="shadow-mode-aprendizaje-continuo">Shadow Mode: Aprendizaje Continuo<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#shadow-mode-aprendizaje-continuo" class="hash-link" aria-label="Enlace directo al Shadow Mode: Aprendizaje Continuo" title="Enlace directo al Shadow Mode: Aprendizaje Continuo" translate="no">​</a></h3>
-<p><strong>"Emergency Collision Avoidance Maneuvering"</strong> opera en shadow mode:</p>
-<p><strong>Cómo Funciona:</strong></p>
-<ol>
-<li class="">FSD detecta situación potencialmente peligrosa</li>
-<li class="">Calcula múltiples trayectorias de evasión (en paralelo)</li>
-<li class="">Si peligro se materializa → ejecuta trayectoria óptima</li>
-<li class="">Si peligro NO se materializa → guarda escenario para entrenamiento</li>
-</ol>
-<p><strong>Resultado:</strong>
-FSD está <strong>constantemente preparado</strong> para maniobrar, incluso cuando parece conducción normal. Esto explica las "salvadas" reportadas donde el sistema reacciona antes que el conductor.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-conclusión-el-futuro-autónomo-ya-ha-llegado">🎯 Conclusión: El Futuro Autónomo Ya Ha Llegado<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#-conclusi%C3%B3n-el-futuro-aut%C3%B3nomo-ya-ha-llegado" class="hash-link" aria-label="Enlace directo al 🎯 Conclusión: El Futuro Autónomo Ya Ha Llegado" title="Enlace directo al 🎯 Conclusión: El Futuro Autónomo Ya Ha Llegado" translate="no">​</a></h2>
-<p>El viaje coast-to-coast sin intervenciones no es un truco publicitario ni una demostración en condiciones ideales. Es la <strong>validación empírica</strong> de que FSD Supervised ha alcanzado un nivel de madurez y fiabilidad que supera las expectativas más optimistas.</p>
-<p><strong>Los Números Hablan:</strong></p>
-<ul>
-<li class="">✅ <strong>3,000 millas sin intervención</strong>: Fiabilidad demostrada</li>
-<li class="">✅ <strong>6,000+ millas por intervención crítica</strong>: Récords individuales</li>
-<li class="">✅ <strong>60-70% reducción de accidentes</strong>: Seguridad validada</li>
-<li class="">✅ <strong>1 millón de millas diarias</strong>: Escala masiva de operación</li>
-</ul>
-<p><strong>Europa Está Más Cerca Que Nunca:</strong></p>
-<p>La votación UNECE, las pruebas en 17 países (incluyendo España), y la posible aprobación en Países Bajos para Q1 2026 señalan que el despliegue europeo es cuestión de <strong>meses, no años</strong>.</p>
-<p><strong>España Está Lista:</strong></p>
-<p>Con el programa ES-AV activo hasta 2027, datos de seguridad acumulándose, y el framework legal vigente desde julio 2025, España está posicionada para ser uno de los <strong>primeros mercados europeos</strong> en recibir FSD Supervisado.</p>
-<p><strong>La Tecnología Está Madura:</strong></p>
-<p>El manejo en nieve extrema, giros desprotegidos confiados, y videos de 43 minutos sin intervenciones demuestran que los desafíos restantes son <strong>regulatorios, no técnicos</strong>.</p>
-<p><strong>La Pregunta Ya No Es "¿Funcionará?"</strong></p>
-<p>La pregunta es: <strong>"¿Cuándo podremos usarlo?"</strong></p>
-<p>Basado en la evidencia actual:</p>
-<ul>
-<li class=""><strong>EE.UU. (Unsupervised)</strong>: Q1-Q2 2026</li>
-<li class=""><strong>China (Supervised)</strong>: Q1-Q2 2026</li>
-<li class=""><strong>Europa (Supervised)</strong>: Q2-Q3 2026</li>
-<li class=""><strong>España (Supervised)</strong>: Q3 2026 - Q1 2027</li>
-</ul>
-<p>El futuro autónomo que Tesla prometió hace años <strong>ya está aquí</strong>. Solo esperamos que los reguladores lo reconozcan.</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-fuentes-y-enlaces">📚 Fuentes y Enlaces<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#-fuentes-y-enlaces" class="hash-link" aria-label="Enlace directo al 📚 Fuentes y Enlaces" title="Enlace directo al 📚 Fuentes y Enlaces" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="hito-coast-to-coast">Hito Coast-to-Coast<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#hito-coast-to-coast" class="hash-link" aria-label="Enlace directo al Hito Coast-to-Coast" title="Enlace directo al Hito Coast-to-Coast" translate="no">​</a></h3>
-<ul>
-<li class=""><a href="https://www.teslarati.com/tesla-fsd-successfully-completes-full-coast-to-coast-drive-with-zero-interventions/" target="_blank" rel="noopener noreferrer" class="">Teslarati - Tesla FSD Successfully Completes Full Coast-to-Coast Drive</a></li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fsd-v14222-rollout-y-mejoras">FSD v14.2.2.2 Rollout y Mejoras<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#fsd-v14222-rollout-y-mejoras" class="hash-link" aria-label="Enlace directo al FSD v14.2.2.2 Rollout y Mejoras" title="Enlace directo al FSD v14.2.2.2 Rollout y Mejoras" translate="no">​</a></h3>
-<ul>
-<li class=""><a href="https://www.teslascope.com/" target="_blank" rel="noopener noreferrer" class="">Teslascope - Tracker de Despliegue FSD</a></li>
-<li class=""><a href="https://www.notateslaapp.com/news/2598/tesla-starts-rolling-out-hw3-support-for-fsd-to-chinese-employees" target="_blank" rel="noopener noreferrer" class="">Not a Tesla App - Tesla Starts Rolling Out HW3 Support for FSD to Chinese Employees</a></li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="europa-y-regulación">Europa y Regulación<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#europa-y-regulaci%C3%B3n" class="hash-link" aria-label="Enlace directo al Europa y Regulación" title="Enlace directo al Europa y Regulación" translate="no">​</a></h3>
-<ul>
-<li class=""><a href="https://fsdtracker.eu/" target="_blank" rel="noopener noreferrer" class="">FSD Tracker EU - Estado de Aprobaciones por País</a></li>
-<li class=""><a href="https://www.notateslaapp.com/news/2586/un" target="_blank" rel="noopener noreferrer" class="">Not a Tesla App - Retrasos Regulatorios en Europa</a></li>
-<li class=""><a href="https://driveteslacanada.ca/news/tesla-secures-approval-for-fsd-testing-in-spain/" target="_blank" rel="noopener noreferrer" class="">Drive Tesla Canada - Tesla Secures Approval for FSD Testing in Spain</a></li>
-<li class=""><a href="https://x.com/TeslaNewswire/status/1994470602963358041" target="_blank" rel="noopener noreferrer" class="">Tesla Newswire X - Aprobación España</a></li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="seguridad-y-datos">Seguridad y Datos<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#seguridad-y-datos" class="hash-link" aria-label="Enlace directo al Seguridad y Datos" title="Enlace directo al Seguridad y Datos" translate="no">​</a></h3>
-<ul>
-<li class=""><a href="https://www.tesla.com/fsd/safety" target="_blank" rel="noopener noreferrer" class="">Tesla FSD Safety - Página Oficial de Seguridad</a></li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="videos-virales-y-casos-de-uso">Videos Virales y Casos de Uso<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#videos-virales-y-casos-de-uso" class="hash-link" aria-label="Enlace directo al Videos Virales y Casos de Uso" title="Enlace directo al Videos Virales y Casos de Uso" translate="no">​</a></h3>
-<ul>
-<li class=""><a href="https://x.com/01Ananto/status/2006590604621336703" target="_blank" rel="noopener noreferrer" class="">Video Uber 43 minutos - @01Ananto en X</a></li>
-<li class=""><a href="https://x.com/TesCalendar1/status/2006849185371607374" target="_blank" rel="noopener noreferrer" class="">Video FSD en nieve - @TesCalendar1 en X</a></li>
-<li class=""><a href="https://x.com/BStarr119/status/2006793796823228877" target="_blank" rel="noopener noreferrer" class="">Video giro desprotegido - @BStarr119 en X</a></li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="competencia-china">Competencia China<a href="https://fsd.pepetox.es/tesla-fsd-viaje-coast-to-coast-sin-intervenciones#competencia-china" class="hash-link" aria-label="Enlace directo al Competencia China" title="Enlace directo al Competencia China" translate="no">​</a></h3>
-<ul>
-<li class=""><a href="https://x.com/ChinaEV_Eng_Lif/status/2006710125860630815" target="_blank" rel="noopener noreferrer" class="">Hilo BYD ADAS - @ChinaEV_Eng_Lif en X</a></li>
-</ul>
-<hr>
-<p><em>¿Estás esperando el lanzamiento de FSD en España? ¿Qué te parece el hito del viaje coast-to-coast? ¿Crees que los reguladores europeos aprobarán FSD en 2026? Comparte tu opinión en los comentarios.</em></p>]]></content>
-        <author>
-            <name>FSD Spain</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="fsd" term="fsd"/>
-        <category label="v14" term="v14"/>
-        <category label="coast-to-coast" term="coast-to-coast"/>
-        <category label="seguridad" term="seguridad"/>
-        <category label="europa" term="europa"/>
-        <category label="españa" term="españa"/>
-        <category label="china" term="china"/>
-        <category label="hito" term="hito"/>
     </entry>
 </feed>
