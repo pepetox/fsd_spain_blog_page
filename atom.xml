@@ -2,11 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fsd.pepetox.es</id>
     <title>FSD Spain Blog</title>
-    <updated>2026-01-28T00:00:00.000Z</updated>
+    <updated>2026-01-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fsd.pepetox.es"/>
     <subtitle>FSD Spain Blog</subtitle>
     <icon>https://fsd.pepetox.es/img/fsdspain.png</icon>
+    <entry>
+        <title type="html"><![CDATA[El cuello de botella europeo: FSD en carreteras secundarias españolas]]></title>
+        <id>https://fsd.pepetox.es/fsd-carreteras-secundarias-espana</id>
+        <link href="https://fsd.pepetox.es/fsd-carreteras-secundarias-espana"/>
+        <updated>2026-01-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Las autopistas son el escaparate, pero Europa evaluará el FSD en la España real: carreteras secundarias, señalización irregular y límites cambiantes.]]></summary>
+        <content type="html"><![CDATA[<p>Son las 18:07 en una comarcal de Soria. Dos carriles, arcén estrecho, una señal de 60 medio doblada por el viento y un tractor que asoma tras una curva ciega. Para un conductor local, todo es “lectura del terreno”. Para una red end‑to‑end, es el examen de <strong>generalización más duro de Europa</strong>.</p>
+<p>En el debate sobre FSD solemos mirar autopistas y ciudades grandes. Pero si queremos hablar de seguridad real en España, el foco tiene que moverse. <strong>La mayoría de fallecidos en 2024 se produjeron en carreteras convencionales</strong>, no en vías de alta capacidad. Y ese dato cambia por completo qué debe demostrar un sistema como FSD para ganarse la confianza europea.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-las-carreteras-secundarias-son-el-filtro-de-verdad">Por qué las carreteras secundarias son el filtro de verdad<a href="https://fsd.pepetox.es/fsd-carreteras-secundarias-espana#por-qu%C3%A9-las-carreteras-secundarias-son-el-filtro-de-verdad" class="hash-link" aria-label="Enlace directo al Por qué las carreteras secundarias son el filtro de verdad" title="Enlace directo al Por qué las carreteras secundarias son el filtro de verdad" translate="no">​</a></h2>
+<p>España no es solo la M‑30 o la A‑6. El mapa real está lleno de tramos con:</p>
+<ul>
+<li class="">señalización vertical envejecida o parcialmente oculta,</li>
+<li class="">marcas viales gastadas que desaparecen con la lluvia,</li>
+<li class="">curvas con visibilidad limitada y cambios de rasante,</li>
+<li class="">vehículos agrícolas, ciclistas y tráfico heterogéneo.</li>
+</ul>
+<p>Este es el terreno donde los accidentes graves son más frecuentes. La DGT lo subraya cada año: la siniestralidad se concentra en carreteras convencionales. Y a escala europea, <strong>las carreteras rurales siguen concentrando más de la mitad de los fallecidos</strong>. Si FSD quiere “ser seguridad”, debe brillar aquí, no solo en avenidas perfectas.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-una-red-endtoend-necesita-para-sobrevivir-a-la-españa-real">Lo que una red end‑to‑end necesita para sobrevivir a la España real<a href="https://fsd.pepetox.es/fsd-carreteras-secundarias-espana#lo-que-una-red-endtoend-necesita-para-sobrevivir-a-la-espa%C3%B1a-real" class="hash-link" aria-label="Enlace directo al Lo que una red end‑to‑end necesita para sobrevivir a la España real" title="Enlace directo al Lo que una red end‑to‑end necesita para sobrevivir a la España real" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-percepción-robusta-sin-marcas-ideales">1) Percepción robusta sin “marcas ideales”<a href="https://fsd.pepetox.es/fsd-carreteras-secundarias-espana#1-percepci%C3%B3n-robusta-sin-marcas-ideales" class="hash-link" aria-label="Enlace directo al 1) Percepción robusta sin “marcas ideales”" title="Enlace directo al 1) Percepción robusta sin “marcas ideales”" translate="no">​</a></h3>
+<p>El modelo debe inferir la geometría de la vía cuando las líneas son fantasma. Eso obliga a <strong>fusionar señales débiles</strong>: bordes de asfalto, textura del arcén, comportamiento del tráfico que viene de frente y contexto topográfico.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-anticipación-social-en-entornos-mixtos">2) Anticipación social en entornos mixtos<a href="https://fsd.pepetox.es/fsd-carreteras-secundarias-espana#2-anticipaci%C3%B3n-social-en-entornos-mixtos" class="hash-link" aria-label="Enlace directo al 2) Anticipación social en entornos mixtos" title="Enlace directo al 2) Anticipación social en entornos mixtos" translate="no">​</a></h3>
+<p>En secundaria, los ciclos de decisión son más humanos que normativos: el tractor invade ligeramente el carril, el coche contrario “corta” la curva, el ciclista ocupa más espacio. El sistema no puede reaccionar tarde; necesita <strong>anticipar intenciones</strong> con baja visibilidad.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-gestión-honesta-del-riesgo">3) Gestión honesta del riesgo<a href="https://fsd.pepetox.es/fsd-carreteras-secundarias-espana#3-gesti%C3%B3n-honesta-del-riesgo" class="hash-link" aria-label="Enlace directo al 3) Gestión honesta del riesgo" title="Enlace directo al 3) Gestión honesta del riesgo" translate="no">​</a></h3>
+<p>Europa regula sistemas <strong>supervisados</strong>. Eso implica una verdad incómoda: el FSD debe saber cuándo <strong>no</strong> está seguro y pedir ayuda al conductor con claridad. En secundaria, esos momentos son más frecuentes y más críticos.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs. realidad<a href="https://fsd.pepetox.es/fsd-carreteras-secundarias-espana#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad" title="Enlace directo al Expectativa vs. realidad" translate="no">​</a></h2>
+<p><strong>Expectativa:</strong> “Si el FSD funciona en ciudad, funcionará en cualquier carretera.”</p>
+<p><strong>Realidad:</strong> la ciudad tiene carriles pintados, semáforos y reglas repetibles. La carretera secundaria tiene incertidumbre, señales degradadas y un repertorio infinito de “excepciones normales”. El salto de complejidad no es incremental, es cualitativo.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-debería-demostrar-tesla-en-europa">Qué debería demostrar Tesla en Europa<a href="https://fsd.pepetox.es/fsd-carreteras-secundarias-espana#qu%C3%A9-deber%C3%ADa-demostrar-tesla-en-europa" class="hash-link" aria-label="Enlace directo al Qué debería demostrar Tesla en Europa" title="Enlace directo al Qué debería demostrar Tesla en Europa" translate="no">​</a></h2>
+<p>Para convencer a reguladores y usuarios, la evidencia tendría que incluir:</p>
+<ul>
+<li class=""><strong>Escenarios reproducibles en secundaria</strong> (curvas ciegas, adelantamientos de agrícolas, señalización deteriorada).</li>
+<li class=""><strong>Métricas de seguridad transparentes</strong> en vías convencionales, no solo en autopistas.</li>
+<li class=""><strong>Capacidad de degradación segura</strong>: frenar, ceder y pedir control humano cuando la incertidumbre supera el umbral.</li>
+</ul>
+<p>Este enfoque conecta con el marco europeo actual: la UE está elevando el listón de seguridad y transparencia en sistemas de IA aplicados a productos regulados. El mensaje es claro: <strong>no basta con conducir, hay que demostrar fiabilidad verificable</strong>.</p>
+<p>Para un análisis complementario sobre cómo la ambigüedad cambia el juego, puedes leer nuestro artículo sobre el reto de las rotondas en España: <a class="" href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana">El desafío de la rotonda para FSD en España</a>.</p>
+<p><strong>Takeaway:</strong> en Europa, la autopista es marketing. La carretera secundaria es el juicio real. Si Tesla quiere acelerar la confianza, tiene que demostrar que su red entiende la España que no sale en los vídeos.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-carreteras-secundarias-espana#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class="">DGT — Balance de siniestralidad 2024 y desplazamientos: <a href="https://www.dgt.es/comunicacion/notas-de-prensa/20250110-2024-record-historico-desplazamientos-en-carretera-mientras-se-estabiliza-el-numero-de-fallecidos-en-siniestros-de-trafico/" target="_blank" rel="noopener noreferrer" class="">https://www.dgt.es/comunicacion/notas-de-prensa/20250110-2024-record-historico-desplazamientos-en-carretera-mientras-se-estabiliza-el-numero-de-fallecidos-en-siniestros-de-trafico/</a></li>
+<li class="">Comisión Europea — Road Safety: estadísticas 2024 y distribución por tipo de vía: <a href="https://transport.ec.europa.eu/news-events/news/road-safety-19800-people-killed-road-crashes-eu-2023-2024-03-26_en" target="_blank" rel="noopener noreferrer" class="">https://transport.ec.europa.eu/news-events/news/road-safety-19800-people-killed-road-crashes-eu-2023-2024-03-26_en</a></li>
+<li class="">UNECE — Reglamento ONU nº 171 (DCAS) y requisitos de supervisión: <a href="https://unece.org/media/press/395206" target="_blank" rel="noopener noreferrer" class="">https://unece.org/media/press/395206</a></li>
+<li class="">Comisión Europea — AI Act y calendario de aplicación: <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener noreferrer" class="">https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai</a></li>
+</ul>]]></content>
+        <author>
+            <name>The Autonomous Pilot</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="tesla" term="tesla"/>
+        <category label="ai" term="ai"/>
+        <category label="testing" term="testing"/>
+        <category label="seguridad" term="seguridad"/>
+        <category label="europa" term="europa"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Robotaxi sin monitor en Austin, pero España manda en obras: la batalla invisible del FSD]]></title>
         <id>https://fsd.pepetox.es/robotaxi-obras-senalizacion-espana</id>
@@ -1099,31 +1155,5 @@ La nueva normativa que se está cocinando en Ginebra es "agnóstica" respecto a 
         <category label="inteligencia artificial" term="inteligencia artificial"/>
         <category label="carreteras secundarias" term="carreteras secundarias"/>
         <category label="unece" term="unece"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla pone fin a la compra única de FSD: solo suscripción mensual a partir del 14 de febrero de 2026]]></title>
-        <id>https://fsd.pepetox.es/tesla-pone-fin-a-la-compra-unica-de-fsd-solo-suscripcion-desde-2026</id>
-        <link href="https://fsd.pepetox.es/tesla-pone-fin-a-la-compra-unica-de-fsd-solo-suscripcion-desde-2026"/>
-        <updated>2026-01-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk anuncia que Full Self-Driving (FSD Supervised) solo estará disponible como suscripción mensual (aprox. $99/mes) después del 14 de febrero de 2026, eliminando la opción de pago único. Europa sigue esperando la aprobación.]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="tesla-pone-fin-a-la-compra-única-de-fsd-solo-suscripción-mensual-a-partir-del-14-de-febrero-de-2026-mientras-europa-sigue-esperando-la-aprobación-supervisada-para-febrero">Tesla Pone Fin a la Compra Única de FSD: Solo Suscripción Mensual a Partir del 14 de Febrero de 2026, Mientras Europa Sigue Esperando la Aprobación Supervisada para Febrero<a href="https://fsd.pepetox.es/tesla-pone-fin-a-la-compra-unica-de-fsd-solo-suscripcion-desde-2026#tesla-pone-fin-a-la-compra-%C3%BAnica-de-fsd-solo-suscripci%C3%B3n-mensual-a-partir-del-14-de-febrero-de-2026-mientras-europa-sigue-esperando-la-aprobaci%C3%B3n-supervisada-para-febrero" class="hash-link" aria-label="Enlace directo al Tesla Pone Fin a la Compra Única de FSD: Solo Suscripción Mensual a Partir del 14 de Febrero de 2026, Mientras Europa Sigue Esperando la Aprobación Supervisada para Febrero" title="Enlace directo al Tesla Pone Fin a la Compra Única de FSD: Solo Suscripción Mensual a Partir del 14 de Febrero de 2026, Mientras Europa Sigue Esperando la Aprobación Supervisada para Febrero" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="resumen-ejecutivo">Resumen Ejecutivo<a href="https://fsd.pepetox.es/tesla-pone-fin-a-la-compra-unica-de-fsd-solo-suscripcion-desde-2026#resumen-ejecutivo" class="hash-link" aria-label="Enlace directo al Resumen Ejecutivo" title="Enlace directo al Resumen Ejecutivo" translate="no">​</a></h3>
-<p>Elon Musk anuncia que después del 14 de febrero de 2026, Full Self-Driving (FSD Supervised) solo estará disponible como suscripción mensual (aprox. $99/mes), eliminando la opción de pago único de ~$8,000; los compradores actuales mantienen pago único de por vida (lifetime).</p>
-<p>En Europa, no hay avances significativos en las últimas 24 horas sobre la normativa UNECE o RDW; el objetivo sigue siendo febrero 2026 para demostración y posible aprobación nacional en Países Bajos, con España como centro (hub) de pruebas pero sin beta pública aún.</p>
-<p>Globalmente (EE.UU./China), la versión dominante es FSD v14.2.x (con versiones secundarias (point releases) como 14.2.2.2), enfocada en mejoras de seguridad, menos falsos frenados y opciones de llegada; no hay hitos críticos nuevos reportados en las últimas 24h, pero el cambio a suscripción genera debate viral en X.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="desglose-por-región">Desglose por Región<a href="https://fsd.pepetox.es/tesla-pone-fin-a-la-compra-unica-de-fsd-solo-suscripcion-desde-2026#desglose-por-regi%C3%B3n" class="hash-link" aria-label="Enlace directo al Desglose por Región" title="Enlace directo al Desglose por Región" translate="no">​</a></h3>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="españaeuropa">España/Europa<a href="https://fsd.pepetox.es/tesla-pone-fin-a-la-compra-unica-de-fsd-solo-suscripcion-desde-2026#espa%C3%B1aeuropa" class="hash-link" aria-label="Enlace directo al España/Europa" title="Enlace directo al España/Europa" translate="no">​</a></h4>
-<p>No se registran actualizaciones frescas en las últimas 24 horas sobre la normativa UNECE o fechas concretas de aprobación. El timeline clave sigue siendo el confirmado en noviembre 2025: Tesla debe demostrar cumplimiento en febrero 2026 ante la autoridad holandesa RDW para una aprobación nacional inicial, que podría extenderse a otros países UE (incluyendo España) vía reconocimiento mutuo. España destaca como zona activa de pruebas y demostraciones (junto a Alemania, Francia e Italia), con acompañamientos públicos (ride-alongs) recientes, pero no hay beta abierta ni cambios regulatorios nuevos. Usuarios europeos expresan frustración en X por pagar por FSD años atrás sin poder usarlo plenamente (solo Enhanced Autopilot en autopistas), y temen el impacto del cambio a suscripción sin disponibilidad real.</p>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="global-eeuuchina">Global (EE.UU./China)<a href="https://fsd.pepetox.es/tesla-pone-fin-a-la-compra-unica-de-fsd-solo-suscripcion-desde-2026#global-eeuuchina" class="hash-link" aria-label="Enlace directo al Global (EE.UU./China)" title="Enlace directo al Global (EE.UU./China)" translate="no">​</a></h4>
-<p>La gran noticia del día es el anuncio directo de Elon Musk: cese de venta directa (outright) de FSD tras el 14 de febrero 2026, pasando a modelo 100% suscripción para generar ingresos recurrentes (preparando Robotaxi). Esto genera cientos de reacciones virales en X, desde decepción ("lo único que quiero es FSD, no software rentado") hasta análisis financieros ("nunca valió la pena comprar directamente (outright)"). En cuanto a versiones: la flota usa FSD (Supervised) v14.2.2.x (con fixes rápidos como 14.2.2.2 para errores secundarios (bugs) como falsos frenados o Grok navigation). Mejoras incluyen mejor manejo de vehículos de emergencia, obstáculos, gestos humanos, opciones de aparcamiento (Parking Lot, Street, Driveway, etc.) y perfiles de velocidad. No hay intervenciones críticas o hitos de seguridad reportados específicamente en las últimas 24h; el enfoque está en refinamiento hacia unsupervised/Robotaxi. En China y EE.UU. el sistema es maduro, con miles de millas sin intervención en v14.</p>]]></content>
-        <author>
-            <name>FSD Spain</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="fsd" term="fsd"/>
-        <category label="suscripcion" term="suscripcion"/>
-        <category label="europa" term="europa"/>
-        <category label="normativa" term="normativa"/>
-        <category label="v14" term="v14"/>
     </entry>
 </feed>
