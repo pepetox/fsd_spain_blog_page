@@ -4,10 +4,62 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Thu, 29 Jan 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jan 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[La prueba invisible: los datos y la supervisión que Europa exigirá al FSD]]></title>
+            <link>https://fsd.pepetox.es/prueba-invisible-datos-supervision-fsd</link>
+            <guid>https://fsd.pepetox.es/prueba-invisible-datos-supervision-fsd</guid>
+            <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[El debate no es solo si FSD conduce bien, sino si puede demostrarlo con datos verificables bajo el marco europeo de DCAS y AI Act.]]></description>
+            <content:encoded><![CDATA[<p>Imagina esta escena: un Tesla sale de un parking subterráneo en Valencia tras una tormenta. Las cámaras llevan gotas, el GPS rebota, un peatón aparece entre coches aparcados y un patinete entra tarde en el cruce. FSD puede decidir bien… pero <strong>Europa no se conformará con que “funcione”, sino con que pueda probarlo</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detonante-tesla-acelera-su-relato-robotaxi">El detonante: Tesla acelera su relato robotaxi<a href="https://fsd.pepetox.es/prueba-invisible-datos-supervision-fsd#el-detonante-tesla-acelera-su-relato-robotaxi" class="hash-link" aria-label="Enlace directo al El detonante: Tesla acelera su relato robotaxi" title="Enlace directo al El detonante: Tesla acelera su relato robotaxi" translate="no">​</a></h2>
+<p>Las últimas noticias desde EE. UU. apuntan a una aceleración pública del relato de autonomía: <strong>según la compañía</strong>, ya estaría probando robotaxis sin supervisión en Austin y preparando expansión a más ciudades. En la misma llamada de resultados de Q4 2025, Tesla empezó a reportar por primera vez el número de suscripciones activas de FSD (1,1 millones). Es un mensaje claro al mercado: la empresa quiere que la conversación gire en torno a la autonomía a gran escala.</p>
+<p>Ese impulso choca con la pregunta clave en Europa: <strong>¿cómo demostramos que la IA es segura, repetible y auditables en condiciones reales?</strong> Ahí es donde la regulación europea no perdona.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-marco-europeo-dcas-y-la-obligación-de-probar-seguridad">El marco europeo: DCAS y la obligación de “probar” seguridad<a href="https://fsd.pepetox.es/prueba-invisible-datos-supervision-fsd#el-marco-europeo-dcas-y-la-obligaci%C3%B3n-de-probar-seguridad" class="hash-link" aria-label="Enlace directo al El marco europeo: DCAS y la obligación de “probar” seguridad" title="Enlace directo al El marco europeo: DCAS y la obligación de “probar” seguridad" translate="no">​</a></h2>
+<p>En Europa, el escalón inmediato para sistemas como FSD pasa por <strong>DCAS (Driver Control Assistance Systems)</strong>, el marco de Naciones Unidas que define requisitos de supervisión activa del conductor y control humano continuo. La norma exige que el conductor permanezca involucrado (manos en el volante y atención visual), con alertas si esa vigilancia se pierde durante segundos críticos.</p>
+<p>La base legal ya está publicada como <strong>Reglamento ONU nº 171</strong>, con entrada en vigor el 22 de septiembre de 2024. Eso convierte el cumplimiento en una cuestión operativa real para cualquier despliegue europeo.</p>
+<p>Y no termina ahí. El <strong>AI Act</strong> ya está en vigor y fija un calendario de exigencias progresivas: reglas generales desde febrero de 2025, obligaciones para GPAI desde agosto de 2025, la mayor parte de las reglas desde agosto de 2026 y la aplicación completa para sistemas de alto riesgo embebidos en productos regulados (como vehículos) desde agosto de 2027. En ese contexto, demostrar trazabilidad y control será tan importante como la capacidad de conducir.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-prueba-invisible-datos-trazas-y-responsabilidad">La prueba invisible: datos, trazas y responsabilidad<a href="https://fsd.pepetox.es/prueba-invisible-datos-supervision-fsd#la-prueba-invisible-datos-trazas-y-responsabilidad" class="hash-link" aria-label="Enlace directo al La prueba invisible: datos, trazas y responsabilidad" title="Enlace directo al La prueba invisible: datos, trazas y responsabilidad" translate="no">​</a></h2>
+<p>Europa no solo quiere “conducir mejor”; quiere <strong>evidencia</strong>. Eso implica:</p>
+<ul>
+<li class=""><strong>Registro de eventos críticos</strong>: cuándo el sistema detecta incertidumbre, cuándo transfiere el control y con qué contexto.</li>
+<li class=""><strong>Trazabilidad de decisiones</strong>: no basta con decir “la red lo decidió”; hay que poder auditar qué señales influyeron en la acción.</li>
+<li class=""><strong>Supervisión demostrable</strong>: el cumplimiento de manos/ojos no es una UX, es una obligación legal.</li>
+</ul>
+<p>La conclusión es incómoda para la narrativa “end-to-end”: los modelos pueden ser opacos, pero <strong>el regulador exigirá transparencia de sus efectos</strong>. FSD no se aprobará por promesas, sino por datos verificables.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs. realidad<a href="https://fsd.pepetox.es/prueba-invisible-datos-supervision-fsd#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad" title="Enlace directo al Expectativa vs. realidad" translate="no">​</a></h2>
+<p><strong>Expectativa:</strong> “Si FSD ya funciona en EE. UU., el despliegue europeo es cuestión de tiempo.”</p>
+<p><strong>Realidad:</strong> Europa no solo evalúa desempeño; evalúa <strong>capacidad de demostrar seguridad, supervisión y trazabilidad</strong>. El “cómo lo demuestra” pesa tanto como el “cómo conduce”.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-tendría-que-mostrar-tesla-en-españa">Qué tendría que mostrar Tesla en España<a href="https://fsd.pepetox.es/prueba-invisible-datos-supervision-fsd#qu%C3%A9-tendr%C3%ADa-que-mostrar-tesla-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Qué tendría que mostrar Tesla en España" title="Enlace directo al Qué tendría que mostrar Tesla en España" translate="no">​</a></h2>
+<p>Si Tesla quiere acelerar la confianza en España, el paquete mínimo debería incluir:</p>
+<ol>
+<li class=""><strong>Protocolos de reporte de incidentes críticos</strong> (y su publicación agregada).</li>
+<li class=""><strong>Pruebas controladas de supervisión</strong> en escenarios reales: lluvia, parking subterráneo, tráfico denso.</li>
+<li class=""><strong>Demostraciones públicas de trazabilidad</strong>: qué datos registra el coche y cómo se validan en auditorías.</li>
+</ol>
+<p>Si te interesa el impacto de la normativa europea en escenarios concretos, puedes leer nuestro análisis sobre el reto de las rotondas: <a class="" href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana">El desafío de la rotonda para FSD en España</a>.</p>
+<p><strong>Takeaway:</strong> La autonomía no solo se gana conduciendo; se gana <strong>probando</strong> que se conduce bien. En Europa, la carretera es el examen… pero los datos son el tribunal.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/prueba-invisible-datos-supervision-fsd#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class="">UNECE — New UN regulation paves the way for the roll-out of additional driver assistance systems (DCAS): <a href="https://unece.org/artificial-intelligence/press/new-un-regulation-paves-way-roll-out-additional-driver-assistance" target="_blank" rel="noopener noreferrer" class="">https://unece.org/artificial-intelligence/press/new-un-regulation-paves-way-roll-out-additional-driver-assistance</a></li>
+<li class="">EUR-Lex — UN Regulation No. 171 (DCAS), entry into force 22 September 2024: <a href="https://eur-lex.europa.eu/eli/reg/2024/2689/oj/eng" target="_blank" rel="noopener noreferrer" class="">https://eur-lex.europa.eu/eli/reg/2024/2689/oj/eng</a></li>
+<li class="">European Commission — AI Act regulatory framework overview + timeline: <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener noreferrer" class="">https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai</a></li>
+<li class="">AI Act Service Desk — Timeline for implementation: <a href="https://ai-act-service-desk.ec.europa.eu/en/ai-act/timeline/timeline-implementation-eu-ai-act" target="_blank" rel="noopener noreferrer" class="">https://ai-act-service-desk.ec.europa.eu/en/ai-act/timeline/timeline-implementation-eu-ai-act</a></li>
+<li class="">Investors.com — Tesla Q4 2025 earnings call recap (robotaxi testing): <a href="https://www.investors.com/news/tesla-stock-q4-earnings-elon-musk-conference-call-robotaxis/" target="_blank" rel="noopener noreferrer" class="">https://www.investors.com/news/tesla-stock-q4-earnings-elon-musk-conference-call-robotaxis/</a></li>
+<li class="">Investopedia — Tesla reports 1.1M active FSD subscriptions: <a href="https://www.investopedia.com/tesla-is-promoting-its-fsd-sales-they-are-also-an-important-part-of-elon-musk-pay-tsla-11895017" target="_blank" rel="noopener noreferrer" class="">https://www.investopedia.com/tesla-is-promoting-its-fsd-sales-they-are-also-an-important-part-of-elon-musk-pay-tsla-11895017</a></li>
+</ul>]]></content:encoded>
+            <category>fsd</category>
+            <category>tesla</category>
+            <category>ai</category>
+            <category>regulations</category>
+            <category>testing</category>
+            <category>seguridad</category>
+            <category>europa</category>
+        </item>
         <item>
             <title><![CDATA[El cuello de botella europeo: FSD en carreteras secundarias españolas]]></title>
             <link>https://fsd.pepetox.es/fsd-carreteras-secundarias-espana</link>
@@ -1023,59 +1075,6 @@
             <category>regulaciones</category>
             <category>madrid</category>
             <category>pruebas</category>
-        </item>
-        <item>
-            <title><![CDATA[La España Vaciada: La Frontera Final para el FSD de Tesla]]></title>
-            <link>https://fsd.pepetox.es/espana-vaciada-desafio-fsd-rural</link>
-            <guid>https://fsd.pepetox.es/espana-vaciada-desafio-fsd-rural</guid>
-            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Más allá de la M-30: Analizamos cómo la red neuronal de Tesla se enfrenta al caos ordenado de las carreteras rurales españolas, tractores y vías sin pintar.]]></description>
-            <content:encoded><![CDATA[<p>Imagina la escena: Un Tesla Model Y con la última beta de FSD v14 avanza por una carretera secundaria en la provincia de Soria. No hay línea central pintada, los bordes del asfalto se desmoronan hacia una cuneta de tierra, y a la vuelta de la curva, un tractor John Deere ocupa el 70% del ancho disponible a 20 km/h.</p>
-<p>Mientras Silicon Valley celebra giros perfectos en las amplias avenidas de San Francisco, y Madrid pone a prueba el sistema en la Castellana, el verdadero examen de doctorado para la Inteligencia Artificial de Tesla está aquí, en la <strong>España Vaciada</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-desafío-de-la-carretera-sin-pintar">El Desafío de la "Carretera Sin Pintar"<a href="https://fsd.pepetox.es/espana-vaciada-desafio-fsd-rural#el-desaf%C3%ADo-de-la-carretera-sin-pintar" class="hash-link" aria-label="Enlace directo al El Desafío de la &quot;Carretera Sin Pintar&quot;" title="Enlace directo al El Desafío de la &quot;Carretera Sin Pintar&quot;" translate="no">​</a></h2>
-<p>La mayoría de los sistemas ADAS (Sistemas Avanzados de Asistencia al Conductor) tradicionales dependen de una premisa básica: <strong>líneas</strong>. El <em>Lane Keep Assist</em> busca líneas blancas para mantenerte en el centro. Pero, ¿qué pasa cuando las líneas desaparecen?</p>
-<p>En la España rural, miles de kilómetros de vías terciarias carecen de marcas viales claras. Para un humano, es intuitivo: "mantente a la derecha, pero no te caigas a la cuneta". Para una IA clásica basada en reglas, es una pesadilla computacional.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-solución-occupancy-networks-redes-de-ocupación">La Solución: Occupancy Networks (Redes de Ocupación)<a href="https://fsd.pepetox.es/espana-vaciada-desafio-fsd-rural#la-soluci%C3%B3n-occupancy-networks-redes-de-ocupaci%C3%B3n" class="hash-link" aria-label="Enlace directo al La Solución: Occupancy Networks (Redes de Ocupación)" title="Enlace directo al La Solución: Occupancy Networks (Redes de Ocupación)" translate="no">​</a></h3>
-<p>Aquí es donde brilla la arquitectura moderna del FSD (v12 en adelante). En lugar de buscar líneas rígidas, el coche utiliza <strong>Occupancy Networks</strong>.</p>
-<p>Imagina que el coche construye un modelo 3D del mundo en tiempo real con bloques de Lego (voxels).</p>
-<ul>
-<li class=""><strong>Voxel Rojo:</strong> Obstáculo (muro, coche, árbol).</li>
-<li class=""><strong>Voxel Azul:</strong> Espacio conducibles (asfalto, tierra compacta).</li>
-</ul>
-<p>El FSD no piensa en "carriles", piensa en <strong>"espacio navegable"</strong>. En una carretera rural de Albacete, la red neuronal infiere un "carril virtual" basándose en el ancho de la carretera y la posición teórica que debería ocupar, incluso si no hay una sola gota de pintura en el suelo.</p>
-<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Dato Técnico</div><div class="admonitionContent_BuS1"><p>Las versiones más recientes del FSD han demostrado la capacidad de echarse al arcén (incluso pisando tierra) para ceder el paso a vehículos anchos en carreteras estrechas, un comportamiento puramente aprendido de datos humanos, no programado explícitamente.</p></div></div>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="tractores-rebaños-y-ciclistas-de-fin-de-semana">Tractores, Rebaños y Ciclistas de Fin de Semana<a href="https://fsd.pepetox.es/espana-vaciada-desafio-fsd-rural#tractores-reba%C3%B1os-y-ciclistas-de-fin-de-semana" class="hash-link" aria-label="Enlace directo al Tractores, Rebaños y Ciclistas de Fin de Semana" title="Enlace directo al Tractores, Rebaños y Ciclistas de Fin de Semana" translate="no">​</a></h2>
-<p>La orografía rural española presenta "Edge Cases" (casos límite) que son raros en las autopistas de California:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-el-factor-agrícola">1. El Factor Agrícola<a href="https://fsd.pepetox.es/espana-vaciada-desafio-fsd-rural#1-el-factor-agr%C3%ADcola" class="hash-link" aria-label="Enlace directo al 1. El Factor Agrícola" title="Enlace directo al 1. El Factor Agrícola" translate="no">​</a></h3>
-<p>Un tractor con un apero ancho puede invadir el carril contrario. El FSD debe decidir:</p>
-<ul>
-<li class="">¿Freno y espero?</li>
-<li class="">¿Hay visibilidad suficiente para adelantar pisando la línea discontinua (si existe)?</li>
-<li class="">¿Se está apartando el tractor para dejarme pasar?</li>
-</ul>
-<p>La <strong>v14</strong> ha mejorado drásticamente en la "negociación" con otros actores, entendiendo el lenguaje corporal del otro vehículo. Pero un tractor en una curva ciega sigue siendo un desafío de percepción crítico.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-el-pelotón-ciclista">2. El Pelotón Ciclista<a href="https://fsd.pepetox.es/espana-vaciada-desafio-fsd-rural#2-el-pelot%C3%B3n-ciclista" class="hash-link" aria-label="Enlace directo al 2. El Pelotón Ciclista" title="Enlace directo al 2. El Pelotón Ciclista" translate="no">​</a></h3>
-<p>España es país de ciclismo. Los domingos, las carreteras secundarias se llenan de pelotones. La regulación exige dejar 1.5 metros de separación.
-El FSD de Tesla ya identifica ciclistas con gran precisión, pero la maniobra de adelantamiento en una carretera estrecha de doble sentido requiere una "audacia calculada" que la IA debe equilibrar con la seguridad extrema.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-trampa-regulatoria-r79-vs-realidad">La Trampa Regulatoria: R79 vs. Realidad<a href="https://fsd.pepetox.es/espana-vaciada-desafio-fsd-rural#la-trampa-regulatoria-r79-vs-realidad" class="hash-link" aria-label="Enlace directo al La Trampa Regulatoria: R79 vs. Realidad" title="Enlace directo al La Trampa Regulatoria: R79 vs. Realidad" translate="no">​</a></h2>
-<p>Aquí chocamos de nuevo con la burocracia europea. La regulación <strong>UNECE R79</strong>, que ha gobernado los asistentes de dirección durante años, se basa fundamentalmente en la detección de carriles.</p>
-<p>Históricamente, si el coche no veía líneas, el sistema se desactivaba o limitaba su funcionalidad. Esto hacía que el Autopilot básico fuera inútil en muchas carreteras secundarias españolas.</p>
-<p><strong>La esperanza se llama DCAS (Driver Control Assistance Systems):</strong>
-La nueva normativa que se está cocinando en Ginebra es "agnóstica" respecto a la tecnología. Si el fabricante puede demostrar que el coche puede navegar de forma segura sin líneas (usando visión artificial), la regulación debería permitirlo. Esto es vital para que el FSD sea un producto útil en toda España, no solo en autopistas de peaje.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-es-importante-para-el-futuro">¿Por qué es importante para el futuro?<a href="https://fsd.pepetox.es/espana-vaciada-desafio-fsd-rural#por-qu%C3%A9-es-importante-para-el-futuro" class="hash-link" aria-label="Enlace directo al ¿Por qué es importante para el futuro?" title="Enlace directo al ¿Por qué es importante para el futuro?" translate="no">​</a></h2>
-<p>Si Tesla quiere resolver la conducción autónoma completa (Nivel 4/5), no puede limitarse a las ciudades y autopistas. El transporte puerta a puerta implica llegar a la casa rural en los Picos de Europa o a la cooperativa agrícola en Extremadura.</p>
-<p>La <strong>España Vaciada</strong> ofrece, paradójicamente, el mejor entorno de entrenamiento para una IA robusta. Si el coche puede entender una carretera gallega con niebla, sin líneas y con vegetación invadiendo la calzada, puede conducir en cualquier lugar del mundo.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-veredicto">El Veredicto<a href="https://fsd.pepetox.es/espana-vaciada-desafio-fsd-rural#el-veredicto" class="hash-link" aria-label="Enlace directo al El Veredicto" title="Enlace directo al El Veredicto" translate="no">​</a></h3>
-<p>Mientras esperamos la llegada oficial, los videos de pruebas (Beta testers) en carreteras rurales de Estados Unidos (que comparten similitudes con las nuestras) son prometedores. El coche ya no busca líneas; busca el camino. Y en la España rural, a veces, el camino se hace al andar.</p>
-<hr>
-<p><em>¿Vives en una zona rural? ¿Cómo crees que se comportaría el FSD en las carreteras de tu pueblo? Déjanos tus comentarios en nuestras redes.</em></p>]]></content:encoded>
-            <category>fsd</category>
-            <category>rural</category>
-            <category>españa vaciada</category>
-            <category>tecnologia</category>
-            <category>inteligencia artificial</category>
-            <category>carreteras secundarias</category>
-            <category>unece</category>
         </item>
     </channel>
 </rss>
