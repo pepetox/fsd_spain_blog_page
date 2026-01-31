@@ -4,10 +4,59 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Fri, 30 Jan 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jan 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[Euro NCAP 2026: el examen real del FSD en Europa empieza fuera del laboratorio]]></title>
+            <link>https://fsd.pepetox.es/euro-ncap-2026-fsd-espana</link>
+            <guid>https://fsd.pepetox.es/euro-ncap-2026-fsd-espana</guid>
+            <pubDate>Sat, 31 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Euro NCAP endurece sus protocolos en 2026: más conducción real, más foco en la supervisión humana y una vara de medir que Tesla no podrá esquivar en Europa.]]></description>
+            <content:encoded><![CDATA[<p>Son las 08:20 en la M‑30. El tráfico va a trompicones, una moto se filtra por la izquierda, el coche de delante frena tarde y el panel variable cambia de 80 a 60. Aquí no basta con “ver” bien: hay que <strong>decidir con criterio y comunicarlo al conductor</strong>. Ese es el nuevo examen europeo para sistemas avanzados como FSD.</p>
+<p>La señal más clara no llega de Tesla, sino de <strong>Euro NCAP</strong>: a partir de 2026, la organización endurece sus protocolos y <strong>evalúa la asistencia al conductor también en conducción real</strong>, no solo en pista. Además, <strong>sube el listón de la monitorización del conductor</strong> y la calidad de la interfaz (HMI). Es una hoja de ruta que convierte a Europa en el juez más incómodo para la autonomía supervisada.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-giro-de-euro-ncap-de-la-pista-a-la-carretera">El giro de Euro NCAP: de la pista a la carretera<a href="https://fsd.pepetox.es/euro-ncap-2026-fsd-espana#el-giro-de-euro-ncap-de-la-pista-a-la-carretera" class="hash-link" aria-label="Enlace directo al El giro de Euro NCAP: de la pista a la carretera" title="Enlace directo al El giro de Euro NCAP: de la pista a la carretera" translate="no">​</a></h2>
+<p>Euro NCAP ha anunciado el mayor cambio de sus protocolos desde 2009. La clave para FSD está en tres puntos:</p>
+<ul>
+<li class=""><strong>Pruebas en conducción real</strong> para sistemas de asistencia, no solo escenarios de laboratorio.</li>
+<li class=""><strong>Énfasis en la monitorización del conductor</strong>: atención, engagement y sistemas capaces de reaccionar si el humano no responde.</li>
+<li class=""><strong>Evaluación de la interfaz</strong>: controles esenciales y claridad para evitar distracciones.</li>
+</ul>
+<p>En otras palabras: la seguridad ya no es solo “evitar el choque”, es también <strong>cómo el sistema convive con el humano</strong> en el uso cotidiano. Para FSD, esto significa que “funcionar bien” no basta; hay que hacerlo <strong>de forma comprensible y aceptable</strong> para el usuario europeo.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-este-cambio-pesa-más-que-una-actualización-de-software">Por qué este cambio pesa más que una actualización de software<a href="https://fsd.pepetox.es/euro-ncap-2026-fsd-espana#por-qu%C3%A9-este-cambio-pesa-m%C3%A1s-que-una-actualizaci%C3%B3n-de-software" class="hash-link" aria-label="Enlace directo al Por qué este cambio pesa más que una actualización de software" title="Enlace directo al Por qué este cambio pesa más que una actualización de software" translate="no">​</a></h2>
+<p>La UE tiene un marco específico para sistemas de asistencia avanzada: <strong>el Reglamento ONU nº 171 (DCAS)</strong>. Su lógica es clara: homologación, monitorización, validación y trazabilidad del software. Europa ya no discute si la autonomía es posible, sino <strong>cómo demostrarla con criterios verificables</strong>.</p>
+<p>Ese es el choque cultural con el enfoque estadounidense. En EE. UU. el relato es “iterar rápido”. En Europa el relato es “demostrar con método”. Y Euro NCAP 2026 convierte esa exigencia en una <strong>prueba pública de confianza</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-en-2026">Expectativa vs. realidad (en 2026)<a href="https://fsd.pepetox.es/euro-ncap-2026-fsd-espana#expectativa-vs-realidad-en-2026" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad (en 2026)" title="Enlace directo al Expectativa vs. realidad (en 2026)" translate="no">​</a></h2>
+<p><strong>Expectativa:</strong> “FSD será cada vez más capaz, la red neuronal lo resolverá.”</p>
+<p><strong>Realidad:</strong> en Europa el problema no es solo técnico, sino <strong>de verificación</strong>: ¿puede el sistema probar que es seguro en conducción real, con un conductor verdaderamente implicado y una interfaz que reduzca errores?</p>
+<p>Si la respuesta no es sólida, el despliegue se frena aunque el software avance.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-mensaje-para-españa-el-estándar-sube-y-rápido">El mensaje para España: el estándar sube, y rápido<a href="https://fsd.pepetox.es/euro-ncap-2026-fsd-espana#el-mensaje-para-espa%C3%B1a-el-est%C3%A1ndar-sube-y-r%C3%A1pido" class="hash-link" aria-label="Enlace directo al El mensaje para España: el estándar sube, y rápido" title="Enlace directo al El mensaje para España: el estándar sube, y rápido" translate="no">​</a></h2>
+<p>España no va a evaluar FSD solo por lo bien que gira en rotondas; lo hará por:</p>
+<ul>
+<li class=""><strong>cómo gestiona la atención del conductor</strong> en tráfico denso,</li>
+<li class=""><strong>cómo comunica límites y responsabilidad</strong>,</li>
+<li class=""><strong>cómo responde ante escenarios cotidianos</strong> (motos, carriles que se borran, obras, lluvia intermitente).</li>
+</ul>
+<p>Si quieres una visión más “de calle”, aquí tienes nuestro análisis sobre el desafío de las rotondas españolas: <a class="" href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana">El desafío de la rotonda: FSD en España</a>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión-el-examen-europeo-ya-está-diseñado">Conclusión: el examen europeo ya está diseñado<a href="https://fsd.pepetox.es/euro-ncap-2026-fsd-espana#conclusi%C3%B3n-el-examen-europeo-ya-est%C3%A1-dise%C3%B1ado" class="hash-link" aria-label="Enlace directo al Conclusión: el examen europeo ya está diseñado" title="Enlace directo al Conclusión: el examen europeo ya está diseñado" translate="no">​</a></h2>
+<p>Euro NCAP 2026 marca el nuevo tablero: conducción real, supervisión humana sólida y una experiencia que no cree confusión. Si Tesla quiere que FSD avance en Europa, tendrá que demostrarlo bajo esas reglas, no solo con vídeos espectaculares.</p>
+<p>La buena noticia: <strong>esto empuja a la industria hacia sistemas más honestos y seguros</strong>. La mala: el camino será más lento y exigente de lo que muchos esperan.</p>
+<p>Si te interesa seguir este pulso entre tecnología y regulación, quédate en el blog y comparte tu lectura: <strong>¿crees que la evaluación en conducción real acelerará o frenará la llegada de FSD a España?</strong></p>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/euro-ncap-2026-fsd-espana#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h3>
+<ul>
+<li class="">Euro NCAP — “Euro NCAP announces 2026 protocol changes to tackle modern driving risks” (26 Nov 2025): <a href="https://www.euroncap.com/en/press-media/press-releases/euro-ncap-announces-2026-protocol-changes-to-tackle-modern-driving-risks/" target="_blank" rel="noopener noreferrer" class="">https://www.euroncap.com/en/press-media/press-releases/euro-ncap-announces-2026-protocol-changes-to-tackle-modern-driving-risks/</a></li>
+<li class="">Reglamento ONU nº 171 (DCAS) — EUR‑Lex 2024/2689 (entrada en vigor 22 Sep 2024): <a href="https://eur-lex.europa.eu/eli/reg/2024/2689/oj/eng" target="_blank" rel="noopener noreferrer" class="">https://eur-lex.europa.eu/eli/reg/2024/2689/oj/eng</a></li>
+<li class="">Reglamento ONU nº 171 (DCAS) — EUR‑Lex 2025/1899 (texto consolidado con enmiendas, 26 Sep 2025): <a href="https://eur-lex.europa.eu/eli/reg/2025/1899/oj/eng" target="_blank" rel="noopener noreferrer" class="">https://eur-lex.europa.eu/eli/reg/2025/1899/oj/eng</a></li>
+</ul>]]></content:encoded>
+            <category>fsd</category>
+            <category>europa</category>
+            <category>regulations</category>
+            <category>testing</category>
+            <category>ai</category>
+            <category>seguridad</category>
+        </item>
         <item>
             <title><![CDATA[La prueba invisible: los datos y la supervisión que Europa exigirá al FSD]]></title>
             <link>https://fsd.pepetox.es/prueba-invisible-datos-supervision-fsd</link>
@@ -1033,48 +1082,6 @@
             <category>seguridad</category>
             <category>lluvia</category>
             <category>vision-only</category>
-        </item>
-        <item>
-            <title><![CDATA[El Desafío de la M-30: Por qué Vision-Only debe dominar el subsuelo]]></title>
-            <link>https://fsd.pepetox.es/desafio-m30-vision-only-tuneles</link>
-            <guid>https://fsd.pepetox.es/desafio-m30-vision-only-tuneles</guid>
-            <pubDate>Sat, 17 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[La flecha del GPS se congela. La línea de "Navegación" en la pantalla se vuelve gris. Viajas a 70 km/h, en las profundidades de Madrid, rodeado de muros de hormigón e incorporaciones de tráfico desde ambos lados.]]></description>
-            <content:encoded><![CDATA[<p>La flecha del GPS se congela. La línea de "Navegación" en la pantalla se vuelve gris. Viajas a 70 km/h, en las profundidades de Madrid, rodeado de muros de hormigón e incorporaciones de tráfico desde ambos lados.</p>
-<p>Bienvenido a los <strong>Túneles de la M-30</strong>: la prueba definitiva para la arquitectura Vision-Only de Tesla.</p>
-<p>Mientras que las amplias autopistas de California o las llanuras de los Países Bajos ofrecen condiciones ideales para el Full Self-Driving (FSD), el laberinto subterráneo de Madrid representa un caso extremo único que combina hostilidad técnica con ambigüedad regulatoria. Si Tesla quiere desbloquear todo el potencial de DCAS Fase 3 en Europa, no solo necesita manejar rotondas: necesita conquistar la oscuridad.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-problema-de-la-navegación-por-estima-dead-reckoning">El Problema de la "Navegación por Estima" (Dead Reckoning)<a href="https://fsd.pepetox.es/desafio-m30-vision-only-tuneles#el-problema-de-la-navegaci%C3%B3n-por-estima-dead-reckoning" class="hash-link" aria-label="Enlace directo al El Problema de la &quot;Navegación por Estima&quot; (Dead Reckoning)" title="Enlace directo al El Problema de la &quot;Navegación por Estima&quot; (Dead Reckoning)" translate="no">​</a></h2>
-<p>Durante años, los sistemas autónomos dependieron en gran medida de Mapas HD y triangulación GPS precisa. La lógica era simple: si el coche sabe <em>exactamente</em> dónde está (al centímetro), sabe en qué carril debe estar.</p>
-<p>Pero en la M-30, las señales GPS mueren al instante.</p>
-<p>En el pasado (Autopilot tradicional), el coche cambiaba a <strong>Dead Reckoning</strong> (navegación por estima), calculando su posición basándose en la rotación de las ruedas y el ángulo de giro. Era una suposición matemática. Después de 2 kilómetros bajo tierra, esa suposición podía desviarse metros, provocando salidas perdidas o cambios de carril erráticos.</p>
-<p>Con las <strong>Redes Neuronales de Extremo a Extremo</strong> (v12 y posteriores), el paradigma cambió. El coche <em>no debería</em> necesitar saber su coordenada GPS para conducir. Debería conducir como un humano: "Veo la señal de la A-3 a la derecha, veo las líneas del carril, voy hacia allí".</p>
-<blockquote>
-<p><strong>Realidad Actual:</strong> En pruebas recientes con v13.x en Europa, hemos visto al FSD tener dificultades para distinguir entre la compleja señalización de las salidas subterráneas de la M-30. La "Visión" es perfecta, pero la "Planificación" (el razonamiento) a veces duda cuando los datos del mapa contradicen la realidad visual.</p>
-</blockquote>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="una-zona-gris-regulatoria">Una Zona Gris Regulatoria<a href="https://fsd.pepetox.es/desafio-m30-vision-only-tuneles#una-zona-gris-regulatoria" class="hash-link" aria-label="Enlace directo al Una Zona Gris Regulatoria" title="Enlace directo al Una Zona Gris Regulatoria" translate="no">​</a></h2>
-<p>Hablamos mucho sobre la <strong>Regulación UNECE 171 (DCAS)</strong>.</p>
-<ul>
-<li class=""><strong>Fase 1:</strong> Cambios iniciados por el conductor (Autorizado).</li>
-<li class=""><strong>Fase 2:</strong> Maniobras iniciadas por el sistema en autopistas (El campo de batalla actual para 2026).</li>
-<li class=""><strong>Fase 3:</strong> Entornos urbanos.</li>
-</ul>
-<p>Aquí está el punto de fricción: <strong>¿Es la M-30 una autopista o una calle de la ciudad?</strong></p>
-<p>Técnicamente, tiene velocidades de autopista (70-90 km/h), pero la complejidad de las incorporaciones, la densidad del tráfico y la falta de señal GPS la convierten en un "entorno urbano de alto riesgo" a los ojos de los reguladores.</p>
-<p>Si el FSD no puede demostrar una fiabilidad del 99,99% al mantener su trayectoria sin asistencia de GPS aquí, los reguladores europeos lo usarán como un ejemplo perfecto de por qué el "Vision Only" es insuficiente para la conducción urbana sin supervisión.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-camino-a-seguir">El Camino a Seguir<a href="https://fsd.pepetox.es/desafio-m30-vision-only-tuneles#el-camino-a-seguir" class="hash-link" aria-label="Enlace directo al El Camino a Seguir" title="Enlace directo al El Camino a Seguir" translate="no">​</a></h2>
-<p>El "Desafío de la M-30" no se trata solo de Madrid. Se trata de demostrar que una red neuronal puede poseer <strong>permanencia de objetos</strong> y <strong>conciencia espacial</strong> sin necesidad de conexión satelital.</p>
-<p>Buscamos tres mejoras clave en las próximas actualizaciones para considerar esto "resuelto":</p>
-<ol>
-<li class=""><strong>Estabilidad OCR:</strong> Lectura de señales aéreas en condiciones de baja iluminación o luces parpadeantes.</li>
-<li class=""><strong>Memoria de Carril:</strong> Entender que una línea discontinua que se incorpora desde la izquierda en un túnel suele implicar una incorporación forzada, incluso si la visibilidad está bloqueada por un camión.</li>
-<li class=""><strong>Confianza:</strong> Cero "micro-frenado" cuando las condiciones de iluminación cambian de tramos de túnel a cielo abierto.</li>
-</ol>
-<p>Hasta que la red neuronal conduzca por estos túneles mejor que un caótico taxista madrileño, el sueño de la conducción "sin supervisión" en Europa seguirá siendo eso: un sueño.</p>
-<p><em>¿Has probado las últimas versiones de FSD en túneles? ¿Se mantiene estable la visualización? Cuéntanoslo en los comentarios.</em></p>]]></content:encoded>
-            <category>tecnología</category>
-            <category>regulaciones</category>
-            <category>madrid</category>
-            <category>pruebas</category>
         </item>
     </channel>
 </rss>
