@@ -2,11 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fsd.pepetox.es</id>
     <title>FSD Spain Blog</title>
-    <updated>2026-01-31T00:00:00.000Z</updated>
+    <updated>2026-02-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fsd.pepetox.es"/>
     <subtitle>FSD Spain Blog</subtitle>
     <icon>https://fsd.pepetox.es/img/fsdspain.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Geocercas y realidad europea: lo que el robotaxi de Tesla en EE. UU. enseña a España]]></title>
+        <id>https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa</id>
+        <link href="https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa"/>
+        <updated>2026-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tesla empuja el robotaxi en EE. UU., pero Europa exige un ODD claro. Analizamos por qué la geocerca puede ser la llave (y el freno) para España.]]></summary>
+        <content type="html"><![CDATA[<p>Son las 07:55 en una glorieta de Alcalá de Henares. Un autobús entra tarde, un patinete se cuela por la derecha y una furgoneta bloquea la salida. En EE. UU., Tesla dice que está probando robotaxis sin conductor en rutas limitadas. En España, esa misma escena te obliga a una pregunta incómoda: <strong>¿cuál es el “territorio” real en el que el FSD puede prometer seguridad?</strong></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detonante-el-relato-robotaxi-se-acelera">El detonante: el relato robotaxi se acelera<a href="https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa#el-detonante-el-relato-robotaxi-se-acelera" class="hash-link" aria-label="Enlace directo al El detonante: el relato robotaxi se acelera" title="Enlace directo al El detonante: el relato robotaxi se acelera" translate="no">​</a></h2>
+<p>En las últimas semanas, Tesla ha reforzado públicamente su narrativa de robotaxi en EE. UU., con planes de expandir servicios autónomos a varias ciudades y pruebas sin conductor en Austin. Esto no es solo marketing: es una señal de que la compañía quiere <strong>pasar del “beta” a un modelo operativo con límites claros</strong>.</p>
+<p>Para Europa, la lectura es distinta: no basta con que el coche conduzca, tiene que <strong>conducir dentro de un dominio operativo definido (ODD)</strong> que sea verificable y aceptable para los reguladores.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-geocerca-no-es-una-excusa-es-una-estrategia">La geocerca no es una excusa, es una estrategia<a href="https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa#la-geocerca-no-es-una-excusa-es-una-estrategia" class="hash-link" aria-label="Enlace directo al La geocerca no es una excusa, es una estrategia" title="Enlace directo al La geocerca no es una excusa, es una estrategia" translate="no">​</a></h2>
+<p>Una geocerca es más que un perímetro en un mapa. Es el mecanismo que permite decir: <strong>“aquí sí, aquí no”</strong>. En robotaxi, esa honestidad es clave. En España, una geocerca bien diseñada podría limitar el servicio a:</p>
+<ul>
+<li class="">Zonas urbanas con señalización consistente</li>
+<li class="">Intersecciones conocidas y mapeadas en detalle</li>
+<li class="">Condiciones meteorológicas predecibles</li>
+</ul>
+<p>Eso no debilita el proyecto: <strong>lo hace legal y auditable</strong>. En Europa, el salto no vendrá por promesas, sino por demostrar que el sistema sabe cuándo no operar.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-españa-2026">Expectativa vs. realidad (España 2026)<a href="https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa#expectativa-vs-realidad-espa%C3%B1a-2026" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad (España 2026)" title="Enlace directo al Expectativa vs. realidad (España 2026)" translate="no">​</a></h2>
+<p><strong>Expectativa:</strong> “Si el robotaxi funciona en Austin, funcionará en cualquier ciudad europea.”</p>
+<p><strong>Realidad:</strong> las ciudades europeas mezclan trazados históricos, peatones impredecibles y normativa más estricta sobre supervisión y trazabilidad. La geocerca puede ser el puente entre un prototipo estadounidense y una operación europea segura.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-necesita-fsd-para-que-la-geocerca-sea-creíble-aquí">¿Qué necesita FSD para que la geocerca sea creíble aquí?<a href="https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa#qu%C3%A9-necesita-fsd-para-que-la-geocerca-sea-cre%C3%ADble-aqu%C3%AD" class="hash-link" aria-label="Enlace directo al ¿Qué necesita FSD para que la geocerca sea creíble aquí?" title="Enlace directo al ¿Qué necesita FSD para que la geocerca sea creíble aquí?" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-un-mapa-operativo-vivo-no-un-mapa-bonito">1) Un mapa operativo vivo, no un mapa bonito<a href="https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa#1-un-mapa-operativo-vivo-no-un-mapa-bonito" class="hash-link" aria-label="Enlace directo al 1) Un mapa operativo vivo, no un mapa bonito" title="Enlace directo al 1) Un mapa operativo vivo, no un mapa bonito" translate="no">​</a></h3>
+<p>No se trata de HD maps estáticos. Se trata de <strong>mapas con contexto operativo</strong>: obras temporales, cambios de carril por eventos, carriles bus con horario variable. El sistema tiene que reconocer cuándo la realidad se sale del mapa y reducir velocidad o pedir ayuda.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-sensores-capaces-de-leer-europa">2) Sensores capaces de “leer” Europa<a href="https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa#2-sensores-capaces-de-leer-europa" class="hash-link" aria-label="Enlace directo al 2) Sensores capaces de “leer” Europa" title="Enlace directo al 2) Sensores capaces de “leer” Europa" translate="no">​</a></h3>
+<p>El hardware y el software deben lidiar con señales mixtas (castellano, catalán, euskera), carteles antiguos y marcas viales desgastadas. Si el coche no entiende un panel variable, <strong>la geocerca se vuelve un riesgo</strong>.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-trazabilidad-para-el-regulador">3) Trazabilidad para el regulador<a href="https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa#3-trazabilidad-para-el-regulador" class="hash-link" aria-label="Enlace directo al 3) Trazabilidad para el regulador" title="Enlace directo al 3) Trazabilidad para el regulador" translate="no">​</a></h3>
+<p>Europa no se conformará con un vídeo espectacular. Necesitará trazas: <strong>por qué el sistema decidió frenar, por qué cedió el control, qué incertidumbre detectó</strong>. Ese rastro es el pasaporte regulatorio.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-giro-narrativo-que-importa">El giro narrativo que importa<a href="https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa#el-giro-narrativo-que-importa" class="hash-link" aria-label="Enlace directo al El giro narrativo que importa" title="Enlace directo al El giro narrativo que importa" translate="no">​</a></h2>
+<p>Tesla está empujando el robotaxi como producto. En Europa, tendrá que venderlo como <strong>servicio dentro de un ODD explícito</strong>. Esa diferencia es técnica y política. Y, para España, puede ser la clave: <strong>el primer paso realista hacia un robotaxi legal no es “conducir en todas partes”, sino “conducir de forma impecable en un territorio acotado”</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway-para-la-comunidad-fsd">Takeaway para la comunidad FSD<a href="https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa#takeaway-para-la-comunidad-fsd" class="hash-link" aria-label="Enlace directo al Takeaway para la comunidad FSD" title="Enlace directo al Takeaway para la comunidad FSD" translate="no">​</a></h2>
+<p>Si seguimos solo el ruido de versiones, nos perdemos el punto. El futuro del FSD en Europa no depende solo de la red neuronal, sino de <strong>cómo se define su territorio y cómo se prueba su seguridad en ese territorio</strong>. Eso es geocerca, y también es confianza pública.</p>
+<p>Si quieres profundizar en los criterios europeos de evaluación, puedes leer nuestro análisis sobre el <a class="" href="https://fsd.pepetox.es/euro-ncap-2026-fsd-espana">examen de Euro NCAP 2026</a>. También seguimos el pulso técnico de FSD en España en nuestras <a class="" href="https://fsd.pepetox.es/fsd-pruebas-madrid-espana">pruebas locales y escenarios reales</a>.</p>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h3>
+<ul>
+<li class="">Tesla acelera su narrativa robotaxi y planes de expansión (AP). <a href="https://apnews.com/article/tesla-robotaxi-service-cybercab-earnings-df3e0cc1d9d36e0b1c0a2e2c7c0b0f68" target="_blank" rel="noopener noreferrer" class="">https://apnews.com/article/tesla-robotaxi-service-cybercab-earnings-df3e0cc1d9d36e0b1c0a2e2c7c0b0f68</a></li>
+<li class="">Tesla prueba robotaxis sin conductor en Austin y reporta suscripciones FSD (Investors.com). <a href="https://www.investors.com/news/tesla-stock-robotaxi-austin-fsd-subscriptions-2026/" target="_blank" rel="noopener noreferrer" class="">https://www.investors.com/news/tesla-stock-robotaxi-austin-fsd-subscriptions-2026/</a></li>
+<li class="">Imagen de cabecera (Unsplash, Leo Visions). <a href="https://images.unsplash.com/photo-1764983432146-0217568c8a00" target="_blank" rel="noopener noreferrer" class="">https://images.unsplash.com/photo-1764983432146-0217568c8a00</a></li>
+</ul>]]></content>
+        <author>
+            <name>The Autonomous Pilot</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="tesla" term="tesla"/>
+        <category label="ai" term="ai"/>
+        <category label="testing" term="testing"/>
+        <category label="europa" term="europa"/>
+        <category label="robotaxi" term="robotaxi"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Euro NCAP 2026: el examen real del FSD en Europa empieza fuera del laboratorio]]></title>
         <id>https://fsd.pepetox.es/euro-ncap-2026-fsd-espana</id>
@@ -1110,56 +1161,5 @@
         <category label="europa" term="europa"/>
         <category label="seguridad" term="seguridad"/>
         <category label="tecnología" term="tecnología"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La Prueba de la Lluvia: El Talón de Aquiles del Vision-Only en Europa]]></title>
-        <id>https://fsd.pepetox.es/prueba-lluvia-vision-only</id>
-        <link href="https://fsd.pepetox.es/prueba-lluvia-vision-only"/>
-        <updated>2026-01-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cuando el spray convierte la autopista en niebla, el FSD debe demostrar que ve lo invisible. Analizamos métricas y soluciones para Europa.]]></summary>
-        <content type="html"><![CDATA[<p>En España lo sabemos bien: <strong>no llueve mucho, pero cuando llueve, llueve de verdad</strong>. La A-8 en Galicia, la AP-7 en Catalunya o la A-7 a la altura de Málaga se transforman en un túnel de spray donde la visibilidad humana cae en segundos.</p>
-<p>Ese escenario es el examen silencioso del Vision-Only. No hay rotondas exóticas ni túneles icónicos, solo agua, reflejos y gotas que convierten cada farola en un halo cegador.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-física-que-la-ia-no-puede-ignorar">La Física que la IA no puede ignorar<a href="https://fsd.pepetox.es/prueba-lluvia-vision-only#la-f%C3%ADsica-que-la-ia-no-puede-ignorar" class="hash-link" aria-label="Enlace directo al La Física que la IA no puede ignorar" title="Enlace directo al La Física que la IA no puede ignorar" translate="no">​</a></h2>
-<p>Cuando el asfalto se encharca, el problema no es solo "ver". Es <strong>separar señal de ruido</strong>:</p>
-<ul>
-<li class=""><strong>Spray de camiones:</strong> crea una nube opaca que borra vehículos a 30-50 metros.</li>
-<li class=""><strong>Reflejos de faros:</strong> duplican líneas y señales como si hubiera carriles fantasma.</li>
-<li class=""><strong>Gotas en lente:</strong> deforman bordes y hacen que la distancia aparente sea errónea.</li>
-</ul>
-<p>Un humano reduce velocidad, aumenta distancia y usa el contexto. El FSD debe hacer lo mismo, pero sin intuición, solo con percepción y predicción.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-métrica-que-importa-confort-bajo-incertidumbre">La Métrica que Importa: "Confort Bajo Incertidumbre"<a href="https://fsd.pepetox.es/prueba-lluvia-vision-only#la-m%C3%A9trica-que-importa-confort-bajo-incertidumbre" class="hash-link" aria-label="Enlace directo al La Métrica que Importa: &quot;Confort Bajo Incertidumbre&quot;" title="Enlace directo al La Métrica que Importa: &quot;Confort Bajo Incertidumbre&quot;" translate="no">​</a></h2>
-<p>La seguridad no es únicamente evitar choques. Es <strong>mantener una conducción estable</strong> cuando el mundo se vuelve borroso.</p>
-<p>Proponemos una métrica simple que debería aparecer en los informes que Tesla lleve a la RDW:</p>
-<ul>
-<li class=""><strong>Variación de velocidad por minuto (Vv/m):</strong> cuánto oscila la velocidad en lluvia intensa.</li>
-<li class=""><strong>Número de micro-frenadas por kilómetro:</strong> si el coche duda, frena; si frena demasiado, genera riesgo.</li>
-<li class=""><strong>Tiempo de recuperación tras oclusión:</strong> cuánto tarda en volver a una trayectoria segura tras perder visibilidad.</li>
-</ul>
-<p>Si el sistema es bueno, estos valores deberían acercarse al comportamiento de un conductor humano experto, no al de un conductor novato nervioso.</p>
-<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Punto crítico</div><div class="admonitionContent_BuS1"><p>Una conducción extremadamente conservadora puede ser tan peligrosa como una agresiva: si el FSD frena de golpe en la AP-7 bajo lluvia, el riesgo de alcance aumenta.</p></div></div>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-v14-debe-demostrar">Lo que V14 Debe Demostrar<a href="https://fsd.pepetox.es/prueba-lluvia-vision-only#lo-que-v14-debe-demostrar" class="hash-link" aria-label="Enlace directo al Lo que V14 Debe Demostrar" title="Enlace directo al Lo que V14 Debe Demostrar" translate="no">​</a></h2>
-<p>En las últimas versiones, la red neuronal ya no "se desconecta" ante incertidumbre. Ahora intenta <strong>resolverla</strong>. Pero bajo lluvia intensa, hay tres capacidades que separan un prototipo de un producto:</p>
-<ol>
-<li class=""><strong>Persistencia de objetos:</strong> seguir "imaginando" el coche de delante cuando desaparece en el spray.</li>
-<li class=""><strong>Lectura de carril degradada:</strong> entender dónde están los límites aunque las líneas estén borradas por el agua.</li>
-<li class=""><strong>Priorización de distancia:</strong> ajustar margen de seguridad sin convertirse en un obstáculo móvil.</li>
-</ol>
-<p>Europa es especialmente dura con esto porque su regulación prioriza la seguridad colectiva. Un sistema que se comporta bien en California, con lluvias suaves y rectas largas, debe pasar su máster en la cornisa cantábrica.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-es-clave-para-2026">¿Por qué es clave para 2026?<a href="https://fsd.pepetox.es/prueba-lluvia-vision-only#por-qu%C3%A9-es-clave-para-2026" class="hash-link" aria-label="Enlace directo al ¿Por qué es clave para 2026?" title="Enlace directo al ¿Por qué es clave para 2026?" translate="no">​</a></h2>
-<p>Si Tesla quiere desbloquear <strong>DCAS Fase 2/3</strong> en Europa este año, necesita demostrar que el sistema no solo funciona en condiciones ideales, sino que <strong>se mantiene estable cuando la visibilidad cae a la mitad</strong>. Ese es el tipo de prueba que un regulador considera "representativa" del mundo real.</p>
-<p>La lluvia no es un evento raro: es el filtro que separa lo fiable de lo espectacular.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión-la-lluvia-no-perdona-la-improvisación">Conclusión: La lluvia no perdona la improvisación<a href="https://fsd.pepetox.es/prueba-lluvia-vision-only#conclusi%C3%B3n-la-lluvia-no-perdona-la-improvisaci%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión: La lluvia no perdona la improvisación" title="Enlace directo al Conclusión: La lluvia no perdona la improvisación" translate="no">​</a></h2>
-<p>La conducción autónoma europea no se decidirá en un sunny demo en la Castellana. Se decidirá en una noche fría, con lluvia lateral, un camión delante y el carril difuso.</p>
-<p>Ahí, en ese momento incómodo, es donde el FSD debe demostrar que no solo <strong>ve</strong>, sino que <strong>entiende</strong>.</p>
-<p><em>¿Has probado FSD o Autopilot bajo lluvia intensa? ¿Cómo se comportó el sistema? Cuéntanos tu experiencia.</em></p>]]></content>
-        <author>
-            <name>FSD Spain</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="fsd" term="fsd"/>
-        <category label="europa" term="europa"/>
-        <category label="seguridad" term="seguridad"/>
-        <category label="lluvia" term="lluvia"/>
-        <category label="vision-only" term="vision-only"/>
     </entry>
 </feed>
