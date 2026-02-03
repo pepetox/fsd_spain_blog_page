@@ -2,11 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fsd.pepetox.es</id>
     <title>FSD Spain Blog</title>
-    <updated>2026-02-02T00:00:00.000Z</updated>
+    <updated>2026-02-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fsd.pepetox.es"/>
     <subtitle>FSD Spain Blog</subtitle>
     <icon>https://fsd.pepetox.es/img/fsdspain.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Europa obliga a explicar los límites del FSD: el examen real es la atención del conductor]]></title>
+        <id>https://fsd.pepetox.es/limites-fsd-atencion-conductor</id>
+        <link href="https://fsd.pepetox.es/limites-fsd-atencion-conductor"/>
+        <updated>2026-02-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[La UE no solo pide que el coche conduzca: exige que el conductor entienda límites, reciba avisos claros y no se desconecte del volante.]]></summary>
+        <content type="html"><![CDATA[<p>Son las 07:40 en la A‑6 entrando a Madrid. El FSD traza la curva, pero el panel muestra una alerta: “manos al volante”. En Europa, esa escena no es un detalle: es <strong>el núcleo de la homologación</strong>. Aquí no basta con que la IA conduzca bien; tiene que <strong>explicar sus límites y mantener al humano despierto</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detonante-europeo-dcas-ya-no-es-promesa-es-norma">El detonante europeo: DCAS ya no es promesa, es norma<a href="https://fsd.pepetox.es/limites-fsd-atencion-conductor#el-detonante-europeo-dcas-ya-no-es-promesa-es-norma" class="hash-link" aria-label="Enlace directo al El detonante europeo: DCAS ya no es promesa, es norma" title="Enlace directo al El detonante europeo: DCAS ya no es promesa, es norma" translate="no">​</a></h2>
+<p>En 2024 entró en vigor la regulación UNECE para <strong>Driver Control Assistance Systems (DCAS)</strong>, un marco que define sistemas de nivel 2 y fija requisitos concretos sobre <strong>atención del conductor, avisos y comunicación de limitaciones</strong>. Es un cambio profundo: Europa convierte la “responsabilidad del conductor” en <strong>obligaciones verificables</strong>.</p>
+<p>En paralelo, el regulador holandés (RDW) ha confirmado una <strong>demostración prevista para febrero de 2026</strong> sobre FSD Supervised. No es aprobación automática; es una prueba de cumplimiento. Esa fecha hace que todo lo anterior deje de ser teórico.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-problema-real-no-es-la-conducción-es-la-conciencia-de-modo">El problema real no es la conducción, es la “conciencia de modo”<a href="https://fsd.pepetox.es/limites-fsd-atencion-conductor#el-problema-real-no-es-la-conducci%C3%B3n-es-la-conciencia-de-modo" class="hash-link" aria-label="Enlace directo al El problema real no es la conducción, es la “conciencia de modo”" title="Enlace directo al El problema real no es la conducción, es la “conciencia de modo”" translate="no">​</a></h2>
+<p>FSD puede girar, frenar y mantener carril. Pero la UE insiste en algo más incómodo: <strong>el conductor debe entender cuándo el sistema está dentro de sus límites y cuándo no</strong>. Esa “conciencia de modo” no es UX bonita, es seguridad. Si un humano cree que el coche es más capaz de lo que es, el riesgo se dispara.</p>
+<p>Por eso la regulación exige:</p>
+<ul>
+<li class=""><strong>Avisos escalonados y claros</strong> cuando el conductor se desconecta.</li>
+<li class=""><strong>Señales visuales + auditivas/hápticas</strong> para las alertas críticas.</li>
+<li class=""><strong>Comunicación explícita</strong> de limitaciones en la compra, la publicidad y los canales oficiales.</li>
+</ul>
+<p>Esto es el antídoto europeo contra el “modo demasiado confiado”.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-españa-2026">Expectativa vs. realidad (España 2026)<a href="https://fsd.pepetox.es/limites-fsd-atencion-conductor#expectativa-vs-realidad-espa%C3%B1a-2026" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad (España 2026)" title="Enlace directo al Expectativa vs. realidad (España 2026)" translate="no">​</a></h2>
+<p><strong>Expectativa:</strong> “Con más datos, la red neuronal lo arregla todo.”</p>
+<p><strong>Realidad:</strong> aunque la red mejore, el sistema <strong>debe demostrar que sabe pedir ayuda</strong>. En calles españolas con obras, carriles bus variables o señalización ambigua, el salto no es solo técnico: es <strong>cómo y cuándo el coche te devuelve el control</strong>.</p>
+<p>La consecuencia es clara: no se trata de “más kilómetros”, sino de <strong>más claridad</strong>. Cada intervención del sistema debe estar <strong>justificada, registrada y comunicada</strong> de forma comprensible.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="euro-ncap-2026-la-evaluación-también-mira-al-humano">Euro NCAP 2026: la evaluación también mira al humano<a href="https://fsd.pepetox.es/limites-fsd-atencion-conductor#euro-ncap-2026-la-evaluaci%C3%B3n-tambi%C3%A9n-mira-al-humano" class="hash-link" aria-label="Enlace directo al Euro NCAP 2026: la evaluación también mira al humano" title="Enlace directo al Euro NCAP 2026: la evaluación también mira al humano" translate="no">​</a></h2>
+<p>Euro NCAP ha anunciado que en 2026 elevará el listón: mayor peso a la <strong>monitorización del conductor</strong> y a la <strong>calidad de la interfaz (HMI)</strong>. En pocas palabras: el coche ya no se evalúa solo por evitar accidentes, sino por <strong>cómo mantiene al conductor atento y responsable</strong>.</p>
+<p>Esto conecta con la filosofía DCAS: la autonomía supervisada debe ser <strong>medible y demostrable</strong> en el mundo real, no solo en un vídeo viral.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-necesita-fsd-para-pasar-el-examen-europeo">Qué necesita FSD para pasar el examen europeo<a href="https://fsd.pepetox.es/limites-fsd-atencion-conductor#qu%C3%A9-necesita-fsd-para-pasar-el-examen-europeo" class="hash-link" aria-label="Enlace directo al Qué necesita FSD para pasar el examen europeo" title="Enlace directo al Qué necesita FSD para pasar el examen europeo" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-alertas-que-sean-imposibles-de-ignorar">1) Alertas que sean imposibles de ignorar<a href="https://fsd.pepetox.es/limites-fsd-atencion-conductor#1-alertas-que-sean-imposibles-de-ignorar" class="hash-link" aria-label="Enlace directo al 1) Alertas que sean imposibles de ignorar" title="Enlace directo al 1) Alertas que sean imposibles de ignorar" translate="no">​</a></h3>
+<p>La UE define tipos de avisos (manos al volante, ojos a la carretera, control directo inmediato). Si el aviso es débil o confuso, el sistema suspende en la práctica.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-transparencia-total-sobre-límites">2) Transparencia total sobre límites<a href="https://fsd.pepetox.es/limites-fsd-atencion-conductor#2-transparencia-total-sobre-l%C3%ADmites" class="hash-link" aria-label="Enlace directo al 2) Transparencia total sobre límites" title="Enlace directo al 2) Transparencia total sobre límites" translate="no">​</a></h3>
+<p>La comunicación de limitaciones ya no es opcional. Debe estar en la compra, en la app y en la publicidad. Europa quiere <strong>coherencia entre marketing y realidad</strong>.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-monitorización-del-conductor-como-corazón-del-sistema">3) Monitorización del conductor como “corazón del sistema”<a href="https://fsd.pepetox.es/limites-fsd-atencion-conductor#3-monitorizaci%C3%B3n-del-conductor-como-coraz%C3%B3n-del-sistema" class="hash-link" aria-label="Enlace directo al 3) Monitorización del conductor como “corazón del sistema”" title="Enlace directo al 3) Monitorización del conductor como “corazón del sistema”" translate="no">​</a></h3>
+<p>El FSD no puede depender solo de cámaras hacia fuera. Las cámaras hacia dentro y la detección de atención son el verdadero filtro regulatorio.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-mensaje-para-la-comunidad-fsd-en-españa">El mensaje para la comunidad FSD en España<a href="https://fsd.pepetox.es/limites-fsd-atencion-conductor#el-mensaje-para-la-comunidad-fsd-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al El mensaje para la comunidad FSD en España" title="Enlace directo al El mensaje para la comunidad FSD en España" translate="no">​</a></h2>
+<p>Si queremos ver FSD en nuestras carreteras, el debate no es solo “cuánto conduce”, sino <strong>cómo te mantiene responsable</strong>. El futuro europeo no es un salto repentino a lo autónomo total: es una <strong>autonomía supervisada, auditada y pedagógica</strong>.</p>
+<p>El reto está claro: <strong>conducir bien y explicar mejor</strong>.</p>
+<p>¿Crees que Tesla está priorizando suficientemente la comunicación de límites y la monitorización del conductor? Te leo en los comentarios. Y si quieres seguir el hilo regulatorio, aquí tienes más análisis sobre el examen europeo del FSD:</p>
+<ul>
+<li class=""><a class="" href="https://fsd.pepetox.es/euro-ncap-2026-fsd-espana">Euro NCAP 2026: el examen real del FSD en Europa</a></li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/limites-fsd-atencion-conductor#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class=""><a href="https://unece.org/press/new-un-regulation-paves-way-roll-out-additional-driver-assistance-systems" target="_blank" rel="noopener noreferrer" class="">UNECE (01/02/2024): New UN regulation paves the way for the roll-out of additional driver assistance systems</a></li>
+<li class=""><a href="https://unece.org/press/new-un-regulation-paves-way-deployment-driving-assistance-systems-worldwide" target="_blank" rel="noopener noreferrer" class="">UNECE (04/10/2024): New UN regulation paves way for deployment of driving assistance systems worldwide</a></li>
+<li class=""><a href="https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action" target="_blank" rel="noopener noreferrer" class="">RDW (24/11/2025): RDW response following Tesla’s call to action</a></li>
+<li class=""><a href="https://www.euroncap.com/en/press-media/press-releases/2025/euro-ncap-announces-2026-protocol-changes-to-tackle-modern-driving-risks/" target="_blank" rel="noopener noreferrer" class="">Euro NCAP (26/11/2025): Euro NCAP announces 2026 protocol changes to tackle modern driving risks</a></li>
+<li class=""><a href="https://eur-lex.europa.eu/eli/reg/2024/2689/oj" target="_blank" rel="noopener noreferrer" class="">EUR-Lex (2024/2689): UN Regulation No 171 – DCAS</a></li>
+</ul>]]></content>
+        <author>
+            <name>The Autonomous Pilot</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="tesla" term="tesla"/>
+        <category label="regulations" term="regulations"/>
+        <category label="ai" term="ai"/>
+        <category label="testing" term="testing"/>
+        <category label="espana" term="espana"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cámaras bajo lluvia: el cuello de botella invisible del FSD en España]]></title>
         <id>https://fsd.pepetox.es/camaras-lluvia-fsd-espana</id>
@@ -1111,51 +1170,5 @@
         <category label="pruebas" term="pruebas"/>
         <category label="fsd-beta" term="fsd-beta"/>
         <category label="noticias" term="noticias"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[El Desafío de la Rotonda: Redes Neuronales vs. el Caos Español]]></title>
-        <id>https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana</id>
-        <link href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana"/>
-        <updated>2026-01-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Imagina esta situación: Tu Tesla se aproxima a una turborotonda de tres carriles en la M-40 de Madrid. Es hora punta. Un taxi se cruza desde el carril interior sin señalizar, una moto zigzaguea por tu derecha y las líneas del suelo están medio borradas.]]></summary>
-        <content type="html"><![CDATA[<p>Imagina esta situación: Tu Tesla se aproxima a una turborotonda de tres carriles en la M-40 de Madrid. Es hora punta. Un taxi se cruza desde el carril interior sin señalizar, una moto zigzaguea por tu derecha y las líneas del suelo están medio borradas.</p>
-<p>En Silicon Valley, una rotonda es un círculo perfecto y tranquilo. En España, es un campo de batalla donde la duda se paga con pitidos (o algo peor). Mientras celebramos la llegada del FSD v13 y las pruebas de los 19 vehículos autorizados por la DGT, surge la pregunta del millón: <strong>¿Puede una red neuronal entrenada en California sobrevivir a la "ley de la selva" de una rotonda española?</strong></p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-geometría-del-caos-turborotondas">La Geometría del Caos: Turborotondas<a href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana#la-geometr%C3%ADa-del-caos-turborotondas" class="hash-link" aria-label="Enlace directo al La Geometría del Caos: Turborotondas" title="Enlace directo al La Geometría del Caos: Turborotondas" translate="no">​</a></h2>
-<p>A diferencia de las intersecciones ortogonales de Estados Unidos, Europa —y España en particular— ama las rotondas. Pero no todas son iguales. El verdadero "jefe final" para el FSD no es la rotonda simple, sino la <strong>turborotonda</strong>.</p>
-<p>En una turborotonda, la decisión de carril debe tomarse <em>antes</em> de entrar. Si el FSD duda o intenta cambiar de carril dentro (como haría en una rotonda americana estándar), no solo bloquea el tráfico, sino que viola la normativa de tráfico y confunde al resto de conductores humanos que esperan un comportamiento predecible.</p>
-<blockquote>
-<p><strong>Dato Clave:</strong> Los conductores humanos en España negocian las rotondas mediante un lenguaje no verbal de "intención y oportunidad". Una IA debe aprender este dialecto sutil, no solo las líneas pintadas en el suelo.</p>
-</blockquote>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-corsé-regulatorio-unece-r79">El Corsé Regulatorio: UNECE R79<a href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana#el-cors%C3%A9-regulatorio-unece-r79" class="hash-link" aria-label="Enlace directo al El Corsé Regulatorio: UNECE R79" title="Enlace directo al El Corsé Regulatorio: UNECE R79" translate="no">​</a></h2>
-<p>Aquí es donde la tecnología choca contra la burocracia. El FSD v13 (End-to-End) tiene la capacidad cognitiva de ver el hueco y acelerar para integrarse fluidamente. Lo hemos visto en las demos de la Plaza de la Independencia. <strong>El cerebro está listo, pero las manos están atadas.</strong></p>
-<p>La normativa actual <strong>UNECE R79</strong> limita severamente:</p>
-<ol>
-<li class=""><strong>La aceleración lateral:</strong> Impide giros bruscos del volante, esenciales para corregir la trayectoria si alguien te corta el paso.</li>
-<li class=""><strong>El par de dirección:</strong> Limita la fuerza que el sistema puede aplicar, haciendo que las maniobras se sientan "perezosas" o robóticas.</li>
-</ol>
-<p>El resultado es el temido "titubeo". El coche ve el hueco, la red neuronal dice "¡Vamos!", pero la capa de control (limitada por software para cumplir la ley) dice "Espera, eso excede los límites de aceleración lateral". El coche frena en seco, y el conductor de atrás se acuerda de toda tu familia.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-promesa-del-dcas">La Promesa del DCAS<a href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana#la-promesa-del-dcas" class="hash-link" aria-label="Enlace directo al La Promesa del DCAS" title="Enlace directo al La Promesa del DCAS" translate="no">​</a></h2>
-<p>La solución no es solo mejor software, es mejor ley. La nueva regulación <strong>DCAS (Driver Control Assistance Systems)</strong>, que esperamos se finalice para la fase 2, es la llave maestra. DCAS permitiría al sistema realizar maniobras más asertivas, siempre que el conductor esté supervisando.</p>
-<p>Esto es crucial para las rotondas españolas. Necesitamos que el coche tenga "permiso" para comportarse de manera humana: acelerar con decisión para entrar en un hueco y girar con la rapidez necesaria para mantener el carril en una espiral cerrada.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-estamos-viendo-en-las-pruebas">¿Qué estamos viendo en las pruebas?<a href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana#qu%C3%A9-estamos-viendo-en-las-pruebas" class="hash-link" aria-label="Enlace directo al ¿Qué estamos viendo en las pruebas?" title="Enlace directo al ¿Qué estamos viendo en las pruebas?" translate="no">​</a></h2>
-<p>Los reportes de los 19 vehículos de prueba en España (bajo el paraguas del proyecto ES-AV de la DGT) son una mezcla de asombro y frustración:</p>
-<ul>
-<li class=""><strong>Visión Pura:</strong> Las cámaras HW4 gestionan increíblemente bien el sol bajo y las líneas borradas, superando a los sensores ultrasónicos antiguos.</li>
-<li class=""><strong>Comportamiento:</strong> En rotondas vacías, la trazada es perfecta. En tráfico denso, la "timidez" regulatoria sigue siendo el mayor obstáculo.</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
-<p>El FSD no fallará en España por no "entender" la carretera. Las redes neuronales aprenden rápido. Si falla, será porque le hemos obligado a conducir con una mano atada a la espalda por una normativa obsoleta.</p>
-<p>La próxima vez que entres en una rotonda y tu Tesla dude, no culpes a la IA. Culpa al R79. Y mantén la esperanza: la actualización regulatoria es el verdadero "update" que todos estamos esperando.</p>
-<hr>
-<p><em>¿Has probado el Autopilot en una turborotonda recientemente? Comparte tu experiencia en los comentarios o únete a la discusión en nuestro próximo post sobre la <a class="" href="https://fsd.pepetox.es/estrategia-holandesa-rdw-febrero-2026">Estrategia Holandesa y Febrero 2026</a>.</em></p>]]></content>
-        <author>
-            <name>The Autonomous Pilot</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="fsd" term="fsd"/>
-        <category label="españa" term="españa"/>
-        <category label="regulacion" term="regulacion"/>
-        <category label="tecnologia" term="tecnologia"/>
-        <category label="europa" term="europa"/>
     </entry>
 </feed>
