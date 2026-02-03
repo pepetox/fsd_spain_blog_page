@@ -4,10 +4,64 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Sun, 01 Feb 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[Cámaras bajo lluvia: el cuello de botella invisible del FSD en España]]></title>
+            <link>https://fsd.pepetox.es/camaras-lluvia-fsd-espana</link>
+            <guid>https://fsd.pepetox.es/camaras-lluvia-fsd-espana</guid>
+            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[La lluvia, el barro y los reflejos no son un detalle: son el filtro real que decide si el FSD puede confiar en su propia visión en carreteras españolas.]]></description>
+            <content:encoded><![CDATA[<p>Es un viernes de febrero, 19:20, y llueve sobre la A‑8 a la altura de Bilbao. El asfalto brilla, las líneas se diluyen y cada camión que te adelanta regala una nube de spray. En ese momento, el FSD no compite contra otro coche: compite contra <strong>su propia visibilidad</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detonante-europa-mira-febrero-2026-pero-la-realidad-no-espera">El detonante: Europa mira febrero 2026, pero la realidad no espera<a href="https://fsd.pepetox.es/camaras-lluvia-fsd-espana#el-detonante-europa-mira-febrero-2026-pero-la-realidad-no-espera" class="hash-link" aria-label="Enlace directo al El detonante: Europa mira febrero 2026, pero la realidad no espera" title="Enlace directo al El detonante: Europa mira febrero 2026, pero la realidad no espera" translate="no">​</a></h2>
+<p>Tesla ha intensificado su relato europeo y apunta a una demostración clave ante la autoridad holandesa (RDW) en <strong>febrero de 2026</strong>, tras un cruce público de mensajes entre la marca y el regulador. La noticia no es “aprobación segura”, sino <strong>examen programado</strong>: demostrar que el sistema cumple requisitos bajo el marco europeo. Eso cambia el foco: no basta con “conducir bien”, hay que hacerlo <strong>con pruebas y condiciones reales</strong>.</p>
+<p>En España, ese examen tiene un juez extra que no sale en los comunicados: <strong>el clima</strong>. Porque la percepción basada en cámaras se enfrenta a lluvia fina, barro, salpicaduras y reflejos urbanos. Y ahí es donde el sistema puede ser brillante en laboratorio, pero frágil en el mundo real.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-la-lluvia-española-es-un-problema-técnico-real">Por qué la lluvia española es un problema técnico real<a href="https://fsd.pepetox.es/camaras-lluvia-fsd-espana#por-qu%C3%A9-la-lluvia-espa%C3%B1ola-es-un-problema-t%C3%A9cnico-real" class="hash-link" aria-label="Enlace directo al Por qué la lluvia española es un problema técnico real" title="Enlace directo al Por qué la lluvia española es un problema técnico real" translate="no">​</a></h2>
+<p>Las cámaras son el corazón del FSD, pero <strong>su rendimiento cae cuando la imagen se ensucia</strong>. La literatura técnica sobre percepción en condiciones adversas es clara: lluvia, niebla y reflejos reducen contraste, introducen ruido y degradan la detección de objetos. En resumen: si la señal se degrada, la red neuronal toma decisiones con menos certeza.</p>
+<p>En carretera española esto se traduce en tres escenarios frecuentes:</p>
+<ul>
+<li class=""><strong>Spray de camiones en autopista</strong>: la estela de agua genera una “cortina” que el sistema debe atravesar con visión parcial.</li>
+<li class=""><strong>Calles urbanas mojadas</strong>: los reflejos convierten un paso de peatones en un espejo, y los bordillos se “doblan” visualmente.</li>
+<li class=""><strong>Carreteras secundarias con barro</strong>: cuando el asfalto se ensucia, las líneas desaparecen y la geometría de la vía se vuelve ambigua.</li>
+</ul>
+<p>El problema no es que el FSD “no vea”, sino que <strong>ve con incertidumbre</strong>. Y en Europa esa incertidumbre se penaliza en homologación, validación y responsabilidad legal.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-la-ia-sí-aprende-pero-la-física-manda">Expectativa vs. realidad: la IA sí aprende, pero la física manda<a href="https://fsd.pepetox.es/camaras-lluvia-fsd-espana#expectativa-vs-realidad-la-ia-s%C3%AD-aprende-pero-la-f%C3%ADsica-manda" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad: la IA sí aprende, pero la física manda" title="Enlace directo al Expectativa vs. realidad: la IA sí aprende, pero la física manda" translate="no">​</a></h2>
+<p><strong>Expectativa:</strong> “Con más datos, la red lo resolverá.”</p>
+<p><strong>Realidad:</strong> Los datos ayudan, pero <strong>la cámara sigue siendo una cámara</strong>. La lluvia no es un bug, es un filtro físico. Cuando el sensor queda parcialmente ocluido (gotas, barro), la red neuronal recibe una imagen incompleta. Y eso obliga a algo que Europa exige explícitamente: <strong>detectar cuándo no es seguro seguir</strong> y devolver el control.</p>
+<p>Este es el verdadero salto europeo: no solo entrenar el modelo, sino <strong>demostrar que el sistema reconoce sus límites</strong>. Eso conecta directamente con DCAS (Reglamento ONU nº 171): el coche debe mantener al conductor involucrado y advertir cuando la supervisión es necesaria.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-tendría-que-mejorar-para-que-fsd-sea-creíble-bajo-lluvia">Qué tendría que mejorar para que FSD sea creíble bajo lluvia<a href="https://fsd.pepetox.es/camaras-lluvia-fsd-espana#qu%C3%A9-tendr%C3%ADa-que-mejorar-para-que-fsd-sea-cre%C3%ADble-bajo-lluvia" class="hash-link" aria-label="Enlace directo al Qué tendría que mejorar para que FSD sea creíble bajo lluvia" title="Enlace directo al Qué tendría que mejorar para que FSD sea creíble bajo lluvia" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-detección-activa-de-degradación-visual">1) Detección activa de degradación visual<a href="https://fsd.pepetox.es/camaras-lluvia-fsd-espana#1-detecci%C3%B3n-activa-de-degradaci%C3%B3n-visual" class="hash-link" aria-label="Enlace directo al 1) Detección activa de degradación visual" title="Enlace directo al 1) Detección activa de degradación visual" translate="no">​</a></h3>
+<p>El sistema necesita identificar, en tiempo real, que las cámaras están comprometidas por gotas o suciedad y ajustar su comportamiento: más distancia, menos velocidad, y posibilidad de “handoff” temprano.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-estrategias-de-redundancia">2) Estrategias de redundancia<a href="https://fsd.pepetox.es/camaras-lluvia-fsd-espana#2-estrategias-de-redundancia" class="hash-link" aria-label="Enlace directo al 2) Estrategias de redundancia" title="Enlace directo al 2) Estrategias de redundancia" translate="no">​</a></h3>
+<p>Europa no perdona “puntos ciegos”. Si la cámara falla, el sistema debe apoyarse en otras señales (radar, mapa, dinámica del vehículo) y dejar claro al conductor el nivel de confianza restante.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-pruebas-públicas-en-escenarios-europeos">3) Pruebas públicas en escenarios europeos<a href="https://fsd.pepetox.es/camaras-lluvia-fsd-espana#3-pruebas-p%C3%BAblicas-en-escenarios-europeos" class="hash-link" aria-label="Enlace directo al 3) Pruebas públicas en escenarios europeos" title="Enlace directo al 3) Pruebas públicas en escenarios europeos" translate="no">​</a></h3>
+<p>No basta con carreteras californianas. España tiene lluvias intermitentes, zonas urbanas con señalización irregular y tráfico mixto (motos, patinetes, furgonetas). <strong>Probar aquí</strong> significa entrenar para los momentos que realmente rompen el modelo.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-este-tema-importa-más-de-lo-que-parece">Por qué este tema importa más de lo que parece<a href="https://fsd.pepetox.es/camaras-lluvia-fsd-espana#por-qu%C3%A9-este-tema-importa-m%C3%A1s-de-lo-que-parece" class="hash-link" aria-label="Enlace directo al Por qué este tema importa más de lo que parece" title="Enlace directo al Por qué este tema importa más de lo que parece" translate="no">​</a></h2>
+<p>En la narrativa de autonomía, la lluvia suele ser un “detalle”. Pero en España <strong>la lluvia es el filtro de realidad</strong> que separa una demo convincente de una conducción segura. Y en un marco legal como el europeo, ese filtro pesa tanto como el algoritmo.</p>
+<p>Si FSD quiere un sí regulatorio en Europa, no basta con mostrar vídeos bonitos: debe demostrar que <strong>sabe cuándo no puede</strong> y cómo protege al conductor cuando la visión se degrada.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-takeaway-para-la-comunidad-fsd-españa">El takeaway para la comunidad FSD España<a href="https://fsd.pepetox.es/camaras-lluvia-fsd-espana#el-takeaway-para-la-comunidad-fsd-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al El takeaway para la comunidad FSD España" title="Enlace directo al El takeaway para la comunidad FSD España" translate="no">​</a></h2>
+<p>El debate europeo no es solo jurídico: es físico. La cámara bajo lluvia decide más que cualquier slide de marketing. Si queremos autonomía real, necesitamos exigir pruebas públicas, métricas claras y una conversación honesta sobre límites.</p>
+<p>¿Has tenido experiencias con Autopilot o FSD bajo lluvia en España? Cuéntalo en los comentarios. Y si te interesa cómo la noche y los reflejos cambian el juego, <strong>lee nuestro análisis sobre <a class="" href="https://fsd.pepetox.es/noche-reflejos-fsd-espana">conducción nocturna en España</a></strong>.</p>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/camaras-lluvia-fsd-espana#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h3>
+<ul>
+<li class=""><a href="https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action" target="_blank" rel="noopener noreferrer" class="">RDW: calendario de demostración de FSD Supervised (noviembre 2025)</a></li>
+<li class=""><a href="https://techcrunch.com/2025/11/24/tesla-fsd-software-may-not-be-approved-by-eu-regulator-after-all/" target="_blank" rel="noopener noreferrer" class="">Contexto del cruce público Tesla‑RDW (TechCrunch)</a></li>
+<li class=""><a href="https://www.electrive.com/2025/11/25/will-teslas-fsd-arrive-in-europe-by-2026/" target="_blank" rel="noopener noreferrer" class="">Resumen del contexto regulatorio y narrativa pública en Europa (electrive)</a></li>
+<li class=""><a href="https://unece.org/media/press/395206" target="_blank" rel="noopener noreferrer" class="">UNECE: Reglamento ONU nº 171 (DCAS) y entrada en vigor</a></li>
+<li class=""><a href="https://eur-lex.europa.eu/eli/reg/2024/2689/oj" target="_blank" rel="noopener noreferrer" class="">EUR‑Lex: texto de referencia del Reglamento ONU nº 171</a></li>
+<li class=""><a href="https://link.springer.com/article/10.1007/s12541-025-01228-3" target="_blank" rel="noopener noreferrer" class="">Degradación de cámaras bajo lluvia y niebla (Springer)</a></li>
+<li class=""><a href="https://www.mdpi.com/2079-9292/13/15/3063" target="_blank" rel="noopener noreferrer" class="">Percepción en clima adverso: lluvia, niebla y reflejos (MDPI)</a></li>
+</ul>]]></content:encoded>
+            <category>fsd</category>
+            <category>tesla</category>
+            <category>ai</category>
+            <category>testing</category>
+            <category>vision</category>
+            <category>espana</category>
+        </item>
         <item>
             <title><![CDATA[Geocercas y realidad europea: lo que el robotaxi de Tesla en EE. UU. enseña a España]]></title>
             <link>https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa</link>
@@ -1024,64 +1078,6 @@
             <category>regulacion</category>
             <category>tecnologia</category>
             <category>europa</category>
-        </item>
-        <item>
-            <title><![CDATA[El Examen Final: Qué Debe Demostrar Tesla ante la RDW este Febrero]]></title>
-            <link>https://fsd.pepetox.es/examen-final-rdw-tesla-fsd</link>
-            <guid>https://fsd.pepetox.es/examen-final-rdw-tesla-fsd</guid>
-            <pubDate>Sun, 18 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Febrero 2026 no es una fiesta de lanzamiento, es una defensa de tesis. Analizamos los 3 requisitos técnicos que el FSD V14 debe superar ante el regulador holandés.]]></description>
-            <content:encoded><![CDATA[<p>El calendario marca mediados de enero de 2026. Faltan apenas dos semanas para la fecha que todos tenemos marcada en rojo: <strong>Febrero 2026</strong>.</p>
-<p>Pero seamos claros: lo que ocurrirá el próximo mes en los despachos de la <strong>RDW</strong> (la autoridad vehicular de los Países Bajos) no será una fiesta de lanzamiento con globos y actualizaciones OTA masivas. Será algo mucho más tenso y técnico. Será una <strong>defensa de tesis doctoral</strong>.</p>
-<p>Tesla se presenta al examen final para validar su estrategia de "exención nacional". Y a diferencia de un examen universitario, aquí no vale con un 5 pelado. La seguridad de millones de europeos depende de un 10 rotundo.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-defensa-de-tesis-datos-vs-marketing">La Defensa de Tesis: Datos vs. Marketing<a href="https://fsd.pepetox.es/examen-final-rdw-tesla-fsd#la-defensa-de-tesis-datos-vs-marketing" class="hash-link" aria-label="Enlace directo al La Defensa de Tesis: Datos vs. Marketing" title="Enlace directo al La Defensa de Tesis: Datos vs. Marketing" translate="no">​</a></h2>
-<p>Elon Musk puede vender el futuro en X (antes Twitter), pero la RDW solo compra <strong>evidencia empírica</strong>. El regulador holandés no se impresiona con videos de drones volando sobre un Cybercab.</p>
-<p>Para aprobar la solicitud bajo el Artículo 39 (nuevas tecnologías no cubiertas por la regulación actual), Tesla debe presentar un dossier técnico masivo. No se trata de "mira qué bien conduce", sino de "mira cómo <em>no</em> se estrella".</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="los-3-pilares-del-examen">Los 3 Pilares del Examen<a href="https://fsd.pepetox.es/examen-final-rdw-tesla-fsd#los-3-pilares-del-examen" class="hash-link" aria-label="Enlace directo al Los 3 Pilares del Examen" title="Enlace directo al Los 3 Pilares del Examen" translate="no">​</a></h3>
-<p>Según nuestros análisis de la normativa DCAS y los precedentes de la UNECE, Tesla debe demostrar solvencia absoluta en tres áreas críticas:</p>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-mrm-maniobra-de-riesgo-mínimo">1. MRM (Maniobra de Riesgo Mínimo)<a href="https://fsd.pepetox.es/examen-final-rdw-tesla-fsd#1-mrm-maniobra-de-riesgo-m%C3%ADnimo" class="hash-link" aria-label="Enlace directo al 1. MRM (Maniobra de Riesgo Mínimo)" title="Enlace directo al 1. MRM (Maniobra de Riesgo Mínimo)" translate="no">​</a></h4>
-<p>¿Qué pasa cuando el sistema falla? Esta es la pregunta del millón.</p>
-<ul>
-<li class=""><strong>El Miedo del Regulador:</strong> Que el coche se desconecte en medio de una rotonda y deje al conductor "vendido" en 1 segundo.</li>
-<li class=""><strong>La Solución de Tesla (V14):</strong> La red neuronal ya no se "rinde". Si tiene dudas, debe demostrar que puede orillar el coche de forma segura o reducir la velocidad suavemente mientras alerta al conductor. La V14.2 ha demostrado en EE.UU. que puede gestionar incertidumbre sin desconexiones bruscas, pero la RDW querrá ver datos de <em>fallos provocados</em>.</li>
-</ul>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-odd-dominio-de-diseño-operativo-dinámico">2. ODD (Dominio de Diseño Operativo) Dinámico<a href="https://fsd.pepetox.es/examen-final-rdw-tesla-fsd#2-odd-dominio-de-dise%C3%B1o-operativo-din%C3%A1mico" class="hash-link" aria-label="Enlace directo al 2. ODD (Dominio de Diseño Operativo) Dinámico" title="Enlace directo al 2. ODD (Dominio de Diseño Operativo) Dinámico" translate="no">​</a></h4>
-<p>Los sistemas antiguos (L2) funcionaban solo en autopistas. El FSD quiere funcionar <em>en todas partes</em>.</p>
-<ul>
-<li class=""><strong>El Reto:</strong> Europa es un caos de señalización inconsistente. Una línea amarilla de obra en Alemania no significa lo mismo que una línea desgastada en una comarcal de Albacete.</li>
-<li class=""><strong>La Prueba:</strong> Tesla debe demostrar que el coche entiende <strong>contexto</strong>, no solo reglas rígidas. Aquí es donde la visión pura (sin LiDAR) será sometida al escrutinio más duro. ¿Puede la V14 leer un gesto de un guardia civil?</li>
-</ul>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-monitorización-del-conductor-dms">3. Monitorización del Conductor (DMS)<a href="https://fsd.pepetox.es/examen-final-rdw-tesla-fsd#3-monitorizaci%C3%B3n-del-conductor-dms" class="hash-link" aria-label="Enlace directo al 3. Monitorización del Conductor (DMS)" title="Enlace directo al 3. Monitorización del Conductor (DMS)" translate="no">​</a></h4>
-<p>Europa no quiere "robotaxis" camuflados (todavía). Quiere supervisión activa.</p>
-<ul>
-<li class=""><strong>La Exigencia:</strong> El sistema de cámaras interiores debe ser infalible. Si el conductor mira el móvil o cierra los ojos, el coche debe saberlo <em>antes</em> de que ocurra un problema.</li>
-<li class=""><strong>El Cambio:</strong> Con la V14, Tesla ha endurecido los "nags" (avisos), pero la RDW podría exigir que sean aún más estrictos para el mercado europeo, similar a lo que ya ocurre en China.</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-as-bajo-la-manga-los-datos-de-españa">El "As bajo la Manga": Los Datos de España<a href="https://fsd.pepetox.es/examen-final-rdw-tesla-fsd#el-as-bajo-la-manga-los-datos-de-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al El &quot;As bajo la Manga&quot;: Los Datos de España" title="Enlace directo al El &quot;As bajo la Manga&quot;: Los Datos de España" translate="no">​</a></h2>
-<p>Aquí es donde entra en juego la estrategia que hemos visto desplegarse los últimos 6 meses. ¿Recordáis el <strong>programa ES-AV</strong> en España?</p>
-<p>Esos 19 vehículos que llevan rodando por Madrid y Barcelona desde julio de 2025 no estaban solo haciendo turismo. Estaban recopilando la <strong>munición para este examen</strong>.</p>
-<ul>
-<li class=""><strong>Diversidad de Escenarios:</strong> Las rotondas españolas (famosas por su "creatividad" en el uso de carriles) son el campo de entrenamiento perfecto para demostrar la robustez de la red neuronal.</li>
-<li class=""><strong>Clima y Geografía:</strong> Túneles de la M-30, carreteras de montaña en el norte, sol cegador en el sur.</li>
-<li class=""><strong>Validación Local:</strong> Al presentar datos recopilados en suelo europeo (España), Tesla desmonta el argumento de que "esto solo funciona en las avenidas anchas de California".</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="y-después-del-examen">¿Y después del examen?<a href="https://fsd.pepetox.es/examen-final-rdw-tesla-fsd#y-despu%C3%A9s-del-examen" class="hash-link" aria-label="Enlace directo al ¿Y después del examen?" title="Enlace directo al ¿Y después del examen?" translate="no">​</a></h2>
-<p>Si Tesla entrega el dossier en febrero, ¿cuándo conduciremos nosotros?</p>
-<ol>
-<li class=""><strong>La Corrección (Marzo - Abril):</strong> La RDW analizará los terabytes de datos. Es probable que pidan "aclaraciones" (más datos).</li>
-<li class=""><strong>El Veredicto (Mayo - Junio):</strong> Si todo es perfecto, la RDW podría emitir la exención nacional.</li>
-<li class=""><strong>La Homologación (Verano 2026):</strong> Con el papel holandés, Tesla irá a la DGT en España y dirá: "Holanda dice que es seguro. Según la UE, tú también deberías aceptarlo".</li>
-</ol>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión-paciencia-activa">Conclusión: Paciencia Activa<a href="https://fsd.pepetox.es/examen-final-rdw-tesla-fsd#conclusi%C3%B3n-paciencia-activa" class="hash-link" aria-label="Enlace directo al Conclusión: Paciencia Activa" title="Enlace directo al Conclusión: Paciencia Activa" translate="no">​</a></h2>
-<p>Estamos en la recta final, pero es la parte más lenta. No esperéis una actualización mágica en la pantalla de vuestro Tesla el 1 de marzo.</p>
-<p>Lo que esperamos en febrero es <strong>silencio</strong>. El silencio de los ingenieros trabajando y los burócratas leyendo. Y en este caso, el silencio es bueno. Significa que el examen está en marcha.</p>
-<p><em>Desde The Autonomous Pilot seguiremos monitorizando cada filtración que salga de la Haya. Mantened los ojos en la carretera y las manos en el volante.</em></p>]]></content:encoded>
-            <category>fsd</category>
-            <category>rdw</category>
-            <category>regulación</category>
-            <category>europa</category>
-            <category>seguridad</category>
-            <category>tecnología</category>
         </item>
     </channel>
 </rss>
