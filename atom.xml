@@ -2,11 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fsd.pepetox.es</id>
     <title>FSD Spain Blog</title>
-    <updated>2026-02-03T00:00:00.000Z</updated>
+    <updated>2026-02-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fsd.pepetox.es"/>
     <subtitle>FSD Spain Blog</subtitle>
     <icon>https://fsd.pepetox.es/img/fsdspain.png</icon>
+    <entry>
+        <title type="html"><![CDATA[El Talón de Aquiles Urbano: FSD frente a ciclistas y patinetes en España]]></title>
+        <id>https://fsd.pepetox.es/fsd-ciclistas-patinetes-espana</id>
+        <link href="https://fsd.pepetox.es/fsd-ciclistas-patinetes-espana"/>
+        <updated>2026-02-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[La micro‑movilidad europea no perdona: scooters, bicis y carriles mixtos exigen predicción, negociación y una IA que lea intenciones en tiempo real.]]></summary>
+        <content type="html"><![CDATA[<p>Barcelona, 08:15. Un patinete aparece por tu derecha, un ciclista entra en el carril bus y un coche de reparto abre la puerta sin mirar. En ese segundo no hay margen para "recalcular": <strong>la IA debe anticipar</strong>. El 22 de noviembre de 2025 Tesla presionó públicamente en X con un calendario para Europa; dos días después, el 24 de noviembre de 2025, la RDW aclaró que solo hay una <strong>demostración prevista para febrero de 2026</strong>, sin aprobación garantizada y con el calendario aún sujeto a revisión. Con la UNECE endureciendo los requisitos de sistemas tipo DCAS, el verdadero examen europeo no es una autopista vacía: <strong>es la micro‑movilidad urbana</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detonante-europeo-más-asistencia-más-responsabilidad">El detonante europeo: más asistencia, más responsabilidad<a href="https://fsd.pepetox.es/fsd-ciclistas-patinetes-espana#el-detonante-europeo-m%C3%A1s-asistencia-m%C3%A1s-responsabilidad" class="hash-link" aria-label="Enlace directo al El detonante europeo: más asistencia, más responsabilidad" title="Enlace directo al El detonante europeo: más asistencia, más responsabilidad" translate="no">​</a></h2>
+<p>La regulación UNECE para <strong>Driver Control Assistance Systems (Reglamento UN R171)</strong> entró en vigor el 30 de septiembre de 2024. No es un simple sello: define estos sistemas como <strong>asistencia de nivel 2</strong> y exige <strong>conductores atentos</strong>, avisos claros y comunicación proactiva de límites. En paralelo, la RDW ha confirmado que Tesla debe <strong>demostrar</strong> en febrero de 2026 que FSD Supervised cumple los estándares requeridos, y que el calendario aún está por confirmarse. No hay “fecha de lanzamiento”, hay una prueba dura de seguridad.</p>
+<p>La lectura estratégica es simple: Europa está dispuesta a aceptar más automatización <strong>solo si el sistema demuestra control fino en escenarios reales</strong>. Y en ciudades españolas, esos escenarios están dominados por bicicletas y patinetes.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="españa-no-es-california-la-micromovilidad-manda">España no es California: la micro‑movilidad manda<a href="https://fsd.pepetox.es/fsd-ciclistas-patinetes-espana#espa%C3%B1a-no-es-california-la-micromovilidad-manda" class="hash-link" aria-label="Enlace directo al España no es California: la micro‑movilidad manda" title="Enlace directo al España no es California: la micro‑movilidad manda" translate="no">​</a></h2>
+<p>En muchas ciudades españolas, los carriles se mezclan, las señales son ambiguas y las trayectorias de patinetes cambian en un par de metros. El coche autónomo no se enfrenta a un único vehículo, sino a un <strong>enjambre de trayectorias</strong> que requieren negociación social:</p>
+<ul>
+<li class="">Ciclistas que adelantan por la izquierda pero se cruzan para girar a la derecha.</li>
+<li class="">Patinetes que invaden el carril de circulación cuando la calzada se estrecha.</li>
+<li class="">Carriles bici discontinuos que obligan a “leer” intenciones más que líneas.</li>
+</ul>
+<p><strong>Expectativa:</strong> “Si la red neuronal ve a un ciclista, frenará y ya está.”</p>
+<p><strong>Realidad:</strong> el sistema debe <strong>predecir si el ciclista va a cambiar de carril</strong>, si va a frenar o si va a zigzaguear. Eso exige algo más que detección: exige <strong>modelado de intención</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-reto-técnico-predicción-y-negociación-no-solo-detección">El reto técnico: predicción y negociación, no solo detección<a href="https://fsd.pepetox.es/fsd-ciclistas-patinetes-espana#el-reto-t%C3%A9cnico-predicci%C3%B3n-y-negociaci%C3%B3n-no-solo-detecci%C3%B3n" class="hash-link" aria-label="Enlace directo al El reto técnico: predicción y negociación, no solo detección" title="Enlace directo al El reto técnico: predicción y negociación, no solo detección" translate="no">​</a></h2>
+<p>En entornos urbanos, la decisión correcta no siempre es frenar. A veces es <strong>mantener velocidad</strong>, otras es <strong>ceder el espacio</strong>, y otras es <strong>crear hueco</strong> para que un ciclista termine su maniobra con seguridad. Para FSD, esto implica tres niveles críticos:</p>
+<ol>
+<li class=""><strong>Predicción multimodal:</strong> interpretar señales sutiles (posición del cuerpo, ángulo del manillar, velocidad relativa) para estimar próximas trayectorias.</li>
+<li class=""><strong>Negociación social:</strong> dejar claro a los demás qué vas a hacer (micro‑frenos, posicionamiento dentro del carril, movimientos suaves) para evitar sustos.</li>
+<li class=""><strong>Confort + legalidad:</strong> mantener distancias laterales seguras sin invadir carriles de forma agresiva ni bloquear el tráfico.</li>
+</ol>
+<p>Si la IA se comporta como un humano inseguro, el entorno reacciona peor. Pero si se comporta como un humano demasiado agresivo, el regulador lo tumba. <strong>Ese es el equilibrio europeo.</strong></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-tendrá-que-demostrar-tesla-en-2026">Qué tendrá que demostrar Tesla en 2026<a href="https://fsd.pepetox.es/fsd-ciclistas-patinetes-espana#qu%C3%A9-tendr%C3%A1-que-demostrar-tesla-en-2026" class="hash-link" aria-label="Enlace directo al Qué tendrá que demostrar Tesla en 2026" title="Enlace directo al Qué tendrá que demostrar Tesla en 2026" translate="no">​</a></h2>
+<p>Para que Europa confíe en FSD, el sistema debe demostrar métricas claras en micro‑movilidad urbana:</p>
+<ul>
+<li class=""><strong>Tasa de falsas alarmas baja</strong>: no “frenar por miedo” ante cada bicicleta lejana.</li>
+<li class=""><strong>Deceleraciones suaves y predecibles</strong>: evitar frenazos que asusten al ciclista.</li>
+<li class=""><strong>Adelantamientos legales y seguros</strong>: respetar distancias laterales y señalización.</li>
+<li class=""><strong>Gestión de carriles mixtos</strong>: interpretar cuando el carril bici se integra y cuándo no.</li>
+</ul>
+<p>Si Tesla quiere aprobar en la UE, la evidencia tendrá que incluir <strong>datos reales de calles europeas</strong> y no solo simulaciones o vídeos llamativos. En España, las bicis y patinetes son el filtro más realista para separar “autonomía demo” de “autonomía usable”.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión-el-futuro-se-juega-en-el-carril-bici">Conclusión: el futuro se juega en el carril bici<a href="https://fsd.pepetox.es/fsd-ciclistas-patinetes-espana#conclusi%C3%B3n-el-futuro-se-juega-en-el-carril-bici" class="hash-link" aria-label="Enlace directo al Conclusión: el futuro se juega en el carril bici" title="Enlace directo al Conclusión: el futuro se juega en el carril bici" translate="no">​</a></h2>
+<p>Europa ya no discute si la IA puede girar. Discute si <strong>puede convivir con los usuarios más vulnerables</strong>. El FSD que conquiste Madrid, Barcelona o Valencia será el que haya aprendido a negociar con ciclistas y patinetes en tiempo real.</p>
+<p>Si quieres seguir este debate, lee también nuestra visión sobre la <a class="" href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13">revolución end‑to‑end del FSD</a> y nuestro análisis de por qué Europa <strong>pone el foco en la atención del conductor</strong> en <a class="" href="https://fsd.pepetox.es/limites-fsd-atencion-conductor">este post</a>. Cuéntanos en comentarios: ¿qué situación urbana crees que será el verdadero “examen final” en España?</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-ciclistas-patinetes-espana#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class="">UNECE — "New UN regulation paves way for deployment of driving assistance systems worldwide" (04 Oct 2024): <a href="https://unece.org/media/press/395206" target="_blank" rel="noopener noreferrer" class="">https://unece.org/media/press/395206</a></li>
+<li class="">RDW — "RDW response following Tesla’s call to action" (24 Nov 2025): <a href="https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action</a></li>
+<li class="">TechCrunch — "Tesla FSD software may not be approved by EU regulator after all" (24 Nov 2025): <a href="https://techcrunch.com/2025/11/24/tesla-fsd-software-may-not-be-approved-by-eu-regulator-after-all/" target="_blank" rel="noopener noreferrer" class="">https://techcrunch.com/2025/11/24/tesla-fsd-software-may-not-be-approved-by-eu-regulator-after-all/</a></li>
+</ul>]]></content>
+        <author>
+            <name>The Autonomous Pilot</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="tesla" term="tesla"/>
+        <category label="ai" term="ai"/>
+        <category label="testing" term="testing"/>
+        <category label="regulations" term="regulations"/>
+        <category label="espana" term="espana"/>
+        <category label="seguridad" term="seguridad"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Europa obliga a explicar los límites del FSD: el examen real es la atención del conductor]]></title>
         <id>https://fsd.pepetox.es/limites-fsd-atencion-conductor</id>
@@ -1130,45 +1187,5 @@
         <category label="edge-cases" term="edge-cases"/>
         <category label="fsd-beta" term="fsd-beta"/>
         <category label="conduccion-urbana" term="conduccion-urbana"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[España, Laboratorio de Europa: Análisis de la Autorización FVA-03/2025]]></title>
-        <id>https://fsd.pepetox.es/autorizacion-fsd-espana-fva-03-2025</id>
-        <link href="https://fsd.pepetox.es/autorizacion-fsd-espana-fva-03-2025"/>
-        <updated>2026-01-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mientras Bruselas y la UNECE continúan deliberando sobre los detalles técnicos de la normativa DCAS (Driver Control Assistance Systems), España ha decidido tomar la delantera pragmática en la carrera por la conducción autónoma. La reciente confirmación de la autorización FVA-03/2025 por parte de la Dirección General de Tráfico (DGT) no es solo un trámite administrativo; es la señal definitiva de que nuestras carreteras se han convertido en el campo de pruebas crucial para el FSD en el sur de Europa.]]></summary>
-        <content type="html"><![CDATA[<p>Mientras Bruselas y la UNECE continúan deliberando sobre los detalles técnicos de la normativa DCAS (Driver Control Assistance Systems), España ha decidido tomar la delantera pragmática en la carrera por la conducción autónoma. La reciente confirmación de la autorización <strong>FVA-03/2025</strong> por parte de la Dirección General de Tráfico (DGT) no es solo un trámite administrativo; es la señal definitiva de que nuestras carreteras se han convertido en el campo de pruebas crucial para el FSD en el sur de Europa.</p>
-<p>¿Qué significa realmente este código burocrático para el futuro de Tesla en la península y por qué deberíamos prestar atención a esos Model 3 con matrículas de prueba que empiezan a verse fuera de Madrid?</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fva-032025-la-visa-dorada-del-fsd">FVA-03/2025: La "Visa Dorada" del FSD<a href="https://fsd.pepetox.es/autorizacion-fsd-espana-fva-03-2025#fva-032025-la-visa-dorada-del-fsd" class="hash-link" aria-label="Enlace directo al FVA-03/2025: La &quot;Visa Dorada&quot; del FSD" title="Enlace directo al FVA-03/2025: La &quot;Visa Dorada&quot; del FSD" translate="no">​</a></h2>
-<p>A diferencia de los permisos limitados que hemos visto en otros países europeos, la autorización otorgada por la DGT es sorprendentemente amplia y ambiciosa. Según los detalles que han trascendido del programa ES-AV (Vehículos Automatizados), Tesla ha conseguido luz verde para operar una flota de <strong>19 vehículos</strong> específicos.</p>
-<p>Lo verdaderamente disruptivo no es el número de coches, sino el alcance geográfico: <strong>"cualquier ruta nacional"</strong>.</p>
-<p>Esto elimina las restricciones de "geofencing" (cercado geográfico) que a menudo limitan estas pruebas a autopistas controladas o distritos urbanos específicos. Tesla ahora tiene la libertad legal para enfrentar a su red neuronal contra la inmensa variabilidad de la infraestructura española: desde las autopistas M-30 y M-40, pasando por las carreteras secundarias de Galicia, hasta el caos urbano del Eixample barcelonés.</p>
-<p>La autorización tiene una vigencia hasta <strong>noviembre de 2027</strong>, lo que nos da una pista clara sobre el horizonte temporal que manejan tanto los reguladores como la compañía para una madurez total del sistema.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-contexto-europeo-fase-2-en-q2-2026">El Contexto Europeo: Fase 2 en Q2 2026<a href="https://fsd.pepetox.es/autorizacion-fsd-espana-fva-03-2025#el-contexto-europeo-fase-2-en-q2-2026" class="hash-link" aria-label="Enlace directo al El Contexto Europeo: Fase 2 en Q2 2026" title="Enlace directo al El Contexto Europeo: Fase 2 en Q2 2026" translate="no">​</a></h2>
-<p>Esta libertad de pruebas en España encaja perfectamente con el cronograma filtrado de Tesla para Europa. Mientras que países como Alemania y Holanda (sede de la RDW, la autoridad de homologación clave) están en la "Fase 1" de validación técnica estricta, España se posiciona en la <strong>Fase 2</strong>, con un despliegue más amplio proyectado para el <strong>segundo trimestre de 2026</strong>.</p>
-<p>Esto sugiere que los datos recogidos en nuestras carreteras servirán para "afinar" el comportamiento del FSD ante las idiosincrasias de la conducción latina, que difiere notablemente de la rigidez del tráfico en el norte de Europa.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-españa">¿Por qué España?<a href="https://fsd.pepetox.es/autorizacion-fsd-espana-fva-03-2025#por-qu%C3%A9-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al ¿Por qué España?" title="Enlace directo al ¿Por qué España?" translate="no">​</a></h3>
-<ol>
-<li class=""><strong>Clima Favorable:</strong> A diferencia de Noruega o Suecia, España ofrece condiciones de luz y clima ideales para las cámaras del Hardware 4 durante todo el año, maximizando las horas de validación efectiva.</li>
-<li class=""><strong>Infraestructura Desafiante:</strong> Como analizamos en nuestro artículo sobre <a class="" href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana">El Desafío de la Rotonda</a>, nuestras rotondas (a menudo con carriles implícitos y salidas agresivas) son el "jefe final" para cualquier IA de conducción. Si el FSD puede navegar una rotonda de tres carriles en hora punta en Valencia, puede conducir en casi cualquier lugar.</li>
-<li class=""><strong>Apoyo Institucional:</strong> La DGT ha demostrado ser un organismo progresista en cuanto a la adopción de nuevas tecnologías, entendiendo que la automatización es clave para reducir la siniestralidad a largo plazo (Visión Cero).</li>
-</ol>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad-vs-expectativa">Realidad vs. Expectativa<a href="https://fsd.pepetox.es/autorizacion-fsd-espana-fva-03-2025#realidad-vs-expectativa" class="hash-link" aria-label="Enlace directo al Realidad vs. Expectativa" title="Enlace directo al Realidad vs. Expectativa" translate="no">​</a></h2>
-<p>Es importante moderar el entusiasmo. Que existan 19 coches probando el sistema <strong>no significa</strong> que tu Tesla vaya a recibir la actualización mañana. Estos vehículos están operados por conductores de seguridad profesionales (Safety Operators) que monitorizan el sistema constantemente.</p>
-<p>Sin embargo, cada kilómetro recorrido por esta flota "fantasma" alimenta el cerebro colectivo de la IA de Tesla. Los "disengagements" (desconexiones) que ocurren hoy en una carretera de montaña en Andalucía son los parches de software que evitarán accidentes en la versión pública que (esperamos) llegue a finales de este año o principios del próximo.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://fsd.pepetox.es/autorizacion-fsd-espana-fva-03-2025#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
-<p>La autorización FVA-03/2025 convierte a España en un laboratorio vivo. Ya no somos espectadores pasivos esperando a que California decida que el software está listo. Nuestras carreteras están entrenando activamente a la próxima generación de inteligencia artificial.</p>
-<p>La próxima vez que veas un Tesla haciendo una maniobra inusualmente suave (o quizás un poco vacilante) en una rotonda compleja, fíjate bien. Podría ser uno de los 19 pioneros trazando el mapa digital del futuro.</p>
-<p>Mantente atento al blog para más actualizaciones sobre cómo avanza la <strong>Fase 2</strong> y qué dicen los primeros informes de estas pruebas nacionales.</p>]]></content>
-        <author>
-            <name>The Autonomous Pilot</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="regulacion" term="regulacion"/>
-        <category label="españa" term="españa"/>
-        <category label="dgt" term="dgt"/>
-        <category label="pruebas" term="pruebas"/>
-        <category label="fsd-beta" term="fsd-beta"/>
-        <category label="noticias" term="noticias"/>
     </entry>
 </feed>
