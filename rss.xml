@@ -4,10 +4,59 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Wed, 04 Feb 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[La intersección invisible: FSD ante la prioridad a la derecha en España]]></title>
+            <link>https://fsd.pepetox.es/prioridad-derecha-intersecciones-fsd</link>
+            <guid>https://fsd.pepetox.es/prioridad-derecha-intersecciones-fsd</guid>
+            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[En los cruces sin semáforo ni marcas, el FSD no solo debe ver: tiene que negociar la prioridad a la derecha y anticipar intenciones humanas en milisegundos.]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="Tesla FSD ante una intersección sin señalizar en un pueblo español" src="https://fsd.pepetox.es/assets/images/fsd_interseccion_pueblo_espana-31d8d4ef3f115c613cd72734ebd9b67e.png" width="1024" height="1024" class="img_ev3q"></p>
+<p>Es temprano y atraviesas un pueblo castellano. Dos calles se cruzan sin semáforo, sin líneas claras, sin carteles visibles a tiempo. Un coche aparece por la derecha a 30 km/h. No hay duda para un humano: <strong>ceder el paso</strong>. Para un sistema end‑to‑end, esa “regla silenciosa” es un test de inteligencia situacional, no de visión.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detonante-europeo-la-demostración-de-febrero-no-será-un-paseo">El detonante europeo: la demostración de febrero no será un paseo<a href="https://fsd.pepetox.es/prioridad-derecha-intersecciones-fsd#el-detonante-europeo-la-demostraci%C3%B3n-de-febrero-no-ser%C3%A1-un-paseo" class="hash-link" aria-label="Enlace directo al El detonante europeo: la demostración de febrero no será un paseo" title="Enlace directo al El detonante europeo: la demostración de febrero no será un paseo" translate="no">​</a></h2>
+<p>La RDW (Países Bajos) ha dejado claro que <strong>febrero de 2026 es una demostración</strong> para FSD Supervised, no una aprobación automática. Y que el calendario está condicionado a cumplir los requisitos de seguridad. Esto cambia el foco: la IA debe superar <strong>escenarios reales</strong> donde las normas no están pintadas en el suelo, sino en la cultura de conducción. En España, el cruce sin señalización es un “examen práctico” diario.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-la-prioridad-a-la-derecha-es-un-problema-de-ia-y-no-de-mapas">Por qué la prioridad a la derecha es un problema de IA (y no de mapas)<a href="https://fsd.pepetox.es/prioridad-derecha-intersecciones-fsd#por-qu%C3%A9-la-prioridad-a-la-derecha-es-un-problema-de-ia-y-no-de-mapas" class="hash-link" aria-label="Enlace directo al Por qué la prioridad a la derecha es un problema de IA (y no de mapas)" title="Enlace directo al Por qué la prioridad a la derecha es un problema de IA (y no de mapas)" translate="no">​</a></h2>
+<p>En teoría, el reglamento es simple. En la práctica, estas intersecciones son un sistema de negociación humana:</p>
+<ul>
+<li class=""><strong>Conocimiento implícito</strong>: un conductor sabe que “toca” ceder aunque no haya señal. La IA debe inferirlo sin apoyo explícito.</li>
+<li class=""><strong>Intenciones rápidas</strong>: un coche que frena levemente puede “ceder”, pero otro puede acelerar para pasar. El comportamiento es ambiguo.</li>
+<li class=""><strong>Entorno visual pobre</strong>: calles estrechas, coches aparcados, esquinas ciegas y marcas borradas reducen el tiempo útil de decisión.</li>
+</ul>
+<p>Un mapa HD no resuelve esto. El mapa puede decir “intersección”, pero <strong>no puede predecir quién va a ceder</strong>. La decisión real exige leer velocidades, posiciones y micro‑gestos del tráfico en tiempo real.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs. realidad<a href="https://fsd.pepetox.es/prioridad-derecha-intersecciones-fsd#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad" title="Enlace directo al Expectativa vs. realidad" translate="no">​</a></h2>
+<p><strong>Expectativa:</strong> “Si detecta el coche de la derecha, simplemente frena.”</p>
+<p><strong>Realidad:</strong> frenar siempre no es seguro ni socialmente aceptable. En algunos cruces, detenerse cuando no hace falta provoca confusión y riesgo por alcance. El FSD necesita <strong>política de negociación</strong>, no solo detección de objetos.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-tendría-que-demostrar-fsd-para-aprobar-en-europa">Qué tendría que demostrar FSD para aprobar en Europa<a href="https://fsd.pepetox.es/prioridad-derecha-intersecciones-fsd#qu%C3%A9-tendr%C3%ADa-que-demostrar-fsd-para-aprobar-en-europa" class="hash-link" aria-label="Enlace directo al Qué tendría que demostrar FSD para aprobar en Europa" title="Enlace directo al Qué tendría que demostrar FSD para aprobar en Europa" translate="no">​</a></h2>
+<p>La regulación DCAS (UN R171) exige no solo conducción competente, sino <strong>gestión responsable del conductor</strong> y comunicación clara de límites. En un cruce sin señalizar, eso se traduce en tres requisitos prácticos:</p>
+<ol>
+<li class=""><strong>Confianza calibrada</strong>: saber cuándo ceder y cuándo avanzar, sin bloqueos ni brusquedad.</li>
+<li class=""><strong>Explicabilidad de la decisión</strong>: si el sistema duda, debe pedir al conductor de forma temprana, no en el último segundo.</li>
+<li class=""><strong>Consistencia</strong>: que el comportamiento sea estable y predecible para otros conductores (lo que evita accidentes “por sorpresa”).</li>
+</ol>
+<p>Este es el tipo de escenario que no se resuelve con una demo bonita en autopista. Es una prueba de <strong>cultura vial local</strong>, y Europa la va a medir con lupa.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-paso-siguiente-para-españa">El paso siguiente para España<a href="https://fsd.pepetox.es/prioridad-derecha-intersecciones-fsd#el-paso-siguiente-para-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al El paso siguiente para España" title="Enlace directo al El paso siguiente para España" translate="no">​</a></h2>
+<p>Si queremos un FSD que funcione aquí, la receta es clara: <strong>datos locales</strong>, entrenamiento con intersecciones reales y validación transparente. No basta con “conducir bien”; hay que <strong>conducir como se conduce en España</strong>.</p>
+<p>Si te interesan otros retos europeos donde la norma es dinámica, te recomiendo nuestro análisis sobre <a class="" href="https://fsd.pepetox.es/fsd-carril-bus-paneles-variables">carriles bus y paneles variables</a> y la lectura de la <a class="" href="https://fsd.pepetox.es/fsd-paso-cebra-espana">interacción con peatones en cruces</a>.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/prioridad-derecha-intersecciones-fsd#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h3>
+<p>El futuro del FSD en Europa no se decide en una autopista perfecta. Se decide en cruces invisibles donde la IA debe entender reglas no escritas. <strong>Ahí está el verdadero examen</strong>.</p>
+<p>¿Has vivido un cruce así con tu Tesla? Cuéntalo en comentarios y sigue el blog: lo que pase en febrero es solo el primer capítulo.</p>
+<hr>
+<p><strong>Fuentes</strong></p>
+<ul>
+<li class="">RDW: respuesta oficial sobre la demostración de FSD Supervised en febrero de 2026. <a href="https://www.rdw.nl/particulier/nieuws/2025/rdw-reageert-op-berichtgeving-over-toelating-full-self-driving-systeem-tesla" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/particulier/nieuws/2025/rdw-reageert-op-berichtgeving-over-toelating-full-self-driving-systeem-tesla</a></li>
+<li class="">UNECE: Reglamento UN R171 (DCAS) y requisitos de responsabilidad y atención del conductor. <a href="https://unece.org/transport/documents/2024/09/press-releases/new-un-regulation-help-keep-driver-engaged" target="_blank" rel="noopener noreferrer" class="">https://unece.org/transport/documents/2024/09/press-releases/new-un-regulation-help-keep-driver-engaged</a></li>
+<li class="">EUR-Lex: texto consolidado del Reglamento UN R171. <a href="https://eur-lex.europa.eu/eli/reg/2021/387/oj" target="_blank" rel="noopener noreferrer" class="">https://eur-lex.europa.eu/eli/reg/2021/387/oj</a></li>
+</ul>]]></content:encoded>
+            <category>fsd</category>
+            <category>tesla</category>
+            <category>ai</category>
+            <category>testing</category>
+            <category>espana</category>
+            <category>regulations</category>
+        </item>
         <item>
             <title><![CDATA[El Talón de Aquiles Urbano: FSD frente a ciclistas y patinetes en España]]></title>
             <link>https://fsd.pepetox.es/fsd-ciclistas-patinetes-espana</link>
@@ -1071,46 +1120,6 @@
             <category>testing</category>
             <category>seguridad</category>
             <category>supervision</category>
-        </item>
-        <item>
-            <title><![CDATA[La Prueba del 'Pan Caliente': FSD vs. La Doble Fila Española]]></title>
-            <link>https://fsd.pepetox.es/fsd-vs-doble-fila-espana</link>
-            <guid>https://fsd.pepetox.es/fsd-vs-doble-fila-espana</guid>
-            <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Es domingo por la mañana en una calle estrecha de Chamberí o L'Eixample. Delante de ti, una furgoneta de reparto (o el vecino del quinto) ha decidido activar el botón mágico de "puedo aparcar donde quiera": los cuatro intermitentes de emergencia. Está en doble fila, bloqueando tu carril. A tu izquierda, una línea continua infranqueable.]]></description>
-            <content:encoded><![CDATA[<p>Es domingo por la mañana en una calle estrecha de Chamberí o L'Eixample. Delante de ti, una furgoneta de reparto (o el vecino del quinto) ha decidido activar el botón mágico de "puedo aparcar donde quiera": los cuatro intermitentes de emergencia. Está en doble fila, bloqueando tu carril. A tu izquierda, una línea continua infranqueable.</p>
-<p>Para un conductor humano español, la decisión es automática: mirar, señalizar, invadir ligeramente el carril contrario con precaución y continuar. Pero para una Inteligencia Artificial entrenada en las amplias avenidas de California, esta maniobra es un dilema existencial.</p>
-<p>¿Cómo se comporta el FSD (Full Self-Driving) ante la institución nacional de la "doble fila"? ¿Sabe diferenciar entre un atasco y un obstáculo?</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-dilema-de-la-línea-continua">El Dilema de la Línea Continua<a href="https://fsd.pepetox.es/fsd-vs-doble-fila-espana#el-dilema-de-la-l%C3%ADnea-continua" class="hash-link" aria-label="Enlace directo al El Dilema de la Línea Continua" title="Enlace directo al El Dilema de la Línea Continua" translate="no">​</a></h2>
-<p>Aquí es donde la tecnología choca frontalmente con la normativa y la costumbre. En el código estricto de una máquina, una línea continua es un muro virtual. "No pasar". Sin embargo, la realidad de la conducción europea requiere flexibilidad.</p>
-<p>La <strong>Dirección General de Tráfico (DGT)</strong> es clara pero matizada: aunque rebasar una línea continua está prohibido para adelantar, existe una excepción crucial para <strong>rebasar obstáculos o vehículos inmovilizados</strong>, siempre que se haga sin peligro. Un coche en doble fila sin conductor se considera un obstáculo.</p>
-<p>El desafío para el Tesla no es legal, es <strong>perceptivo</strong>.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="atasco-o-voy-a-por-tabaco">¿Atasco o "Voy a por tabaco"?<a href="https://fsd.pepetox.es/fsd-vs-doble-fila-espana#atasco-o-voy-a-por-tabaco" class="hash-link" aria-label="Enlace directo al ¿Atasco o &quot;Voy a por tabaco&quot;?" title="Enlace directo al ¿Atasco o &quot;Voy a por tabaco&quot;?" translate="no">​</a></h3>
-<p>Para que el FSD decida iniciar la maniobra, su red neuronal debe responder a una pregunta crítica en milisegundos: <strong>¿Este vehículo está esperando al tráfico o está aparcado ilegalmente?</strong></p>
-<ol>
-<li class=""><strong>Luces de emergencia:</strong> Si el coche de delante tiene los <em>warnings</em> puestos, el FSD v13+ suele identificarlo rápidamente como un obstáculo estático.</li>
-<li class=""><strong>Puertas abiertas/Peatones:</strong> La detección de una puerta abierta o un conductor saliendo del vehículo es una señal de "go" inmediata para la IA.</li>
-<li class=""><strong>El "Creep" de la duda:</strong> Si no hay señales claras, verás que tu Tesla avanza lentamente (<em>creeping</em>), asomando el morro para "ver" más allá del obstáculo. Es un comportamiento casi humano, buscando confirmación visual de que el carril contrario está libre.</li>
-</ol>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-evolución-de-la-parálisis-a-la-fluidez">La Evolución: De la Parálisis a la Fluidez<a href="https://fsd.pepetox.es/fsd-vs-doble-fila-espana#la-evoluci%C3%B3n-de-la-par%C3%A1lisis-a-la-fluidez" class="hash-link" aria-label="Enlace directo al La Evolución: De la Parálisis a la Fluidez" title="Enlace directo al La Evolución: De la Parálisis a la Fluidez" translate="no">​</a></h2>
-<p>En las primeras versiones (FSD Beta v11), encontrarse un coche en doble fila en una calle de un solo carril por sentido era garantía de intervención humana. El coche simplemente se detenía detrás, esperando eternamente a que el "tráfico" se moviera.</p>
-<p>Con las actualizaciones recientes que estamos viendo en la flota de prueba en España (FVA-03/2025), el comportamiento ha cambiado radicalmente:</p>
-<ul>
-<li class=""><strong>Asertividad Calculada:</strong> El sistema ahora "entiende" que si el vehículo de delante no se ha movido en 5 segundos y no hay semáforo en rojo, probablemente no se va a mover.</li>
-<li class=""><strong>Invasión Mínima:</strong> A diferencia de un humano que quizás invade todo el carril contrario, el FSD calcula la trayectoria ajustada al milímetro, pisando la línea continua solo lo estrictamente necesario para pasar.</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-reto-pendiente-la-comunicación">El Reto Pendiente: La Comunicación<a href="https://fsd.pepetox.es/fsd-vs-doble-fila-espana#el-reto-pendiente-la-comunicaci%C3%B3n" class="hash-link" aria-label="Enlace directo al El Reto Pendiente: La Comunicación" title="Enlace directo al El Reto Pendiente: La Comunicación" translate="no">​</a></h2>
-<p>Donde el FSD todavía tiene que aprender "español" es en la negociación. En nuestras calles, a menudo el adelantamiento a un doble fila implica que el coche que viene de frente te ceda el paso o viceversa. Un ligero gesto, una ráfaga de luces.</p>
-<p>Actualmente, el Tesla es un conductor tímido. Si ve venir a alguien de frente, abortará la maniobra mucho antes que un conductor madrileño. Y quizás eso sea bueno. La seguridad (Safety First) siempre debe primar sobre la prisa por esquivar al repartidor.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión">Conclusión<a href="https://fsd.pepetox.es/fsd-vs-doble-fila-espana#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión" translate="no">​</a></h2>
-<p>La "doble fila" es uno de esos <em>edge cases</em> culturales que demuestran por qué la conducción autónoma es tan difícil de globalizar. No basta con enseñar al coche a conducir; hay que enseñarle a entender el contexto social de la carretera.</p>
-<p>Por ahora, si te encuentras bloqueado por alguien comprando el pan, ten paciencia. Tu Tesla está pensando, calculando y, sobre todo, aprendiendo que en España, las reglas a veces tienen notas al pie.</p>]]></content:encoded>
-            <category>tecnologia</category>
-            <category>españa</category>
-            <category>dgt</category>
-            <category>edge-cases</category>
-            <category>fsd-beta</category>
-            <category>conduccion-urbana</category>
         </item>
     </channel>
 </rss>
