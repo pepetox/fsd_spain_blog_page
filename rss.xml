@@ -4,10 +4,97 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Fri, 06 Feb 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Feb 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[El lenguaje de la mano: cuando FSD tiene que obedecer a un agente en España]]></title>
+            <link>https://fsd.pepetox.es/gestos-agentes-trafico-fsd</link>
+            <guid>https://fsd.pepetox.es/gestos-agentes-trafico-fsd</guid>
+            <pubDate>Sat, 07 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Rotondas, lluvia y obras son difíciles. Pero el test definitivo en España es otro: entender y obedecer el gesto de un agente que reescribe la carretera en tiempo real.]]></description>
+            <content:encoded><![CDATA[<p>AP-6, salida de Segovia, 19:47. Lluvia fina. Ves luces azules a lo lejos y, de pronto, el carril “desaparece”: un agente te hace un gesto seco con la mano y te manda a la izquierda. No hay señal luminosa que lo explique. No hay marca en el asfalto. Solo un humano con chaleco reflectante, un silbato y una autoridad legal que convierte su brazo en la norma más importante de la vía.</p>
+<p>Para Tesla FSD <em>Supervised</em>, este escenario no es un “edge case” pintoresco. Es el tipo de realidad española que separa una IA que <strong>conduce</strong> de una IA que <strong>entiende cuándo la carretera ha cambiado de reglas</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="no-es-visión-es-soberanía-de-la-norma">No es visión: es soberanía de la norma<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#no-es-visi%C3%B3n-es-soberan%C3%ADa-de-la-norma" class="hash-link" aria-label="Enlace directo al No es visión: es soberanía de la norma" title="Enlace directo al No es visión: es soberanía de la norma" translate="no">​</a></h2>
+<p>La mayoría de retos que obsesionan a la comunidad (rotondas, carriles estrechos, motos filtrando) son difíciles porque el mundo es ambiguo. Pero con un agente ocurre algo distinto: <strong>la ambigüedad se termina</strong>.</p>
+<p>En ese momento, el sistema no necesita “adivinar” la intención del tráfico. Necesita:</p>
+<ul>
+<li class="">Detectar que hay un humano “especial” (agente, operario autorizado, señalista).</li>
+<li class="">Interpretar correctamente un gesto que puede ser sutil, rápido y contextual.</li>
+<li class="">Cambiar el plan de conducción aunque contradiga el mapa, las líneas o la señalización previa.</li>
+<li class="">Y hacerlo de forma <strong>legible</strong> para los coches de alrededor (sin frenazos, sin bandazos).</li>
+</ul>
+<p>Dicho de otra manera: un agente es un “override” del mundo físico. Y Europa, por cómo regula, va a exigir que este override sea tratable con seguridad.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-señal-humana-como-api-y-por-qué-a-la-ia-le-cuesta">La señal humana como API (y por qué a la IA le cuesta)<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#la-se%C3%B1al-humana-como-api-y-por-qu%C3%A9-a-la-ia-le-cuesta" class="hash-link" aria-label="Enlace directo al La señal humana como API (y por qué a la IA le cuesta)" title="Enlace directo al La señal humana como API (y por qué a la IA le cuesta)" translate="no">​</a></h2>
+<p>Para un conductor español, los gestos son un idioma aprendido a base de experiencia: “pasa”, “para”, “cambia de carril”, “sigue recto aunque el carril esté pintado”. Para una red neuronal end-to-end, la dificultad no es solo ver una mano.</p>
+<p>Es un paquete completo:</p>
+<ul>
+<li class=""><strong>Percepción</strong>: distinguir un gesto real de un movimiento casual, con lluvia, contra-luz, faros, reflejos y chalecos que “queman” el sensor.</li>
+<li class=""><strong>Semántica</strong>: entender <em>qué</em> significa en ese contexto (no es lo mismo “sigue” en un control que “sigue” en una obra).</li>
+<li class=""><strong>Autoridad</strong>: saber que ese gesto tiene prioridad sobre señales y marcas.</li>
+<li class=""><strong>Planificación social</strong>: ejecutar la maniobra de forma que el resto de humanos “lea” tu intención.</li>
+</ul>
+<p>Y aquí hay un detalle técnico clave que a veces se pasa por alto: el gesto no es una señal aislada. Es una señal <strong>acompañada</strong> por el comportamiento del entorno (coches parados, conos, luces, desvíos). La IA tiene que fusionarlo todo en milisegundos.</p>
+<p>Si te interesa este enfoque de “la carretera como sistema social”, conecta muy bien con dos escenarios recientes:</p>
+<ul>
+<li class=""><a class="" href="https://fsd.pepetox.es/fsd-obras-desvios-examen-europa">Obras y desvíos: el examen europeo sorpresa</a></li>
+<li class=""><a class="" href="https://fsd.pepetox.es/fsd-carril-bus-paneles-variables">Paneles variables y carril bus-VAO: leer la ley en tiempo real</a></li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-nuevo-tesla-ya-menciona-gestos-humanos-en-mejoras-recientes">Lo nuevo: Tesla ya menciona “gestos humanos” en mejoras recientes<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#lo-nuevo-tesla-ya-menciona-gestos-humanos-en-mejoras-recientes" class="hash-link" aria-label="Enlace directo al Lo nuevo: Tesla ya menciona “gestos humanos” en mejoras recientes" title="Enlace directo al Lo nuevo: Tesla ya menciona “gestos humanos” en mejoras recientes" translate="no">​</a></h2>
+<p>Esta semana, lo interesante no es una promesa grandilocuente. Es una línea en las notas de versión: mejoras relacionadas con <strong>human gestures</strong> y con el manejo de <strong>carreteras bloqueadas / desvíos</strong> en FSD <em>Supervised</em> (EE. UU.). Cuando Tesla empieza a escribir estas capacidades como “features” repetibles, normalmente es porque ya tiene datos, métricas internas y una política de conducción que puede entrenar y validar de forma consistente.</p>
+<p>En Europa, esto importa por una razón muy concreta: si el objetivo es una demostración creíble (y, más adelante, aprobación), el sistema tiene que demostrar robustez justo donde el mapa falla y la autoridad humana manda.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="españa-como-stress-test-controles-eventos-y-caos-legal">España como stress test: controles, eventos y caos “legal”<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#espa%C3%B1a-como-stress-test-controles-eventos-y-caos-legal" class="hash-link" aria-label="Enlace directo al España como stress test: controles, eventos y caos “legal”" title="Enlace directo al España como stress test: controles, eventos y caos “legal”" translate="no">​</a></h2>
+<p>Piensa en los escenarios españoles donde un gesto manda más que cualquier señal:</p>
+<ul>
+<li class=""><strong>Controles</strong> de Guardia Civil con desvíos improvisados.</li>
+<li class=""><strong>Accesos</strong> a estadios, ferias o eventos donde te guían a un carril que “no existe”.</li>
+<li class=""><strong>Accidentes</strong> con cortes parciales donde el carril se convierte en una negociación dirigida.</li>
+<li class=""><strong>Obras móviles</strong> en las que el operario te indica que “pases” aunque el carril esté marcado como cerrado.</li>
+</ul>
+<p>Ahora imagina el fallo típico de un sistema que todavía no domina esto:</p>
+<ul>
+<li class="">Se queda “congelado” porque el gesto contradice su política normal.</li>
+<li class="">Obedece tarde y provoca una maniobra brusca (peligro de alcance).</li>
+<li class="">Interpreta mal el gesto y se mete en el carril equivocado (confusión en cadena).</li>
+</ul>
+<p>Y aquí está la tensión europea: <strong>un fallo no es solo técnico; es regulatorio</strong>. Porque la pregunta del regulador no será “¿puede girar bien?”. Será “¿qué hace cuando el mundo cambia y el conductor espera que el coche obedezca a la autoridad vial?”.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-realidad-legal-los-gestos-no-son-opinión-son-señalización">La realidad legal: los gestos no son “opinión”, son señalización<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#la-realidad-legal-los-gestos-no-son-opini%C3%B3n-son-se%C3%B1alizaci%C3%B3n" class="hash-link" aria-label="Enlace directo al La realidad legal: los gestos no son “opinión”, son señalización" title="Enlace directo al La realidad legal: los gestos no son “opinión”, son señalización" translate="no">​</a></h2>
+<p>En España, las señales (incluidas las de agentes) están definidas y tienen fuerza normativa. Eso significa que, aunque el sistema sea “solo” un asistente supervisado, su comportamiento debe ser compatible con el marco legal real: no basta con conducir “de forma segura” en abstracto; hay que hacerlo respetando la señalización y su jerarquía.</p>
+<p>Para el FSD, esto se traduce en un requisito práctico: cuando el agente manda, el sistema debe actuar de forma que el conductor pueda supervisar y, si hace falta, intervenir con margen. En otras palabras: <strong>obedecer bien o pedir ayuda pronto</strong>. No hay término medio.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-tendría-que-demostrar-tesla-para-que-europa-lo-tome-en-serio">Qué tendría que demostrar Tesla para que Europa lo tome en serio<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#qu%C3%A9-tendr%C3%ADa-que-demostrar-tesla-para-que-europa-lo-tome-en-serio" class="hash-link" aria-label="Enlace directo al Qué tendría que demostrar Tesla para que Europa lo tome en serio" title="Enlace directo al Qué tendría que demostrar Tesla para que Europa lo tome en serio" translate="no">​</a></h2>
+<p>Si tuviera que definir un “checklist” de madurez para este caso (sin caer en listas tipo changelog), sería este:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-detección-temprana-y-robusta-del-rol">1) Detección temprana y robusta del “rol”<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#1-detecci%C3%B3n-temprana-y-robusta-del-rol" class="hash-link" aria-label="Enlace directo al 1) Detección temprana y robusta del “rol”" title="Enlace directo al 1) Detección temprana y robusta del “rol”" translate="no">​</a></h3>
+<p>No es solo “un peatón”. Es un peatón con rol: agente, operario autorizado, señalista. La red tiene que reconocer el contexto (chaleco, postura, herramientas, entorno) con baja tasa de falsos positivos.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-interpretación-del-gesto-con-incertidumbre-explícita">2) Interpretación del gesto con incertidumbre explícita<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#2-interpretaci%C3%B3n-del-gesto-con-incertidumbre-expl%C3%ADcita" class="hash-link" aria-label="Enlace directo al 2) Interpretación del gesto con incertidumbre explícita" title="Enlace directo al 2) Interpretación del gesto con incertidumbre explícita" translate="no">​</a></h3>
+<p>Habrá gestos confusos, parcialmente ocluidos o contradictorios. El sistema debería tratarlo como una estimación probabilística: si la confianza no es alta, la maniobra debe ser conservadora y el conductor debe recibir una petición de supervisión clara y con tiempo.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-maniobras-legibles-para-humanos">3) Maniobras legibles para humanos<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#3-maniobras-legibles-para-humanos" class="hash-link" aria-label="Enlace directo al 3) Maniobras legibles para humanos" title="Enlace directo al 3) Maniobras legibles para humanos" translate="no">​</a></h3>
+<p>En España, el tráfico “lee” intenciones. Un asistente que duda en medio de un desvío dirigido crea caos. La ejecución debe ser suave, decisiva y predecible para que el resto coopere.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-evidencia-europea-no-solo-vídeos-virales">4) Evidencia europea, no solo vídeos virales<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#4-evidencia-europea-no-solo-v%C3%ADdeos-virales" class="hash-link" aria-label="Enlace directo al 4) Evidencia europea, no solo vídeos virales" title="Enlace directo al 4) Evidencia europea, no solo vídeos virales" translate="no">​</a></h3>
+<p>Europa no se va a conformar con clips de “lo hizo una vez”. Va a querer consistencia, repetición y un comportamiento que no dependa de condiciones perfectas (luz, clima, señalización impecable).</p>
+<p>Y si te preocupa el lado humano (fatiga y supervisión), aquí hay un hilo directo:</p>
+<ul>
+<li class=""><a class="" href="https://fsd.pepetox.es/fatiga-supervision-fsd-europa">Fatiga de supervisión: el coste real del FSD en Europa</a></li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
+<p>Las rotondas son el titular, la lluvia es el drama, y las obras son el susto. Pero el escenario que define si el FSD está listo para España puede ser más simple y más duro: <strong>un agente levantando la mano y reescribiendo la carretera en tiempo real</strong>.</p>
+<p>La pregunta para la comunidad no es “¿cuándo llega FSD a Europa?”. Es: <strong>¿qué pruebas públicas veremos de que la IA entiende y respeta nuestro “idioma” vial, incluido el gesto humano con autoridad?</strong></p>
+<p>Si has pasado por un control o un desvío dirigido y has notado cómo reacciona tu Tesla (aunque sea con Autopilot/EAP), cuéntalo en comentarios. Estos casos, repetidos miles de veces, son los que van a decidir la credibilidad del FSD en Europa.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class="">Not a Tesla App: notas de versión (FSD <em>Supervised</em>) que mencionan mejoras de “human gestures” y el manejo de carreteras bloqueadas/desvíos. <a href="https://www.notateslaapp.com/software-updates/version/2025.45.8/release-notes" target="_blank" rel="noopener noreferrer" class="">https://www.notateslaapp.com/software-updates/version/2025.45.8/release-notes</a></li>
+<li class="">TeslaMagz: resumen de notas de versión de FSD v14.2.2.3 (incluye mención a “human gestures”). <a href="https://teslamagz.com/tesla-fsd-v14-2-2-3-released-whats-new/" target="_blank" rel="noopener noreferrer" class="">https://teslamagz.com/tesla-fsd-v14-2-2-3-released-whats-new/</a></li>
+<li class="">BOE: Reglamento General de Circulación (Anexo I, señales y gestos de agentes). <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514" target="_blank" rel="noopener noreferrer" class="">https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514</a></li>
+</ul>]]></content:encoded>
+            <category>fsd</category>
+            <category>tesla</category>
+            <category>ai</category>
+            <category>testing</category>
+            <category>espana</category>
+            <category>seguridad</category>
+            <category>regulations</category>
+        </item>
         <item>
             <title><![CDATA[El pasillo de emergencia: cuando FSD tiene que entender una sirena española]]></title>
             <link>https://fsd.pepetox.es/pasillo-emergencia-sirenas-fsd</link>
@@ -1084,68 +1171,6 @@
             <category>picos-de-europa</category>
             <category>tecnología</category>
             <category>v13</category>
-        </item>
-        <item>
-            <title><![CDATA[El FSD y el Paso de Cebra Español: el metro que decide Europa]]></title>
-            <link>https://fsd.pepetox.es/fsd-paso-cebra-espana</link>
-            <guid>https://fsd.pepetox.es/fsd-paso-cebra-espana</guid>
-            <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[El cambio a suscripción es un giro estratégico, pero el verdadero examen europeo está en los pasos de cebra sin semáforo y la lectura del lenguaje humano.]]></description>
-            <content:encoded><![CDATA[<p>Es de noche en un barrio residencial de Zaragoza. Una farola parpadea, llueve fino y un peatón se asoma a un paso de cebra sin semáforo. No ha pisado todavía, pero su cuerpo ya dice “voy”. Un humano frena por intuición. Una IA tiene que decidir si esa intención es real… y hacerlo en menos de un segundo.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detonante-la-suscripción-como-giro-de-guion">El detonante: la suscripción como giro de guion<a href="https://fsd.pepetox.es/fsd-paso-cebra-espana#el-detonante-la-suscripci%C3%B3n-como-giro-de-guion" class="hash-link" aria-label="Enlace directo al El detonante: la suscripción como giro de guion" title="Enlace directo al El detonante: la suscripción como giro de guion" translate="no">​</a></h2>
-<p>La última gran novedad de Tesla no es un número de versión, sino un cambio de modelo: <strong>FSD pasará a ser solo suscripción</strong> a partir del 14 de febrero de 2026. En otras palabras, el software deja de venderse como “activo” y se convierte en servicio recurrente. Esto aumenta la presión por demostrar valor en escenarios reales y repetibles, no solo en autopistas estadounidenses.</p>
-<p>Para Europa, ese valor no se mide en kilómetros rectos, sino en <strong>microdecisiones urbanas</strong> como un paso de cebra sin semáforo, donde la legalidad, la cultura vial y el lenguaje corporal están entrelazados.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-paso-de-cebra-español-no-es-un-objeto-es-una-negociación">El paso de cebra español no es un “objeto”, es una negociación<a href="https://fsd.pepetox.es/fsd-paso-cebra-espana#el-paso-de-cebra-espa%C3%B1ol-no-es-un-objeto-es-una-negociaci%C3%B3n" class="hash-link" aria-label="Enlace directo al El paso de cebra español no es un “objeto”, es una negociación" title="Enlace directo al El paso de cebra español no es un “objeto”, es una negociación" translate="no">​</a></h2>
-<p>En España, el peatón suele “anunciar” su cruce antes de hacerlo: una mirada, un avance de medio pie, un gesto con la mano. El conductor responde con una reducción sutil de velocidad. En ese juego, el paso de cebra no es solo una pintura: es un <strong>espacio de interpretación</strong>.</p>
-<p>Para el FSD, esto implica tres capas difíciles:</p>
-<ul>
-<li class=""><strong>Intención humana</strong>: diferenciar a quien solo espera del que realmente va a cruzar.</li>
-<li class=""><strong>Ambigüedad contextual</strong>: coches aparcados, visibilidad parcial, lluvia o reflejos en el asfalto.</li>
-<li class=""><strong>Prioridad legal y cultural</strong>: ceder sin bloquear el tráfico ni generar maniobras inseguras detrás.</li>
-</ul>
-<p>Si el sistema frena demasiado pronto, provoca conflicto con el flujo. Si frena tarde, pierde la confianza del peatón. El margen es estrecho y la tolerancia europea, aún más.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs. realidad<a href="https://fsd.pepetox.es/fsd-paso-cebra-espana#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad" title="Enlace directo al Expectativa vs. realidad" translate="no">​</a></h2>
-<ul>
-<li class=""><strong>Expectativa:</strong> la red neuronal “ve” al peatón y decide.<br>
-<strong>Realidad:</strong> debe anticipar la intención <em>antes</em> de que el peatón invada el carril.</li>
-<li class=""><strong>Expectativa:</strong> el mapa ayuda.<br>
-<strong>Realidad:</strong> el mapa no sabe si hay una persona que duda bajo un paraguas.</li>
-<li class=""><strong>Expectativa:</strong> el coche frena cuando toca.<br>
-<strong>Realidad:</strong> tiene que comunicarlo de forma suave para que el peatón confíe y el coche de atrás no se impaciente.</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-falta-para-superar-este-examen-europeo">Lo que falta para superar este examen europeo<a href="https://fsd.pepetox.es/fsd-paso-cebra-espana#lo-que-falta-para-superar-este-examen-europeo" class="hash-link" aria-label="Enlace directo al Lo que falta para superar este examen europeo" title="Enlace directo al Lo que falta para superar este examen europeo" translate="no">​</a></h2>
-<p>No es solo más datos; es <strong>datos europeos con etiqueta de intención</strong>. Para que la IA aprenda el “voy a cruzar”, necesita:</p>
-<ol>
-<li class=""><strong>Telemetría urbana de alta calidad</strong> en ciudades españolas (no solo en EE. UU.).</li>
-<li class=""><strong>Etiquetas de lenguaje corporal</strong> (posturas, microgestos, orientación de la cabeza).</li>
-<li class=""><strong>Simulación de baja visibilidad</strong> (lluvia fina, farolas, reflejos de neón).</li>
-<li class=""><strong>Política de conducción comunicativa</strong>: frenadas suaves, señales claras al peatón y al coche que viene detrás.</li>
-</ol>
-<p>Aquí el enfoque end-to-end es prometedor, pero solo si se entrena con la realidad cotidiana de Europa. Si quieres el marco mental de esta transición, vuelve a nuestro análisis sobre la <a class="" href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13">revolución end-to-end</a>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="regulación-como-espejo-no-como-freno">Regulación como espejo, no como freno<a href="https://fsd.pepetox.es/fsd-paso-cebra-espana#regulaci%C3%B3n-como-espejo-no-como-freno" class="hash-link" aria-label="Enlace directo al Regulación como espejo, no como freno" title="Enlace directo al Regulación como espejo, no como freno" translate="no">​</a></h2>
-<p>La regulación europea no evalúa únicamente “si el coche ve”, sino <strong>si el sistema es seguro bajo supervisión humana</strong>. El marco DCAS (Reglamento ONU R171) define el perímetro legal de estos sistemas y ya está en vigor, con requisitos claros de supervisión y validación.</p>
-<p>En paralelo, el RDW neerlandés ha confirmado que espera que Tesla <strong>demuestre</strong> en febrero de 2026 que FSD Supervised cumple los estándares exigidos, dejando claro que no es una aprobación automática.</p>
-<p>La lectura para España es directa: los pasos de cebra, más que un obstáculo, son una auditoría de seguridad cultural. Si la IA aprende a negociar esos metros, Europa se vuelve un mercado posible. Si no, todo lo demás son demos.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="cierre-la-comunidad-como-laboratorio-real">Cierre: la comunidad como laboratorio real<a href="https://fsd.pepetox.es/fsd-paso-cebra-espana#cierre-la-comunidad-como-laboratorio-real" class="hash-link" aria-label="Enlace directo al Cierre: la comunidad como laboratorio real" title="Enlace directo al Cierre: la comunidad como laboratorio real" translate="no">​</a></h2>
-<p>El futuro del FSD en Europa no depende solo del hardware, sino de <strong>cómo se comporta en las decisiones pequeñas</strong> que definen la confianza. Si estás probando FSD o sigues su evolución, comparte experiencias: cada cruce cuenta.</p>
-<p>¿Te interesa seguir el hilo? Lee también nuestro <a class="" href="https://fsd.pepetox.es/diccionario-autonomia-ap-eap-fsd-espana">diccionario de autonomía y FSD</a> y vuelve pronto: aquí conectamos cada avance con la realidad de las carreteras españolas.</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-paso-cebra-espana#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
-<ul>
-<li class="">TechCrunch (14 enero 2026): cambio a suscripción de FSD Supervised.<br>
-<a href="https://techcrunch.com/2026/01/14/tesla-ends-one-time-purchase-of-full-self-driving-software/" target="_blank" rel="noopener noreferrer" class="">https://techcrunch.com/2026/01/14/tesla-ends-one-time-purchase-of-full-self-driving-software/</a></li>
-<li class="">RDW (24 noviembre 2025): calendario de demostración de FSD en febrero de 2026.<br>
-<a href="https://www.rdw.nl/over-rdw/nieuws/2025/tesla-fsd-supervised" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/over-rdw/nieuws/2025/tesla-fsd-supervised</a></li>
-<li class="">EUR-Lex (Reglamento ONU R171): DCAS y entrada en vigor el 22 septiembre 2024.<br>
-<a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:42024X0922(01)" target="_blank" rel="noopener noreferrer" class="">https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:42024X0922(01)</a></li>
-</ul>]]></content:encoded>
-            <category>fsd</category>
-            <category>españa</category>
-            <category>peatones</category>
-            <category>ai</category>
-            <category>testing</category>
-            <category>regulaciones</category>
-            <category>seguridad</category>
         </item>
     </channel>
 </rss>
