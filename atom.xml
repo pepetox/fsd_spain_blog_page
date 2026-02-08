@@ -2,11 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fsd.pepetox.es</id>
     <title>FSD Spain Blog</title>
-    <updated>2026-02-07T00:00:00.000Z</updated>
+    <updated>2026-02-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fsd.pepetox.es"/>
     <subtitle>FSD Spain Blog</subtitle>
     <icon>https://fsd.pepetox.es/img/fsdspain.png</icon>
+    <entry>
+        <title type="html"><![CDATA[China como espejo: cuando un regulador decide que "FSD" no es lo que Tesla vende]]></title>
+        <id>https://fsd.pepetox.es/china-espejo-fsd-europa</id>
+        <link href="https://fsd.pepetox.es/china-espejo-fsd-europa"/>
+        <updated>2026-02-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[China esta poniendo una condicion brutal a Tesla: no basta con que FSD funcione, tiene que encajar en el lenguaje del regulador. Europa va por el mismo camino.]]></summary>
+        <content type="html"><![CDATA[<p>A las 08:15, sales de un garaje estrecho en un barrio antiguo. La calle es de un solo carril, sin marcas claras. Una furgoneta invade tu lado, una moto se cuela por la derecha y, 20 metros mas adelante, un panel luminoso cambia el limite de velocidad por obras. Esta es la Europa real.</p>
+<p>Ahora imagina que tu sistema de conduccion automatizada es excelente en EE.UU., pero el segundo gran examen fuera de casa no es Madrid ni Berlin. Es <strong>China</strong>. Y lo interesante no es solo si "funciona". Es <strong>quien decide que significa funcionar</strong>.</p>
+<p><img decoding="async" loading="lazy" alt="Tesla entre dos mundos: China y Europa" src="https://fsd.pepetox.es/assets/images/2026-02-08-china-espejo-fsd-europa-5ec02af54269d6a3023a0e1e9da922b9.png" width="1024" height="1024" class="img_ev3q"></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-noticia-no-es-el-software-es-el-contrato">La noticia no es el software: es el contrato<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#la-noticia-no-es-el-software-es-el-contrato" class="hash-link" aria-label="Enlace directo al La noticia no es el software: es el contrato" title="Enlace directo al La noticia no es el software: es el contrato" translate="no">​</a></h2>
+<p>En enero, Elon Musk dijo que esperaba una <strong>aprobacion en China</strong> "el mes que viene". Poco despues, medios estatales chinos negaron que hubiera una aprobacion general de FSD. En paralelo, la realidad practica sigue siendo la de los permisos parciales: funciones disponibles con <strong>condiciones</strong>, y otras bloqueadas.<br>
+<br>
+<!-- -->Traducido: el regulador no esta discutiendo un numero de version. Esta discutiendo un <strong>contrato operativo</strong>: que hace el coche, en que escenarios (ODD), bajo que supervision, y que pasa cuando algo sale mal.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-china-nos-esta-enseñando-sin-querer-sobre-europa">Lo que China nos esta enseñando (sin querer) sobre Europa<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#lo-que-china-nos-esta-ense%C3%B1ando-sin-querer-sobre-europa" class="hash-link" aria-label="Enlace directo al Lo que China nos esta enseñando (sin querer) sobre Europa" title="Enlace directo al Lo que China nos esta enseñando (sin querer) sobre Europa" translate="no">​</a></h2>
+<p>Una de las limitaciones mas reveladoras de China no tiene nada de filosofica: segun reportes recientes, la version local no puede <strong>cambiar de marcha</strong> automaticamente, lo que impide el "park-to-park" real tal y como se entiende en EE.UU.<br>
+<br>
+<!-- -->Puede parecer un detalle, pero es el tipo de detalle que delata donde se pone la frontera regulatoria. En Europa va a pasar lo mismo: el debate no sera "conduce como un humano", sino "que maniobras estan permitidas, bajo que responsabilidades y con que evidencia".</p>
+<p>Si quieres un marco mental util, piensa en tres capas:</p>
+<ol>
+<li class=""><strong>Capacidades de IA</strong>: deteccion, prediccion, planificacion, control.</li>
+<li class=""><strong>Producto permitido</strong>: que partes de esas capacidades se pueden exponer al usuario.</li>
+<li class=""><strong>Demostracion</strong>: como pruebas que el producto permitido es seguro en el ODD declarado.</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-el-desafio-europeo-no-es-solo-una-rotonda">Expectativa vs realidad: el desafio europeo no es solo una rotonda<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#expectativa-vs-realidad-el-desafio-europeo-no-es-solo-una-rotonda" class="hash-link" aria-label="Enlace directo al Expectativa vs realidad: el desafio europeo no es solo una rotonda" title="Enlace directo al Expectativa vs realidad: el desafio europeo no es solo una rotonda" translate="no">​</a></h2>
+<p>En España y la UE, el problema mas duro no es que haya rotondas. Es que hay <strong>ambiguedad legal y de infraestructura</strong> en cada trayecto:</p>
+<ul>
+<li class="">Señalizacion temporal (obras) que contradice al suelo.</li>
+<li class="">Carriles borrados, repintados o directamente inexistentes.</li>
+<li class="">Interacciones sociales: cortesia, agresividad, negociacion en milisegundos.</li>
+<li class="">Vehiculos vulnerables (motos, bicis, patinetes) con trayectorias poco "limpias".</li>
+</ul>
+<p>Los end-to-end ayudan porque aprenden patrones de contexto, pero Europa penaliza un fallo concreto: el que parece pequeno y repetible, el que un regulador puede escribir como "comportamiento no permitido".</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="que-tiene-que-cambiar-para-que-europa-diga-si">Que tiene que cambiar para que Europa diga "si"<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#que-tiene-que-cambiar-para-que-europa-diga-si" class="hash-link" aria-label="Enlace directo al Que tiene que cambiar para que Europa diga &quot;si&quot;" title="Enlace directo al Que tiene que cambiar para que Europa diga &quot;si&quot;" translate="no">​</a></h2>
+<p>No es realista esperar una aprobacion europea por "magia". Lo que se necesita es aburrido, pero es la unica salida:</p>
+<ul>
+<li class=""><strong>ODD explicitamente acotado</strong>: no "toda Europa", sino condiciones claras (meteorologia, vias, tipos de interseccion, etc.).</li>
+<li class=""><strong>Supervision y monitorizacion del conductor</strong>: no como marketing, sino como barrera de seguridad documentada.</li>
+<li class=""><strong>Fallback y minima maniobra de riesgo</strong>: que hace el coche si pierde confianza (y como lo comunica).</li>
+<li class=""><strong>Evidencia auditable</strong>: no solo videos virales; datos, tasas, criterios, procedimientos.</li>
+</ul>
+<p>Y aqui esta la lectura optimista: si Tesla consigue operar en China con restricciones, significa que ya esta aprendiendo a empaquetar FSD como un producto "legible" para un regulador. Europa exigira su propio dialecto, pero el ejercicio es el mismo.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-deberiamos-vigilar-desde-españa">Lo que deberiamos vigilar desde España<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#lo-que-deberiamos-vigilar-desde-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Lo que deberiamos vigilar desde España" title="Enlace directo al Lo que deberiamos vigilar desde España" translate="no">​</a></h2>
+<p>Si quieres señales tempranas (de las de verdad) para Europa, vigila estas pistas:</p>
+<ul>
+<li class="">Cambios publicos en como Tesla describe FSD: menos promesa, mas <strong>ODD y condiciones</strong>.</li>
+<li class="">Evidencias de que Tesla separa claramente "capacidades" vs "funciones expuestas" segun pais.</li>
+<li class="">Movimientos regulatorios concretos (tipo aprobaciones parciales, pilotos geocercados, requisitos de reporting).</li>
+</ul>
+<p>Para el contexto del ruido reciente sobre RDW y UNECE, y como distinguir rumor de señal, aqui tienes la pieza anterior: <a class="" href="https://fsd.pepetox.es/ruido-x-fsd-europa-rdw-unece">RDW, UNECE y la trampa del calendario</a>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
+<p>China esta actuando como el espejo incomodo: te obliga a aceptar que el producto final no lo define el modelo neuronal, sino la combinacion de <strong>tecnica + responsabilidad + reglas</strong>.<br>
+<br>
+<!-- -->La pregunta para la comunidad FSD en España ya no es "cuando llega". Es: <strong>que version de FSD sera legalmente posible aqui</strong> y que evidencias tendra que mostrar Tesla para merecerla.</p>
+<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Debate</div><div class="admonitionContent_BuS1"><p>¿Preferirias una llegada temprana pero muy acotada (ODD estrecho, geocerca, funciones limitadas), o esperar a una aprobacion mas amplia aunque tarde mas?<br>
+<br>
+<!-- -->Deja tu postura en comentarios y seguimos afinando el mapa.</p></div></div>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes-para-seguir-el-hilo">Fuentes (para seguir el hilo)<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#fuentes-para-seguir-el-hilo" class="hash-link" aria-label="Enlace directo al Fuentes (para seguir el hilo)" title="Enlace directo al Fuentes (para seguir el hilo)" translate="no">​</a></h2>
+<ul>
+<li class="">Electrek (2026-01-23): Musk espera aprobacion en China "el mes que viene" y contexto de reportes/negaciones: <a href="https://electrek.co/2026/01/23/elon-musk-says-tesla-fsd-may-be-approved-in-china-next-month-while-state-media-deny-it/" target="_blank" rel="noopener noreferrer" class="">https://electrek.co/2026/01/23/elon-musk-says-tesla-fsd-may-be-approved-in-china-next-month-while-state-media-deny-it/</a></li>
+<li class="">Tesla (pagina oficial): recordatorio de que FSD es supervisado y requiere atencion del conductor: <a href="https://www.tesla.com/support/autopilot" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/support/autopilot</a></li>
+</ul>]]></content>
+        <author>
+            <name>The Autonomous Pilot</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="tesla" term="tesla"/>
+        <category label="ai" term="ai"/>
+        <category label="testing" term="testing"/>
+        <category label="china" term="china"/>
+        <category label="europa" term="europa"/>
+        <category label="seguridad" term="seguridad"/>
+        <category label="regulations" term="regulations"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[El lenguaje de la mano: cuando FSD tiene que obedecer a un agente en España]]></title>
         <id>https://fsd.pepetox.es/gestos-agentes-trafico-fsd</id>
@@ -1240,53 +1315,5 @@
         <category label="testing" term="testing"/>
         <category label="señalizacion" term="señalizacion"/>
         <category label="regulaciones" term="regulaciones"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conos, desvíos y un examen en febrero: el verdadero filtro europeo del FSD]]></title>
-        <id>https://fsd.pepetox.es/fsd-obras-desvios-examen-europa</id>
-        <link href="https://fsd.pepetox.es/fsd-obras-desvios-examen-europa"/>
-        <updated>2026-01-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Por qué las obras y los desvíos son el examen real del FSD en Europa, y qué implica el marco DCAS para su despliegue supervisado.]]></summary>
-        <content type="html"><![CDATA[<p>Vas por la A-6 de noche. El carril de la derecha desaparece entre conos, un panel luminoso marca <strong>"80"</strong>, y un operario con chaleco reflectante te indica que cambies de carril <em>ya</em>. No hay líneas pintadas, solo cinta adhesiva y señales provisionales. Para un humano español es rutina. Para una IA, es un examen sorpresa.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detonante-febrero-no-es-un-lanzamiento-es-un-examen">El detonante: febrero no es un lanzamiento, es un examen<a href="https://fsd.pepetox.es/fsd-obras-desvios-examen-europa#el-detonante-febrero-no-es-un-lanzamiento-es-un-examen" class="hash-link" aria-label="Enlace directo al El detonante: febrero no es un lanzamiento, es un examen" title="Enlace directo al El detonante: febrero no es un lanzamiento, es un examen" translate="no">​</a></h2>
-<p>La última señal clara desde Europa llegó en noviembre: el regulador holandés <strong>RDW</strong> aclaró que Tesla debe <strong>demostrar</strong> en febrero de 2026 que FSD Supervised cumple los estándares requeridos, sin garantizar aprobación. Es una fecha de evaluación, no de entrega. citeturn0search2</p>
-<p>A la vez, en Estados Unidos la <strong>NHTSA</strong> acaba de conceder cinco semanas adicionales (del 19 de enero al 23 de febrero de 2026) para que Tesla responda a una investigación sobre FSD que cubre 2,9 millones de vehículos y 62 quejas. La lectura es obvia: el escrutinio se endurece en los dos lados del Atlántico. citeturn0news12</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-las-obras-españolas-son-el-examen-silencioso">Por qué las obras españolas son el examen silencioso<a href="https://fsd.pepetox.es/fsd-obras-desvios-examen-europa#por-qu%C3%A9-las-obras-espa%C3%B1olas-son-el-examen-silencioso" class="hash-link" aria-label="Enlace directo al Por qué las obras españolas son el examen silencioso" title="Enlace directo al Por qué las obras españolas son el examen silencioso" translate="no">​</a></h2>
-<p>Las obras y desvíos temporales son el lugar donde se decide si el FSD puede ser útil de verdad en Europa. No es solo una cuestión de visión, sino de <strong>interpretación en tiempo real</strong>:</p>
-<ul>
-<li class=""><strong>Expectativa:</strong> los mapas dicen por dónde ir. <strong>Realidad:</strong> la señalización temporal reescribe el mapa en segundos.</li>
-<li class=""><strong>Expectativa:</strong> el carril es una línea continua. <strong>Realidad:</strong> el carril es una fila de conos móviles y una flecha luminosa.</li>
-<li class=""><strong>Expectativa:</strong> el tráfico es predecible. <strong>Realidad:</strong> un operario puede parar el flujo, un camión puede invadir medio carril, una incorporación puede desaparecer sin aviso.</li>
-</ul>
-<p>Y esto no ocurre en Silicon Valley; ocurre cada semana en la M-30, la AP-7 o cualquier travesía urbana en España.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-red-neuronal-frente-a-la-señalización-improvisada">La red neuronal frente a la señalización improvisada<a href="https://fsd.pepetox.es/fsd-obras-desvios-examen-europa#la-red-neuronal-frente-a-la-se%C3%B1alizaci%C3%B3n-improvisada" class="hash-link" aria-label="Enlace directo al La red neuronal frente a la señalización improvisada" title="Enlace directo al La red neuronal frente a la señalización improvisada" translate="no">​</a></h2>
-<p>En estas situaciones, el reto no es “ver” conos, sino <strong>entender</strong> lo que significan. La IA debe distinguir entre:</p>
-<ul>
-<li class=""><strong>Límite navegable</strong> (conos que delimitan un carril temporal) vs. <strong>obstáculo puntual</strong> (un cono aislado caído).</li>
-<li class=""><strong>Indicaciones humanas</strong> (un brazo extendido del operario) vs. <strong>ruido visual</strong> (carteles publicitarios o reflejos).</li>
-<li class=""><strong>Señales superpuestas</strong> (80 temporal sobre 120 permanente) sin titubeos peligrosos.</li>
-</ul>
-<p>Aquí es donde la arquitectura end-to-end se juega su credibilidad: no basta con seguir líneas, hay que inferir intención y contexto. Si te interesa esta transición, revisa nuestro análisis sobre la <a class="" href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13">revolución end-to-end</a>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="dcas-progreso-real-sin-magia">DCAS: progreso real, sin magia<a href="https://fsd.pepetox.es/fsd-obras-desvios-examen-europa#dcas-progreso-real-sin-magia" class="hash-link" aria-label="Enlace directo al DCAS: progreso real, sin magia" title="Enlace directo al DCAS: progreso real, sin magia" translate="no">​</a></h2>
-<p>Europa no está esperando un “robotaxi”, sino un sistema <strong>supervisado</strong>. El marco de referencia es el <strong>Reglamento ONU nº 171 (DCAS)</strong>, que entró en vigor el 22 de septiembre de 2024. Define estos sistemas como asistencia a la conducción en nivel 2, con el conductor responsable y obligado a supervisar. citeturn0search1</p>
-<p>Eso significa que el éxito en febrero no será “autonomía total”, sino <strong>demostrar seguridad con supervisión humana</strong>, especialmente en escenarios donde la señalización temporal y las decisiones no están en el mapa.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-significaría-un-buen-resultado-en-febrero-para-españa">Qué significaría un buen resultado en febrero para España<a href="https://fsd.pepetox.es/fsd-obras-desvios-examen-europa#qu%C3%A9-significar%C3%ADa-un-buen-resultado-en-febrero-para-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Qué significaría un buen resultado en febrero para España" title="Enlace directo al Qué significaría un buen resultado en febrero para España" translate="no">​</a></h2>
-<p>Si Tesla logra pasar esa demostración, el impacto para España sería tangible:</p>
-<ol>
-<li class=""><strong>Más pruebas supervisadas en entornos reales</strong>, donde la variabilidad de nuestras carreteras aporta datos críticos.</li>
-<li class=""><strong>Iteraciones más rápidas</strong> en los casos extremos que más nos afectan: desvíos, obras móviles, carriles reversibles.</li>
-<li class=""><strong>Presión positiva</strong> para que los reguladores europeos aceleren criterios técnicos claros, sin caer en anuncios vacíos.</li>
-</ol>
-<p>La conversación no termina en febrero. Empieza ahí. ¿Quieres aportar casos reales de obras que hayan confundido al FSD o al Autopilot? Escríbenos en comentarios o comparte tu experiencia. Y si quieres entender cómo la visión-only se comporta en escenarios difíciles, lee también <a class="" href="https://fsd.pepetox.es/desafio-m30-vision-only-tuneles">nuestro análisis sobre los túneles de la M-30</a>.</p>]]></content>
-        <author>
-            <name>The Autonomous Pilot</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="fsd" term="fsd"/>
-        <category label="españa" term="españa"/>
-        <category label="obras" term="obras"/>
-        <category label="señalizacion" term="señalizacion"/>
-        <category label="ai" term="ai"/>
-        <category label="testing" term="testing"/>
     </entry>
 </feed>
