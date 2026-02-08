@@ -12,62 +12,62 @@
         <id>https://fsd.pepetox.es/china-espejo-fsd-europa</id>
         <link href="https://fsd.pepetox.es/china-espejo-fsd-europa"/>
         <updated>2026-02-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[China esta poniendo una condicion brutal a Tesla: no basta con que FSD funcione, tiene que encajar en el lenguaje del regulador. Europa va por el mismo camino.]]></summary>
-        <content type="html"><![CDATA[<p>A las 08:15, sales de un garaje estrecho en un barrio antiguo. La calle es de un solo carril, sin marcas claras. Una furgoneta invade tu lado, una moto se cuela por la derecha y, 20 metros mas adelante, un panel luminoso cambia el limite de velocidad por obras. Esta es la Europa real.</p>
-<p>Ahora imagina que tu sistema de conduccion automatizada es excelente en EE.UU., pero el segundo gran examen fuera de casa no es Madrid ni Berlin. Es <strong>China</strong>. Y lo interesante no es solo si "funciona". Es <strong>quien decide que significa funcionar</strong>.</p>
+        <summary type="html"><![CDATA[China está poniendo una condición brutal a Tesla: no basta con que FSD funcione, tiene que encajar en el lenguaje del regulador. Europa va por el mismo camino.]]></summary>
+        <content type="html"><![CDATA[<p>A las 08:15, sales de un garaje estrecho en un barrio antiguo. La calle es de un solo carril, sin marcas claras. Una furgoneta invade tu lado, una moto se cuela por la derecha y, 20 metros más adelante, un panel luminoso cambia el límite de velocidad por obras. Esta es la Europa real.</p>
+<p>Ahora imagina que tu sistema de conducción automatizada es excelente en EE.UU., pero el segundo gran examen fuera de casa no es Madrid ni Berlín. Es <strong>China</strong>. Y lo interesante no es solo si "funciona". Es <strong>quién decide qué significa funcionar</strong>.</p>
 <p><img decoding="async" loading="lazy" alt="Tesla entre dos mundos: China y Europa" src="https://fsd.pepetox.es/assets/images/2026-02-08-china-espejo-fsd-europa-5ec02af54269d6a3023a0e1e9da922b9.png" width="1024" height="1024" class="img_ev3q"></p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-noticia-no-es-el-software-es-el-contrato">La noticia no es el software: es el contrato<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#la-noticia-no-es-el-software-es-el-contrato" class="hash-link" aria-label="Enlace directo al La noticia no es el software: es el contrato" title="Enlace directo al La noticia no es el software: es el contrato" translate="no">​</a></h2>
-<p>En enero, Elon Musk dijo que esperaba una <strong>aprobacion en China</strong> "el mes que viene". Poco despues, medios estatales chinos negaron que hubiera una aprobacion general de FSD. En paralelo, la realidad practica sigue siendo la de los permisos parciales: funciones disponibles con <strong>condiciones</strong>, y otras bloqueadas.<br>
+<p>En enero, Elon Musk dijo que esperaba una <strong>aprobación en China</strong> "el mes que viene". Poco después, medios estatales chinos negaron que hubiera una aprobación general de FSD. En paralelo, la realidad práctica sigue siendo la de los permisos parciales: funciones disponibles con <strong>condiciones</strong>, y otras bloqueadas.<br>
 <br>
-<!-- -->Traducido: el regulador no esta discutiendo un numero de version. Esta discutiendo un <strong>contrato operativo</strong>: que hace el coche, en que escenarios (ODD), bajo que supervision, y que pasa cuando algo sale mal.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-china-nos-esta-enseñando-sin-querer-sobre-europa">Lo que China nos esta enseñando (sin querer) sobre Europa<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#lo-que-china-nos-esta-ense%C3%B1ando-sin-querer-sobre-europa" class="hash-link" aria-label="Enlace directo al Lo que China nos esta enseñando (sin querer) sobre Europa" title="Enlace directo al Lo que China nos esta enseñando (sin querer) sobre Europa" translate="no">​</a></h2>
-<p>Una de las limitaciones mas reveladoras de China no tiene nada de filosofica: segun reportes recientes, la version local no puede <strong>cambiar de marcha</strong> automaticamente, lo que impide el "park-to-park" real tal y como se entiende en EE.UU.<br>
+<!-- -->Traducido: el regulador no está discutiendo un número de versión. Está discutiendo un <strong>contrato operativo</strong>: qué hace el coche, en qué escenarios (ODD), bajo qué supervisión, y qué pasa cuando algo sale mal.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-china-nos-está-enseñando-sin-querer-sobre-europa">Lo que China nos está enseñando (sin querer) sobre Europa<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#lo-que-china-nos-est%C3%A1-ense%C3%B1ando-sin-querer-sobre-europa" class="hash-link" aria-label="Enlace directo al Lo que China nos está enseñando (sin querer) sobre Europa" title="Enlace directo al Lo que China nos está enseñando (sin querer) sobre Europa" translate="no">​</a></h2>
+<p>Una de las limitaciones más reveladoras de China no tiene nada de filosófica: según reportes recientes, la versión local no puede <strong>cambiar de marcha</strong> automáticamente, lo que impide el "park-to-park" real tal y como se entiende en EE.UU.<br>
 <br>
-<!-- -->Puede parecer un detalle, pero es el tipo de detalle que delata donde se pone la frontera regulatoria. En Europa va a pasar lo mismo: el debate no sera "conduce como un humano", sino "que maniobras estan permitidas, bajo que responsabilidades y con que evidencia".</p>
-<p>Si quieres un marco mental util, piensa en tres capas:</p>
+<!-- -->Puede parecer un detalle, pero es el tipo de detalle que delata dónde se pone la frontera regulatoria. En Europa va a pasar lo mismo: el debate no será "conduce como un humano", sino "qué maniobras están permitidas, bajo qué responsabilidades y con qué evidencia".</p>
+<p>Si quieres un marco mental útil, piensa en tres capas:</p>
 <ol>
-<li class=""><strong>Capacidades de IA</strong>: deteccion, prediccion, planificacion, control.</li>
-<li class=""><strong>Producto permitido</strong>: que partes de esas capacidades se pueden exponer al usuario.</li>
-<li class=""><strong>Demostracion</strong>: como pruebas que el producto permitido es seguro en el ODD declarado.</li>
+<li class=""><strong>Capacidades de IA</strong>: detección, predicción, planificación, control.</li>
+<li class=""><strong>Producto permitido</strong>: qué partes de esas capacidades se pueden exponer al usuario.</li>
+<li class=""><strong>Demostración</strong>: cómo pruebas que el producto permitido es seguro en el ODD declarado.</li>
 </ol>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-el-desafio-europeo-no-es-solo-una-rotonda">Expectativa vs realidad: el desafio europeo no es solo una rotonda<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#expectativa-vs-realidad-el-desafio-europeo-no-es-solo-una-rotonda" class="hash-link" aria-label="Enlace directo al Expectativa vs realidad: el desafio europeo no es solo una rotonda" title="Enlace directo al Expectativa vs realidad: el desafio europeo no es solo una rotonda" translate="no">​</a></h2>
-<p>En España y la UE, el problema mas duro no es que haya rotondas. Es que hay <strong>ambiguedad legal y de infraestructura</strong> en cada trayecto:</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-el-desafío-europeo-no-es-solo-una-rotonda">Expectativa vs realidad: el desafío europeo no es solo una rotonda<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#expectativa-vs-realidad-el-desaf%C3%ADo-europeo-no-es-solo-una-rotonda" class="hash-link" aria-label="Enlace directo al Expectativa vs realidad: el desafío europeo no es solo una rotonda" title="Enlace directo al Expectativa vs realidad: el desafío europeo no es solo una rotonda" translate="no">​</a></h2>
+<p>En España y la UE, el problema más duro no es que haya rotondas. Es que hay <strong>ambigüedad legal y de infraestructura</strong> en cada trayecto:</p>
 <ul>
-<li class="">Señalizacion temporal (obras) que contradice al suelo.</li>
+<li class="">Señalización temporal (obras) que contradice al suelo.</li>
 <li class="">Carriles borrados, repintados o directamente inexistentes.</li>
-<li class="">Interacciones sociales: cortesia, agresividad, negociacion en milisegundos.</li>
-<li class="">Vehiculos vulnerables (motos, bicis, patinetes) con trayectorias poco "limpias".</li>
+<li class="">Interacciones sociales: cortesía, agresividad, negociación en milisegundos.</li>
+<li class="">Vehículos vulnerables (motos, bicis, patinetes) con trayectorias poco "limpias".</li>
 </ul>
-<p>Los end-to-end ayudan porque aprenden patrones de contexto, pero Europa penaliza un fallo concreto: el que parece pequeno y repetible, el que un regulador puede escribir como "comportamiento no permitido".</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="que-tiene-que-cambiar-para-que-europa-diga-si">Que tiene que cambiar para que Europa diga "si"<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#que-tiene-que-cambiar-para-que-europa-diga-si" class="hash-link" aria-label="Enlace directo al Que tiene que cambiar para que Europa diga &quot;si&quot;" title="Enlace directo al Que tiene que cambiar para que Europa diga &quot;si&quot;" translate="no">​</a></h2>
-<p>No es realista esperar una aprobacion europea por "magia". Lo que se necesita es aburrido, pero es la unica salida:</p>
+<p>Los end-to-end ayudan porque aprenden patrones de contexto, pero Europa penaliza un fallo concreto: el que parece pequeño y repetible, el que un regulador puede escribir como "comportamiento no permitido".</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-tiene-que-cambiar-para-que-europa-diga-sí">Qué tiene que cambiar para que Europa diga "sí"<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#qu%C3%A9-tiene-que-cambiar-para-que-europa-diga-s%C3%AD" class="hash-link" aria-label="Enlace directo al Qué tiene que cambiar para que Europa diga &quot;sí&quot;" title="Enlace directo al Qué tiene que cambiar para que Europa diga &quot;sí&quot;" translate="no">​</a></h2>
+<p>No es realista esperar una aprobación europea por "magia". Lo que se necesita es aburrido, pero es la única salida:</p>
 <ul>
-<li class=""><strong>ODD explicitamente acotado</strong>: no "toda Europa", sino condiciones claras (meteorologia, vias, tipos de interseccion, etc.).</li>
-<li class=""><strong>Supervision y monitorizacion del conductor</strong>: no como marketing, sino como barrera de seguridad documentada.</li>
-<li class=""><strong>Fallback y minima maniobra de riesgo</strong>: que hace el coche si pierde confianza (y como lo comunica).</li>
+<li class=""><strong>ODD explícitamente acotado</strong>: no "toda Europa", sino condiciones claras (meteorología, vías, tipos de intersección, etc.).</li>
+<li class=""><strong>Supervisión y monitorización del conductor</strong>: no como marketing, sino como barrera de seguridad documentada.</li>
+<li class=""><strong>Fallback y mínima maniobra de riesgo</strong>: qué hace el coche si pierde confianza (y cómo lo comunica).</li>
 <li class=""><strong>Evidencia auditable</strong>: no solo videos virales; datos, tasas, criterios, procedimientos.</li>
 </ul>
-<p>Y aqui esta la lectura optimista: si Tesla consigue operar en China con restricciones, significa que ya esta aprendiendo a empaquetar FSD como un producto "legible" para un regulador. Europa exigira su propio dialecto, pero el ejercicio es el mismo.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-deberiamos-vigilar-desde-españa">Lo que deberiamos vigilar desde España<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#lo-que-deberiamos-vigilar-desde-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Lo que deberiamos vigilar desde España" title="Enlace directo al Lo que deberiamos vigilar desde España" translate="no">​</a></h2>
+<p>Y aquí está la lectura optimista: si Tesla consigue operar en China con restricciones, significa que ya está aprendiendo a empaquetar FSD como un producto "legible" para un regulador. Europa exigirá su propio dialecto, pero el ejercicio es el mismo.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-deberíamos-vigilar-desde-españa">Lo que deberíamos vigilar desde España<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#lo-que-deber%C3%ADamos-vigilar-desde-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Lo que deberíamos vigilar desde España" title="Enlace directo al Lo que deberíamos vigilar desde España" translate="no">​</a></h2>
 <p>Si quieres señales tempranas (de las de verdad) para Europa, vigila estas pistas:</p>
 <ul>
-<li class="">Cambios publicos en como Tesla describe FSD: menos promesa, mas <strong>ODD y condiciones</strong>.</li>
-<li class="">Evidencias de que Tesla separa claramente "capacidades" vs "funciones expuestas" segun pais.</li>
+<li class="">Cambios públicos en cómo Tesla describe FSD: menos promesa, más <strong>ODD y condiciones</strong>.</li>
+<li class="">Evidencias de que Tesla separa claramente "capacidades" vs "funciones expuestas" según país.</li>
 <li class="">Movimientos regulatorios concretos (tipo aprobaciones parciales, pilotos geocercados, requisitos de reporting).</li>
 </ul>
-<p>Para el contexto del ruido reciente sobre RDW y UNECE, y como distinguir rumor de señal, aqui tienes la pieza anterior: <a class="" href="https://fsd.pepetox.es/ruido-x-fsd-europa-rdw-unece">RDW, UNECE y la trampa del calendario</a>.</p>
+<p>Para el contexto del ruido reciente sobre RDW y UNECE, y cómo distinguir rumor de señal, aquí tienes la pieza anterior: <a class="" href="https://fsd.pepetox.es/ruido-x-fsd-europa-rdw-unece">RDW, UNECE y la trampa del calendario</a>.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
-<p>China esta actuando como el espejo incomodo: te obliga a aceptar que el producto final no lo define el modelo neuronal, sino la combinacion de <strong>tecnica + responsabilidad + reglas</strong>.<br>
+<p>China está actuando como el espejo incómodo: te obliga a aceptar que el producto final no lo define el modelo neuronal, sino la combinación de <strong>técnica + responsabilidad + reglas</strong>.<br>
 <br>
-<!-- -->La pregunta para la comunidad FSD en España ya no es "cuando llega". Es: <strong>que version de FSD sera legalmente posible aqui</strong> y que evidencias tendra que mostrar Tesla para merecerla.</p>
-<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Debate</div><div class="admonitionContent_BuS1"><p>¿Preferirias una llegada temprana pero muy acotada (ODD estrecho, geocerca, funciones limitadas), o esperar a una aprobacion mas amplia aunque tarde mas?<br>
+<!-- -->La pregunta para la comunidad FSD en España ya no es "cuándo llega". Es: <strong>qué versión de FSD será legalmente posible aquí</strong> y qué evidencias tendrá que mostrar Tesla para merecerla.</p>
+<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Debate</div><div class="admonitionContent_BuS1"><p>¿Preferirías una llegada temprana pero muy acotada (ODD estrecho, geocerca, funciones limitadas), o esperar a una aprobación más amplia aunque tarde más?<br>
 <br>
 <!-- -->Deja tu postura en comentarios y seguimos afinando el mapa.</p></div></div>
 <hr>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes-para-seguir-el-hilo">Fuentes (para seguir el hilo)<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#fuentes-para-seguir-el-hilo" class="hash-link" aria-label="Enlace directo al Fuentes (para seguir el hilo)" title="Enlace directo al Fuentes (para seguir el hilo)" translate="no">​</a></h2>
 <ul>
-<li class="">Electrek (2026-01-23): Musk espera aprobacion en China "el mes que viene" y contexto de reportes/negaciones: <a href="https://electrek.co/2026/01/23/elon-musk-says-tesla-fsd-may-be-approved-in-china-next-month-while-state-media-deny-it/" target="_blank" rel="noopener noreferrer" class="">https://electrek.co/2026/01/23/elon-musk-says-tesla-fsd-may-be-approved-in-china-next-month-while-state-media-deny-it/</a></li>
-<li class="">Tesla (pagina oficial): recordatorio de que FSD es supervisado y requiere atencion del conductor: <a href="https://www.tesla.com/support/autopilot" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/support/autopilot</a></li>
+<li class="">Electrek (2026-01-23): Musk espera aprobación en China "el mes que viene" y contexto de reportes/negaciones: <a href="https://electrek.co/2026/01/23/elon-musk-says-tesla-fsd-may-be-approved-in-china-next-month-while-state-media-deny-it/" target="_blank" rel="noopener noreferrer" class="">https://electrek.co/2026/01/23/elon-musk-says-tesla-fsd-may-be-approved-in-china-next-month-while-state-media-deny-it/</a></li>
+<li class="">Tesla (página oficial): recordatorio de que FSD es supervisado y requiere atención del conductor: <a href="https://www.tesla.com/support/autopilot" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/support/autopilot</a></li>
 </ul>]]></content>
         <author>
             <name>The Autonomous Pilot</name>
