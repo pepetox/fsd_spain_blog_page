@@ -2,11 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fsd.pepetox.es</id>
     <title>FSD Spain Blog</title>
-    <updated>2026-02-08T00:00:00.000Z</updated>
+    <updated>2026-02-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fsd.pepetox.es"/>
     <subtitle>FSD Spain Blog</subtitle>
     <icon>https://fsd.pepetox.es/img/fsdspain.png</icon>
+    <entry>
+        <title type="html"><![CDATA[V14 Lite y el límite del HW3: cuando FSD aprende a caber (sin romperse) en Europa]]></title>
+        <id>https://fsd.pepetox.es/v14-lite-hw3-europa</id>
+        <link href="https://fsd.pepetox.es/v14-lite-hw3-europa"/>
+        <updated>2026-02-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tesla habla de un 'V14 Lite' para HW3 y mueve FSD hacia la suscripción. La pista clave para Europa: comprimir el modelo sin perder criterio en carreteras españolas.]]></summary>
+        <content type="html"><![CDATA[<p>Sales de un garaje en pendiente, ruedas húmedas, luz baja. Te incorporas a una calle estrecha donde dos coches no pasan sin negociar. Un repartidor se asoma desde una furgoneta, una moto filtra por el hueco imposible, y al final de la calle hay una rotonda con marcas medio borradas y un semáforo que no siempre manda.</p>
+<p>Si FSD quiere <strong>existir en Europa</strong>, no basta con “conducir bien” en un vídeo americano. Tiene que <strong>acertar en escenarios españoles</strong> que no perdonan: señales temporales, calzadas irregulares, motos que aparecen y desaparecen, y una cultura vial donde el contexto pesa tanto como las líneas.</p>
+<p>Y esta semana han aparecido dos pistas que, juntas, explican más del futuro europeo que cualquier rumor de calendario:</p>
+<ol>
+<li class="">Tesla está empujando FSD hacia el modelo <strong>suscripción</strong> (y, según reportes, en EE. UU. dejaría de ofrecer la compra “de por vida” a partir del <strong>14 de febrero de 2026</strong>).</li>
+<li class="">En un earnings call, Tesla mencionó explícitamente un <strong>“V14 Lite” para HW3</strong>.</li>
+</ol>
+<p><img decoding="async" loading="lazy" alt="FSD encogiendo el modelo sin encoger la ambición" src="https://fsd.pepetox.es/assets/images/2026-02-09-v14-lite-hw3-europa-beebf1a91ca255675dc327359dd9b2d2.png" width="1024" height="1024" class="img_ev3q"></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-el-giro-de-producto-cuando-fsd-se-vuelve-servicio">1) El giro de producto: cuando FSD se vuelve “servicio”<a href="https://fsd.pepetox.es/v14-lite-hw3-europa#1-el-giro-de-producto-cuando-fsd-se-vuelve-servicio" class="hash-link" aria-label="Enlace directo al 1) El giro de producto: cuando FSD se vuelve “servicio”" title="Enlace directo al 1) El giro de producto: cuando FSD se vuelve “servicio”" translate="no">​</a></h2>
+<p>Para Europa, el detalle no es el precio. Es la señal estratégica.</p>
+<p>Un producto “compra una vez y ya” se vende como promesa. Una suscripción se vende como <strong>relación continua</strong>: mejoras, métricas, soporte, y (sobre todo) un coste reputacional si el sistema decepciona mes a mes.</p>
+<p>Si de verdad se confirma el paso a suscripción como vía principal, Tesla está diciendo: FSD no es una opción estática, es un <strong>programa vivo</strong>. Y eso encaja con lo que Europa necesitará para aprobar algo serio: iteración, reporting, restricciones por ODD, y una historia de seguridad que mejore con datos, no con marketing.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-la-frase-que-importa-v14-lite-para-hw3">2) La frase que importa: “V14 Lite” para HW3<a href="https://fsd.pepetox.es/v14-lite-hw3-europa#2-la-frase-que-importa-v14-lite-para-hw3" class="hash-link" aria-label="Enlace directo al 2) La frase que importa: “V14 Lite” para HW3" title="Enlace directo al 2) La frase que importa: “V14 Lite” para HW3" translate="no">​</a></h2>
+<p>Lo verdaderamente técnico no es “V14”. Es <strong>Lite</strong>.</p>
+<p>Cuando Tesla (vía Ashok Elluswamy) menciona un “V14 Lite” orientado a HW3, está admitiendo de forma elegante la realidad física: el HW3 no tiene el margen de cómputo que el stack end-to-end moderno querría, pero el parque instalado es enorme. Así que el camino no es “tirar el hardware”, sino <strong>meter el cerebro en un cráneo más pequeño</strong>.</p>
+<p>Y aquí llega el punto clave: si puedes hacer que un modelo más compacto conduzca bien en el entorno relativamente “limpio” de muchas carreteras estadounidenses, aún te queda el nivel Europa.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-por-qué-españa-es-un-examen-brutal-para-un-modelo-lite">3) Por qué España es un examen brutal para un modelo “Lite”<a href="https://fsd.pepetox.es/v14-lite-hw3-europa#3-por-qu%C3%A9-espa%C3%B1a-es-un-examen-brutal-para-un-modelo-lite" class="hash-link" aria-label="Enlace directo al 3) Por qué España es un examen brutal para un modelo “Lite”" title="Enlace directo al 3) Por qué España es un examen brutal para un modelo “Lite”" translate="no">​</a></h2>
+<p>Los modelos comprimidos fallan donde el mundo exige <em>juicio</em>, no solo reflejos.</p>
+<p>En España ese juicio se juega en detalles que parecen menores hasta que se convierten en accidente o en intervención:</p>
+<ul>
+<li class=""><strong>Rotondas</strong>: no solo entrar y salir; es leer intención, huecos, y marcas imperfectas.</li>
+<li class=""><strong>Motos</strong>: trayectorias no lineales, filtrado, adelantamientos que dependen de microespacios.</li>
+<li class=""><strong>Infraestructura variable</strong>: obras, señales temporales, carriles que “aparecen” y “desaparecen”.</li>
+<li class=""><strong>Pueblos y cascos antiguos</strong>: sombras duras, estrechez real, peatones impredecibles, stops “sociales”.</li>
+</ul>
+<p>Un modelo “Lite” puede perder precisión en el largo tail: confundir roles, sobrerreaccionar o tardar en decidir. Y en Europa, esa duda se paga doble: en seguridad y en credibilidad regulatoria.</p>
+<p>Si quieres ejemplos de “realidad española” que no son opcionales, conecta con:</p>
+<ul>
+<li class=""><a class="" href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd">El lenguaje de la mano: cuando FSD tiene que obedecer a un agente en España</a></li>
+<li class=""><a class="" href="https://fsd.pepetox.es/camaras-lluvia-fsd-espana">Cámaras y lluvia: el día que el sensor se vuelve política</a></li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-cómo-encoges-un-cerebro-sin-volverlo-torpe">4) Cómo encoges un cerebro sin volverlo torpe<a href="https://fsd.pepetox.es/v14-lite-hw3-europa#4-c%C3%B3mo-encoges-un-cerebro-sin-volverlo-torpe" class="hash-link" aria-label="Enlace directo al 4) Cómo encoges un cerebro sin volverlo torpe" title="Enlace directo al 4) Cómo encoges un cerebro sin volverlo torpe" translate="no">​</a></h2>
+<p>“Lite” no significa “menos inteligente”. Significa “misma política de conducción, con menos coste”.</p>
+<p>En IA aplicada a conducción, eso suele implicar (simplificando) una combinación de:</p>
+<ul>
+<li class=""><strong>Destilación</strong>: un modelo grande enseña a uno pequeño a imitar decisiones, no solo etiquetas.</li>
+<li class=""><strong>Optimización de latencia</strong>: menos milisegundos en percepción y planificación equivalen a más margen de seguridad.</li>
+<li class=""><strong>Priorización del contexto temporal</strong>: que el modelo recuerde lo que vio hace 0,5-2 segundos (crítico para motos y oclusiones).</li>
+<li class=""><strong>Barreras de seguridad</strong>: cuando la confianza cae, el sistema tiene que pedir supervisión antes de improvisar.</li>
+</ul>
+<p>Lo importante para Europa es que “Lite” obliga a Tesla a ser explícita con su ingeniería: qué se mantiene, qué se recorta, qué se monitoriza y qué se bloquea por escenario.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-europa-no-audita-parámetros-audita-responsabilidades">5) Europa no audita “parámetros”: audita responsabilidades<a href="https://fsd.pepetox.es/v14-lite-hw3-europa#5-europa-no-audita-par%C3%A1metros-audita-responsabilidades" class="hash-link" aria-label="Enlace directo al 5) Europa no audita “parámetros”: audita responsabilidades" title="Enlace directo al 5) Europa no audita “parámetros”: audita responsabilidades" translate="no">​</a></h2>
+<p>Aunque el post de hoy sea técnico, Europa siempre vuelve a la misma pregunta: si el sistema hace X, bajo Y condiciones, quién responde cuando falla.</p>
+<p>Por eso, a la comunidad española le interesa más el <em>packaging</em> del sistema que el número de versión:</p>
+<ul>
+<li class="">¿Qué ODD declara (y cuál no)?</li>
+<li class="">¿Qué hace cuando no está seguro?</li>
+<li class="">¿Cómo demuestra consistencia en escenarios europeos, no solo en autopistas “fáciles”?</li>
+</ul>
+<p>Si te interesa separar rumor de señal en el lado regulatorio, esta pieza de hace dos días sigue siendo el marco más sano:</p>
+<ul>
+<li class=""><a class="" href="https://fsd.pepetox.es/ruido-x-fsd-europa-rdw-unece">El ruido de X: RDW, UNECE y la trampa del calendario para FSD en Europa</a></li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="6-qué-vigilar-señales-tempranas-desde-españa">6) Qué vigilar (señales tempranas desde España)<a href="https://fsd.pepetox.es/v14-lite-hw3-europa#6-qu%C3%A9-vigilar-se%C3%B1ales-tempranas-desde-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al 6) Qué vigilar (señales tempranas desde España)" title="Enlace directo al 6) Qué vigilar (señales tempranas desde España)" translate="no">​</a></h2>
+<p>Si Tesla va en serio con Europa, veremos antes “pistas de ingeniería” que anuncios grandilocuentes:</p>
+<ul>
+<li class="">Menciones públicas repetidas a versiones “Lite” y a compatibilidad real con HW3 (sin humo).</li>
+<li class="">Notas de versión que hablen de comportamientos concretos (motos, obras, gestos, rotondas) y no solo “improvements”.</li>
+<li class="">Demos europeas con <strong>alcance acotado</strong> y condiciones claras (y no un “ya casi” eterno).</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/v14-lite-hw3-europa#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
+<p>El titular de hoy no es si Europa recibe FSD mañana. El titular es que Tesla está preparando un mundo donde FSD se vive como servicio y donde el stack tiene que <strong>caber en HW3</strong> sin perder criterio.</p>
+<p>Y si un “V14 Lite” es viable, el siguiente paso lógico es el que realmente nos importa en España: demostrar que ese modelo compacto no se rompe en nuestras rotondas, nuestras motos y nuestras calles estrechas.</p>
+<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Debate</div><div class="admonitionContent_BuS1"><p>Si Tesla lanza FSD en Europa primero en modo muy acotado (ODD estrecho, funciones limitadas, fuertes barreras de seguridad), ¿lo verías como progreso real o como una “demo eterna”? Cuéntalo en comentarios.</p></div></div>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes-para-seguir-el-hilo">Fuentes (para seguir el hilo)<a href="https://fsd.pepetox.es/v14-lite-hw3-europa#fuentes-para-seguir-el-hilo" class="hash-link" aria-label="Enlace directo al Fuentes (para seguir el hilo)" title="Enlace directo al Fuentes (para seguir el hilo)" translate="no">​</a></h2>
+<ul>
+<li class="">Earnings call transcript (mención de “V14 Lite” para HW3, Ashok Elluswamy): <a href="https://www.alphaspread.com/security/nasdaq/tsla/earnings-calls/q3-2025" target="_blank" rel="noopener noreferrer" class="">https://www.alphaspread.com/security/nasdaq/tsla/earnings-calls/q3-2025</a></li>
+<li class="">Not a Tesla App (reportes sobre cambio a suscripción en EE. UU., fecha 14 feb 2026): <a href="https://www.notateslaapp.com/news/2672/tesla-to-end-purchase-of-fsd-in-the-us-switches-to-subscription-only" target="_blank" rel="noopener noreferrer" class="">https://www.notateslaapp.com/news/2672/tesla-to-end-purchase-of-fsd-in-the-us-switches-to-subscription-only</a></li>
+<li class="">Teslarati (reportes sobre el mismo cambio a suscripción, contexto): <a href="https://www.teslarati.com/tesla-fsd-option-removed-subscription-only/" target="_blank" rel="noopener noreferrer" class="">https://www.teslarati.com/tesla-fsd-option-removed-subscription-only/</a></li>
+<li class="">Tesla (recordatorio oficial: Autopilot/FSD requiere supervisión activa): <a href="https://www.tesla.com/support/autopilot" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/support/autopilot</a></li>
+</ul>]]></content>
+        <author>
+            <name>The Autonomous Pilot</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="tesla" term="tesla"/>
+        <category label="ai" term="ai"/>
+        <category label="testing" term="testing"/>
+        <category label="europa" term="europa"/>
+        <category label="espana" term="espana"/>
+        <category label="hw3" term="hw3"/>
+        <category label="software" term="software"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[China como espejo: cuando un regulador decide que "FSD" no es lo que Tesla vende]]></title>
         <id>https://fsd.pepetox.es/china-espejo-fsd-europa</id>
@@ -1249,71 +1340,5 @@
         <category label="testing" term="testing"/>
         <category label="seguridad" term="seguridad"/>
         <category label="motos" term="motos"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carril bus, paneles variables y la IA que no puede dudar]]></title>
-        <id>https://fsd.pepetox.es/fsd-carril-bus-paneles-variables</id>
-        <link href="https://fsd.pepetox.es/fsd-carril-bus-paneles-variables"/>
-        <updated>2026-01-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Austin ya enseña FSD sin supervisión. En Europa, el examen real es interpretar reglas que cambian por hora y por paneles dinámicos en segundos.]]></summary>
-        <content type="html"><![CDATA[<p>Son las 07:58 en la A-6 entrando a Madrid. Un panel variable enciende “70” y el carril bus-VAO empieza a activarse. Dos minutos después, el mismo panel indica “50” por atasco y un agente de tráfico dirige el flujo. Para un humano es rutina; para una red neuronal, es un test de lectura legal en tiempo real.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detonante-austin-sin-supervisor-y-la-pregunta-europea">El detonante: Austin sin supervisor y la pregunta europea<a href="https://fsd.pepetox.es/fsd-carril-bus-paneles-variables#el-detonante-austin-sin-supervisor-y-la-pregunta-europea" class="hash-link" aria-label="Enlace directo al El detonante: Austin sin supervisor y la pregunta europea" title="Enlace directo al El detonante: Austin sin supervisor y la pregunta europea" translate="no">​</a></h2>
-<p>Esta semana Tesla ha empezado a operar algunos robotaxis sin monitor de seguridad en Austin. Es una señal clara de confianza técnica en su stack de conducción, aunque todavía en despliegue limitado y mezclado con vehículos que sí llevan monitor.</p>
-<p>Pero Europa no premia solo la conducción “suave”. Aquí el cuello de botella no es el volante, sino <strong>la interpretación dinámica de normas</strong>: carriles con horarios, paneles de mensaje variable, límites temporales y señalización cambiante. Y ese es justo el tipo de escenario que no se resuelve solo con más kilómetros en autopistas americanas.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-problema-invisible-carriles-con-reglas-que-cambian-cada-minuto">El problema invisible: carriles con reglas que cambian cada minuto<a href="https://fsd.pepetox.es/fsd-carril-bus-paneles-variables#el-problema-invisible-carriles-con-reglas-que-cambian-cada-minuto" class="hash-link" aria-label="Enlace directo al El problema invisible: carriles con reglas que cambian cada minuto" title="Enlace directo al El problema invisible: carriles con reglas que cambian cada minuto" translate="no">​</a></h2>
-<p>En España tenemos un ecosistema vial muy particular:</p>
-<ul>
-<li class=""><strong>Carriles bus y bus-VAO</strong> que son legales o ilegales según la hora.</li>
-<li class=""><strong>Paneles dinámicos</strong> que cambian velocidad, carril recomendado o incluso dirección.</li>
-<li class=""><strong>Señales temporales</strong> por eventos, obras o picos de congestión.</li>
-</ul>
-<p>La IA no puede “ver” una hora en un panel y, a la vez, entender que ese carril es válido solo a partir de las 07:30. Tiene que fusionar visión, contexto temporal y reglas locales con precisión quirúrgica. Este es el tipo de desafío que diferencia una demo espectacular de una conducción verdaderamente europea.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-debe-entender-la-red-neuronal-más-allá-de-detectar-señales">Qué debe entender la red neuronal (más allá de detectar señales)<a href="https://fsd.pepetox.es/fsd-carril-bus-paneles-variables#qu%C3%A9-debe-entender-la-red-neuronal-m%C3%A1s-all%C3%A1-de-detectar-se%C3%B1ales" class="hash-link" aria-label="Enlace directo al Qué debe entender la red neuronal (más allá de detectar señales)" title="Enlace directo al Qué debe entender la red neuronal (más allá de detectar señales)" translate="no">​</a></h2>
-<p>El objetivo no es solo detectar un panel, sino <strong>entender su jerarquía</strong> y actuar con seguridad:</p>
-<ol>
-<li class=""><strong>Prioridad semántica</strong>: si el panel dice “50” y la señal fija marca “70”, el sistema debe obedecer el panel.</li>
-<li class=""><strong>Reglas por horario</strong>: el carril bus-VAO no es un obstáculo, es un carril condicionado por tiempo y ocupación.</li>
-<li class=""><strong>Contexto urbano</strong>: una reducción temporal puede estar ligada a incidentes, no a clima. El coche debe anticipar comportamiento de otros conductores.</li>
-</ol>
-<p>Aquí el enfoque end-to-end es prometedor, pero solo si la red ha visto suficiente variedad europea. Si quieres entender esta transición, revisa nuestra <a class="" href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13">revolución end-to-end</a>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="regulación-lo-que-realmente-pide-europa">Regulación: lo que realmente pide Europa<a href="https://fsd.pepetox.es/fsd-carril-bus-paneles-variables#regulaci%C3%B3n-lo-que-realmente-pide-europa" class="hash-link" aria-label="Enlace directo al Regulación: lo que realmente pide Europa" title="Enlace directo al Regulación: lo que realmente pide Europa" translate="no">​</a></h2>
-<p>La regulación <strong>DCAS (Reglamento ONU R171)</strong> deja claro que seguimos en un marco de conducción asistida nivel 2: el conductor sigue siendo responsable y debe supervisar en todo momento.</p>
-<p>Y el regulador holandés RDW ha sido explícito: <strong>febrero de 2026 es una demostración</strong>, no una aprobación automática. Eso significa que la capacidad de interpretar reglas dinámicas (como paneles variables o carriles condicionados) puede pesar tanto como la suavidad en un giro.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-en-una-mañana-cualquiera">Expectativa vs. realidad (en una mañana cualquiera)<a href="https://fsd.pepetox.es/fsd-carril-bus-paneles-variables#expectativa-vs-realidad-en-una-ma%C3%B1ana-cualquiera" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad (en una mañana cualquiera)" title="Enlace directo al Expectativa vs. realidad (en una mañana cualquiera)" translate="no">​</a></h2>
-<ul>
-<li class=""><strong>Expectativa:</strong> el coche “lee” las señales y actúa.</li>
-<li class=""><strong>Realidad:</strong> tiene que decidir entre varias capas de señalización con tiempos y prioridades distintas.</li>
-<li class=""><strong>Expectativa:</strong> el carril bus es un carril más.</li>
-<li class=""><strong>Realidad:</strong> es un carril que puede ser legal a las 07:31 y sancionable a las 07:29.</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-debería-mirar-la-comunidad-fsd-en-españa">Qué debería mirar la comunidad FSD en España<a href="https://fsd.pepetox.es/fsd-carril-bus-paneles-variables#qu%C3%A9-deber%C3%ADa-mirar-la-comunidad-fsd-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Qué debería mirar la comunidad FSD en España" title="Enlace directo al Qué debería mirar la comunidad FSD en España" translate="no">​</a></h2>
-<p>Si quieres evaluar el progreso real de FSD hacia Europa, busca señales concretas:</p>
-<ul>
-<li class=""><strong>Interpretación fiable de paneles variables</strong> en autopistas y rondas urbanas.</li>
-<li class=""><strong>Cumplimiento de carriles condicionados</strong> sin frenazos ni dudas.</li>
-<li class=""><strong>Transiciones suaves</strong> entre reglas fijas y temporales.</li>
-</ul>
-<p>Si Tesla puede demostrar esto en pruebas oficiales, Europa se abre. Si no, las promesas de robotaxi seguirán siendo titulares sin fecha. Para más contexto regulatorio, consulta nuestro <a class="" href="https://fsd.pepetox.es/examen-final-rdw-tesla-fsd">examen final del RDW</a>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="cierre-el-examen-europeo-no-está-en-austin">Cierre: el examen europeo no está en Austin<a href="https://fsd.pepetox.es/fsd-carril-bus-paneles-variables#cierre-el-examen-europeo-no-est%C3%A1-en-austin" class="hash-link" aria-label="Enlace directo al Cierre: el examen europeo no está en Austin" title="Enlace directo al Cierre: el examen europeo no está en Austin" translate="no">​</a></h2>
-<p>Austin demuestra capacidad; Madrid y Barcelona exigen comprensión. El verdadero salto europeo no será “más kilómetros”, sino <strong>más inteligencia normativa en tiempo real</strong>. Ese es el puente entre una IA impresionante y una IA legal.</p>
-<p>¿Has visto a FSD (o a otros ADAS) dudar en un carril bus o ante un panel variable? Cuéntanos tu caso. Y si quieres seguir el ritmo de estas pruebas, quédate cerca: lo mejor del 2026 aún no ha ocurrido.</p>
-<hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-carril-bus-paneles-variables#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h3>
-<ul>
-<li class="">The Verge — Tesla comienza viajes de robotaxi sin monitor de seguridad en Austin (enero 2026): <a href="https://www.theverge.com/transportation/866165/tesla-robotaxi-unsupervised-austin-texas-safety-monitor" target="_blank" rel="noopener noreferrer" class="">https://www.theverge.com/transportation/866165/tesla-robotaxi-unsupervised-austin-texas-safety-monitor</a></li>
-<li class="">TechCrunch — Tesla lanza viajes de robotaxi en Austin sin conductor de seguridad (22 enero 2026): <a href="https://techcrunch.com/2026/01/22/tesla-launches-robotaxi-rides-in-austin-with-no-human-safety-driver/" target="_blank" rel="noopener noreferrer" class="">https://techcrunch.com/2026/01/22/tesla-launches-robotaxi-rides-in-austin-with-no-human-safety-driver/</a></li>
-<li class="">RDW — Comunicado oficial sobre la demostración de FSD Supervised en febrero de 2026: <a href="https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action</a></li>
-<li class="">UNECE — Reglamento ONU R171 (DCAS) y entrada en vigor (septiembre 2024): <a href="https://unece.org/media/press/395206" target="_blank" rel="noopener noreferrer" class="">https://unece.org/media/press/395206</a></li>
-</ul>]]></content>
-        <author>
-            <name>The Autonomous Pilot</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="fsd" term="fsd"/>
-        <category label="españa" term="españa"/>
-        <category label="ai" term="ai"/>
-        <category label="testing" term="testing"/>
-        <category label="señalizacion" term="señalizacion"/>
-        <category label="regulaciones" term="regulaciones"/>
     </entry>
 </feed>
