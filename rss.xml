@@ -4,10 +4,103 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Mon, 09 Feb 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Feb 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[El carril de aceleración: el examen invisible de FSD en las autopistas españolas]]></title>
+            <link>https://fsd.pepetox.es/carril-aceleracion-fsd-espana</link>
+            <guid>https://fsd.pepetox.es/carril-aceleracion-fsd-espana</guid>
+            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[La incorporación a una autovía en España no es solo geometría: es negociación, intención y margen. Por qué este escenario define el futuro de FSD en Europa.]]></description>
+            <content:encoded><![CDATA[<p>Vas por una vía de servicio, velocidad baja, el GPS te pide incorporarte a la autovía. Miras: el carril de aceleración es corto, hay un camión en el carril derecho y un utilitario detrás que viene lanzado. No hay líneas perfectas, no hay cortesías garantizadas, y el tiempo para decidir se mide en <strong>segundos</strong>.</p>
+<p>Este es el tipo de situación que separa un asistente “que conduce” de un sistema que <strong>merece</strong> confianza: no porque sea espectacular, sino porque es frecuente, repetible y con consecuencias reales.</p>
+<p><img decoding="async" loading="lazy" alt="Un Tesla incorporándose a una autovía española: el examen de la negociación" src="https://fsd.pepetox.es/assets/images/2026-02-10-carril-aceleracion-fsd-espana-3e76f3ad25ff802064a9898ca8f48a02.png" width="1024" height="1024" class="img_ev3q"></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-la-incorporación-es-el-punto-ciego-del-relato">Por qué la incorporación es el “punto ciego” del relato<a href="https://fsd.pepetox.es/carril-aceleracion-fsd-espana#por-qu%C3%A9-la-incorporaci%C3%B3n-es-el-punto-ciego-del-relato" class="hash-link" aria-label="Enlace directo al Por qué la incorporación es el “punto ciego” del relato" title="Enlace directo al Por qué la incorporación es el “punto ciego” del relato" translate="no">​</a></h2>
+<p>En el marketing, la autopista suena fácil: carriles claros, menos peatones, menos intersecciones. En la realidad española, la incorporación es una microbatalla:</p>
+<ul>
+<li class="">Longitudes de carril de aceleración muy variables (y a veces ridículamente cortas).</li>
+<li class="">Tráfico denso con cambios de carril agresivos en el derecho.</li>
+<li class="">Camiones que no pueden “apartarse” aunque quieran.</li>
+<li class="">Conductores que ayudan… y conductores que <strong>cierran</strong> el hueco.</li>
+</ul>
+<p>La IA no solo tiene que “ver”. Tiene que <strong>negociar</strong>. Y negociar en carretera significa predecir intención, proteger margen y, cuando no hay hueco, saber frenar sin crear otro riesgo.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-giro-técnico-que-importa-end-to-end-también-en-autopista">El giro técnico que importa: “end-to-end” también en autopista<a href="https://fsd.pepetox.es/carril-aceleracion-fsd-espana#el-giro-t%C3%A9cnico-que-importa-end-to-end-tambi%C3%A9n-en-autopista" class="hash-link" aria-label="Enlace directo al El giro técnico que importa: “end-to-end” también en autopista" title="Enlace directo al El giro técnico que importa: “end-to-end” también en autopista" translate="no">​</a></h2>
+<p>Tesla ya describe FSD como un sistema capaz de navegar incorporaciones y salidas, y en los últimos meses se ha hablado de extender el enfoque end-to-end a más partes del stack. En trackers de versiones y notas de lanzamiento agregadas por la comunidad, se han mencionado mejoras del tipo “End to End on Highway” y decisiones de cambio de carril más tempranas y naturales.</p>
+<p>Traducido a lenguaje de carretera: el sistema intenta pasar de “hacer carril” a <strong>hacer tráfico</strong>.</p>
+<p>Y ahí aparece el examen europeo: en España, incorporarse no es un puzzle de geometría, es un problema de <strong>interacción social</strong> con restricciones físicas.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-la-red-neuronal-tiene-que-entender-y-lo-que-no-perdona-españa">Lo que la red neuronal tiene que entender (y lo que no perdona España)<a href="https://fsd.pepetox.es/carril-aceleracion-fsd-espana#lo-que-la-red-neuronal-tiene-que-entender-y-lo-que-no-perdona-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Lo que la red neuronal tiene que entender (y lo que no perdona España)" title="Enlace directo al Lo que la red neuronal tiene que entender (y lo que no perdona España)" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-no-basta-con-detectar-coches-hay-que-leer-roles">1) No basta con detectar coches: hay que leer roles<a href="https://fsd.pepetox.es/carril-aceleracion-fsd-espana#1-no-basta-con-detectar-coches-hay-que-leer-roles" class="hash-link" aria-label="Enlace directo al 1) No basta con detectar coches: hay que leer roles" title="Enlace directo al 1) No basta con detectar coches: hay que leer roles" translate="no">​</a></h3>
+<p>En una incorporacion real, el mismo coche puede ser:</p>
+<ul>
+<li class="">un “cedo” (te deja entrar),</li>
+<li class="">un “neutral” (mantiene velocidad),</li>
+<li class="">o un “cierro” (acelera justo cuando te vas a meter).</li>
+</ul>
+<p>La clave es identificarlo pronto, porque cada segundo tarde reduce el margen y empeora la calidad de la maniobra.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-la-señal-no-es-solo-visual-es-temporal">2) La señal no es solo visual: es temporal<a href="https://fsd.pepetox.es/carril-aceleracion-fsd-espana#2-la-se%C3%B1al-no-es-solo-visual-es-temporal" class="hash-link" aria-label="Enlace directo al 2) La señal no es solo visual: es temporal" title="Enlace directo al 2) La señal no es solo visual: es temporal" translate="no">​</a></h3>
+<p>Lo difícil no es ver un coche, es ver su <strong>historia</strong>:</p>
+<ul>
+<li class="">Si el coche de la derecha ha oscilado su velocidad, puede estar dudando.</li>
+<li class="">Si ya ha cambiado de carril dos veces en 15 segundos, probablemente no va “estable”.</li>
+<li class="">Si el camión va cargado y en ligera subida, su aceleración es limitada y su hueco futuro es predecible.</li>
+</ul>
+<p>Este es el tipo de información donde un enfoque end-to-end (bien hecho) puede brillar, porque integra contexto y memoria corta. Pero también es donde se revela la diferencia entre “smooth” y “seguro”.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-europa-castiga-el-error-pequeño-y-repetible">3) Europa castiga el error pequeño y repetible<a href="https://fsd.pepetox.es/carril-aceleracion-fsd-espana#3-europa-castiga-el-error-peque%C3%B1o-y-repetible" class="hash-link" aria-label="Enlace directo al 3) Europa castiga el error pequeño y repetible" title="Enlace directo al 3) Europa castiga el error pequeño y repetible" translate="no">​</a></h3>
+<p>En EE. UU. puedes salir de una incorporación mediocre con una corrección suave. En Europa, el regulador y el usuario te juzgan por comportamientos que se repiten:</p>
+<ul>
+<li class="">entrar tarde y obligar a frenar al carril derecho,</li>
+<li class="">frenar demasiado en el carril de aceleración y crear riesgo por alcance,</li>
+<li class="">o dudar hasta el final y “lanzarte” sin hueco.</li>
+</ul>
+<p>La incorporación es un escenario perfecto para medir consistencia.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="cómo-se-vería-una-buena-política-de-incorporación-para-europa">Cómo se vería una “buena política” de incorporación para Europa<a href="https://fsd.pepetox.es/carril-aceleracion-fsd-espana#c%C3%B3mo-se-ver%C3%ADa-una-buena-pol%C3%ADtica-de-incorporaci%C3%B3n-para-europa" class="hash-link" aria-label="Enlace directo al Cómo se vería una “buena política” de incorporación para Europa" title="Enlace directo al Cómo se vería una “buena política” de incorporación para Europa" translate="no">​</a></h2>
+<p>Si FSD quiere ganar credibilidad en autopistas españolas, una política robusta suele tener tres virtudes:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-anticipación-no-reacción">1) Anticipación (no reacción)<a href="https://fsd.pepetox.es/carril-aceleracion-fsd-espana#1-anticipaci%C3%B3n-no-reacci%C3%B3n" class="hash-link" aria-label="Enlace directo al 1) Anticipación (no reacción)" title="Enlace directo al 1) Anticipación (no reacción)" translate="no">​</a></h3>
+<p>Si el coche espera a estar al final del carril de aceleración para empezar a negociar, ya va tarde. La maniobra buena empieza antes:</p>
+<ul>
+<li class="">posicionarse para maximizar visibilidad,</li>
+<li class="">sincronizar velocidad con el hueco objetivo,</li>
+<li class="">y señalizar de forma que el resto del tráfico entienda tu plan.</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-margen-como-variable-principal">2) Margen como variable principal<a href="https://fsd.pepetox.es/carril-aceleracion-fsd-espana#2-margen-como-variable-principal" class="hash-link" aria-label="Enlace directo al 2) Margen como variable principal" title="Enlace directo al 2) Margen como variable principal" translate="no">​</a></h3>
+<p>La decisión correcta no es “cabe o no cabe”. Es: “si entra, con qué margen queda y qué opciones de escape conserva”.</p>
+<p>Un sistema serio prioriza margen, incluso si eso implica perder 5 segundos y entrar más adelante con una maniobra menos “brillante”.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-plan-b-explícitamente-seguro">3) Plan B explícitamente seguro<a href="https://fsd.pepetox.es/carril-aceleracion-fsd-espana#3-plan-b-expl%C3%ADcitamente-seguro" class="hash-link" aria-label="Enlace directo al 3) Plan B explícitamente seguro" title="Enlace directo al 3) Plan B explícitamente seguro" translate="no">​</a></h3>
+<p>Cuando no hay hueco, no hay hueco. Y en Europa eso tiene que verse claro:</p>
+<ul>
+<li class="">frenar con progresividad,</li>
+<li class="">evitar quedarse “parado” donde no toca,</li>
+<li class="">y no forzar al tráfico principal a maniobras defensivas.</li>
+</ul>
+<p>El Plan B es lo que convierte una incorporacion dificil en una incorporacion aceptable.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-deberíamos-vigilar-en-pruebas-sin-caer-en-el-vídeo-bonito">Qué deberíamos vigilar en pruebas (sin caer en el vídeo bonito)<a href="https://fsd.pepetox.es/carril-aceleracion-fsd-espana#qu%C3%A9-deber%C3%ADamos-vigilar-en-pruebas-sin-caer-en-el-v%C3%ADdeo-bonito" class="hash-link" aria-label="Enlace directo al Qué deberíamos vigilar en pruebas (sin caer en el vídeo bonito)" title="Enlace directo al Qué deberíamos vigilar en pruebas (sin caer en el vídeo bonito)" translate="no">​</a></h2>
+<p>Si vas a evaluar avances de FSD en autopista pensando en Europa, apunta a métricas y escenarios repetibles:</p>
+<ul>
+<li class=""><strong>Tasa de “cortes” al carril derecho</strong>: cuántas veces obliga a frenar a otro.</li>
+<li class=""><strong>Estabilidad de decisión</strong>: cuantas veces cambia de idea (acelerar/frenar) en una misma incorporación.</li>
+<li class=""><strong>Calidad del señalizado</strong>: indica pronto y consistente, o tarde y errático.</li>
+<li class=""><strong>Gestión de camiones</strong>: mantiene margen realista, no “mágico”.</li>
+</ul>
+<p>Y, muy importante, el mapa de España: incorporaciones cortas, cambios de rasante, carriles que se estrechan, y entradas con tráfico pesado.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway-para-la-comunidad-fsd-en-españa">Takeaway para la comunidad FSD en España<a href="https://fsd.pepetox.es/carril-aceleracion-fsd-espana#takeaway-para-la-comunidad-fsd-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Takeaway para la comunidad FSD en España" title="Enlace directo al Takeaway para la comunidad FSD en España" translate="no">​</a></h2>
+<p>La incorporación es el examen invisible porque no luce en una demo, pero decide si el sistema es útil día a día. Si Tesla de verdad empuja el stack hacia decisiones end-to-end también en autopista, Europa debería exigir (y celebrar) lo mismo que un buen conductor: <strong>anticipación, margen y un Plan B seguro</strong>.</p>
+<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Debate</div><div class="admonitionContent_BuS1"><p>En tu zona, qué incorporaciones españolas son “imposibles” incluso para humanos? Si compartes la vía y el patrón (carril corto, subida, camión, etc.), podemos construir una lista de escenarios para medir progreso real.</p></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes-y-lecturas-recomendadas">Fuentes y lecturas recomendadas<a href="https://fsd.pepetox.es/carril-aceleracion-fsd-espana#fuentes-y-lecturas-recomendadas" class="hash-link" aria-label="Enlace directo al Fuentes y lecturas recomendadas" title="Enlace directo al Fuentes y lecturas recomendadas" translate="no">​</a></h2>
+<ul>
+<li class="">Tesla: Full Self-Driving (Supervised), capacidades y limitaciones declaradas: <a href="https://www.tesla.com/support/full-self-driving-capability" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/support/full-self-driving-capability</a></li>
+<li class="">Trackers de versiones (comunidad) con notas sobre mejoras de “end-to-end” en autopista y cambios de carril: <a href="https://tesla-info.com/release/2024.33.15" target="_blank" rel="noopener noreferrer" class="">https://tesla-info.com/release/2024.33.15</a></li>
+</ul>]]></content:encoded>
+            <category>fsd</category>
+            <category>tesla</category>
+            <category>ai</category>
+            <category>testing</category>
+            <category>espana</category>
+            <category>europa</category>
+            <category>seguridad</category>
+            <category>autopistas</category>
+        </item>
         <item>
             <title><![CDATA[V14 Lite y el límite del HW3: cuando FSD aprende a caber (sin romperse) en Europa]]></title>
             <link>https://fsd.pepetox.es/v14-lite-hw3-europa</link>
@@ -1195,72 +1288,6 @@
             <category>testing</category>
             <category>seguridad</category>
             <category>regulations</category>
-        </item>
-        <item>
-            <title><![CDATA[El FSD frente a las motos que se cuelan: la prueba invisible de España]]></title>
-            <link>https://fsd.pepetox.es/fsd-motos-filtrado-carril</link>
-            <guid>https://fsd.pepetox.es/fsd-motos-filtrado-carril</guid>
-            <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[El filtrado de motos en España pone a prueba la percepción y predicción del FSD justo cuando Tesla acelera su despliegue en EE. UU.]]></description>
-            <content:encoded><![CDATA[<p>Son las 08:12 en la M-30. El tráfico está denso, y dos motos aparecen entre carriles a la misma velocidad que tu coche mientras un patinete cruza desde una acera sin semáforo claro. Para un humano es “ruido urbano”. Para una red neuronal, es el examen que separa una demo brillante de la conducción europea real.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detonante-austin-acelera-mientras-europa-mira-con-lupa">El detonante: Austin acelera mientras Europa mira con lupa<a href="https://fsd.pepetox.es/fsd-motos-filtrado-carril#el-detonante-austin-acelera-mientras-europa-mira-con-lupa" class="hash-link" aria-label="Enlace directo al El detonante: Austin acelera mientras Europa mira con lupa" title="Enlace directo al El detonante: Austin acelera mientras Europa mira con lupa" translate="no">​</a></h2>
-<p>Esta semana Tesla ha empezado a ofrecer viajes de robotaxi sin conductor de seguridad en Austin. Y el 14 de enero anunció que FSD (Supervised) pasará a ser solo por suscripción a partir del 14 de febrero, un movimiento que busca más adopción y más datos reales. Es un salto de ambición. Pero Europa no está pendiente de la espectacularidad: está pendiente de la <strong>consistencia con usuarios vulnerables</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-realidad-española-motos-patinetes-y-micro-decisión-cada-segundo">La realidad española: motos, patinetes y micro-decisión cada segundo<a href="https://fsd.pepetox.es/fsd-motos-filtrado-carril#la-realidad-espa%C3%B1ola-motos-patinetes-y-micro-decisi%C3%B3n-cada-segundo" class="hash-link" aria-label="Enlace directo al La realidad española: motos, patinetes y micro-decisión cada segundo" title="Enlace directo al La realidad española: motos, patinetes y micro-decisión cada segundo" translate="no">​</a></h2>
-<p>En Estados Unidos, los carriles y las distancias suelen ser previsibles. En España, el <strong>filtrado de motos</strong> y la convivencia con patinetes eléctricos convierten la escena en un problema de predicción continua:</p>
-<ul>
-<li class=""><strong>Diferencias de velocidad laterales</strong>: la moto entra y sale de tu ángulo en décimas de segundo.</li>
-<li class=""><strong>Ocultaciones</strong>: un coche alto o una furgoneta puede tapar a una moto hasta el último instante.</li>
-<li class=""><strong>Señales ambiguas</strong>: un patinete “asoma” sin clara prioridad, y la IA debe decidir si cede o mantiene.</li>
-</ul>
-<p>Este es el tipo de escenario donde el enfoque end-to-end promete mucho… pero solo si ha visto suficiente variedad europea. Si quieres profundizar en esa transición, lee nuestro análisis de <a class="" href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13">la revolución end-to-end</a>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-este-problema-es-técnico-no-solo-legal">Por qué este problema es técnico (no solo legal)<a href="https://fsd.pepetox.es/fsd-motos-filtrado-carril#por-qu%C3%A9-este-problema-es-t%C3%A9cnico-no-solo-legal" class="hash-link" aria-label="Enlace directo al Por qué este problema es técnico (no solo legal)" title="Enlace directo al Por qué este problema es técnico (no solo legal)" translate="no">​</a></h2>
-<p>El reto no es “detectar una moto”. El reto es <strong>predecir intención</strong> con pocos fotogramas y margen de error cero. Para FSD, eso implica:</p>
-<ol>
-<li class=""><strong>Modelos temporales robustos</strong>: no basta un frame; hay que entender trayectoria en milisegundos.</li>
-<li class=""><strong>Estimación de riesgo</strong>: diferenciar una moto que filtra en línea recta de otra que cambiará de carril.</li>
-<li class=""><strong>Frenado y lateralidad suaves</strong>: un frenazo brusco puede provocar alcance; un no-cambio puede ser peligroso.</li>
-</ol>
-<p>Aquí la IA se juega la confianza del conductor y, sobre todo, la seguridad del entorno. Y este es el tipo de “micro-comportamiento” que Europa evaluará con lupa.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-en-la-calle-española">Expectativa vs. realidad en la calle española<a href="https://fsd.pepetox.es/fsd-motos-filtrado-carril#expectativa-vs-realidad-en-la-calle-espa%C3%B1ola" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad en la calle española" title="Enlace directo al Expectativa vs. realidad en la calle española" translate="no">​</a></h2>
-<ul>
-<li class=""><strong>Expectativa:</strong> la moto es un objeto más.</li>
-<li class=""><strong>Realidad:</strong> es un actor rápido, impredecible y socialmente aceptado.</li>
-<li class=""><strong>Expectativa:</strong> si hay hueco, el coche mantiene carril.</li>
-<li class=""><strong>Realidad:</strong> a veces conviene suavizar, abrir espacio o anticipar una maniobra humana.</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-tendrá-que-demostrar-tesla-ante-europa">Qué tendrá que demostrar Tesla ante Europa<a href="https://fsd.pepetox.es/fsd-motos-filtrado-carril#qu%C3%A9-tendr%C3%A1-que-demostrar-tesla-ante-europa" class="hash-link" aria-label="Enlace directo al Qué tendrá que demostrar Tesla ante Europa" title="Enlace directo al Qué tendrá que demostrar Tesla ante Europa" translate="no">​</a></h2>
-<p>El regulador holandés RDW ya ha fijado una demostración para febrero de 2026. Y la regulación ONU R171 (DCAS) deja claro que seguimos en Nivel 2: el conductor es responsable y debe supervisar. En ese marco, el éxito de FSD no se mide solo en kilómetros, sino en <strong>comportamientos seguros frente a usuarios vulnerables</strong>.</p>
-<p>Lo que puede marcar la diferencia:</p>
-<ul>
-<li class=""><strong>Detección temprana de motos en filtrado</strong> con suavidad de trayectoria.</li>
-<li class=""><strong>Gestión del espacio lateral</strong> sin cambios bruscos ni bloqueos.</li>
-<li class=""><strong>Coherencia legal</strong> cuando la norma no es explícita, pero el contexto sí lo es.</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-debería-mirar-la-comunidad-fsd-en-españa">Lo que debería mirar la comunidad FSD en España<a href="https://fsd.pepetox.es/fsd-motos-filtrado-carril#lo-que-deber%C3%ADa-mirar-la-comunidad-fsd-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Lo que debería mirar la comunidad FSD en España" title="Enlace directo al Lo que debería mirar la comunidad FSD en España" translate="no">​</a></h2>
-<p>Si quieres medir si FSD está listo para nuestras calles, fíjate en estos indicadores:</p>
-<ul>
-<li class="">¿Detecta motos antes de que “aparezcan” claramente en el carril?</li>
-<li class="">¿Mantiene un buffer lateral estable sin zigzags?</li>
-<li class="">¿Evita frenar tarde cuando una moto se abre paso?</li>
-</ul>
-<p>Y si te interesa cómo Europa evalúa estos sistemas, puedes leer nuestro <a class="" href="https://fsd.pepetox.es/examen-final-rdw-tesla-fsd">examen final del RDW</a>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="cierre-la-ia-no-se-examina-en-el-desierto">Cierre: la IA no se examina en el desierto<a href="https://fsd.pepetox.es/fsd-motos-filtrado-carril#cierre-la-ia-no-se-examina-en-el-desierto" class="hash-link" aria-label="Enlace directo al Cierre: la IA no se examina en el desierto" title="Enlace directo al Cierre: la IA no se examina en el desierto" translate="no">​</a></h2>
-<p>El futuro no se decide en autopistas perfectas, sino en calles con motos, patinetes y reglas implícitas. FSD puede ser brillante en Austin, pero <strong>su verdadera prueba europea está en Madrid, Barcelona y Valencia</strong>. Si Tesla quiere ganar aquí, tiene que ganar en lo pequeño: en cada moto que se cuela, en cada gesto que anticipa.</p>
-<p>¿Has visto a un ADAS reaccionar bien (o mal) ante motos en filtrado? Cuéntanos tu experiencia y sigue el blog para no perderte el pulso real de la autonomía en Europa.</p>
-<hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-motos-filtrado-carril#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h3>
-<ul>
-<li class="">TechCrunch — Tesla lanza viajes de robotaxi en Austin sin conductor de seguridad (22 enero 2026): <a href="https://techcrunch.com/2026/01/22/tesla-launches-robotaxi-rides-in-austin-with-no-human-safety-driver/" target="_blank" rel="noopener noreferrer" class="">https://techcrunch.com/2026/01/22/tesla-launches-robotaxi-rides-in-austin-with-no-human-safety-driver/</a></li>
-<li class="">TechCrunch — Tesla pasará a vender FSD solo por suscripción (14 enero 2026): <a href="https://techcrunch.com/2026/01/14/tesla-will-only-offer-subscriptions-for-full-self-driving-supervised-going-forward/" target="_blank" rel="noopener noreferrer" class="">https://techcrunch.com/2026/01/14/tesla-will-only-offer-subscriptions-for-full-self-driving-supervised-going-forward/</a></li>
-<li class="">RDW — Comunicado oficial sobre la demostración de FSD Supervised en febrero de 2026 (24 noviembre 2025): <a href="https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action</a></li>
-<li class="">UNECE — Reglamento ONU R171 (DCAS) y entrada en vigor (4 octubre 2024): <a href="https://unece.org/media/press/395206" target="_blank" rel="noopener noreferrer" class="">https://unece.org/media/press/395206</a></li>
-</ul>]]></content:encoded>
-            <category>fsd</category>
-            <category>españa</category>
-            <category>ai</category>
-            <category>testing</category>
-            <category>seguridad</category>
-            <category>motos</category>
         </item>
     </channel>
 </rss>
