@@ -2,11 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fsd.pepetox.es</id>
     <title>FSD Spain Blog</title>
-    <updated>2026-02-10T00:00:00.000Z</updated>
+    <updated>2026-02-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fsd.pepetox.es"/>
     <subtitle>FSD Spain Blog</subtitle>
     <icon>https://fsd.pepetox.es/img/fsdspain.png</icon>
+    <entry>
+        <title type="html"><![CDATA[De compra única a servicio vivo: el giro de FSD que Europa sí puede auditar]]></title>
+        <id>https://fsd.pepetox.es/fsd-suscripcion-europa-evidencia-regulatoria</id>
+        <link href="https://fsd.pepetox.es/fsd-suscripcion-europa-evidencia-regulatoria"/>
+        <updated>2026-02-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tesla mueve FSD hacia suscripción mientras prueba robotaxi en Austin. En Europa, ese cambio obliga a demostrar seguridad medible, no solo demos espectaculares.]]></summary>
+        <content type="html"><![CDATA[<p>Son las 08:10 en un acceso a la M-40: lluvia fina, carril corto de incorporación y una furgoneta que duda si cederte hueco. En ese instante, da igual cuántas veces hayas visto un vídeo viral de FSD en EE. UU. La pregunta europea es otra: <strong>¿puede Tesla demostrar, con datos auditables, que su sistema es seguro aquí y no solo impresionante allí?</strong></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-señal-nueva-no-es-una-versión-es-un-modelo-de-producto">La señal nueva no es una versión, es un modelo de producto<a href="https://fsd.pepetox.es/fsd-suscripcion-europa-evidencia-regulatoria#la-se%C3%B1al-nueva-no-es-una-versi%C3%B3n-es-un-modelo-de-producto" class="hash-link" aria-label="Enlace directo al La señal nueva no es una versión, es un modelo de producto" title="Enlace directo al La señal nueva no es una versión, es un modelo de producto" translate="no">​</a></h2>
+<p>En la actualización oficial del <strong>Q4 2025</strong>, Tesla dejó varias pistas estratégicas que importan para Europa:</p>
+<ul>
+<li class="">Dice haber empezado en enero de 2026 a retirar el <em>safety monitor</em> en pruebas de robotaxi en Austin.</li>
+<li class="">Confirma que sigue con <em>ride-alongs</em> en Europa (Italia, Alemania, Francia y Suiza).</li>
+<li class="">Afirma que está “persiguiendo” la aprobación regulatoria en Europa.</li>
+<li class="">Y, quizá lo más relevante para usuarios y regulador, anuncia la transición de FSD en Norteamérica hacia <strong>modelo de suscripción</strong>.</li>
+</ul>
+<p>Esto no es cosmética comercial. Es un cambio de fondo: cuando conviertes FSD en servicio mensual, cada mes tienes que sostener valor, seguridad y confianza. En Europa, ese formato encaja mejor con lo que piden los reguladores: mejora continua, trazabilidad y límites explícitos.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-lo-que-cambia-al-servitizar-fsd">Expectativa vs. realidad: lo que cambia al “servitizar” FSD<a href="https://fsd.pepetox.es/fsd-suscripcion-europa-evidencia-regulatoria#expectativa-vs-realidad-lo-que-cambia-al-servitizar-fsd" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad: lo que cambia al “servitizar” FSD" title="Enlace directo al Expectativa vs. realidad: lo que cambia al “servitizar” FSD" translate="no">​</a></h2>
+<p><strong>Expectativa:</strong> “Si Tesla avanza en Austin, Europa llegará sola.”</p>
+<p><strong>Realidad:</strong> Austin valida operación en un contexto concreto. Europa exige además un marco verificable de supervisión humana, comunicación de límites y comportamiento reproducible en escenarios locales.</p>
+<p>Dicho simple: pasar de licencia única a suscripción te obliga a enseñar más el motor por dentro. Y eso es justo lo que Europa quiere ver.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-cuello-regulatorio-sigue-donde-estaba-rdw--unece">El cuello regulatorio sigue donde estaba: RDW + UNECE<a href="https://fsd.pepetox.es/fsd-suscripcion-europa-evidencia-regulatoria#el-cuello-regulatorio-sigue-donde-estaba-rdw--unece" class="hash-link" aria-label="Enlace directo al El cuello regulatorio sigue donde estaba: RDW + UNECE" title="Enlace directo al El cuello regulatorio sigue donde estaba: RDW + UNECE" translate="no">​</a></h2>
+<p>La RDW fue clara en noviembre de 2025: hay una <strong>demostración prevista para febrero de 2026</strong>, pero no existe aprobación automática ni “barra libre” por calendario. Es decir, demo no equivale a despliegue general.</p>
+<p>Y por encima está UNECE con el marco DCAS (R171): sistemas de asistencia nivel 2 con requisitos concretos sobre atención del conductor, avisos y gestión de límites.</p>
+<p>Este doble filtro define el terreno:</p>
+<ul>
+<li class=""><strong>RDW y autoridades nacionales</strong>: validan procedimiento, evidencias y condiciones operativas.</li>
+<li class=""><strong>UNECE/DCAS</strong>: fija la gramática de seguridad y responsabilidad del sistema supervisado.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-este-giro-puede-ayudar-si-tesla-lo-ejecuta-bien">¿Por qué este giro puede ayudar (si Tesla lo ejecuta bien)?<a href="https://fsd.pepetox.es/fsd-suscripcion-europa-evidencia-regulatoria#por-qu%C3%A9-este-giro-puede-ayudar-si-tesla-lo-ejecuta-bien" class="hash-link" aria-label="Enlace directo al ¿Por qué este giro puede ayudar (si Tesla lo ejecuta bien)?" title="Enlace directo al ¿Por qué este giro puede ayudar (si Tesla lo ejecuta bien)?" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-porque-fuerza-métricas-operativas-no-solo-narrativa">1) Porque fuerza métricas operativas, no solo narrativa<a href="https://fsd.pepetox.es/fsd-suscripcion-europa-evidencia-regulatoria#1-porque-fuerza-m%C3%A9tricas-operativas-no-solo-narrativa" class="hash-link" aria-label="Enlace directo al 1) Porque fuerza métricas operativas, no solo narrativa" title="Enlace directo al 1) Porque fuerza métricas operativas, no solo narrativa" translate="no">​</a></h3>
+<p>Una suscripción sostenida se cae si el sistema genera fatiga, falsas alertas o comportamientos erráticos. Eso empuja a medir mejor la calidad real de conducción.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-porque-obliga-a-segmentar-por-odd-y-país">2) Porque obliga a segmentar por ODD y país<a href="https://fsd.pepetox.es/fsd-suscripcion-europa-evidencia-regulatoria#2-porque-obliga-a-segmentar-por-odd-y-pa%C3%ADs" class="hash-link" aria-label="Enlace directo al 2) Porque obliga a segmentar por ODD y país" title="Enlace directo al 2) Porque obliga a segmentar por ODD y país" translate="no">​</a></h3>
+<p>Europa no es homogénea. La misma política de conducción no rinde igual en una autovía alemana que en un acceso urbano español con señalización temporal. Modelo de servicio implica adaptar despliegue por dominios operativos, no por titulares.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-porque-alinea-negocio-y-cumplimiento">3) Porque alinea negocio y cumplimiento<a href="https://fsd.pepetox.es/fsd-suscripcion-europa-evidencia-regulatoria#3-porque-alinea-negocio-y-cumplimiento" class="hash-link" aria-label="Enlace directo al 3) Porque alinea negocio y cumplimiento" title="Enlace directo al 3) Porque alinea negocio y cumplimiento" translate="no">​</a></h3>
+<p>Si cada renovación mensual depende de confianza, reducir ambigüedad regulatoria deja de ser “coste legal” y pasa a ser ventaja competitiva.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-debería-vigilar-la-comunidad-fsd-en-españa-desde-ya">Qué debería vigilar la comunidad FSD en España desde ya<a href="https://fsd.pepetox.es/fsd-suscripcion-europa-evidencia-regulatoria#qu%C3%A9-deber%C3%ADa-vigilar-la-comunidad-fsd-en-espa%C3%B1a-desde-ya" class="hash-link" aria-label="Enlace directo al Qué debería vigilar la comunidad FSD en España desde ya" title="Enlace directo al Qué debería vigilar la comunidad FSD en España desde ya" translate="no">​</a></h2>
+<p>En vez de perseguir rumores de fecha, hay tres señales que sí merecen atención:</p>
+<ol>
+<li class=""><strong>Cómo Tesla describe límites y condiciones</strong> en canales oficiales, no solo en X.</li>
+<li class=""><strong>Qué evidencia pública aparece</strong> sobre desempeño en escenarios europeos complejos (lluvia, obras, micro-movilidad, incorporaciones).</li>
+<li class=""><strong>Qué lenguaje usan los reguladores</strong> al hablar de demostraciones, supervisión y alcance permitido.</li>
+</ol>
+<p>Si quieres conectar este análisis con nuestros escenarios de carretera real, te recomiendo estas piezas:</p>
+<ul>
+<li class=""><a class="" href="https://fsd.pepetox.es/carril-aceleracion-fsd-espana">El carril de aceleración: el examen invisible de FSD en las autopistas españolas</a></li>
+<li class=""><a class="" href="https://fsd.pepetox.es/limites-fsd-atencion-conductor">Europa obliga a explicar los límites del FSD: el examen real es la atención del conductor</a></li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/fsd-suscripcion-europa-evidencia-regulatoria#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
+<p>El avance importante de esta semana no es “una versión nueva milagrosa”, sino un cambio de arquitectura de producto: <strong>FSD como servicio vivo</strong>. Para Europa, eso abre una oportunidad y una obligación: convertir promesas de IA en seguridad medible, repetible y auditable.</p>
+<p>¿Tú qué priorizarías para España en 2026: más cobertura funcional o más transparencia de límites y métricas? Te leo en comentarios.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-suscripcion-europa-evidencia-regulatoria#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class="">Tesla Investor Relations, <strong>Q4 2025 Update</strong> (publicado el 28 de enero de 2026). <a href="https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q4-2025-Update.pdf" target="_blank" rel="noopener noreferrer" class="">https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q4-2025-Update.pdf</a></li>
+<li class="">RDW, <strong>Response following Tesla's call to action on social media channels</strong> (24 de noviembre de 2025). <a href="https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action</a></li>
+<li class="">UNECE, <strong>New UN regulation paves the way for the roll-out of additional driver assistance systems</strong> (1 de febrero de 2024, entrada en vigor de DCAS). <a href="https://unece.org/press/new-un-regulation-paves-way-roll-out-additional-driver-assistance-systems" target="_blank" rel="noopener noreferrer" class="">https://unece.org/press/new-un-regulation-paves-way-roll-out-additional-driver-assistance-systems</a></li>
+</ul>]]></content>
+        <author>
+            <name>The Autonomous Pilot</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="tesla" term="tesla"/>
+        <category label="ai" term="ai"/>
+        <category label="regulations" term="regulations"/>
+        <category label="testing" term="testing"/>
+        <category label="europa" term="europa"/>
+        <category label="espana" term="espana"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[El carril de aceleración: el examen invisible de FSD en las autopistas españolas]]></title>
         <id>https://fsd.pepetox.es/carril-aceleracion-fsd-espana</id>
@@ -1269,103 +1337,6 @@
         <category label="ai" term="ai"/>
         <category label="europa" term="europa"/>
         <category label="testing" term="testing"/>
-        <category label="regulations" term="regulations"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[El FSD frente al carril izquierdo: la autopista española no perdona las dudas]]></title>
-        <id>https://fsd.pepetox.es/fsd-autopista-carril-izquierdo</id>
-        <link href="https://fsd.pepetox.es/fsd-autopista-carril-izquierdo"/>
-        <updated>2026-01-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[El carril izquierdo, los adelantamientos por la derecha y las salidas a última hora: por qué la autopista española es un test brutal para FSD en Europa.]]></summary>
-        <content type="html"><![CDATA[<p>Son las 07:41 en la A-6 entrando a Madrid. Vas a 110 km/h, tráfico denso pero fluido. Un coche “duerme” en el carril izquierdo sin adelantar, otro viene rápido por la derecha, y a 300 metros una salida se convierte en un embudo de intermitentes tardíos. Para un humano, esto es rutina: anticipas, miras espejos y negocias. Para una red neuronal… <strong>es un examen continuo de intención humana</strong>.</p>
-<p>Mientras en Estados Unidos Tesla empuja fuerte el uso del stack —con movimientos comerciales como pasar FSD (Supervised) a modelo solo por suscripción— los reguladores siguen apretando: a finales de enero de 2026 se publicaba que la NHTSA daba más tiempo a Tesla para responder a preguntas dentro de una investigación sobre FSD tras reportes de colisiones. Europa, por su parte, prepara sus propias demostraciones y criterios. Todo eso suena “macro”. Pero el juicio real, kilómetro a kilómetro, se decide aquí: <strong>en la autopista cuando el mundo cambia de carril sin pedir permiso</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-carril-izquierdo-no-es-un-carril-es-una-cultura">El “carril izquierdo” no es un carril: es una cultura<a href="https://fsd.pepetox.es/fsd-autopista-carril-izquierdo#el-carril-izquierdo-no-es-un-carril-es-una-cultura" class="hash-link" aria-label="Enlace directo al El “carril izquierdo” no es un carril: es una cultura" title="Enlace directo al El “carril izquierdo” no es un carril: es una cultura" translate="no">​</a></h2>
-<p>Si conduces por España lo conoces:</p>
-<ul>
-<li class="">Gente que se queda a la izquierda “por comodidad”.</li>
-<li class="">Adelantamientos por la derecha que ocurren (aunque no deberían).</li>
-<li class="">Salidas a última hora desde el carril interior.</li>
-<li class="">Incorporaciones cortas donde el carril de aceleración no perdona.</li>
-</ul>
-<p>Y lo importante: <strong>no es solo la norma</strong>, es el comportamiento colectivo. La autopista española es predecible… hasta que no lo es. Y ahí es donde un sistema end-to-end se juega la confianza.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-esto-es-un-problema-de-ia-y-no-de-ver-carriles">Por qué esto es un problema de IA (y no de “ver carriles”)<a href="https://fsd.pepetox.es/fsd-autopista-carril-izquierdo#por-qu%C3%A9-esto-es-un-problema-de-ia-y-no-de-ver-carriles" class="hash-link" aria-label="Enlace directo al Por qué esto es un problema de IA (y no de “ver carriles”)" title="Enlace directo al Por qué esto es un problema de IA (y no de “ver carriles”)" translate="no">​</a></h2>
-<p>El reto no es detectar líneas. El reto es <strong>predecir intenciones</strong> con señales incompletas:</p>
-<ul>
-<li class="">Un coche que se “asoma” medio metro al carril contiguo antes de poner el intermitente.</li>
-<li class="">Un conductor que frena suave porque se le acabó el carril de salida.</li>
-<li class="">Un camión que, por inercia, ocupa más de lo que parece en curvas.</li>
-<li class="">Una moto que aparece entre carriles y desaparece en tu ángulo muerto.</li>
-</ul>
-<p>En términos de red neuronal, la autopista es un juego temporal: lo que importa no es el fotograma, sino la película. El sistema tiene que construir hipótesis:</p>
-<ol>
-<li class=""><strong>¿Quién va a cortar mi trayectoria?</strong></li>
-<li class=""><strong>¿Quién necesita espacio ya?</strong></li>
-<li class=""><strong>¿Qué maniobra será socialmente “aceptable” sin ser agresiva?</strong></li>
-</ol>
-<p>La diferencia entre una conducción “correcta” y una conducción “segura” muchas veces es una: <strong>anticipación</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-escena-que-decide-todo-la-salida-a-última-hora">La escena que decide todo: la salida a última hora<a href="https://fsd.pepetox.es/fsd-autopista-carril-izquierdo#la-escena-que-decide-todo-la-salida-a-%C3%BAltima-hora" class="hash-link" aria-label="Enlace directo al La escena que decide todo: la salida a última hora" title="Enlace directo al La escena que decide todo: la salida a última hora" translate="no">​</a></h2>
-<p>Pongamos un caso típico (y muy europeo):</p>
-<ol>
-<li class="">Un vehículo va por el carril izquierdo a velocidad variable.</li>
-<li class="">Faltan 200–300 metros para su salida.</li>
-<li class="">De repente, inicia un desplazamiento lateral suave (sin intermitente o con intermitente tardío).</li>
-<li class="">El carril derecho está ocupado por un coche que viene rápido.</li>
-</ol>
-<p>Un humano hace tres cosas sin “pensarlo”:</p>
-<ul>
-<li class="">Lee el contexto (salida cerca, tráfico, huecos).</li>
-<li class="">Asume probabilidades (“va a cruzar sí o sí”).</li>
-<li class="">Decide temprano (“suelto acelerador ahora para no frenar fuerte luego”).</li>
-</ul>
-<p>Para FSD, este escenario exige que planificación y predicción se den la mano:</p>
-<ul>
-<li class=""><strong>Predicción</strong>: reconocer el patrón de salida tardía antes de que sea explícito.</li>
-<li class=""><strong>Planificación</strong>: crear un “buffer” (espacio) sin provocar alcance por detrás.</li>
-<li class=""><strong>Comunicación</strong>: señalización clara si el coche cambia de carril o reduce velocidad.</li>
-</ul>
-<p>El punto clave es este: en autopista, los fallos no suelen ser “no vio un objeto”. Suelen ser “lo vio, pero reaccionó tarde”.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="regulación-europea-por-qué-r79-y-dcas-están-en-medio-de-la-autopista">Regulación europea: por qué R79 y DCAS están en medio de la autopista<a href="https://fsd.pepetox.es/fsd-autopista-carril-izquierdo#regulaci%C3%B3n-europea-por-qu%C3%A9-r79-y-dcas-est%C3%A1n-en-medio-de-la-autopista" class="hash-link" aria-label="Enlace directo al Regulación europea: por qué R79 y DCAS están en medio de la autopista" title="Enlace directo al Regulación europea: por qué R79 y DCAS están en medio de la autopista" translate="no">​</a></h2>
-<p>Europa no valida “lo bien que se siente” un cambio de carril. Valida condiciones, responsabilidades y límites. En UNECE, el marco de dirección (R79) ha sido históricamente el corsé de muchas funciones de asistencia. Y el movimiento hacia DCAS (Driver Control Assistance Systems) busca encajar sistemas más avanzados —basados en percepción, no solo en carriles perfectos— en un marco supervisado y auditable.</p>
-<p>Traducción para la autopista: si el sistema quiere moverse entre carriles con más libertad, tiene que demostrar algo más que suavidad. Tiene que demostrar <strong>consistencia y control</strong>, especialmente en escenarios donde la intención humana es ambigua.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-tendría-que-demostrar-tesla-para-que-esto-funcione-en-españa-de-verdad">Qué tendría que demostrar Tesla para que esto funcione en España (de verdad)<a href="https://fsd.pepetox.es/fsd-autopista-carril-izquierdo#qu%C3%A9-tendr%C3%ADa-que-demostrar-tesla-para-que-esto-funcione-en-espa%C3%B1a-de-verdad" class="hash-link" aria-label="Enlace directo al Qué tendría que demostrar Tesla para que esto funcione en España (de verdad)" title="Enlace directo al Qué tendría que demostrar Tesla para que esto funcione en España (de verdad)" translate="no">​</a></h2>
-<p>Si yo tuviera que poner “criterios de calle” para la autopista española, serían estos:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-predicción-temprana-de-cortes">1) Predicción temprana de cortes<a href="https://fsd.pepetox.es/fsd-autopista-carril-izquierdo#1-predicci%C3%B3n-temprana-de-cortes" class="hash-link" aria-label="Enlace directo al 1) Predicción temprana de cortes" title="Enlace directo al 1) Predicción temprana de cortes" translate="no">​</a></h3>
-<p>Detectar (por postura, velocidad relativa y contexto) el clásico “me voy a salir, perdón” antes de que sea tarde.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-gestión-de-espacio-sin-frenazos">2) Gestión de espacio sin frenazos<a href="https://fsd.pepetox.es/fsd-autopista-carril-izquierdo#2-gesti%C3%B3n-de-espacio-sin-frenazos" class="hash-link" aria-label="Enlace directo al 2) Gestión de espacio sin frenazos" title="Enlace directo al 2) Gestión de espacio sin frenazos" translate="no">​</a></h3>
-<p>Crear huecos con microajustes: soltar acelerador, mantener distancia, no provocar pánico detrás.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-cambios-de-carril-con-intención-clara">3) Cambios de carril con intención clara<a href="https://fsd.pepetox.es/fsd-autopista-carril-izquierdo#3-cambios-de-carril-con-intenci%C3%B3n-clara" class="hash-link" aria-label="Enlace directo al 3) Cambios de carril con intención clara" title="Enlace directo al 3) Cambios de carril con intención clara" translate="no">​</a></h3>
-<p>No solo mover el coche: comunicar la maniobra (intermitente, timing, consistencia) para que el resto del tráfico “lo entienda”.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-robustez-con-adelantamientos-por-la-derecha">4) Robustez con adelantamientos por la derecha<a href="https://fsd.pepetox.es/fsd-autopista-carril-izquierdo#4-robustez-con-adelantamientos-por-la-derecha" class="hash-link" aria-label="Enlace directo al 4) Robustez con adelantamientos por la derecha" title="Enlace directo al 4) Robustez con adelantamientos por la derecha" translate="no">​</a></h3>
-<p>Que el sistema no se sorprenda cuando alguien hace lo que no debería. Seguridad primero, moral después.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-supervisión-humana-bien-integrada">5) Supervisión humana bien integrada<a href="https://fsd.pepetox.es/fsd-autopista-carril-izquierdo#5-supervisi%C3%B3n-humana-bien-integrada" class="hash-link" aria-label="Enlace directo al 5) Supervisión humana bien integrada" title="Enlace directo al 5) Supervisión humana bien integrada" translate="no">​</a></h3>
-<p>Si el conductor es responsable (marco DCAS), el sistema debe hacer dos cosas a la vez:</p>
-<ul>
-<li class="">ser suficientemente competente como para no pedir ayuda cada 20 segundos,</li>
-<li class="">y suficientemente estricto como para no permitir distracciones peligrosas.</li>
-</ul>
-<p>Si quieres profundizar en esa parte humana del problema, lee nuestro análisis sobre <a class="" href="https://fsd.pepetox.es/fatiga-supervision-fsd-europa">fatiga y supervisión en Europa</a>. Y para el contexto de pruebas y evaluación europea, revisa <a class="" href="https://fsd.pepetox.es/examen-final-rdw-tesla-fsd">el examen del RDW</a>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway-europa-no-es-más-difícil-es-más-exigente">Takeaway: Europa no es “más difícil”, es más exigente<a href="https://fsd.pepetox.es/fsd-autopista-carril-izquierdo#takeaway-europa-no-es-m%C3%A1s-dif%C3%ADcil-es-m%C3%A1s-exigente" class="hash-link" aria-label="Enlace directo al Takeaway: Europa no es “más difícil”, es más exigente" title="Enlace directo al Takeaway: Europa no es “más difícil”, es más exigente" translate="no">​</a></h2>
-<p>La autopista española no necesita que el coche “sepa conducir”. Necesita que <strong>sepa negociar</strong> sin hacer cosas raras: anticipar cortes, leer salidas, respetar el flujo y ser humano en la suavidad… pero máquina en la consistencia.</p>
-<p>Si la conducción autónoma va a ser real en Europa, su momento de verdad no será un giro perfecto en una avenida vacía. Será esto: <strong>una salida a última hora a 110 km/h con tres coches alrededor y cero margen para improvisar</strong>.</p>
-<p>¿Cuál es el comportamiento más “europeo” que has visto en autopista y que crees que una IA todavía no entiende? Cuéntalo en comentarios y sigue el blog: 2026 va a ser el año en que la autopista empiece a decidir el futuro.</p>
-<hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-autopista-carril-izquierdo#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h3>
-<ul>
-<li class="">AP News — La NHTSA da más tiempo a Tesla para responder dentro de una investigación sobre FSD (24 enero 2026): <a href="https://apnews.com/article/tesla-full-self-driving-nhtsa-76a11f7809e4df1e7c1d2559bb57cc00" target="_blank" rel="noopener noreferrer" class="">https://apnews.com/article/tesla-full-self-driving-nhtsa-76a11f7809e4df1e7c1d2559bb57cc00</a></li>
-<li class="">TechCrunch — Tesla pasará a ofrecer FSD (Supervised) solo por suscripción (14 enero 2026): <a href="https://techcrunch.com/2026/01/14/tesla-will-only-offer-subscriptions-for-full-self-driving-supervised-going-forward/" target="_blank" rel="noopener noreferrer" class="">https://techcrunch.com/2026/01/14/tesla-will-only-offer-subscriptions-for-full-self-driving-supervised-going-forward/</a></li>
-<li class="">UNECE — “New UN regulation for Driver Control Assistance Systems (DCAS)” (1 febrero 2024): <a href="https://unece.org/media/press/390294" target="_blank" rel="noopener noreferrer" class="">https://unece.org/media/press/390294</a></li>
-<li class="">UNECE — “UN Regulation on steering equipment (R79)” (13 julio 2022): <a href="https://unece.org/transport/vehicle-regulations/un-regulation-no-79-steering-equipment" target="_blank" rel="noopener noreferrer" class="">https://unece.org/transport/vehicle-regulations/un-regulation-no-79-steering-equipment</a></li>
-</ul>]]></content>
-        <author>
-            <name>The Autonomous Pilot</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="fsd" term="fsd"/>
-        <category label="españa" term="españa"/>
-        <category label="autopistas" term="autopistas"/>
-        <category label="ai" term="ai"/>
-        <category label="testing" term="testing"/>
-        <category label="seguridad" term="seguridad"/>
         <category label="regulations" term="regulations"/>
     </entry>
 </feed>
