@@ -4,10 +4,94 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Wed, 11 Feb 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[Dinamarca y Suiza se suman a los ride-alongs: el laboratorio europeo donde FSD deja de improvisar]]></title>
+            <link>https://fsd.pepetox.es/ridealongs-dinamarca-suiza-fsd-europa</link>
+            <guid>https://fsd.pepetox.es/ridealongs-dinamarca-suiza-fsd-europa</guid>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tesla amplía en Europa las pruebas supervisadas con conductores (ride-alongs). Qué significa técnicamente y por qué España debería mirar ahí, no al rumor de una fecha.]]></description>
+            <content:encoded><![CDATA[<p>En una mañana gris de Zúrich, un autobús se asoma desde una parada, un ciclista aparece por el ángulo muerto y una señal temporal de obras reescribe el carril “correcto”. No es un escenario de ciencia ficción: es el tipo de conducción europea que castiga los sistemas que solo saben “seguir líneas” y premia a los que entienden <strong>contexto</strong>.</p>
+<p>Esta semana ha surgido una señal pequeña, pero muy reveladora: Tesla habría ampliado sus <strong>ride-alongs</strong> de FSD en Europa a <strong>Dinamarca y Suiza</strong> (además de países ya mencionados en comunicaciones previas). No es un lanzamiento. No es un calendario. Es, si se está haciendo bien, algo más útil: un <strong>programa de evidencia</strong> en carreteras reales europeas.</p>
+<p><img decoding="async" loading="lazy" alt="Un Tesla en un entorno urbano europeo, cámaras “leyendo” señales y ciclistas" src="https://fsd.pepetox.es/assets/images/2026-02-12-ridealongs-dinamarca-suiza-fsd-europa-07d03fc88afe570d937755a874f57580.png" width="1024" height="1024" class="img_ev3q"></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-es-un-ride-along-y-por-qué-no-es-un-paseo">Qué es un ride-along (y por qué no es “un paseo”)<a href="https://fsd.pepetox.es/ridealongs-dinamarca-suiza-fsd-europa#qu%C3%A9-es-un-ride-along-y-por-qu%C3%A9-no-es-un-paseo" class="hash-link" aria-label="Enlace directo al Qué es un ride-along (y por qué no es “un paseo”)" title="Enlace directo al Qué es un ride-along (y por qué no es “un paseo”)" translate="no">​</a></h2>
+<p>Un ride-along, tal y como se está describiendo en Europa, no es “dejar el coche solo”. Es una prueba <strong>supervisada</strong> con humanos dentro, pensada para:</p>
+<ul>
+<li class="">Exponer el sistema a un <strong>ODD europeo</strong> (señalización, micro-movilidad, reglas tácitas de cortesía y agresividad vial).</li>
+<li class="">Capturar el <em>long tail</em> (casos raros) que no aparece en un circuito ni en un vídeo de autopista limpia.</li>
+<li class="">Generar trazas y métricas que puedan convertirse en <strong>evidencia regulatoria</strong> y, a la vez, en material de entrenamiento.</li>
+</ul>
+<p>La paradoja: lo más valioso de un ride-along no es “que vaya bien”. Es cuando va <strong>casi</strong> bien y queda claro dónde todavía se rompe.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-dinamarca-y-suiza-importan-incluso-si-tú-conduces-en-españa">Por qué Dinamarca y Suiza importan (incluso si tú conduces en España)<a href="https://fsd.pepetox.es/ridealongs-dinamarca-suiza-fsd-europa#por-qu%C3%A9-dinamarca-y-suiza-importan-incluso-si-t%C3%BA-conduces-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Por qué Dinamarca y Suiza importan (incluso si tú conduces en España)" title="Enlace directo al Por qué Dinamarca y Suiza importan (incluso si tú conduces en España)" translate="no">​</a></h2>
+<p>España es su propia bestia: rotondas, incorporaciones cortas, marcas desgastadas, obras interminables, motos filtrando. Pero Dinamarca y Suiza añaden dos tensores que, si FSD los resuelve, suele salir fortalecido:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-clima-y-superficie-la-percepción-bajo-castigo">1) Clima y superficie: la percepción bajo castigo<a href="https://fsd.pepetox.es/ridealongs-dinamarca-suiza-fsd-europa#1-clima-y-superficie-la-percepci%C3%B3n-bajo-castigo" class="hash-link" aria-label="Enlace directo al 1) Clima y superficie: la percepción bajo castigo" title="Enlace directo al 1) Clima y superficie: la percepción bajo castigo" translate="no">​</a></h3>
+<p>Lluvia fina, reflejos, asfalto mojado, nieve o sal en carretera. En estos entornos, el sistema no falla por “no ver un coche”, sino por perder calidad en lo sutil:</p>
+<ul>
+<li class="">límites de carril que se vuelven probabilísticos,</li>
+<li class="">bordillos “fantasma” por reflejos,</li>
+<li class="">y usuarios vulnerables (bicis/peatones) con poca separación física.</li>
+</ul>
+<p>Si esto te suena, conecta con nuestro análisis de un problema muy español que se parece más de lo que parece:</p>
+<ul>
+<li class=""><a class="" href="https://fsd.pepetox.es/camaras-lluvia-fsd-espana">Cámaras y lluvia: cuando el sensor se vuelve política en España</a></li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-señalización-y-normas-el-modelo-tiene-que-hablar-europeo">2) Señalización y normas: el modelo tiene que hablar “europeo”<a href="https://fsd.pepetox.es/ridealongs-dinamarca-suiza-fsd-europa#2-se%C3%B1alizaci%C3%B3n-y-normas-el-modelo-tiene-que-hablar-europeo" class="hash-link" aria-label="Enlace directo al 2) Señalización y normas: el modelo tiene que hablar “europeo”" title="Enlace directo al 2) Señalización y normas: el modelo tiene que hablar “europeo”" translate="no">​</a></h3>
+<p>Europa no es solo “otros límites”. Es otro idioma visual:</p>
+<ul>
+<li class="">prioridades en cruces y rotondas,</li>
+<li class="">pasos de peatones con comportamientos distintos,</li>
+<li class="">carriles bici más integrados (y más frecuentes),</li>
+<li class="">y, sobre todo, <strong>señalización temporal</strong> que aparece y desaparece.</li>
+</ul>
+<p>El ride-along es donde el sistema aprende a no “pegarse” a un mapa mental americano.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-lo-que-estos-programas-sí-indican-y-lo-que-no">Expectativa vs. realidad: lo que estos programas sí indican (y lo que no)<a href="https://fsd.pepetox.es/ridealongs-dinamarca-suiza-fsd-europa#expectativa-vs-realidad-lo-que-estos-programas-s%C3%AD-indican-y-lo-que-no" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad: lo que estos programas sí indican (y lo que no)" title="Enlace directo al Expectativa vs. realidad: lo que estos programas sí indican (y lo que no)" translate="no">​</a></h2>
+<p><strong>Expectativa:</strong> “Si Tesla hace ride-alongs en más países, Europa está a meses.”</p>
+<p><strong>Realidad:</strong> ampliar países suele significar que Tesla está intentando cubrir variabilidad para dos cosas:</p>
+<ol>
+<li class="">Entrenamiento robusto (generalización real, no demos).</li>
+<li class="">Un relato verificable de seguridad y límites (ODD + supervisión + registros).</li>
+</ol>
+<p>Eso es progreso, pero no es una fecha.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-pieza-técnica-por-qué-europa-obliga-a-fsd-a-ser-menos-valiente-y-más-consistente">La pieza técnica: por qué Europa obliga a FSD a ser menos ‘valiente’ y más consistente<a href="https://fsd.pepetox.es/ridealongs-dinamarca-suiza-fsd-europa#la-pieza-t%C3%A9cnica-por-qu%C3%A9-europa-obliga-a-fsd-a-ser-menos-valiente-y-m%C3%A1s-consistente" class="hash-link" aria-label="Enlace directo al La pieza técnica: por qué Europa obliga a FSD a ser menos ‘valiente’ y más consistente" title="Enlace directo al La pieza técnica: por qué Europa obliga a FSD a ser menos ‘valiente’ y más consistente" translate="no">​</a></h2>
+<p>En Estados Unidos, muchas demos brillan por fluidez. En Europa, lo que construye confianza es otra cosa:</p>
+<ul>
+<li class=""><strong>Conservadurismo inteligente</strong>: ceder cuando el contexto es ambiguo.</li>
+<li class=""><strong>Plan B explícito</strong>: si no hay hueco, abortar sin drama.</li>
+<li class=""><strong>Comprensión de autoridad humana</strong>: cuando un agente de tráfico manda, el resto de señales dejan de importar.</li>
+</ul>
+<p>Si quieres ver por qué ese último punto es un “hard stop” para cualquier IA en España:</p>
+<ul>
+<li class=""><a class="" href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd">El lenguaje de la mano: cuando FSD tiene que obedecer a un agente en España</a></li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="entonces-qué-deberíamos-vigilar-desde-españa">Entonces, ¿qué deberíamos vigilar desde España?<a href="https://fsd.pepetox.es/ridealongs-dinamarca-suiza-fsd-europa#entonces-qu%C3%A9-deber%C3%ADamos-vigilar-desde-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Entonces, ¿qué deberíamos vigilar desde España?" title="Enlace directo al Entonces, ¿qué deberíamos vigilar desde España?" translate="no">​</a></h2>
+<p>Si estos ride-alongs son reales y están escalando, hay tres señales tempranas que merecen atención (sin caer en el hype):</p>
+<ol>
+<li class="">Menciones consistentes a <strong>países y ciudades</strong> concretas, no solo “Europa”.</li>
+<li class="">Evidencia de que el programa no es solo “carretera fácil”: incluye bici, obras, lluvia, zonas antiguas.</li>
+<li class="">Comunicación más clara sobre límites y disponibilidad en canales oficiales, no solo rumores.</li>
+</ol>
+<p>Y, si además Tesla está ofreciendo en Norteamérica un <strong>trial temporal de FSD</strong> (con fecha de caducidad) a ciertos usuarios, eso puede ser otra pista de estrategia: probar adopción y comportamiento del usuario, mientras el producto sigue madurando para entornos más exigentes como el europeo.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/ridealongs-dinamarca-suiza-fsd-europa#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
+<p>Europa no va a aprobar un vídeo. Va a aprobar (si llega) un sistema que demuestre consistencia bajo supervisión, con límites claros y con evidencia que aguante auditoría. Por eso, la expansión de ride-alongs a países como Dinamarca y Suiza es más interesante que el “¿cuándo llega?”: es el tipo de movimiento que sugiere que Tesla está construyendo, por fin, el puente entre IA y realidad europea.</p>
+<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Debate</div><div class="admonitionContent_BuS1"><p>Si Tesla empezara en Europa con un despliegue muy acotado (ODD estrecho, muchas barreras, supervisión estricta), ¿lo considerarías progreso real o “demo eterna”? Cuéntamelo en comentarios.</p></div></div>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes-para-seguir-el-hilo">Fuentes (para seguir el hilo)<a href="https://fsd.pepetox.es/ridealongs-dinamarca-suiza-fsd-europa#fuentes-para-seguir-el-hilo" class="hash-link" aria-label="Enlace directo al Fuentes (para seguir el hilo)" title="Enlace directo al Fuentes (para seguir el hilo)" translate="no">​</a></h2>
+<ul>
+<li class="">Tesla Support (trial de FSD en Norteamérica y condiciones): <a href="https://www.tesla.com/support/articles/fsd-trial" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/support/articles/fsd-trial</a></li>
+<li class="">Reportes sobre ampliación de ride-alongs a Dinamarca y Suiza (detalle de ciudades y ventana temporal): <a href="https://driveteslacanada.ca/fsd/tesla-expands-fsd-ride-along-program-to-denmark-and-switzerland/" target="_blank" rel="noopener noreferrer" class="">https://driveteslacanada.ca/fsd/tesla-expands-fsd-ride-along-program-to-denmark-and-switzerland/</a></li>
+<li class="">Cobertura adicional del mismo movimiento (contexto europeo): <a href="https://www.teslarati.com/tesla-fsd-ride-along-program-denmark-switzerland/" target="_blank" rel="noopener noreferrer" class="">https://www.teslarati.com/tesla-fsd-ride-along-program-denmark-switzerland/</a></li>
+</ul>]]></content:encoded>
+            <category>fsd</category>
+            <category>tesla</category>
+            <category>ai</category>
+            <category>testing</category>
+            <category>europa</category>
+            <category>espana</category>
+            <category>seguridad</category>
+        </item>
         <item>
             <title><![CDATA[De compra única a servicio vivo: el giro de FSD que Europa sí puede auditar]]></title>
             <link>https://fsd.pepetox.es/fsd-suscripcion-europa-evidencia-regulatoria</link>
@@ -1188,77 +1272,6 @@
             <category>testing</category>
             <category>ai</category>
             <category>seguridad</category>
-        </item>
-        <item>
-            <title><![CDATA[Competidores del FSD: quién está realmente avanzado y dónde]]></title>
-            <link>https://fsd.pepetox.es/competidores-fsd-estado-arte-2026</link>
-            <guid>https://fsd.pepetox.es/competidores-fsd-estado-arte-2026</guid>
-            <pubDate>Sun, 25 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Mapa claro de los rivales de FSD: L2, L3 y robotaxis, con foco en Europa y lo que realmente pueden hoy.]]></description>
-            <content:encoded><![CDATA[<p>Son las 08:03 y vas camino del trabajo. En el retrovisor aparece un anuncio: "conducción hands-free". En el carril derecho, un taxi sin conductor circula en otro país. Y en tu cabeza se enciende la pregunta inevitable: <strong>si FSD está en plena batalla, ¿dónde están los otros y qué tan avanzados van de verdad?</strong></p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="antes-de-comparar-no-todos-juegan-el-mismo-juego">Antes de comparar: no todos juegan el mismo juego<a href="https://fsd.pepetox.es/competidores-fsd-estado-arte-2026#antes-de-comparar-no-todos-juegan-el-mismo-juego" class="hash-link" aria-label="Enlace directo al Antes de comparar: no todos juegan el mismo juego" title="Enlace directo al Antes de comparar: no todos juegan el mismo juego" translate="no">​</a></h2>
-<p>La conversación suele mezclar sistemas muy distintos:</p>
-<ul>
-<li class=""><strong>L2 (asistencia avanzada):</strong> el coche ayuda, pero el conductor sigue siendo responsable y atento.</li>
-<li class=""><strong>L3 (conducción condicionada):</strong> el coche asume la tarea en escenarios concretos; el conductor puede desviar la atención, pero debe estar disponible para retomar.</li>
-<li class=""><strong>L4 (robotaxi):</strong> el coche conduce sin humano dentro, pero solo en zonas y condiciones muy delimitadas.</li>
-</ul>
-<p>FSD (Supervised) compite sobre todo en L2 con ambicion de subir. Sus rivales directos en Europa hoy se reparten entre L2 y L3. Y los L4 reales viven fuera del continente.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="los-rivales-clave-y-su-estado-real">Los rivales clave y su estado real<a href="https://fsd.pepetox.es/competidores-fsd-estado-arte-2026#los-rivales-clave-y-su-estado-real" class="hash-link" aria-label="Enlace directo al Los rivales clave y su estado real" title="Enlace directo al Los rivales clave y su estado real" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-mercedes-benz-drive-pilot-l3---alemania">1) Mercedes-Benz DRIVE PILOT (L3) - Alemania<a href="https://fsd.pepetox.es/competidores-fsd-estado-arte-2026#1-mercedes-benz-drive-pilot-l3---alemania" class="hash-link" aria-label="Enlace directo al 1) Mercedes-Benz DRIVE PILOT (L3) - Alemania" title="Enlace directo al 1) Mercedes-Benz DRIVE PILOT (L3) - Alemania" translate="no">​</a></h3>
-<p>Mercedes tiene el <strong>L3 más tangible en Europa</strong>. Su sistema DRIVE PILOT recibió aprobación en Alemania para operar hasta <strong>95 km/h</strong> en autopistas, con disponibilidad en S-Class y EQS. Es un L3 real, pero con ODD muy delimitado (autopista, carriles separados, condiciones específicas). citeturn0search0</p>
-<p><strong>Qué significa en la práctica:</strong> es el competidor más avanzado en L3 europeo, pero solo en Alemania y en un segmento premium.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-bmw-personal-pilot-l3-l3---alemania">2) BMW Personal Pilot L3 (L3) - Alemania<a href="https://fsd.pepetox.es/competidores-fsd-estado-arte-2026#2-bmw-personal-pilot-l3-l3---alemania" class="hash-link" aria-label="Enlace directo al 2) BMW Personal Pilot L3 (L3) - Alemania" title="Enlace directo al 2) BMW Personal Pilot L3 (L3) - Alemania" translate="no">​</a></h3>
-<p>BMW lanzó el <strong>Personal Pilot L3</strong> en el Serie 7, con operación en autopistas a <strong>hasta 60 km/h</strong>. Es un L3 pensado para atascos y tramos concretos, con ODD limitado y disponibilidad en Alemania. citeturn1search0</p>
-<p><strong>Lectura clave:</strong> L3 existe, pero su ventana de uso es estrecha y muy regulada.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-ford-bluecruise-l2-hands-free---europa">3) Ford BlueCruise (L2 hands-free) - Europa<a href="https://fsd.pepetox.es/competidores-fsd-estado-arte-2026#3-ford-bluecruise-l2-hands-free---europa" class="hash-link" aria-label="Enlace directo al 3) Ford BlueCruise (L2 hands-free) - Europa" title="Enlace directo al 3) Ford BlueCruise (L2 hands-free) - Europa" translate="no">​</a></h3>
-<p>BlueCruise es L2 "hands-off, eyes-on" con geovallado. Ford lo llevó a Europa con aprobación inicial en Reino Unido y hoy reporta <strong>aprobación en 16 mercados europeos</strong> con más de <strong>135.000 km</strong> de autopistas habilitadas (Blue Zones). citeturn0search2</p>
-<p><strong>Competencia real:</strong> no es L3, pero es una alternativa L2 madura y disponible en más mercados europeos que ningún L3.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-mobileye-supervision-l2-avanzado---ecosistema-geelyzeekr">4) Mobileye SuperVision (L2 avanzado) - ecosistema Geely/ZEEKR<a href="https://fsd.pepetox.es/competidores-fsd-estado-arte-2026#4-mobileye-supervision-l2-avanzado---ecosistema-geelyzeekr" class="hash-link" aria-label="Enlace directo al 4) Mobileye SuperVision (L2 avanzado) - ecosistema Geely/ZEEKR" title="Enlace directo al 4) Mobileye SuperVision (L2 avanzado) - ecosistema Geely/ZEEKR" translate="no">​</a></h3>
-<p>Mobileye reporta despliegue de funciones SuperVision en <strong>110.000 vehículos ZEEKR</strong>, con conducción asistida monitorizada por el conductor y capacidad en todo tipo de vías hasta 130 km/h. citeturn1search3</p>
-<p><strong>Por qué importa:</strong> es el L2 avanzado más escalado fuera de Tesla, con hardware y software que ya están en la calle.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-waymo-l4-robotaxi---estados-unidos">5) Waymo (L4 robotaxi) - Estados Unidos<a href="https://fsd.pepetox.es/competidores-fsd-estado-arte-2026#5-waymo-l4-robotaxi---estados-unidos" class="hash-link" aria-label="Enlace directo al 5) Waymo (L4 robotaxi) - Estados Unidos" title="Enlace directo al 5) Waymo (L4 robotaxi) - Estados Unidos" translate="no">​</a></h3>
-<p>Waymo es el referente L4 comercial. En Los Angeles ya ofrece servicio abierto al publico sin lista de espera, tras operar en otras ciudades. citeturn2search1</p>
-<p><strong>Traducción para Europa:</strong> es la referencia técnica, pero su ODD es urbano y totalmente geovallado, y no está en Europa.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="6-cruise-l4---pausa-y-reinicio-controlado">6) Cruise (L4) - pausa y reinicio controlado<a href="https://fsd.pepetox.es/competidores-fsd-estado-arte-2026#6-cruise-l4---pausa-y-reinicio-controlado" class="hash-link" aria-label="Enlace directo al 6) Cruise (L4) - pausa y reinicio controlado" title="Enlace directo al 6) Cruise (L4) - pausa y reinicio controlado" translate="no">​</a></h3>
-<p>Cruise tuvo que frenar operaciones tras incidentes y esta preparando un regreso con pruebas supervisadas en el Area de la Bahia. citeturn1news13</p>
-<p><strong>Implicación:</strong> la carrera L4 es real, pero frágil; la seguridad y la confianza pública pesan tanto como la tecnología.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="quién-está-más-avanzado-depende-del-eje">¿Quién está "más avanzado"? Depende del eje<a href="https://fsd.pepetox.es/competidores-fsd-estado-arte-2026#qui%C3%A9n-est%C3%A1-m%C3%A1s-avanzado-depende-del-eje" class="hash-link" aria-label="Enlace directo al ¿Quién está &quot;más avanzado&quot;? Depende del eje" title="Enlace directo al ¿Quién está &quot;más avanzado&quot;? Depende del eje" translate="no">​</a></h2>
-<p>Si medimos <strong>capacidad técnica pura</strong>, Waymo lidera en L4 urbano. Si medimos <strong>producto europeo utilizable hoy</strong>, Mercedes y BMW tienen los L3 más concretos pero con ODD muy limitado. Si miramos <strong>escala de usuarios</strong>, los L2 avanzados (BlueCruise, Mobileye SuperVision, FSD) son los que más kilómetros reales acumulan.</p>
-<p>La realidad actual es esta:</p>
-<ul>
-<li class=""><strong>L4:</strong> muy avanzado, pero solo en ciudades concretas fuera de Europa.</li>
-<li class=""><strong>L3 europeo:</strong> real, pero caro, limitado y geográficamente concentrado.</li>
-<li class=""><strong>L2 avanzado:</strong> es donde se juega hoy la adopción masiva.</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-debería-observar-la-comunidad-en-españa">¿Qué debería observar la comunidad en España?<a href="https://fsd.pepetox.es/competidores-fsd-estado-arte-2026#qu%C3%A9-deber%C3%ADa-observar-la-comunidad-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al ¿Qué debería observar la comunidad en España?" title="Enlace directo al ¿Qué debería observar la comunidad en España?" translate="no">​</a></h2>
-<p>Si quieres saber quién está realmente listo para Europa, mira estos indicadores:</p>
-<ol>
-<li class=""><strong>ODD claro y público:</strong> dónde funciona exactamente, en qué vías y bajo qué condiciones.</li>
-<li class=""><strong>Comportamiento con señalización europea variable:</strong> paneles, carril bus/VAO, obras dinámicas.</li>
-<li class=""><strong>Transiciones seguras:</strong> cómo gestiona el paso de "sistema activo" a "toma el control".</li>
-<li class=""><strong>Escala real de despliegue:</strong> cuántos coches y cuántos kilómetros en carreteras abiertas.</li>
-</ol>
-<p>En Europa, el salto no será un video viral, sino <strong>capacidad legal, repetible y auditada</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="cierre-el-ganador-europeo-no-será-el-más-ruidoso">Cierre: el ganador europeo no será el más ruidoso<a href="https://fsd.pepetox.es/competidores-fsd-estado-arte-2026#cierre-el-ganador-europeo-no-ser%C3%A1-el-m%C3%A1s-ruidoso" class="hash-link" aria-label="Enlace directo al Cierre: el ganador europeo no será el más ruidoso" title="Enlace directo al Cierre: el ganador europeo no será el más ruidoso" translate="no">​</a></h2>
-<p>FSD tiene visibilidad global, pero en Europa la pregunta clave es otra: <strong>¿quién puede operar de forma consistente bajo reglas europeas y con usuarios vulnerables?</strong> Hoy la respuesta no es única. El futuro inmediato es L2 avanzado en la calle, L3 limitado en Alemania y L4 fuera de la UE.</p>
-<p>Si quieres, podemos hacer un seguimiento por país (España, Alemania, Francia) y actualizar el mapa trimestre a trimestre. Mientras tanto, cuéntanos: ¿cuál de estos sistemas te parece más cercano a uso real en nuestras carreteras?</p>
-<hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/competidores-fsd-estado-arte-2026#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h3>
-<ul>
-<li class="">Mercedes-Benz Group: DRIVE PILOT aprobado a 95 km/h en Alemania (17 dic 2024). <a href="https://group.mercedes-benz.com/innovations/product-innovation/autonomous-driving/drive-pilot-95-kmh.html" target="_blank" rel="noopener noreferrer" class="">https://group.mercedes-benz.com/innovations/product-innovation/autonomous-driving/drive-pilot-95-kmh.html</a></li>
-<li class="">BMW Group: BMW Personal Pilot L3 en Serie 7, disponible desde primavera (2024). <a href="https://www.press.bmwgroup.com/global/article/detail/T0438214EN/level-3-highly-automated-driving-available-in-the-new-bmw-7-series-from-next-spring" target="_blank" rel="noopener noreferrer" class="">https://www.press.bmwgroup.com/global/article/detail/T0438214EN/level-3-highly-automated-driving-available-in-the-new-bmw-7-series-from-next-spring</a></li>
-<li class="">Ford Media Center: BlueCruise aprobado en 16 mercados europeos y 135.000 km de Blue Zones (13 nov 2025). <a href="https://media.ford.com/content/fordmedia/feu/en/news/2025/11/13/ford-brings-hands-free-bluecruise-tech-to-the-masses-.html" target="_blank" rel="noopener noreferrer" class="">https://media.ford.com/content/fordmedia/feu/en/news/2025/11/13/ford-brings-hands-free-bluecruise-tech-to-the-masses-.html</a></li>
-<li class="">Mobileye: SuperVision desplegado en 110.000 ZEEKR (2024). <a href="https://www.mobileyechina.com/news/mobileye-supervision-pilot-functions-added-to-110000-zeekr-vehicles/" target="_blank" rel="noopener noreferrer" class="">https://www.mobileyechina.com/news/mobileye-supervision-pilot-functions-added-to-110000-zeekr-vehicles/</a></li>
-<li class="">Waymo: Waymo One abierto a todos en Los Angeles (12 nov 2024). <a href="https://waymo.com/blog/2024/11/waymo-one-open-to-all-in-los-angeles/" target="_blank" rel="noopener noreferrer" class="">https://waymo.com/blog/2024/11/waymo-one-open-to-all-in-los-angeles/</a></li>
-<li class="">The Verge: Cruise prepara regreso con pruebas supervisadas en el Área de la Bahía (19 sep 2024). <a href="https://www.theverge.com/2024/9/19/24249150/cruise-robotaxi-sf-return-manual-drive-autonomous" target="_blank" rel="noopener noreferrer" class="">https://www.theverge.com/2024/9/19/24249150/cruise-robotaxi-sf-return-manual-drive-autonomous</a></li>
-</ul>]]></content:encoded>
-            <category>fsd</category>
-            <category>autonomia</category>
-            <category>ai</category>
-            <category>europa</category>
-            <category>testing</category>
-            <category>regulations</category>
         </item>
     </channel>
 </rss>
