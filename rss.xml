@@ -4,10 +4,94 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Thu, 12 Feb 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Feb 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[El intermitente tardío: el dato más caro para FSD en la carretera española]]></title>
+            <link>https://fsd.pepetox.es/intermitente-tardio-intencion-fsd</link>
+            <guid>https://fsd.pepetox.es/intermitente-tardio-intencion-fsd</guid>
+            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[En España, el intermitente a menudo llega tarde (o no llega). Por qué eso obliga a FSD a inferir intención humana con incertidumbre, no con fe.]]></description>
+            <content:encoded><![CDATA[<p>Vas por una avenida de tres carriles entrando a una rotonda grande. A tu derecha, un coche se acerca demasiado a la línea, como si fuera a meterse. No pone el intermitente. Sigues. Dos metros más tarde, lo pone. Y ya está invadiendo tu carril.</p>
+<p>Para un humano, esto se resuelve con experiencia: levantas el pie, miras el retrovisor, haces espacio o te defiendes. Para FSD, es una pregunta más incómoda: <strong>si el "lenguaje" de los demás es tardío o inconsistente, el sistema no puede basarse en señales; tiene que basarse en intenciones.</strong></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-norma-es-clara-la-carretera-no-tanto">La norma es clara. La carretera no tanto.<a href="https://fsd.pepetox.es/intermitente-tardio-intencion-fsd#la-norma-es-clara-la-carretera-no-tanto" class="hash-link" aria-label="Enlace directo al La norma es clara. La carretera no tanto." title="Enlace directo al La norma es clara. La carretera no tanto." translate="no">​</a></h2>
+<p>En el código, el intermitente sería un bit perfecto: "va a cambiar de carril" o "va a salir". En España (y en buena parte de Europa), es más bien un canal de comunicación con pérdida de paquetes:</p>
+<ul>
+<li class="">Hay intermitente, pero llega tarde.</li>
+<li class="">Hay intermitente, pero es "para después" y no para ahora.</li>
+<li class="">No hay intermitente, pero el coche se mueve igual.</li>
+<li class="">Hay cuatro intermitentes, pero lo que significa es "doble fila" o "estoy improvisando".</li>
+</ul>
+<p>La DGT lo explica sin ambigüedad: los intermitentes forman parte de la señalización de maniobras y deben usarse para advertir a los demás usuarios. En glorietas, además, la salida se señaliza como una maniobra (igual que en otras vías). Si la norma es el diccionario, el problema es que muchos conductores lo hablan con acento (o directamente no lo hablan).</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-esto-es-un-problema-de-ia-y-no-solo-de-educación-vial">Por qué esto es un problema de IA (y no solo de educación vial)<a href="https://fsd.pepetox.es/intermitente-tardio-intencion-fsd#por-qu%C3%A9-esto-es-un-problema-de-ia-y-no-solo-de-educaci%C3%B3n-vial" class="hash-link" aria-label="Enlace directo al Por qué esto es un problema de IA (y no solo de educación vial)" title="Enlace directo al Por qué esto es un problema de IA (y no solo de educación vial)" translate="no">​</a></h2>
+<p>El salto mental importante es este: <strong>FSD no conduce en una simulación limpia. Conduce dentro de una conversación social.</strong></p>
+<p>En una carretera real, la intención del otro conductor no vive en una única variable. Vive en señales que se contradicen:</p>
+<ul>
+<li class="">micro-desplazamientos laterales antes del intermitente,</li>
+<li class="">distancia a la línea y ritmo de correcciones del volante,</li>
+<li class="">aceleración suave cuando "debería" ceder,</li>
+<li class="">y, a veces, la ausencia total de comunicación (porque nadie señaliza nada).</li>
+</ul>
+<p>Un sistema end-to-end puede aprender a integrar esas pistas, pero hay un matiz que Europa va a exigir (aunque no lo diga con esas palabras): <strong>calibración.</strong></p>
+<p>Si el modelo trata el intermitente como "prueba fuerte", va a sobreconfiar y cometer errores cuando el intermitente sea ruido. Si lo trata como "prueba débil", necesitará ser mejor leyendo el movimiento (y eso implica más sensibilidad, más falsos positivos potenciales y más necesidad de suavidad).</p>
+<p>Dicho de forma brutal: en España, el intermitente a veces es verdad... y a veces es teatro. Una IA no puede creerse el teatro.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-verdadero-examen-inferir-intención-bajo-incertidumbre">El verdadero examen: inferir intención bajo incertidumbre<a href="https://fsd.pepetox.es/intermitente-tardio-intencion-fsd#el-verdadero-examen-inferir-intenci%C3%B3n-bajo-incertidumbre" class="hash-link" aria-label="Enlace directo al El verdadero examen: inferir intención bajo incertidumbre" title="Enlace directo al El verdadero examen: inferir intención bajo incertidumbre" translate="no">​</a></h2>
+<p>La clave no es "ver el intermitente". Tesla (y cualquier ADAS moderno) puede detectarlo visualmente. Lo difícil es decidir <strong>qué peso</strong> le das a esa información y cómo actúas sin generar otro riesgo.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-predicción-ver-la-maniobra-antes-de-que-ocurra">1) Predicción: ver la maniobra antes de que ocurra<a href="https://fsd.pepetox.es/intermitente-tardio-intencion-fsd#1-predicci%C3%B3n-ver-la-maniobra-antes-de-que-ocurra" class="hash-link" aria-label="Enlace directo al 1) Predicción: ver la maniobra antes de que ocurra" title="Enlace directo al 1) Predicción: ver la maniobra antes de que ocurra" translate="no">​</a></h3>
+<p>Cuando el intermitente llega tarde, la maniobra ya se está gestando. Para ir por delante, FSD necesita adelantarse a:</p>
+<ul>
+<li class="">el coche que se asoma medio metro,</li>
+<li class="">el que pega un acelerón para ganar hueco,</li>
+<li class="">el que corrige dos veces la trayectoria (duda),</li>
+<li class="">o el que deja un "hueco" que parece invitación, pero es trampa.</li>
+</ul>
+<p>Esto conecta con un tema recurrente en el blog: <strong>Europa castiga el micro-error repetible.</strong> No hace falta un fallo espectacular; basta con un titubeo que se repite cada 20 minutos para que el conductor desconecte el sistema. (Si quieres un ejemplo muy español de "señal confusa", mira nuestro post sobre la <a class="" href="https://fsd.pepetox.es/fsd-vs-doble-fila-espana">doble fila</a>.)</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-planificación-elegir-una-respuesta-que-el-resto-entienda">2) Planificación: elegir una respuesta que el resto entienda<a href="https://fsd.pepetox.es/intermitente-tardio-intencion-fsd#2-planificaci%C3%B3n-elegir-una-respuesta-que-el-resto-entienda" class="hash-link" aria-label="Enlace directo al 2) Planificación: elegir una respuesta que el resto entienda" title="Enlace directo al 2) Planificación: elegir una respuesta que el resto entienda" translate="no">​</a></h3>
+<p>Cuando un humano duda, a veces "asoma" el coche para negociar. Cuando una IA duda, si lo hace mal, parece agresiva o torpe.</p>
+<p>En estas situaciones, el objetivo no es solo evitar contacto. Es evitar sorprender:</p>
+<ul>
+<li class="">no frenar de golpe sin necesidad,</li>
+<li class="">no "invitar" a que te invadan,</li>
+<li class="">no cambiar de carril para escapar si eso genera otro conflicto.</li>
+</ul>
+<p>FSD necesita comportamientos que parezcan humanos (predecibles) sin copiar lo peor del humano (improvisación).</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-comunicación-el-intermitente-propio-importa-más-de-lo-que-creemos">3) Comunicación: el intermitente propio importa más de lo que creemos<a href="https://fsd.pepetox.es/intermitente-tardio-intencion-fsd#3-comunicaci%C3%B3n-el-intermitente-propio-importa-m%C3%A1s-de-lo-que-creemos" class="hash-link" aria-label="Enlace directo al 3) Comunicación: el intermitente propio importa más de lo que creemos" title="Enlace directo al 3) Comunicación: el intermitente propio importa más de lo que creemos" translate="no">​</a></h3>
+<p>La ironía es que el intermitente que más puede salvar a FSD en Europa es el suyo.</p>
+<p>Si Tesla quiere que los demás no le prueben el límite, el coche tiene que "hablar" claro:</p>
+<ul>
+<li class="">intermitente temprano,</li>
+<li class="">trayectoria coherente con la maniobra,</li>
+<li class="">y una velocidad que encaje con lo que está comunicando.</li>
+</ul>
+<p>Ese paquete (señal + trayectoria + timing) es lo que hace que un conductor de al lado te deje pasar sin tener que leer tu mente. Es una pieza de seguridad activa y también una pieza de aceptación social.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-deberíamos-vigilar-en-las-próximas-semanas">Lo que deberíamos vigilar en las próximas semanas<a href="https://fsd.pepetox.es/intermitente-tardio-intencion-fsd#lo-que-deber%C3%ADamos-vigilar-en-las-pr%C3%B3ximas-semanas" class="hash-link" aria-label="Enlace directo al Lo que deberíamos vigilar en las próximas semanas" title="Enlace directo al Lo que deberíamos vigilar en las próximas semanas" translate="no">​</a></h2>
+<p>Si la comunidad busca señales reales de progreso (no rumores), yo miraría tres cosas:</p>
+<ol>
+<li class=""><strong>Cambios en suavidad y anticipación</strong> en cambios de carril en tráfico denso (cuando el intermitente de otros llega tarde).</li>
+<li class=""><strong>Menos "micro-frenadas"</strong> ante asomos laterales: reaccionar menos, predecir mejor.</li>
+<li class=""><strong>Mejor coherencia del intermitente propio</strong>: que el coche anuncie antes y ejecute después, y no al revés.</li>
+</ol>
+<p>Y aquí hay una pista técnica interesante: en las notas de versiones recientes agregadas por la comunidad se mencionan mejoras de "vision encoder" y reconocimiento de acciones humanas (gestos/poses). Si eso se traduce en mejor lectura de intención, el primer lugar donde lo notarás no será en una autopista vacía, sino en el carril de al lado, con un intermitente tardío.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/intermitente-tardio-intencion-fsd#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
+<p>En Estados Unidos, el relato de FSD se ha contado como "conduce de punto A a punto B". En España, el cuello de botella es más humillante y más real: <strong>entender a los demás cuando no comunican bien.</strong></p>
+<p>El día que FSD se sienta cómodo en un entorno de intermitentes imperfectos, no será porque por fin "ve mejor". Será porque por fin <strong>infiera mejor</strong> y se comporte de forma más predecible para todos.</p>
+<p>¿Cuál es tu escenario más repetible de "intermitente tardío" en tu ciudad o carretera? Si lo cuentas en comentarios, nos ayudas a mapear el verdadero ODD español.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/intermitente-tardio-intencion-fsd#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class="">DGT: Señales y maniobras (normas generales de circulación). <a href="https://www.dgt.es/nuestros-servicios/permisos-de-conducir/normativa-y-tramitacion/normas-generales-de-circulacion/senales-y-maniobras/" target="_blank" rel="noopener noreferrer" class="">https://www.dgt.es/nuestros-servicios/permisos-de-conducir/normativa-y-tramitacion/normas-generales-de-circulacion/senales-y-maniobras/</a></li>
+<li class="">DGT: Cómo circular en una glorieta (glorietas). <a href="https://www.dgt.es/nuestros-servicios/permisos-de-conducir/normativa-y-tramitacion/normas-generales-de-circulacion/glorietas/" target="_blank" rel="noopener noreferrer" class="">https://www.dgt.es/nuestros-servicios/permisos-de-conducir/normativa-y-tramitacion/normas-generales-de-circulacion/glorietas/</a></li>
+<li class="">Tesla Info: Release notes (2024.45.32.5, actualizado 6 de febrero de 2026). <a href="https://tesla-info.com/release/2024.45.32.5" target="_blank" rel="noopener noreferrer" class="">https://tesla-info.com/release/2024.45.32.5</a></li>
+</ul>]]></content:encoded>
+            <category>fsd</category>
+            <category>tesla</category>
+            <category>ai</category>
+            <category>testing</category>
+            <category>espana</category>
+            <category>europa</category>
+            <category>seguridad</category>
+        </item>
         <item>
             <title><![CDATA[Dinamarca y Suiza se suman a los ride-alongs: el laboratorio europeo donde FSD deja de improvisar]]></title>
             <link>https://fsd.pepetox.es/ridealongs-dinamarca-suiza-fsd-europa</link>
@@ -1221,57 +1305,6 @@
             <category>regulations</category>
             <category>producto</category>
             <category>suscripcion</category>
-        </item>
-        <item>
-            <title><![CDATA[Febrero 2026: el examen holandés que puede desbloquear (o frenar) el FSD en Europa]]></title>
-            <link>https://fsd.pepetox.es/examen-holandes-fsd-febrero-2026</link>
-            <guid>https://fsd.pepetox.es/examen-holandes-fsd-febrero-2026</guid>
-            <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[La RDW fija una demostración en febrero de 2026 para evaluar FSD Supervised. Qué implica y por qué no es una aprobación automática.]]></description>
-            <content:encoded><![CDATA[<p>Son las 07:58 en una glorieta de varios carriles en Valencia. Un scooter aparece por el ángulo muerto, un taxi frena sin avisar y un carril desaparece en 60 metros. Tú lo intuyes. Para un sistema neuronal, esto es exactamente el tipo de escena que decide si Europa dice “sí” o “todavía no”.</p>
-<p>La novedad real no es un cambio de versión: <strong>la autoridad holandesa RDW ha fijado una demostración para febrero de 2026</strong> en la que Tesla debe probar que FSD Supervised cumple los requisitos necesarios. Y el propio regulador recuerda que <strong>no hay garantía de aprobación</strong>, solo un calendario de evaluación.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-significa-demostración-en-la-práctica-y-por-qué-importa">Qué significa “demostración” en la práctica (y por qué importa)<a href="https://fsd.pepetox.es/examen-holandes-fsd-febrero-2026#qu%C3%A9-significa-demostraci%C3%B3n-en-la-pr%C3%A1ctica-y-por-qu%C3%A9-importa" class="hash-link" aria-label="Enlace directo al Qué significa “demostración” en la práctica (y por qué importa)" title="Enlace directo al Qué significa “demostración” en la práctica (y por qué importa)" translate="no">​</a></h2>
-<p>La RDW no habla de un lanzamiento comercial, sino de <strong>una prueba clave</strong>. El mensaje es claro: hay un camino, pero es técnico y regulatorio, no de marketing. La autoridad enfatiza que la seguridad vial es prioritaria y que el resultado depende de lo que Tesla pueda demostrar en febrero.</p>
-<p>En paralelo, el marco europeo exige que <strong>cualquier tecnología novedosa incompatible con normas actuales</strong> justifique equivalencia de seguridad y aporte resultados de prueba. Eso es precisamente lo que permite el artículo 39 del Reglamento (UE) 2018/858: una vía de exención para “nuevas tecnologías o nuevos conceptos”, condicionada a evidencia técnica.</p>
-<p><strong>Traducción para conductores:</strong> Europa no dice “sí” por promesa; dice “sí” por prueba.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-cuello-de-botella-no-es-software-es-validación">El cuello de botella: no es software, es validación<a href="https://fsd.pepetox.es/examen-holandes-fsd-febrero-2026#el-cuello-de-botella-no-es-software-es-validaci%C3%B3n" class="hash-link" aria-label="Enlace directo al El cuello de botella: no es software, es validación" title="Enlace directo al El cuello de botella: no es software, es validación" translate="no">​</a></h2>
-<p>FSD Supervised no se juega el partido en una demo espectacular. Se lo juega en:</p>
-<ul>
-<li class=""><strong>Diseño de escenarios reales europeos</strong> (rotondas, carriles que se diluyen, motos filtrando, señalización temporal en obras).</li>
-<li class=""><strong>Gestión de incertidumbre</strong> (vehículos que se “colan” o cambian tarde de carril).</li>
-<li class=""><strong>Supervisión humana creíble</strong> (el sistema puede ayudar, pero debe <em>exigir</em> atención cuando el contexto lo pide).</li>
-</ul>
-<p>Esto conecta con un punto que ya analizamos: <strong>el factor humano en autopista es un test brutal</strong>. Si quieres contexto de comportamiento real en España, aquí tienes nuestro análisis del carril izquierdo y la cultura de adelantamientos: <a class="" href="https://fsd.pepetox.es/fsd-autopista-carril-izquierdo">FSD frente al carril izquierdo en autopista</a>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-el-error-de-confundir-calendario-con-aprobación">Expectativa vs. realidad: el error de confundir calendario con aprobación<a href="https://fsd.pepetox.es/examen-holandes-fsd-febrero-2026#expectativa-vs-realidad-el-error-de-confundir-calendario-con-aprobaci%C3%B3n" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad: el error de confundir calendario con aprobación" title="Enlace directo al Expectativa vs. realidad: el error de confundir calendario con aprobación" translate="no">​</a></h2>
-<p><strong>Expectativa pública:</strong> “Febrero 2026 = FSD en Europa”.</p>
-<p><strong>Realidad regulatoria:</strong> “Febrero 2026 = demostración. Si cumple, se decide. Si no, se retrasa”. La propia RDW lo ha dicho de forma explícita.</p>
-<p>Esto es clave para gestionar expectativas: la velocidad del software no siempre gana al ritmo de la homologación.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="europa-no-va-a-copiar-a-ee-uu-el-espejo-es-alemania">Europa no va a “copiar” a EE. UU.: el espejo es Alemania<a href="https://fsd.pepetox.es/examen-holandes-fsd-febrero-2026#europa-no-va-a-copiar-a-ee-uu-el-espejo-es-alemania" class="hash-link" aria-label="Enlace directo al Europa no va a “copiar” a EE. UU.: el espejo es Alemania" title="Enlace directo al Europa no va a “copiar” a EE. UU.: el espejo es Alemania" translate="no">​</a></h2>
-<p>Uno de los ejemplos más avanzados y formalmente aprobados en Europa está en Alemania con <strong>Mercedes‑Benz DRIVE PILOT</strong>, ya autorizado para circular en autopistas alemanas hasta 95 km/h bajo condiciones concretas. Eso marca el listón de cómo se formaliza un sistema avanzado en Europa: dominio operacional acotado, aprobación explícita y límites claros.</p>
-<p>Si FSD quiere cruzar la frontera regulatoria, tendrá que demostrar un <strong>ODD (Operational Design Domain)</strong> controlable en escenarios europeos, y hacerlo con transparencia.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-debería-demostrar-tesla-en-febrero-si-quiere-pasar-el-examen">Qué debería demostrar Tesla en febrero (si quiere pasar el examen)<a href="https://fsd.pepetox.es/examen-holandes-fsd-febrero-2026#qu%C3%A9-deber%C3%ADa-demostrar-tesla-en-febrero-si-quiere-pasar-el-examen" class="hash-link" aria-label="Enlace directo al Qué debería demostrar Tesla en febrero (si quiere pasar el examen)" title="Enlace directo al Qué debería demostrar Tesla en febrero (si quiere pasar el examen)" translate="no">​</a></h2>
-<ol>
-<li class=""><strong>Equivalencia de seguridad verificable</strong> frente a las normas actuales (punto central del Reglamento 2018/858).</li>
-<li class=""><strong>Métricas de intervención y fallback</strong> con datos reales de prueba europea.</li>
-<li class=""><strong>Comportamiento socialmente aceptable</strong>, no solo “legal”: evitar maniobras agresivas en entornos complejos.</li>
-</ol>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión-febrero-no-es-el-final-es-el-principio">Conclusión: febrero no es el final, es el principio<a href="https://fsd.pepetox.es/examen-holandes-fsd-febrero-2026#conclusi%C3%B3n-febrero-no-es-el-final-es-el-principio" class="hash-link" aria-label="Enlace directo al Conclusión: febrero no es el final, es el principio" title="Enlace directo al Conclusión: febrero no es el final, es el principio" translate="no">​</a></h2>
-<p>Si la demostración sale bien, Europa tendrá un precedente de cómo se evalúa FSD Supervised. Si sale mal, también: sabremos qué falta para que el sistema sea aceptable en nuestras carreteras.</p>
-<p>Lo importante es el mensaje para la comunidad: <strong>la conversación deja de ser solo tecnológica y pasa a ser empírica</strong>. Y ahí es donde debemos estar atentos.</p>
-<p>Si quieres seguir este camino paso a paso, te invito a quedarte por el blog y compartir tu lectura: <strong>¿qué escenario europeo crees que más debería pesar en la evaluación?</strong></p>
-<hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/examen-holandes-fsd-febrero-2026#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h3>
-<ul>
-<li class="">RDW — “RDW response following Tesla’s call to action” (24 Nov 2025): <a href="https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action" target="_blank" rel="noopener noreferrer" class="">RDW</a></li>
-<li class="">Reglamento (UE) 2018/858, Artículo 39 (exenciones por nuevas tecnologías): <a href="https://eur-lex.europa.eu/eli/reg/2018/858/2023-07-30/eng" target="_blank" rel="noopener noreferrer" class="">EUR-Lex</a></li>
-<li class="">Mercedes‑Benz Group — DRIVE PILOT aprobado hasta 95 km/h en Alemania (17 Dic 2024): <a href="https://group.mercedes-benz.com/innovations/product-innovation/autonomous-driving/drive-pilot-95-kmh.html" target="_blank" rel="noopener noreferrer" class="">Mercedes‑Benz Group</a></li>
-</ul>]]></content:encoded>
-            <category>fsd</category>
-            <category>europa</category>
-            <category>regulations</category>
-            <category>testing</category>
-            <category>ai</category>
-            <category>seguridad</category>
         </item>
     </channel>
 </rss>
