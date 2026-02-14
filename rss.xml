@@ -4,10 +4,87 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Fri, 13 Feb 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Feb 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[Madrid saca a FSD del laboratorio: la calle como auditoría]]></title>
+            <link>https://fsd.pepetox.es/madrid-auditoria-fsd</link>
+            <guid>https://fsd.pepetox.es/madrid-auditoria-fsd</guid>
+            <pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Se reportan pruebas de FSD supervisado en municipios de Madrid. Qué casos reales importan y qué evidencia pide Europa para pasar de demo a permiso.]]></description>
+            <content:encoded><![CDATA[<p>Sales de un semáforo en un barrio del sur de Madrid. El carril se estrecha por una obra, hay ramas en el arcén tras una noche de viento y, a 30 metros, un coche decide parar “un minuto” en doble fila justo antes de un paso de cebra.</p>
+<p>Ese es el tipo de escena donde la conducción autónoma deja de ser un vídeo bonito y se convierte en una pregunta incómoda: <strong>¿puede una red neuronal conducir bien cuando la carretera está llena de cosas que nadie etiquetó y de normas que nadie escribió?</strong></p>
+<p>Esta semana, un reporte local apuntó a pruebas de Tesla con FSD supervisado en municipios del entorno de Madrid. Si esto es así, no es solo “noticia Tesla”: es un movimiento que, por fin, pone a FSD frente al juez más duro de Europa: <strong>la calle real, repetible y auditada</strong>.</p>
+<p><img decoding="async" loading="lazy" alt="Un Tesla recorriendo una calle madrileña al atardecer, con señalización temporal y peatones al fondo" src="https://fsd.pepetox.es/assets/images/2026-02-14-madrid-auditoria-fsd-dd28219aef39ab39638ec28816cafae6.png" width="1024" height="1024" class="img_ev3q"></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-importante-no-es-la-ciudad-es-el-tipo-de-evidencia">Lo importante no es la ciudad: es el tipo de evidencia<a href="https://fsd.pepetox.es/madrid-auditoria-fsd#lo-importante-no-es-la-ciudad-es-el-tipo-de-evidencia" class="hash-link" aria-label="Enlace directo al Lo importante no es la ciudad: es el tipo de evidencia" title="Enlace directo al Lo importante no es la ciudad: es el tipo de evidencia" translate="no">​</a></h2>
+<p>Cuando una prueba ocurre en carretera abierta y en un lugar reconocible, cambia el juego por tres razones:</p>
+<ul>
+<li class="">Reduce el espacio para el “cherry-picking”: los escenarios se repiten y la comunidad los puede contrastar.</li>
+<li class="">Obliga a demostrar consistencia con tráfico europeo (peatones, buses, motos, señalización temporal).</li>
+<li class="">Y, sobre todo, empuja a Tesla a producir algo que Europa entiende: <strong>evidencia</strong> (no solo fluidez).</li>
+</ul>
+<p>No es casualidad que, en paralelo, los reguladores europeos hayan dejado claro (RDW) que una demostración no equivale a un despliegue automático, y que el marco UNECE para DCAS (asistencia con supervisión) está diseñado para poder auditar límites, atención del conductor y comportamiento del sistema.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-odd-sucio-madrileño-tres-problemas-que-separan-un-demo-de-un-producto">El ODD “sucio” madrileño: tres problemas que separan un demo de un producto<a href="https://fsd.pepetox.es/madrid-auditoria-fsd#el-odd-sucio-madrile%C3%B1o-tres-problemas-que-separan-un-demo-de-un-producto" class="hash-link" aria-label="Enlace directo al El ODD “sucio” madrileño: tres problemas que separan un demo de un producto" title="Enlace directo al El ODD “sucio” madrileño: tres problemas que separan un demo de un producto" translate="no">​</a></h2>
+<p>En Estados Unidos, muchas demos brillan en avenidas anchas y autopistas limpias. Madrid (y España) tiene otra personalidad. Aquí el sistema se gana la confianza resolviendo lo feo.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-obstáculos-no-de-catálogo-ramas-conos-contenedores-obras">1) Obstáculos no “de catálogo”: ramas, conos, contenedores, obras<a href="https://fsd.pepetox.es/madrid-auditoria-fsd#1-obst%C3%A1culos-no-de-cat%C3%A1logo-ramas-conos-contenedores-obras" class="hash-link" aria-label="Enlace directo al 1) Obstáculos no “de catálogo”: ramas, conos, contenedores, obras" title="Enlace directo al 1) Obstáculos no “de catálogo”: ramas, conos, contenedores, obras" translate="no">​</a></h3>
+<p>Una rama caída no es un coche. No tiene reflectantes claros. No siempre está sobre asfalto plano. A veces es media rama, a veces es un “ramillete” que invade carril y obliga a escoger: pisarla, esquivarla o frenar y negociar.</p>
+<p>Para un stack end-to-end, esto es un test de madurez: no basta con detectar un “objeto”. Hay que decidir la acción correcta con margen y suavidad.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-normas-tácitas-doble-fila-cortesía-agresiva-y-negociación">2) Normas tácitas: doble fila, cortesía agresiva y negociación<a href="https://fsd.pepetox.es/madrid-auditoria-fsd#2-normas-t%C3%A1citas-doble-fila-cortes%C3%ADa-agresiva-y-negociaci%C3%B3n" class="hash-link" aria-label="Enlace directo al 2) Normas tácitas: doble fila, cortesía agresiva y negociación" title="Enlace directo al 2) Normas tácitas: doble fila, cortesía agresiva y negociación" translate="no">​</a></h3>
+<p>En España, buena parte del tráfico se mueve con reglas sociales:</p>
+<ul>
+<li class="">el coche que se asoma sin intermitente para pedirte hueco,</li>
+<li class="">el bus que necesita salir de la parada y “te lo comunica” con el morro,</li>
+<li class="">la doble fila que convierte un carril en un embudo.</li>
+</ul>
+<p>El reto no es solo evitar contacto. Es evitar sorprender. Si el sistema frena tarde, duda o se queda bloqueado, la carretera “lo castiga” rápido (claxon, adelantamientos, maniobras impredecibles alrededor).</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-señalización-temporal-y-marcas-desgastadas-cuando-el-carril-es-probabilístico">3) Señalización temporal y marcas desgastadas: cuando el carril es probabilístico<a href="https://fsd.pepetox.es/madrid-auditoria-fsd#3-se%C3%B1alizaci%C3%B3n-temporal-y-marcas-desgastadas-cuando-el-carril-es-probabil%C3%ADstico" class="hash-link" aria-label="Enlace directo al 3) Señalización temporal y marcas desgastadas: cuando el carril es probabilístico" title="Enlace directo al 3) Señalización temporal y marcas desgastadas: cuando el carril es probabilístico" translate="no">​</a></h3>
+<p>Europa tiene una obsesión muy sana: señalización y obras. El efecto secundario es que el carril “correcto” cambia, aparece y desaparece.</p>
+<p>Aquí, el modelo tiene que combinar:</p>
+<ul>
+<li class="">percepción robusta (sin depender de pintura perfecta),</li>
+<li class="">comprensión del contexto (qué señal manda más),</li>
+<li class="">y una planificación que no se aferre a un carril fantasma.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-pieza-técnica-que-la-comunidad-debería-observar-intención--margen">La pieza técnica que la comunidad debería observar: intención + margen<a href="https://fsd.pepetox.es/madrid-auditoria-fsd#la-pieza-t%C3%A9cnica-que-la-comunidad-deber%C3%ADa-observar-intenci%C3%B3n--margen" class="hash-link" aria-label="Enlace directo al La pieza técnica que la comunidad debería observar: intención + margen" title="Enlace directo al La pieza técnica que la comunidad debería observar: intención + margen" translate="no">​</a></h2>
+<p>En 2026, el debate interesante no es “¿ve los coches?”. La pregunta es:</p>
+<ul>
+<li class=""><strong>¿Infiera intención humana</strong> (peatón que duda, conductor que invade, moto que filtra) antes de que la maniobra sea obvia?</li>
+<li class=""><strong>¿Planifica con margen</strong> sin convertirse en un conductor indeciso?</li>
+</ul>
+<p>La combinación ganadora para Europa no es valentía. Es consistencia.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="regulación-en-modo-realidad-qué-tendría-que-demostrar-tesla-para-que-esto-escale">Regulación en modo realidad: qué tendría que demostrar Tesla para que esto escale<a href="https://fsd.pepetox.es/madrid-auditoria-fsd#regulaci%C3%B3n-en-modo-realidad-qu%C3%A9-tendr%C3%ADa-que-demostrar-tesla-para-que-esto-escale" class="hash-link" aria-label="Enlace directo al Regulación en modo realidad: qué tendría que demostrar Tesla para que esto escale" title="Enlace directo al Regulación en modo realidad: qué tendría que demostrar Tesla para que esto escale" translate="no">​</a></h2>
+<p>Europa no necesita que FSD “funcione muchas veces”. Necesita que, cuando funciona, se pueda explicar y delimitar.</p>
+<p>En práctica, un camino razonable (y compatible con DCAS) suele incluir:</p>
+<ul>
+<li class="">ODD explícito (dónde, cuándo y con qué límites opera).</li>
+<li class="">Supervisión humana y monitorización del conductor con criterios claros.</li>
+<li class="">Registro de eventos e incidentes (y un proceso de mejora continua).</li>
+<li class="">Evidencia de que el sistema gestiona degradaciones: lluvia, obras, señal confusa, usuarios vulnerables.</li>
+</ul>
+<p>Por eso una prueba en Madrid, si es real, es interesante: <strong>Madrid no es “fácil”</strong>. Y si el sistema aprende a comportarse bien aquí, se vuelve más defendible en un expediente regulatorio.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/madrid-auditoria-fsd#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
+<p>Si hay un lugar donde FSD puede ganarse Europa no es en una autopista perfecta: es en calles normales, con obras, con peatones, con doble fila y con decisiones incómodas cada 30 segundos.</p>
+<p>La pregunta para la comunidad no es “¿cuándo llega?”. Es más útil y más dura:</p>
+<p><strong>¿Qué evidencia nos convencería de que FSD está listo para el ODD español sin convertirse en un generador de sustos?</strong></p>
+<p>Si tienes un escenario repetible de tu zona (una incorporación concreta, una calle con doble fila crónica, una obra eterna), cuéntalo en comentarios: ese mapa de realidad es el mejor “dataset humano” que podemos construir.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/madrid-auditoria-fsd#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class="">Cadena SER (Madrid): reporte sobre pruebas de Tesla/FSD en el entorno de Madrid (publicado el 9 de febrero de 2026). <a href="https://cadenaser.com/cmadrid/2026/02/09/tesla-ya-prueba-en-madrid-sus-coches-sin-conductor-radio-madrid/" target="_blank" rel="noopener noreferrer" class="">https://cadenaser.com/cmadrid/2026/02/09/tesla-ya-prueba-en-madrid-sus-coches-sin-conductor-radio-madrid/</a></li>
+<li class="">RDW (Países Bajos): respuesta y contexto regulatorio sobre Tesla y demostraciones (24 de noviembre de 2025). <a href="https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action</a></li>
+<li class="">UNECE: entrada en vigor del marco DCAS (R171) y contexto de regulación (1 de febrero de 2024). <a href="https://unece.org/press/new-un-regulation-paves-way-roll-out-additional-driver-assistance-systems" target="_blank" rel="noopener noreferrer" class="">https://unece.org/press/new-un-regulation-paves-way-roll-out-additional-driver-assistance-systems</a></li>
+<li class="">Tesla Investor Relations: actualización Q4 2025 (publicada el 28 de enero de 2026). <a href="https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q4-2025-Update.pdf" target="_blank" rel="noopener noreferrer" class="">https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q4-2025-Update.pdf</a></li>
+</ul>]]></content:encoded>
+            <category>fsd</category>
+            <category>tesla</category>
+            <category>ai</category>
+            <category>testing</category>
+            <category>espana</category>
+            <category>europa</category>
+            <category>seguridad</category>
+        </item>
         <item>
             <title><![CDATA[El intermitente tardío: el dato más caro para FSD en la carretera española]]></title>
             <link>https://fsd.pepetox.es/intermitente-tardio-intencion-fsd</link>
@@ -1239,72 +1316,6 @@
             <category>testing</category>
             <category>seguridad</category>
             <category>europa</category>
-        </item>
-        <item>
-            <title><![CDATA[Tesla cambia las reglas: Autopilot deja de ser estándar (y por qué importa en Europa)]]></title>
-            <link>https://fsd.pepetox.es/autopilot-deja-de-ser-estandar</link>
-            <guid>https://fsd.pepetox.es/autopilot-deja-de-ser-estandar</guid>
-            <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Autopilot deja de venir “de serie” en nuevos Tesla en Norteamérica: qué significa (TACC vs Autosteer), por qué lo hacen y qué podría implicar para España.]]></description>
-            <content:encoded><![CDATA[<p>Imagina que te compras un Tesla “pelado” para el día a día, sin extras raros, y das por hecho lo que durante años fue la norma: <strong>Autopilot incluido</strong>. Te subes, activas el asistente, esperas el centrado en carril… y descubres que el coche “solo” mantiene la distancia y la velocidad. Bienvenido a un cambio de política que, aunque hoy se cuece fuera de la UE, <strong>puede anticipar un giro comercial importante</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-ha-cambiado-exactamente-y-dónde">Qué ha cambiado exactamente (y dónde)<a href="https://fsd.pepetox.es/autopilot-deja-de-ser-estandar#qu%C3%A9-ha-cambiado-exactamente-y-d%C3%B3nde" class="hash-link" aria-label="Enlace directo al Qué ha cambiado exactamente (y dónde)" title="Enlace directo al Qué ha cambiado exactamente (y dónde)" translate="no">​</a></h2>
-<p>En los últimos días se ha reportado un ajuste en la oferta de Tesla en Norteamérica: <strong>Autopilot (tal y como se entendía hasta ahora) deja de venir estándar en nuevos pedidos</strong>, y lo que queda de serie es esencialmente el control de crucero adaptativo (TACC) junto con los sistemas de seguridad activa (ver fuentes al final).</p>
-<p>Si lo traducimos a funciones “de calle”:</p>
-<ul>
-<li class=""><strong>TACC (Traffic-Aware Cruise Control):</strong> mantiene velocidad y distancia con el coche de delante. Es útil, pero no “conduce”.</li>
-<li class=""><strong>Autosteer / centrado en carril:</strong> es el componente que, para la mayoría, hacía que Autopilot se sintiera como “asistencia de conducción” real en autopista.</li>
-</ul>
-<p>La confusión aquí es normal porque Tesla lleva años cambiando nombres, paquetes y precio (si quieres repasar el mapa, tenemos un diccionario rápido: <a class="" href="https://fsd.pepetox.es/diccionario-autonomia-ap-eap-fsd-espana">AP / EAP / FSD</a>). Y además, en Europa, las capacidades y limitaciones vienen condicionadas por el marco UNECE (historia incluida: <a class="" href="https://fsd.pepetox.es/gran-castracion-2019-autopilot-europa">la “gran castración” de 2019</a>).</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-este-cambio-no-es-un-detalle-solo-de-ee-uu">Por qué este cambio no es un detalle “solo de EE. UU.”<a href="https://fsd.pepetox.es/autopilot-deja-de-ser-estandar#por-qu%C3%A9-este-cambio-no-es-un-detalle-solo-de-ee-uu" class="hash-link" aria-label="Enlace directo al Por qué este cambio no es un detalle “solo de EE. UU.”" title="Enlace directo al Por qué este cambio no es un detalle “solo de EE. UU.”" translate="no">​</a></h2>
-<p>La parte interesante no es solo qué se quita, sino <strong>qué mensaje lanza</strong>:</p>
-<ol>
-<li class=""><strong>Deja de tratarse como “estándar” una función que define la identidad del producto.</strong> Para mucha gente, Autopilot era parte del “pack Tesla”, como el iPhone con su cámara: no el extra, sino el punto de partida.</li>
-<li class=""><strong>La línea entre asistencia (L2) y producto premium se hace más dura.</strong> Si el centrado en carril se paga aparte, la barrera de entrada a la “experiencia FSD” sube.</li>
-<li class=""><strong>Europa es especialmente sensible a cómo se empaqueta y se comunica la asistencia.</strong> Aquí, el debate no es solo técnico: es legal, de expectativas y de responsabilidad del conductor.</li>
-</ol>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="tres-hipótesis-sobre-el-por-qué-sin-humo">Tres hipótesis sobre el “por qué” (sin humo)<a href="https://fsd.pepetox.es/autopilot-deja-de-ser-estandar#tres-hip%C3%B3tesis-sobre-el-por-qu%C3%A9-sin-humo" class="hash-link" aria-label="Enlace directo al Tres hipótesis sobre el “por qué” (sin humo)" title="Enlace directo al Tres hipótesis sobre el “por qué” (sin humo)" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-precio-y-suscripción-convertir-hábito-en-arpu">1) Precio y suscripción: convertir “hábito” en “ARPU”<a href="https://fsd.pepetox.es/autopilot-deja-de-ser-estandar#1-precio-y-suscripci%C3%B3n-convertir-h%C3%A1bito-en-arpu" class="hash-link" aria-label="Enlace directo al 1) Precio y suscripción: convertir “hábito” en “ARPU”" title="Enlace directo al 1) Precio y suscripción: convertir “hábito” en “ARPU”" translate="no">​</a></h3>
-<p>La lectura más directa: Tesla quiere que más conductores pasen por caja (una vez, o mes a mes) para acceder a las funciones que sienten como “conducción asistida completa”. Si el centrado en carril ya no viene incluido, <strong>el upsell es más agresivo</strong>.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-riesgo-reputacional-menos-malentendidos-menos-titulares">2) Riesgo reputacional: menos malentendidos, menos titulares<a href="https://fsd.pepetox.es/autopilot-deja-de-ser-estandar#2-riesgo-reputacional-menos-malentendidos-menos-titulares" class="hash-link" aria-label="Enlace directo al 2) Riesgo reputacional: menos malentendidos, menos titulares" title="Enlace directo al 2) Riesgo reputacional: menos malentendidos, menos titulares" translate="no">​</a></h3>
-<p>Autopilot ha sido durante años un foco de malentendidos y accidentes mediáticos. Separar claramente “lo estándar” (crucero adaptativo + seguridad activa) de “lo avanzado” podría ser, también, una forma de reducir expectativas. Esto no elimina el problema de fondo —la comunicación y el uso real—, pero sí cambia el punto de partida.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-producto-y-soporte-simplificar-lo-que-hay-que-explicar">3) Producto y soporte: simplificar lo que “hay que explicar”<a href="https://fsd.pepetox.es/autopilot-deja-de-ser-estandar#3-producto-y-soporte-simplificar-lo-que-hay-que-explicar" class="hash-link" aria-label="Enlace directo al 3) Producto y soporte: simplificar lo que “hay que explicar”" title="Enlace directo al 3) Producto y soporte: simplificar lo que “hay que explicar”" translate="no">​</a></h3>
-<p>Una asistencia que centra carril parece fácil… hasta que te encuentras obras, señalización confusa, carriles que desaparecen, lluvia o un adelantamiento raro. Si el sistema no está a la altura de lo que el usuario cree que hace, el coste de soporte, reclamaciones y frustración crece. Quitar “de serie” la parte más visible puede ser una manera de <strong>reducir fricción en el usuario generalista</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="implicaciones-prácticas-si-compras-un-tesla-en-españa-enero-2026">Implicaciones prácticas si compras un Tesla en España (enero 2026)<a href="https://fsd.pepetox.es/autopilot-deja-de-ser-estandar#implicaciones-pr%C3%A1cticas-si-compras-un-tesla-en-espa%C3%B1a-enero-2026" class="hash-link" aria-label="Enlace directo al Implicaciones prácticas si compras un Tesla en España (enero 2026)" title="Enlace directo al Implicaciones prácticas si compras un Tesla en España (enero 2026)" translate="no">​</a></h2>
-<p>Hoy, este cambio se está reportando fuera de la UE, pero el consejo práctico para España es simple: <strong>no asumas paquetes</strong>.</p>
-<p>Antes de cerrar compra, revisa:</p>
-<ol>
-<li class=""><strong>Qué aparece como “incluido” en el configurador</strong> para tu país (y en el resumen final del pedido).</li>
-<li class=""><strong>Qué define Tesla como funciones estándar</strong> en su documentación de soporte, especialmente en “Asistencia al conductor” y “Seguridad” (ver fuentes).</li>
-<li class=""><strong>Qué función te importa de verdad:</strong> hay gente que “vive” en TACC y hay gente que quiere centrado en carril sí o sí.</li>
-</ol>
-<p>Y, si estás comparando con otros L2 “hands-off, eyes-on” en Europa, recuerda: algunos competidores venden “hands-free” geovallado como paquete, otros lo incluyen por niveles de acabado, y otros lo reservan a suscripciones. El empaquetado es parte del producto.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-la-comunidad-debería-vigilar-para-anticipar-europa">Lo que la comunidad debería vigilar (para anticipar Europa)<a href="https://fsd.pepetox.es/autopilot-deja-de-ser-estandar#lo-que-la-comunidad-deber%C3%ADa-vigilar-para-anticipar-europa" class="hash-link" aria-label="Enlace directo al Lo que la comunidad debería vigilar (para anticipar Europa)" title="Enlace directo al Lo que la comunidad debería vigilar (para anticipar Europa)" translate="no">​</a></h2>
-<p>Si Tesla extiende el cambio, lo verás antes en estas señales:</p>
-<ul>
-<li class=""><strong>Variación por mercado</strong>: primero un país, luego otro.</li>
-<li class=""><strong>Cambio de naming</strong>: “Autopilot” deja de estar en el lenguaje de serie y aparece otro término estándar.</li>
-<li class=""><strong>Rebajas o promociones temporales</strong>: para amortiguar el impacto.</li>
-<li class=""><strong>Ajustes en el onboarding del coche</strong>: pantallas, tutoriales y disclaimers.</li>
-</ul>
-<p>En Europa, además, este tipo de decisión interactúa con regulación y homologación: el usuario aquí es más consciente (o debería serlo) de que L2 es L2, que la supervisión manda, y que el sistema no es una promesa sino un conjunto de funciones con límites.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway-tesla-está-redefiniendo-el-mínimo-viable-de-asistencia">Takeaway: Tesla está redefiniendo el “mínimo viable” de asistencia<a href="https://fsd.pepetox.es/autopilot-deja-de-ser-estandar#takeaway-tesla-est%C3%A1-redefiniendo-el-m%C3%ADnimo-viable-de-asistencia" class="hash-link" aria-label="Enlace directo al Takeaway: Tesla está redefiniendo el “mínimo viable” de asistencia" title="Enlace directo al Takeaway: Tesla está redefiniendo el “mínimo viable” de asistencia" translate="no">​</a></h2>
-<p>Durante años, el estándar implícito era: “compras Tesla, tienes Autopilot”. Si ahora el estándar pasa a ser “compras Tesla, tienes crucero adaptativo”, el cambio no es técnico: <strong>es de estrategia</strong>. Y cuando una empresa redefine su “mínimo”, el mercado suele seguirlo (o aprovechar el hueco).</p>
-<p>Si este giro llega a Europa, la pregunta para España será clara: ¿cuánto vale para ti el centrado en carril y el resto del paquete… cuando deja de ser automático? Te leo en comentarios: ¿usarías TACC “a pelo” o Autosteer es imprescindible para tu día a día?</p>
-<hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/autopilot-deja-de-ser-estandar#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h3>
-<ul>
-<li class="">The Verge — Tesla reportedly removed Autopilot as a standard feature for new orders (enero 2026). <a href="https://www.theverge.com/2026/1/24/24351608/tesla-autopilot-standard-feature-removed" target="_blank" rel="noopener noreferrer" class="">https://www.theverge.com/2026/1/24/24351608/tesla-autopilot-standard-feature-removed</a></li>
-<li class="">Electrek — Tesla quietly removes Autopilot as standard; keeps adaptive cruise control and safety features (enero 2026). <a href="https://electrek.co/2026/01/24/tesla-removes-autopilot-as-standard-keeps-adaptive-cruise-control-and-safety/" target="_blank" rel="noopener noreferrer" class="">https://electrek.co/2026/01/24/tesla-removes-autopilot-as-standard-keeps-adaptive-cruise-control-and-safety/</a></li>
-<li class="">Tesla — “Safety Features” (explica qué incluye Tesla como seguridad activa y menciona TACC como parte de la asistencia). <a href="https://www.tesla.com/support/safety-features" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/support/safety-features</a></li>
-</ul>]]></content:encoded>
-            <category>autopilot</category>
-            <category>tesla</category>
-            <category>fsd</category>
-            <category>europa</category>
-            <category>seguridad</category>
-            <category>regulations</category>
-            <category>producto</category>
-            <category>suscripcion</category>
         </item>
     </channel>
 </rss>
