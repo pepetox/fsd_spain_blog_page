@@ -4,10 +4,75 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Sat, 14 Feb 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Feb 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[Febrero no es un lanzamiento: es el examen de evidencia para FSD en Europa]]></title>
+            <link>https://fsd.pepetox.es/fsd-europa-demo-vs-validacion</link>
+            <guid>https://fsd.pepetox.es/fsd-europa-demo-vs-validacion</guid>
+            <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Sin evidencia auditada no hay despliegue: por qué febrero de 2026 importa más como validación técnica y regulatoria que como fecha de marketing.]]></description>
+            <content:encoded><![CDATA[<p>Vas por la A-6, llueve fino, las marcas del carril se diluyen, un coche se te cuela sin intermitente y una furgoneta frena tarde justo antes de una salida. En ese segundo, da igual el hype en X: o el sistema entiende el contexto europeo, o no pasa el corte.</p>
+<p>Ese es el punto clave de febrero de 2026. A fecha <strong>17 de febrero de 2026</strong>, no existe un anuncio oficial de aprobación general de FSD en la UE. Lo que sí existe es una realidad más útil: un calendario de demostración y decisión condicionado por evidencia técnica, con seguridad vial como criterio principal.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-actualización-más-relevante-y-por-qué-importa">La actualización más relevante (y por qué importa)<a href="https://fsd.pepetox.es/fsd-europa-demo-vs-validacion#la-actualizaci%C3%B3n-m%C3%A1s-relevante-y-por-qu%C3%A9-importa" class="hash-link" aria-label="Enlace directo al La actualización más relevante (y por qué importa)" title="Enlace directo al La actualización más relevante (y por qué importa)" translate="no">​</a></h2>
+<p>La autoridad neerlandesa <strong>RDW</strong> publicó el <strong>24 de noviembre de 2025</strong> que Tesla debía <strong>demostrar en febrero de 2026</strong> que FSD Supervised cumple requisitos, y que solo después podría tomarse una decisión. También dejó claro que el calendario podía no cumplirse y que la prioridad era la seguridad.</p>
+<p>En paralelo, el marco UNECE sobre <strong>DCAS</strong> (Driver Control Assistance Systems) ya venía marcando la dirección: no basta con “que funcione en vídeo”; hay que demostrar límites, supervisión del conductor y desempeño trazable.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-en-españa">Expectativa vs. realidad en España<a href="https://fsd.pepetox.es/fsd-europa-demo-vs-validacion#expectativa-vs-realidad-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad en España" title="Enlace directo al Expectativa vs. realidad en España" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa">Expectativa<a href="https://fsd.pepetox.es/fsd-europa-demo-vs-validacion#expectativa" class="hash-link" aria-label="Enlace directo al Expectativa" title="Enlace directo al Expectativa" translate="no">​</a></h3>
+<p>"Si sale bien una demo en Países Bajos, en España llega enseguida".</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad">Realidad<a href="https://fsd.pepetox.es/fsd-europa-demo-vs-validacion#realidad" class="hash-link" aria-label="Enlace directo al Realidad" title="Enlace directo al Realidad" translate="no">​</a></h3>
+<p>Una demo convincente es necesaria, pero no suficiente. Para que España vea un despliegue serio, el sistema tiene que probar consistencia en escenarios que aquí son pan de cada día:</p>
+<ul>
+<li class="">rotondas con múltiples trayectorias y señalización imperfecta,</li>
+<li class="">incorporaciones cortas con negociación agresiva,</li>
+<li class="">obras cambiantes con carriles temporales,</li>
+<li class="">lluvia + reflejos + moto filtrando carril.</li>
+</ul>
+<p>En otras palabras: el verdadero test no es si FSD hace un recorrido bonito, sino si <strong>repite comportamiento seguro</strong> cuando el entorno se vuelve ambiguo.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-evidencia-cambia-de-verdad-el-juego">Qué evidencia cambia de verdad el juego<a href="https://fsd.pepetox.es/fsd-europa-demo-vs-validacion#qu%C3%A9-evidencia-cambia-de-verdad-el-juego" class="hash-link" aria-label="Enlace directo al Qué evidencia cambia de verdad el juego" title="Enlace directo al Qué evidencia cambia de verdad el juego" translate="no">​</a></h2>
+<p>Si Tesla quiere pasar de narrativa a permiso operativo en Europa, hay cuatro piezas que pesan más que cualquier clip viral:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-odd-explícito-y-verificable">1. ODD explícito y verificable<a href="https://fsd.pepetox.es/fsd-europa-demo-vs-validacion#1-odd-expl%C3%ADcito-y-verificable" class="hash-link" aria-label="Enlace directo al 1. ODD explícito y verificable" title="Enlace directo al 1. ODD explícito y verificable" translate="no">​</a></h3>
+<p>Dónde funciona, dónde no y bajo qué condiciones exactas (clima, tipo de vía, complejidad urbana).</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-supervisión-del-conductor-robusta">2. Supervisión del conductor robusta<a href="https://fsd.pepetox.es/fsd-europa-demo-vs-validacion#2-supervisi%C3%B3n-del-conductor-robusta" class="hash-link" aria-label="Enlace directo al 2. Supervisión del conductor robusta" title="Enlace directo al 2. Supervisión del conductor robusta" translate="no">​</a></h3>
+<p>No como accesorio legal, sino como barrera activa frente a sobreconfianza y uso fuera de contexto.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-métricas-de-seguridad-auditables">3. Métricas de seguridad auditables<a href="https://fsd.pepetox.es/fsd-europa-demo-vs-validacion#3-m%C3%A9tricas-de-seguridad-auditables" class="hash-link" aria-label="Enlace directo al 3. Métricas de seguridad auditables" title="Enlace directo al 3. Métricas de seguridad auditables" translate="no">​</a></h3>
+<p>Intervenciones, casi-incidentes, degradaciones y respuesta ante casos límite; todo con trazabilidad.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-plan-de-mejora-continua">4. Plan de mejora continua<a href="https://fsd.pepetox.es/fsd-europa-demo-vs-validacion#4-plan-de-mejora-continua" class="hash-link" aria-label="Enlace directo al 4. Plan de mejora continua" title="Enlace directo al 4. Plan de mejora continua" translate="no">​</a></h3>
+<p>Capacidad de cerrar el ciclo entre incidentes reales, entrenamiento y despliegue de nuevas versiones sin romper lo que ya funcionaba.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-lectura-técnica-menos-magia-más-ingeniería-de-fiabilidad">La lectura técnica: menos "magia", más ingeniería de fiabilidad<a href="https://fsd.pepetox.es/fsd-europa-demo-vs-validacion#la-lectura-t%C3%A9cnica-menos-magia-m%C3%A1s-ingenier%C3%ADa-de-fiabilidad" class="hash-link" aria-label="Enlace directo al La lectura técnica: menos &quot;magia&quot;, más ingeniería de fiabilidad" title="Enlace directo al La lectura técnica: menos &quot;magia&quot;, más ingeniería de fiabilidad" translate="no">​</a></h2>
+<p>Europa está empujando a FSD hacia una madurez muy concreta: menos dependencia de demos puntuales y más enfoque en fiabilidad estadística. Eso, para los que queremos ver esta tecnología en carreteras españolas, es una buena noticia.</p>
+<p>Un sistema que conduce brillante 9 veces de 10 genera titulares.
+Un sistema que gestiona bien la décima, cuando todo se complica, genera confianza regulatoria.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-vigilar-en-las-próximas-semanas">Qué vigilar en las próximas semanas<a href="https://fsd.pepetox.es/fsd-europa-demo-vs-validacion#qu%C3%A9-vigilar-en-las-pr%C3%B3ximas-semanas" class="hash-link" aria-label="Enlace directo al Qué vigilar en las próximas semanas" title="Enlace directo al Qué vigilar en las próximas semanas" translate="no">​</a></h2>
+<p>Si quieres separar avance real de ruido, observa esto:</p>
+<ul>
+<li class="">si aparecen límites operativos claros (no promesas difusas),</li>
+<li class="">si se comunica desempeño en condiciones difíciles y no solo en rutas limpias,</li>
+<li class="">y si el relato público encaja con lo que publican los reguladores.</li>
+</ul>
+<p>Si quieres contexto adicional, conecta este análisis con dos frentes que ya hemos tratado en el blog:</p>
+<ul>
+<li class=""><a class="" href="https://fsd.pepetox.es/intermitente-tardio-intencion-fsd">El intermitente tardío y la inferencia de intención en España</a></li>
+<li class=""><a class="" href="https://fsd.pepetox.es/madrid-auditoria-fsd">Madrid como auditoría real de FSD fuera del laboratorio</a></li>
+</ul>
+<p>La conversación importante no es "¿llega ya?", sino "¿llega bien delimitado y con evidencia suficiente para no fallar donde más duele?".</p>
+<p>Cuéntame en comentarios qué prefieres para el arranque en España: ¿ODD estrecho y despliegue gradual, o esperar más para salir con un dominio operativo más amplio?</p>
+<hr>
+<p><strong>Fuentes clave (actualización regulatoria):</strong></p>
+<ul>
+<li class="">RDW (24 Nov 2025): <a href="https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action</a></li>
+<li class="">UNECE (DCAS, contexto normativo): <a href="https://unece.org/media/press/387961" target="_blank" rel="noopener noreferrer" class="">https://unece.org/media/press/387961</a></li>
+</ul>]]></content:encoded>
+            <category>fsd</category>
+            <category>tesla</category>
+            <category>ai</category>
+            <category>regulations</category>
+            <category>testing</category>
+            <category>europa</category>
+            <category>espana</category>
+        </item>
         <item>
             <title><![CDATA[Madrid saca a FSD del laboratorio: la calle como auditoría]]></title>
             <link>https://fsd.pepetox.es/madrid-auditoria-fsd</link>
@@ -1266,55 +1331,6 @@
             <category>tesla</category>
             <category>ai</category>
             <category>testing</category>
-            <category>europa</category>
-        </item>
-        <item>
-            <title><![CDATA[La noche española no perdona: el reto invisible de FSD bajo faros, reflejos y lluvia]]></title>
-            <link>https://fsd.pepetox.es/noche-reflejos-fsd-espana</link>
-            <guid>https://fsd.pepetox.es/noche-reflejos-fsd-espana</guid>
-            <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Más allá de los vídeos diurnos: por qué la noche, los reflejos y la iluminación irregular son el verdadero examen para FSD en carreteras españolas.]]></description>
-            <content:encoded><![CDATA[<p>Son las 22:43 en la M-40. Lluvia fina, asfalto brillante y un cartel variable que cambia de 120 a 80. El coche de delante frena, el de la derecha proyecta un cono de luz que “lava” las líneas, y un peatón asoma a un paso mal iluminado. Para ti es estrés. Para un sistema end-to-end, <strong>es un test de percepción donde cada pixel puede mentir</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-la-noche-es-el-enemigo-silencioso-del-fsd">Por qué la noche es el enemigo silencioso del FSD<a href="https://fsd.pepetox.es/noche-reflejos-fsd-espana#por-qu%C3%A9-la-noche-es-el-enemigo-silencioso-del-fsd" class="hash-link" aria-label="Enlace directo al Por qué la noche es el enemigo silencioso del FSD" title="Enlace directo al Por qué la noche es el enemigo silencioso del FSD" translate="no">​</a></h2>
-<p>Durante el día, los modelos de visión tienen margen: contraste, líneas claras, sombras previsibles. De noche, <strong>la señal cambia de naturaleza</strong>. No solo baja la luz; aparecen reflejos, halos, deslumbramientos y “falsos bordes” en el asfalto mojado. Y en España eso importa más de lo que parece, porque la siniestralidad sigue siendo un problema serio: <strong>más de 1.150 personas fallecieron en 2024 en carreteras españolas</strong> y los desplazamientos siguen creciendo.</p>
-<p>Esto no es un argumento de miedo: es el contexto que obliga a ser realistas. Si el sistema falla en la noche, <strong>la promesa de seguridad se debilita justo donde más la necesitamos</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-el-vídeo-perfecto-no-es-la-carretera-real">Expectativa vs. realidad: el vídeo perfecto no es la carretera real<a href="https://fsd.pepetox.es/noche-reflejos-fsd-espana#expectativa-vs-realidad-el-v%C3%ADdeo-perfecto-no-es-la-carretera-real" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad: el vídeo perfecto no es la carretera real" title="Enlace directo al Expectativa vs. realidad: el vídeo perfecto no es la carretera real" translate="no">​</a></h2>
-<p><strong>Expectativa:</strong> “Si funciona en un vídeo viral, funciona en la vida real.”</p>
-<p><strong>Realidad:</strong> de noche, el modelo debe distinguir entre:</p>
-<ul>
-<li class="">reflejos de faros sobre charcos (que parecen marcas de carril),</li>
-<li class="">señales iluminadas que cambian de brillo (y de límite legal),</li>
-<li class="">objetos oscuros con bajo contraste (peatones, ciclistas, VMP),</li>
-<li class="">zonas mal iluminadas con señalización “incompleta”.</li>
-</ul>
-<p>Es exactamente el tipo de incertidumbre que <strong>no se resuelve solo con más datos diurnos</strong>. Hace falta entrenamiento con escenarios nocturnos europeos y, sobre todo, validación local: carreteras con señalización desigual, pasos de peatones con iluminación imperfecta y tramos rurales sin marcas claras.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-regulación-también-mira-la-noche-aunque-no-lo-parezca">La regulación también mira la noche (aunque no lo parezca)<a href="https://fsd.pepetox.es/noche-reflejos-fsd-espana#la-regulaci%C3%B3n-tambi%C3%A9n-mira-la-noche-aunque-no-lo-parezca" class="hash-link" aria-label="Enlace directo al La regulación también mira la noche (aunque no lo parezca)" title="Enlace directo al La regulación también mira la noche (aunque no lo parezca)" translate="no">​</a></h2>
-<p>Europa está afinando el marco legal para asistencia avanzada. La UNECE ya tiene en vigor el reglamento DCAS (Reglamento ONU nº 171), que define sistemas de asistencia de nivel 2 y exige supervisión humana permanente.</p>
-<p>Y el <strong>AI Act</strong> ya está en marcha: entró en vigor el 1 de agosto de 2024, activó prohibiciones y alfabetización en febrero de 2025, y despliega el grueso de obligaciones en agosto de 2026, con un tramo extendido hasta 2027 para sistemas de alto riesgo integrados en productos regulados. En la práctica, esto significa más presión para demostrar <strong>seguridad verificable</strong>, no solo capacidades en demos.</p>
-<p>La noche no es un “detalle técnico”: es uno de esos escenarios donde <strong>la verificación reglamentaria puede exigir evidencia sólida</strong>, especialmente si el sistema se promociona como ayuda robusta para la conducción cotidiana.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-tendría-que-cambiar-para-que-fsd-sea-creíble-de-noche-en-españa">Qué tendría que cambiar para que FSD sea creíble de noche en España<a href="https://fsd.pepetox.es/noche-reflejos-fsd-espana#qu%C3%A9-tendr%C3%ADa-que-cambiar-para-que-fsd-sea-cre%C3%ADble-de-noche-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Qué tendría que cambiar para que FSD sea creíble de noche en España" title="Enlace directo al Qué tendría que cambiar para que FSD sea creíble de noche en España" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-dataset-europeo-nocturno-real-no-solo-ee-uu">1) Dataset europeo nocturno real (no solo EE. UU.)<a href="https://fsd.pepetox.es/noche-reflejos-fsd-espana#1-dataset-europeo-nocturno-real-no-solo-ee-uu" class="hash-link" aria-label="Enlace directo al 1) Dataset europeo nocturno real (no solo EE. UU.)" title="Enlace directo al 1) Dataset europeo nocturno real (no solo EE. UU.)" translate="no">​</a></h3>
-<p>Los patrones de iluminación, señalización y comportamiento son distintos. Un paso de cebra en un pueblo de Castilla no se parece a un cruce en California. Sin datos locales, el modelo generaliza… pero con riesgo.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-mejor-gestión-de-incertidumbre">2) Mejor gestión de incertidumbre<a href="https://fsd.pepetox.es/noche-reflejos-fsd-espana#2-mejor-gesti%C3%B3n-de-incertidumbre" class="hash-link" aria-label="Enlace directo al 2) Mejor gestión de incertidumbre" title="Enlace directo al 2) Mejor gestión de incertidumbre" translate="no">​</a></h3>
-<p>Cuando el modelo “no sabe”, debe comunicarlo. Eso implica <strong>señales claras al conductor</strong> y un comportamiento conservador que no sorprenda al tráfico humano.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-validación-por-escenarios-no-por-kilómetros">3) Validación por escenarios, no por kilómetros<a href="https://fsd.pepetox.es/noche-reflejos-fsd-espana#3-validaci%C3%B3n-por-escenarios-no-por-kil%C3%B3metros" class="hash-link" aria-label="Enlace directo al 3) Validación por escenarios, no por kilómetros" title="Enlace directo al 3) Validación por escenarios, no por kilómetros" translate="no">​</a></h3>
-<p>No basta con miles de kilómetros nocturnos: se necesitan <strong>escenarios críticos repetibles</strong> (deslumbramientos, señalización variable, lluvia fina, peatones con poca visibilidad) y métricas públicas que demuestren progreso.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="una-idea-clave-para-la-comunidad-fsd-en-españa">Una idea clave para la comunidad FSD en España<a href="https://fsd.pepetox.es/noche-reflejos-fsd-espana#una-idea-clave-para-la-comunidad-fsd-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Una idea clave para la comunidad FSD en España" title="Enlace directo al Una idea clave para la comunidad FSD en España" translate="no">​</a></h2>
-<p>Si el futuro del FSD en Europa depende de demostrar seguridad, <strong>la noche es el examen más duro y menos “marketinizable”</strong>. Pero también es una oportunidad: si Tesla logra resultados sólidos aquí, el salto de confianza será real, no solo de narrativa.</p>
-<p>Para seguir el debate, puedes leer nuestro análisis del reto de las rotondas en España, donde la ambigüedad también lo cambia todo: <a class="" href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana">El desafío de la rotonda para FSD en España</a>.</p>
-<p><strong>Takeaway:</strong> la noche es el filtro invisible. Si FSD quiere ganarse Europa, no bastará con conducir bien a pleno sol; tendrá que <strong>ver, decidir y ceder</strong> cuando la realidad se vuelve gris.</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/noche-reflejos-fsd-espana#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
-<ul>
-<li class="">UNECE — Reglamento ONU nº 171 sobre DCAS (entrada en vigor, 2024): <a href="https://unece.org/media/press/395206" target="_blank" rel="noopener noreferrer" class="">https://unece.org/media/press/395206</a></li>
-<li class="">Comisión Europea — AI Act y calendario de aplicación: <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener noreferrer" class="">https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai</a></li>
-<li class="">DGT — siniestralidad 2024 y balance de desplazamientos: <a href="https://www.dgt.es/comunicacion/notas-de-prensa/20250110-2024-record-historico-desplazamientos-en-carretera-mientras-se-estabiliza-el-numero-de-fallecidos-en-siniestros-de-trafico/" target="_blank" rel="noopener noreferrer" class="">https://www.dgt.es/comunicacion/notas-de-prensa/20250110-2024-record-historico-desplazamientos-en-carretera-mientras-se-estabiliza-el-numero-de-fallecidos-en-siniestros-de-trafico/</a></li>
-</ul>]]></content:encoded>
-            <category>fsd</category>
-            <category>tesla</category>
-            <category>ai</category>
-            <category>testing</category>
-            <category>seguridad</category>
             <category>europa</category>
         </item>
     </channel>
