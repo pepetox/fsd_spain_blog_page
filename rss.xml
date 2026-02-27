@@ -4,10 +4,60 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Tue, 24 Feb 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[FSD v14 en autopista: cuando evitar un choque no es reflejo, es predicción]]></title>
+            <link>https://fsd.pepetox.es/fsd-predictivo-autopista-v14</link>
+            <guid>https://fsd.pepetox.es/fsd-predictivo-autopista-v14</guid>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Los videos virales de FSD v14.2.2.5 en EE.UU. muestran conducción predictiva en alta velocidad. La pregunta para Europa no es el wow: es la evidencia que exige regulación.]]></description>
+            <content:encoded><![CDATA[<p>A 70 mph (unos 113 km/h), no hay margen para improvisar: o predices dos segundos antes, o llegas tarde. Ese es el valor real de los videos virales de <strong>FSD Supervised v14.2.2.5</strong> en autopistas de EE.UU.: no enseñan una maniobra bonita, enseñan una red que intenta leer intención y riesgo antes de que el incidente exista del todo.</p>
+<p><img decoding="async" loading="lazy" alt="Tesla en autopista europea anticipando una maniobra de riesgo" src="https://fsd.pepetox.es/assets/images/2026-02-27-fsd-predictivo-autopista-v14-4960d24f48898d4cb3597efc9bf8b595.png" width="1376" height="768" class="img_ev3q"></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-se-está-viendo-hoy-en-eeuu">Lo que se está viendo hoy en EE.UU.<a href="https://fsd.pepetox.es/fsd-predictivo-autopista-v14#lo-que-se-est%C3%A1-viendo-hoy-en-eeuu" class="hash-link" aria-label="Enlace directo al Lo que se está viendo hoy en EE.UU." title="Enlace directo al Lo que se está viendo hoy en EE.UU." translate="no">​</a></h2>
+<p>En la conversación técnica de esta semana destacan clips donde FSD:</p>
+<ul>
+<li class="">cambia de carril de forma proactiva ante posible conflicto frontal,</li>
+<li class="">se aparta de conductores agresivos para recuperar margen de seguridad,</li>
+<li class="">y reacciona ante cruces peligrosos con frenada preventiva.</li>
+</ul>
+<p>Punto importante: estos casos son <strong>evidencia observacional en redes</strong>, no auditorías regulatorias publicadas. Aun así, sí reflejan un cambio de enfoque: pasar de "seguir carril" a <strong>gestionar riesgo dinámico</strong> en tráfico rápido.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-implica-para-españa-y-europa">Qué implica para España y Europa<a href="https://fsd.pepetox.es/fsd-predictivo-autopista-v14#qu%C3%A9-implica-para-espa%C3%B1a-y-europa" class="hash-link" aria-label="Enlace directo al Qué implica para España y Europa" title="Enlace directo al Qué implica para España y Europa" translate="no">​</a></h2>
+<p>Aquí no hay novedad oficial de última hora que autorice un despliegue general en la UE. El cuello de botella sigue siendo regulatorio y de validación:</p>
+<ul>
+<li class="">RDW (Países Bajos) ya dejó claro el <strong>24 de noviembre de 2025</strong> que Tesla debía demostrar cumplimiento y que la prioridad era seguridad vial.</li>
+<li class="">Tesla, en su <em>Q4/FY 2025 Shareholder Deck</em> (28 de enero de 2026), mantiene que sigue buscando aprobaciones en Europa y China, y menciona demos/ride-alongs en varios países europeos.</li>
+<li class="">En su <em>Impact Report 2024</em> (publicado en 2025), Tesla define FSD (Supervised) como sistema con supervisión activa y reporta disponibilidad en mercados fuera de la UE (EE.UU., Canadá, México, China, Australia, Nueva Zelanda y Corea del Sur).</li>
+</ul>
+<p>Mi lectura: en Europa el debate ya no es "si el coche hace una demo"; es <strong>si ese comportamiento predictivo se mantiene de forma repetible, medible y auditable</strong> bajo nuestro marco legal.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-test-europeo-real-calibración-no-espectáculo">El test europeo real: calibración, no espectáculo<a href="https://fsd.pepetox.es/fsd-predictivo-autopista-v14#el-test-europeo-real-calibraci%C3%B3n-no-espect%C3%A1culo" class="hash-link" aria-label="Enlace directo al El test europeo real: calibración, no espectáculo" title="Enlace directo al El test europeo real: calibración, no espectáculo" translate="no">​</a></h2>
+<p>Para que una maniobra espectacular en autopista valga ante un regulador europeo, hacen falta tres cosas:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-repetibilidad">1) Repetibilidad<a href="https://fsd.pepetox.es/fsd-predictivo-autopista-v14#1-repetibilidad" class="hash-link" aria-label="Enlace directo al 1) Repetibilidad" title="Enlace directo al 1) Repetibilidad" translate="no">​</a></h3>
+<p>No un vídeo viral, sino cientos de casos comparables con métricas de contexto, tiempo de reacción y severidad evitada.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-límites-explícitos">2) Límites explícitos<a href="https://fsd.pepetox.es/fsd-predictivo-autopista-v14#2-l%C3%ADmites-expl%C3%ADcitos" class="hash-link" aria-label="Enlace directo al 2) Límites explícitos" title="Enlace directo al 2) Límites explícitos" translate="no">​</a></h3>
+<p>Cuándo el sistema decide ceder control, cuándo reduce velocidad por incertidumbre, y cómo lo comunica al conductor.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-coherencia-con-normativa">3) Coherencia con normativa<a href="https://fsd.pepetox.es/fsd-predictivo-autopista-v14#3-coherencia-con-normativa" class="hash-link" aria-label="Enlace directo al 3) Coherencia con normativa" title="Enlace directo al 3) Coherencia con normativa" translate="no">​</a></h3>
+<p>Europa no valida hype; valida comportamiento dentro de reglas y responsabilidades del conductor en sistemas supervisados.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión-sí-hay-salto-técnico-pero-el-permiso-se-gana-con-datos">Conclusión: sí hay salto técnico, pero el permiso se gana con datos<a href="https://fsd.pepetox.es/fsd-predictivo-autopista-v14#conclusi%C3%B3n-s%C3%AD-hay-salto-t%C3%A9cnico-pero-el-permiso-se-gana-con-datos" class="hash-link" aria-label="Enlace directo al Conclusión: sí hay salto técnico, pero el permiso se gana con datos" title="Enlace directo al Conclusión: sí hay salto técnico, pero el permiso se gana con datos" translate="no">​</a></h2>
+<p>Los clips de <strong>v14.2.2.5</strong> apuntan a una mejora relevante en conducción predictiva de alta velocidad. Eso puede salvar vidas. Pero en España/UE la pregunta decisiva sigue intacta: ¿puede ese rendimiento sostenerse con evidencia robusta y criterio regulatorio?</p>
+<p>Si la respuesta es sí, el despliegue llegará. Si no, se quedará en vídeos brillantes.</p>
+<p>En FSD Spain vamos a seguir separando señal de ruido: menos marketing, más ingeniería y más evidencia pública.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-predictivo-autopista-v14#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class="">RDW (24 Nov 2025): <a href="https://www.rdw.nl/en/about-rdw/latest-news/2025/11/24/tesla-fsd-demonstration-in-europe-in-february-2026" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/en/about-rdw/latest-news/2025/11/24/tesla-fsd-demonstration-in-europe-in-february-2026</a></li>
+<li class="">Tesla Q4/FY 2025 Shareholder Deck (28 Jan 2026): <a href="https://digitalassets.tesla.com/tesla-contents/image/upload/TSLA-Q4-FY25-Update.pdf" target="_blank" rel="noopener noreferrer" class="">https://digitalassets.tesla.com/tesla-contents/image/upload/TSLA-Q4-FY25-Update.pdf</a></li>
+<li class="">Tesla Impact Report 2024 (FSD Supervised availability): <a href="https://www.tesla.com/impact-report/2024" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/impact-report/2024</a></li>
+</ul>]]></content:encoded>
+            <category>fsd</category>
+            <category>tesla</category>
+            <category>ai</category>
+            <category>safety</category>
+            <category>testing</category>
+            <category>europa</category>
+            <category>regulations</category>
+        </item>
         <item>
             <title><![CDATA[HW4 en lluvia y contraluz: la prueba española que no se gana en un ride-along]]></title>
             <link>https://fsd.pepetox.es/hw4-lluvia-contraluz-fsd-espana</link>
@@ -1347,58 +1397,6 @@ Un sistema que gestiona bien la décima, cuando todo se complica, genera confian
             <category>tesla</category>
             <category>ai</category>
             <category>regulations</category>
-            <category>testing</category>
-            <category>seguridad</category>
-            <category>europa</category>
-        </item>
-        <item>
-            <title><![CDATA[El cuello de botella europeo: FSD en carreteras secundarias españolas]]></title>
-            <link>https://fsd.pepetox.es/fsd-carreteras-secundarias-espana</link>
-            <guid>https://fsd.pepetox.es/fsd-carreteras-secundarias-espana</guid>
-            <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Las autopistas son el escaparate, pero Europa evaluará el FSD en la España real: carreteras secundarias, señalización irregular y límites cambiantes.]]></description>
-            <content:encoded><![CDATA[<p>Son las 18:07 en una comarcal de Soria. Dos carriles, arcén estrecho, una señal de 60 medio doblada por el viento y un tractor que asoma tras una curva ciega. Para un conductor local, todo es “lectura del terreno”. Para una red end‑to‑end, es el examen de <strong>generalización más duro de Europa</strong>.</p>
-<p>En el debate sobre FSD solemos mirar autopistas y ciudades grandes. Pero si queremos hablar de seguridad real en España, el foco tiene que moverse. <strong>La mayoría de fallecidos en 2024 se produjeron en carreteras convencionales</strong>, no en vías de alta capacidad. Y ese dato cambia por completo qué debe demostrar un sistema como FSD para ganarse la confianza europea.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-las-carreteras-secundarias-son-el-filtro-de-verdad">Por qué las carreteras secundarias son el filtro de verdad<a href="https://fsd.pepetox.es/fsd-carreteras-secundarias-espana#por-qu%C3%A9-las-carreteras-secundarias-son-el-filtro-de-verdad" class="hash-link" aria-label="Enlace directo al Por qué las carreteras secundarias son el filtro de verdad" title="Enlace directo al Por qué las carreteras secundarias son el filtro de verdad" translate="no">​</a></h2>
-<p>España no es solo la M‑30 o la A‑6. El mapa real está lleno de tramos con:</p>
-<ul>
-<li class="">señalización vertical envejecida o parcialmente oculta,</li>
-<li class="">marcas viales gastadas que desaparecen con la lluvia,</li>
-<li class="">curvas con visibilidad limitada y cambios de rasante,</li>
-<li class="">vehículos agrícolas, ciclistas y tráfico heterogéneo.</li>
-</ul>
-<p>Este es el terreno donde los accidentes graves son más frecuentes. La DGT lo subraya cada año: la siniestralidad se concentra en carreteras convencionales. Y a escala europea, <strong>las carreteras rurales siguen concentrando más de la mitad de los fallecidos</strong>. Si FSD quiere “ser seguridad”, debe brillar aquí, no solo en avenidas perfectas.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-una-red-endtoend-necesita-para-sobrevivir-a-la-españa-real">Lo que una red end‑to‑end necesita para sobrevivir a la España real<a href="https://fsd.pepetox.es/fsd-carreteras-secundarias-espana#lo-que-una-red-endtoend-necesita-para-sobrevivir-a-la-espa%C3%B1a-real" class="hash-link" aria-label="Enlace directo al Lo que una red end‑to‑end necesita para sobrevivir a la España real" title="Enlace directo al Lo que una red end‑to‑end necesita para sobrevivir a la España real" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-percepción-robusta-sin-marcas-ideales">1) Percepción robusta sin “marcas ideales”<a href="https://fsd.pepetox.es/fsd-carreteras-secundarias-espana#1-percepci%C3%B3n-robusta-sin-marcas-ideales" class="hash-link" aria-label="Enlace directo al 1) Percepción robusta sin “marcas ideales”" title="Enlace directo al 1) Percepción robusta sin “marcas ideales”" translate="no">​</a></h3>
-<p>El modelo debe inferir la geometría de la vía cuando las líneas son fantasma. Eso obliga a <strong>fusionar señales débiles</strong>: bordes de asfalto, textura del arcén, comportamiento del tráfico que viene de frente y contexto topográfico.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-anticipación-social-en-entornos-mixtos">2) Anticipación social en entornos mixtos<a href="https://fsd.pepetox.es/fsd-carreteras-secundarias-espana#2-anticipaci%C3%B3n-social-en-entornos-mixtos" class="hash-link" aria-label="Enlace directo al 2) Anticipación social en entornos mixtos" title="Enlace directo al 2) Anticipación social en entornos mixtos" translate="no">​</a></h3>
-<p>En secundaria, los ciclos de decisión son más humanos que normativos: el tractor invade ligeramente el carril, el coche contrario “corta” la curva, el ciclista ocupa más espacio. El sistema no puede reaccionar tarde; necesita <strong>anticipar intenciones</strong> con baja visibilidad.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-gestión-honesta-del-riesgo">3) Gestión honesta del riesgo<a href="https://fsd.pepetox.es/fsd-carreteras-secundarias-espana#3-gesti%C3%B3n-honesta-del-riesgo" class="hash-link" aria-label="Enlace directo al 3) Gestión honesta del riesgo" title="Enlace directo al 3) Gestión honesta del riesgo" translate="no">​</a></h3>
-<p>Europa regula sistemas <strong>supervisados</strong>. Eso implica una verdad incómoda: el FSD debe saber cuándo <strong>no</strong> está seguro y pedir ayuda al conductor con claridad. En secundaria, esos momentos son más frecuentes y más críticos.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs. realidad<a href="https://fsd.pepetox.es/fsd-carreteras-secundarias-espana#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad" title="Enlace directo al Expectativa vs. realidad" translate="no">​</a></h2>
-<p><strong>Expectativa:</strong> “Si el FSD funciona en ciudad, funcionará en cualquier carretera.”</p>
-<p><strong>Realidad:</strong> la ciudad tiene carriles pintados, semáforos y reglas repetibles. La carretera secundaria tiene incertidumbre, señales degradadas y un repertorio infinito de “excepciones normales”. El salto de complejidad no es incremental, es cualitativo.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-debería-demostrar-tesla-en-europa">Qué debería demostrar Tesla en Europa<a href="https://fsd.pepetox.es/fsd-carreteras-secundarias-espana#qu%C3%A9-deber%C3%ADa-demostrar-tesla-en-europa" class="hash-link" aria-label="Enlace directo al Qué debería demostrar Tesla en Europa" title="Enlace directo al Qué debería demostrar Tesla en Europa" translate="no">​</a></h2>
-<p>Para convencer a reguladores y usuarios, la evidencia tendría que incluir:</p>
-<ul>
-<li class=""><strong>Escenarios reproducibles en secundaria</strong> (curvas ciegas, adelantamientos de agrícolas, señalización deteriorada).</li>
-<li class=""><strong>Métricas de seguridad transparentes</strong> en vías convencionales, no solo en autopistas.</li>
-<li class=""><strong>Capacidad de degradación segura</strong>: frenar, ceder y pedir control humano cuando la incertidumbre supera el umbral.</li>
-</ul>
-<p>Este enfoque conecta con el marco europeo actual: la UE está elevando el listón de seguridad y transparencia en sistemas de IA aplicados a productos regulados. El mensaje es claro: <strong>no basta con conducir, hay que demostrar fiabilidad verificable</strong>.</p>
-<p>Para un análisis complementario sobre cómo la ambigüedad cambia el juego, puedes leer nuestro artículo sobre el reto de las rotondas en España: <a class="" href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana">El desafío de la rotonda para FSD en España</a>.</p>
-<p><strong>Takeaway:</strong> en Europa, la autopista es marketing. La carretera secundaria es el juicio real. Si Tesla quiere acelerar la confianza, tiene que demostrar que su red entiende la España que no sale en los vídeos.</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-carreteras-secundarias-espana#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
-<ul>
-<li class="">DGT — Balance de siniestralidad 2024 y desplazamientos: <a href="https://www.dgt.es/comunicacion/notas-de-prensa/20250110-2024-record-historico-desplazamientos-en-carretera-mientras-se-estabiliza-el-numero-de-fallecidos-en-siniestros-de-trafico/" target="_blank" rel="noopener noreferrer" class="">https://www.dgt.es/comunicacion/notas-de-prensa/20250110-2024-record-historico-desplazamientos-en-carretera-mientras-se-estabiliza-el-numero-de-fallecidos-en-siniestros-de-trafico/</a></li>
-<li class="">Comisión Europea — Road safety 2024 y distribución por tipo de vía: <a href="https://transport.ec.europa.eu/news-events/news/eu-road-fatalities-drop-3-2024-progress-remains-slow-2025-03-18_en" target="_blank" rel="noopener noreferrer" class="">https://transport.ec.europa.eu/news-events/news/eu-road-fatalities-drop-3-2024-progress-remains-slow-2025-03-18_en</a></li>
-<li class="">UNECE — Reglamento ONU nº 171 (DCAS) y requisitos de supervisión: <a href="https://unece.org/media/press/395206" target="_blank" rel="noopener noreferrer" class="">https://unece.org/media/press/395206</a></li>
-<li class="">Comisión Europea — AI Act (timeline de aplicación): <a href="https://ai-act-service-desk.ec.europa.eu/en/ai-act/timeline/timeline-implementation-eu-ai-act" target="_blank" rel="noopener noreferrer" class="">https://ai-act-service-desk.ec.europa.eu/en/ai-act/timeline/timeline-implementation-eu-ai-act</a></li>
-</ul>]]></content:encoded>
-            <category>fsd</category>
-            <category>tesla</category>
-            <category>ai</category>
             <category>testing</category>
             <category>seguridad</category>
             <category>europa</category>
