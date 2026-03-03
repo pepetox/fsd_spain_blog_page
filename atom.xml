@@ -2,11 +2,124 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fsd.pepetox.es</id>
     <title>FSD Spain Blog</title>
-    <updated>2026-02-27T00:00:00.000Z</updated>
+    <updated>2026-03-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fsd.pepetox.es"/>
     <subtitle>FSD Spain Blog</subtitle>
     <icon>https://fsd.pepetox.es/img/fsdspain.png</icon>
+    <entry>
+        <title type="html"><![CDATA[El parking antes que la M-30: por qué la baja velocidad puede abrir la puerta de FSD en Europa]]></title>
+        <id>https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa</id>
+        <link href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa"/>
+        <updated>2026-03-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tesla sigue empujando FSD en 2026, pero la vía más realista para ganar confianza en Europa puede empezar en parkings y maniobras de baja velocidad, no en el centro de Madrid.]]></summary>
+        <content type="html"><![CDATA[<p>Entras a un parking subterráneo en Madrid, la cobertura del móvil va y viene, las columnas tapan media visión, una furgoneta invade la curva y el hueco libre parece demasiado justo. Si Tesla quiere convencer de verdad a Europa, quizá el examen más inteligente no empiece en la M-30 ni en una autopista alemana: puede empezar justo ahí, a baja velocidad, donde el margen es pequeño pero el riesgo sistémico está más acotado.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-señal-más-reciente-tesla-sigue-empujando-pero-europa-sigue-fuera-del-mapa-comercial">La señal más reciente: Tesla sigue empujando, pero Europa sigue fuera del mapa comercial<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#la-se%C3%B1al-m%C3%A1s-reciente-tesla-sigue-empujando-pero-europa-sigue-fuera-del-mapa-comercial" class="hash-link" aria-label="Enlace directo al La señal más reciente: Tesla sigue empujando, pero Europa sigue fuera del mapa comercial" title="Enlace directo al La señal más reciente: Tesla sigue empujando, pero Europa sigue fuera del mapa comercial" translate="no">​</a></h2>
+<p>A fecha <strong>3 de marzo de 2026</strong>, hay tres hechos públicos que conviene separar:</p>
+<ul>
+<li class="">La página oficial de <a href="https://www.tesla.com/fsd" target="_blank" rel="noopener noreferrer" class="">Full Self-Driving (Supervised) de Tesla</a> sigue indicando que el sistema está disponible en <strong>EE. UU., Canadá, China, México, Puerto Rico, Australia, Nueva Zelanda y Corea del Sur</strong>. Europa no aparece todavía en esa lista.</li>
+<li class="">La página de <a href="https://www.tesla.com/support/fsd" target="_blank" rel="noopener noreferrer" class="">soporte oficial de FSD (Supervised)</a> presenta FSD como un paquete que puede conducir “casi en cualquier lugar” bajo supervisión e incluye funciones de <strong>Actually Smart Summon</strong> y <strong>Autopark</strong>, es decir, maniobras donde el coche ya se mueve en entornos complejos pero normalmente a velocidad baja.</li>
+<li class="">Tesla mantiene activo un evento público de <a href="https://www.tesla.com/es_mx/event/full-self-driving--supervised--ride-along-at-tesla-utrecht" target="_blank" rel="noopener noreferrer" class="">ride-alongs de FSD en Tesla Utrecht</a> entre el <strong>16 de febrero y el 31 de marzo de 2026</strong>.</li>
+</ul>
+<p>Mi lectura es esta: Tesla sigue construyendo expectativa en Europa, pero el terreno más defendible para ganar confianza técnica y regulatoria no es el escenario más espectacular, sino el más controlable.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-el-parking-importa-más-de-lo-que-parece">Por qué el parking importa más de lo que parece<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#por-qu%C3%A9-el-parking-importa-m%C3%A1s-de-lo-que-parece" class="hash-link" aria-label="Enlace directo al Por qué el parking importa más de lo que parece" title="Enlace directo al Por qué el parking importa más de lo que parece" translate="no">​</a></h2>
+<p>Cuando se habla de FSD, el debate suele ir directo a dos imágenes:</p>
+<ul>
+<li class="">una rotonda española caótica,</li>
+<li class="">o una autopista rápida con maniobras predictivas.</li>
+</ul>
+<p>Ambas son importantes, pero no son necesariamente la mejor “rampa de entrada” para Europa.</p>
+<p>En un parking, un sistema de conducción asistida se enfrenta a problemas muy reales:</p>
+<ul>
+<li class="">geometría irregular,</li>
+<li class="">visibilidad parcial por columnas y coches altos,</li>
+<li class="">peatones impredecibles,</li>
+<li class="">maniobras cerradas con poco espacio,</li>
+<li class="">y necesidad de moverse con precisión milimétrica.</li>
+</ul>
+<p>La diferencia es que todo ocurre en un entorno con <strong>velocidad reducida</strong>. Y eso cambia mucho el tipo de riesgo.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-dónde-puede-empezar-la-confianza">Expectativa vs. realidad: dónde puede empezar la confianza<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#expectativa-vs-realidad-d%C3%B3nde-puede-empezar-la-confianza" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad: dónde puede empezar la confianza" title="Enlace directo al Expectativa vs. realidad: dónde puede empezar la confianza" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa">Expectativa<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#expectativa" class="hash-link" aria-label="Enlace directo al Expectativa" title="Enlace directo al Expectativa" translate="no">​</a></h3>
+<p>"Si FSD va a llegar a Europa, la prueba importante es circular solo por ciudad compleja desde el primer día".</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad">Realidad<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#realidad" class="hash-link" aria-label="Enlace directo al Realidad" title="Enlace directo al Realidad" translate="no">​</a></h3>
+<p>Antes de eso, tiene sentido que fabricantes, reguladores y usuarios ganen confianza en escenarios donde:</p>
+<ul>
+<li class="">los tiempos de reacción son mayores,</li>
+<li class="">las consecuencias de un error suelen ser menos severas que a 100 km/h,</li>
+<li class="">y el comportamiento es más fácil de observar, repetir y auditar.</li>
+</ul>
+<p>Eso no significa que el parking sea “fácil”. Significa que es un <strong>ODD más acotado</strong> y, por tanto, un mejor lugar para demostrar madurez incremental.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-encaja-con-el-marco-europeo">Lo que encaja con el marco europeo<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#lo-que-encaja-con-el-marco-europeo" class="hash-link" aria-label="Enlace directo al Lo que encaja con el marco europeo" title="Enlace directo al Lo que encaja con el marco europeo" translate="no">​</a></h2>
+<p>La <a href="https://unece.org/media/press/395206" target="_blank" rel="noopener noreferrer" class="">UNECE explicó al entrar en vigor la Regulación 171 (DCAS) el 30 de septiembre de 2024</a> que estos sistemas siguen siendo de <strong>nivel 2</strong>: el conductor mantiene la responsabilidad y debe permanecer implicado.</p>
+<p>Eso importa porque Europa no está pidiendo magia. Está pidiendo algo mucho más concreto:</p>
+<ul>
+<li class="">límites claros,</li>
+<li class="">supervisión efectiva,</li>
+<li class="">validación del diseño,</li>
+<li class="">y seguimiento del desempeño una vez el sistema está en la calle.</li>
+</ul>
+<p>Un despliegue convincente en maniobras de baja velocidad encaja mejor con esa lógica que una narrativa basada solo en vídeos virales de conducción urbana “casi humana”.</p>
+<p>Dicho de otra forma: para el marco europeo, un sistema que aparca con criterio, se detiene con margen y comunica bien su incertidumbre puede generar más confianza útil que una demo brillante pero difícil de repetir.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-reto-técnico-real-no-es-girar-el-volante-es-gestionar-incertidumbre-cercana">El reto técnico real no es girar el volante: es gestionar incertidumbre cercana<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#el-reto-t%C3%A9cnico-real-no-es-girar-el-volante-es-gestionar-incertidumbre-cercana" class="hash-link" aria-label="Enlace directo al El reto técnico real no es girar el volante: es gestionar incertidumbre cercana" title="Enlace directo al El reto técnico real no es girar el volante: es gestionar incertidumbre cercana" translate="no">​</a></h2>
+<p>En aparcamiento y maniobras lentas, el problema no es “seguir un carril” sino interpretar un entorno lleno de ambigüedad:</p>
+<ul>
+<li class="">líneas mal pintadas o inexistentes,</li>
+<li class="">bordillos bajos que apenas destacan,</li>
+<li class="">peatones que cambian de dirección de golpe,</li>
+<li class="">carros, bolardos, bicis y puertas que se abren.</li>
+</ul>
+<p>Aquí una red neuronal necesita hacer algo muy humano: <strong>ser conservadora sin volverse inútil</strong>.</p>
+<p>Ese equilibrio es clave en España. Un sistema demasiado agresivo parecerá brillante hasta que roce una columna o se acerque demasiado a un peatón. Uno demasiado tímido frustrará al usuario y romperá la promesa de utilidad. La madurez está en resolver esa tensión con comportamiento legible.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-tendría-que-demostrar-tesla-para-que-esto-sea-algo-más-que-marketing">Qué tendría que demostrar Tesla para que esto sea algo más que marketing<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#qu%C3%A9-tendr%C3%ADa-que-demostrar-tesla-para-que-esto-sea-algo-m%C3%A1s-que-marketing" class="hash-link" aria-label="Enlace directo al Qué tendría que demostrar Tesla para que esto sea algo más que marketing" title="Enlace directo al Qué tendría que demostrar Tesla para que esto sea algo más que marketing" translate="no">​</a></h2>
+<p>Si Tesla quiere que este frente sea una puerta real para FSD en Europa, debería dejar ver evidencia más concreta en cuatro frentes:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-repetibilidad">1. Repetibilidad<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#1-repetibilidad" class="hash-link" aria-label="Enlace directo al 1. Repetibilidad" title="Enlace directo al 1. Repetibilidad" translate="no">​</a></h3>
+<p>No solo una maniobra bonita, sino consistencia en muchos parkings, con distintos trazados, luces y obstáculos.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-gestión-de-casos-límite">2. Gestión de casos límite<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#2-gesti%C3%B3n-de-casos-l%C3%ADmite" class="hash-link" aria-label="Enlace directo al 2. Gestión de casos límite" title="Enlace directo al 2. Gestión de casos límite" translate="no">​</a></h3>
+<p>Qué hace el sistema cuando pierde referencia visual, cuando aparece un peatón por un lateral ciego o cuando el espacio es legalmente válido pero socialmente incómodo.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-supervisión-comprensible">3. Supervisión comprensible<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#3-supervisi%C3%B3n-comprensible" class="hash-link" aria-label="Enlace directo al 3. Supervisión comprensible" title="Enlace directo al 3. Supervisión comprensible" translate="no">​</a></h3>
+<p>Cómo avisa, cuándo pide intervención y qué nivel de atención exige al usuario en cada fase.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-escalado-progresivo">4. Escalado progresivo<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#4-escalado-progresivo" class="hash-link" aria-label="Enlace directo al 4. Escalado progresivo" title="Enlace directo al 4. Escalado progresivo" translate="no">​</a></h3>
+<p>Si la estrategia es sana, la baja velocidad no será el final del camino, sino la base desde la que construir confianza para escenarios urbanos y periurbanos más duros.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-lectura-estratégica-menos-épica-más-adopción-real">La lectura estratégica: menos épica, más adopción real<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#la-lectura-estrat%C3%A9gica-menos-%C3%A9pica-m%C3%A1s-adopci%C3%B3n-real" class="hash-link" aria-label="Enlace directo al La lectura estratégica: menos épica, más adopción real" title="Enlace directo al La lectura estratégica: menos épica, más adopción real" translate="no">​</a></h2>
+<p>En redes sociales, una rotonda perfecta vende más que una maniobra de aparcamiento limpia. Pero en adopción real, muchas veces ocurre lo contrario.</p>
+<p>Un sistema que:</p>
+<ul>
+<li class="">aparca bien,</li>
+<li class="">sale de espacios estrechos sin sustos,</li>
+<li class="">y se comporta con prudencia en entornos cerrados,</li>
+</ul>
+<p>puede acostumbrar al usuario europeo a convivir con una conducción asistida más capaz. Y esa familiaridad importa: reduce fricción psicológica, mejora la comprensión de límites y crea un puente entre curiosidad y confianza.</p>
+<p>Por eso, aunque Tesla siga enseñando recorridos en carretera y <em>ride-alongs</em> en Utrecht, no me sorprendería que la verdadera batalla por Europa se gane antes en maniobras lentas y espacios comprimidos que en una avenida abierta.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-significa-esto-para-españa">Qué significa esto para España<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#qu%C3%A9-significa-esto-para-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Qué significa esto para España" title="Enlace directo al Qué significa esto para España" translate="no">​</a></h2>
+<p>En España, el salto grande no será solo “activar FSD”. Será activar un sistema que no se descomponga cuando el entorno deja de parecerse a una demo ideal.</p>
+<p>Si quieres anticipar progreso real, vigila menos el hype y más estas señales:</p>
+<ul>
+<li class="">mejoras visibles en maniobras de baja velocidad con comportamiento estable,</li>
+<li class="">mensajes más claros sobre límites operativos,</li>
+<li class="">y evidencia de que Tesla puede traducir su red entrenada en EE. UU. a espacios europeos más estrechos, ambiguos y socialmente densos.</li>
+</ul>
+<p>Si te interesa cómo se traslada esta discusión a nuestros escenarios cotidianos, conecta esta pieza con <a class="" href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana">el desafío de la rotonda española</a> y con <a class="" href="https://fsd.pepetox.es/fsd-ciclistas-patinetes-espana">el examen de FSD frente a ciclistas y patinetes</a>.</p>
+<p>La pregunta ya no es solo cuándo llegará FSD a Europa. La pregunta útil es <strong>por dónde empezará a ganarse el derecho a quedarse</strong>.</p>
+<p>En FSD Spain seguiremos separando señal de ruido: menos promesa grandilocuente, más contexto técnico y más lectura realista de lo que hace falta para verlo funcionar aquí.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class="">Tesla FSD (disponibilidad regional): <a href="https://www.tesla.com/fsd" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/fsd</a></li>
+<li class="">Tesla Support, Full Self-Driving (Supervised): <a href="https://www.tesla.com/support/fsd" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/support/fsd</a></li>
+<li class="">Tesla Event, FSD Ride-Along at Tesla Utrecht (16 Feb - 31 Mar 2026): <a href="https://www.tesla.com/es_mx/event/full-self-driving--supervised--ride-along-at-tesla-utrecht" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/es_mx/event/full-self-driving--supervised--ride-along-at-tesla-utrecht</a></li>
+<li class="">UNECE, entrada en vigor de la Regulación 171 (DCAS): <a href="https://unece.org/media/press/395206" target="_blank" rel="noopener noreferrer" class="">https://unece.org/media/press/395206</a></li>
+</ul>]]></content>
+        <author>
+            <name>The Autonomous Pilot</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="tesla" term="tesla"/>
+        <category label="ai" term="ai"/>
+        <category label="testing" term="testing"/>
+        <category label="regulations" term="regulations"/>
+        <category label="europa" term="europa"/>
+        <category label="espana" term="espana"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FSD v14 en autopista: cuando evitar un choque no es reflejo, es predicción]]></title>
         <id>https://fsd.pepetox.es/fsd-predictivo-autopista-v14</id>
@@ -1423,61 +1536,5 @@ Un sistema que gestiona bien la décima, cuando todo se complica, genera confian
         <category label="testing" term="testing"/>
         <category label="ai" term="ai"/>
         <category label="seguridad" term="seguridad"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La prueba invisible: los datos y la supervisión que Europa exigirá al FSD]]></title>
-        <id>https://fsd.pepetox.es/prueba-invisible-datos-supervision-fsd</id>
-        <link href="https://fsd.pepetox.es/prueba-invisible-datos-supervision-fsd"/>
-        <updated>2026-01-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[El debate no es solo si FSD conduce bien, sino si puede demostrarlo con datos verificables bajo el marco europeo de DCAS y AI Act.]]></summary>
-        <content type="html"><![CDATA[<p>Imagina esta escena: un Tesla sale de un parking subterráneo en Valencia tras una tormenta. Las cámaras llevan gotas, el GPS rebota, un peatón aparece entre coches aparcados y un patinete entra tarde en el cruce. FSD puede decidir bien… pero <strong>Europa no se conformará con que “funcione”, sino con que pueda probarlo</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detonante-tesla-acelera-su-relato-robotaxi">El detonante: Tesla acelera su relato robotaxi<a href="https://fsd.pepetox.es/prueba-invisible-datos-supervision-fsd#el-detonante-tesla-acelera-su-relato-robotaxi" class="hash-link" aria-label="Enlace directo al El detonante: Tesla acelera su relato robotaxi" title="Enlace directo al El detonante: Tesla acelera su relato robotaxi" translate="no">​</a></h2>
-<p>Las últimas noticias desde EE. UU. apuntan a una aceleración pública del relato de autonomía: <strong>según la compañía</strong>, ya estaría probando robotaxis sin supervisión en Austin y preparando expansión a más ciudades. En la misma llamada de resultados de Q4 2025, Tesla empezó a reportar por primera vez el número de suscripciones activas de FSD (1,1 millones). Es un mensaje claro al mercado: la empresa quiere que la conversación gire en torno a la autonomía a gran escala.</p>
-<p>Ese impulso choca con la pregunta clave en Europa: <strong>¿cómo demostramos que la IA es segura, repetible y auditables en condiciones reales?</strong> Ahí es donde la regulación europea no perdona.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-marco-europeo-dcas-y-la-obligación-de-probar-seguridad">El marco europeo: DCAS y la obligación de “probar” seguridad<a href="https://fsd.pepetox.es/prueba-invisible-datos-supervision-fsd#el-marco-europeo-dcas-y-la-obligaci%C3%B3n-de-probar-seguridad" class="hash-link" aria-label="Enlace directo al El marco europeo: DCAS y la obligación de “probar” seguridad" title="Enlace directo al El marco europeo: DCAS y la obligación de “probar” seguridad" translate="no">​</a></h2>
-<p>En Europa, el escalón inmediato para sistemas como FSD pasa por <strong>DCAS (Driver Control Assistance Systems)</strong>, el marco de Naciones Unidas que define requisitos de supervisión activa del conductor y control humano continuo. La norma exige que el conductor permanezca involucrado (manos en el volante y atención visual), con alertas si esa vigilancia se pierde durante segundos críticos.</p>
-<p>La base legal ya está publicada como <strong>Reglamento ONU nº 171</strong>, con entrada en vigor el 22 de septiembre de 2024. Eso convierte el cumplimiento en una cuestión operativa real para cualquier despliegue europeo.</p>
-<p>Y no termina ahí. El <strong>AI Act</strong> ya está en vigor y fija un calendario de exigencias progresivas: reglas generales desde febrero de 2025, obligaciones para GPAI desde agosto de 2025, la mayor parte de las reglas desde agosto de 2026 y la aplicación completa para sistemas de alto riesgo embebidos en productos regulados (como vehículos) desde agosto de 2027. En ese contexto, demostrar trazabilidad y control será tan importante como la capacidad de conducir.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-prueba-invisible-datos-trazas-y-responsabilidad">La prueba invisible: datos, trazas y responsabilidad<a href="https://fsd.pepetox.es/prueba-invisible-datos-supervision-fsd#la-prueba-invisible-datos-trazas-y-responsabilidad" class="hash-link" aria-label="Enlace directo al La prueba invisible: datos, trazas y responsabilidad" title="Enlace directo al La prueba invisible: datos, trazas y responsabilidad" translate="no">​</a></h2>
-<p>Europa no solo quiere “conducir mejor”; quiere <strong>evidencia</strong>. Eso implica:</p>
-<ul>
-<li class=""><strong>Registro de eventos críticos</strong>: cuándo el sistema detecta incertidumbre, cuándo transfiere el control y con qué contexto.</li>
-<li class=""><strong>Trazabilidad de decisiones</strong>: no basta con decir “la red lo decidió”; hay que poder auditar qué señales influyeron en la acción.</li>
-<li class=""><strong>Supervisión demostrable</strong>: el cumplimiento de manos/ojos no es una UX, es una obligación legal.</li>
-</ul>
-<p>La conclusión es incómoda para la narrativa “end-to-end”: los modelos pueden ser opacos, pero <strong>el regulador exigirá transparencia de sus efectos</strong>. FSD no se aprobará por promesas, sino por datos verificables.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs. realidad<a href="https://fsd.pepetox.es/prueba-invisible-datos-supervision-fsd#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad" title="Enlace directo al Expectativa vs. realidad" translate="no">​</a></h2>
-<p><strong>Expectativa:</strong> “Si FSD ya funciona en EE. UU., el despliegue europeo es cuestión de tiempo.”</p>
-<p><strong>Realidad:</strong> Europa no solo evalúa desempeño; evalúa <strong>capacidad de demostrar seguridad, supervisión y trazabilidad</strong>. El “cómo lo demuestra” pesa tanto como el “cómo conduce”.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-tendría-que-mostrar-tesla-en-españa">Qué tendría que mostrar Tesla en España<a href="https://fsd.pepetox.es/prueba-invisible-datos-supervision-fsd#qu%C3%A9-tendr%C3%ADa-que-mostrar-tesla-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Qué tendría que mostrar Tesla en España" title="Enlace directo al Qué tendría que mostrar Tesla en España" translate="no">​</a></h2>
-<p>Si Tesla quiere acelerar la confianza en España, el paquete mínimo debería incluir:</p>
-<ol>
-<li class=""><strong>Protocolos de reporte de incidentes críticos</strong> (y su publicación agregada).</li>
-<li class=""><strong>Pruebas controladas de supervisión</strong> en escenarios reales: lluvia, parking subterráneo, tráfico denso.</li>
-<li class=""><strong>Demostraciones públicas de trazabilidad</strong>: qué datos registra el coche y cómo se validan en auditorías.</li>
-</ol>
-<p>Si te interesa el impacto de la normativa europea en escenarios concretos, puedes leer nuestro análisis sobre el reto de las rotondas: <a class="" href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana">El desafío de la rotonda para FSD en España</a>.</p>
-<p><strong>Takeaway:</strong> La autonomía no solo se gana conduciendo; se gana <strong>probando</strong> que se conduce bien. En Europa, la carretera es el examen… pero los datos son el tribunal.</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/prueba-invisible-datos-supervision-fsd#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
-<ul>
-<li class="">UNECE — New UN regulation paves the way for the roll-out of additional driver assistance systems (DCAS): <a href="https://unece.org/artificial-intelligence/press/new-un-regulation-paves-way-roll-out-additional-driver-assistance" target="_blank" rel="noopener noreferrer" class="">https://unece.org/artificial-intelligence/press/new-un-regulation-paves-way-roll-out-additional-driver-assistance</a></li>
-<li class="">EUR-Lex — UN Regulation No. 171 (DCAS), entry into force 22 September 2024: <a href="https://eur-lex.europa.eu/eli/reg/2024/2689/oj/eng" target="_blank" rel="noopener noreferrer" class="">https://eur-lex.europa.eu/eli/reg/2024/2689/oj/eng</a></li>
-<li class="">European Commission — AI Act regulatory framework overview + timeline: <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener noreferrer" class="">https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai</a></li>
-<li class="">AI Act Service Desk — Timeline for implementation: <a href="https://ai-act-service-desk.ec.europa.eu/en/ai-act/timeline/timeline-implementation-eu-ai-act" target="_blank" rel="noopener noreferrer" class="">https://ai-act-service-desk.ec.europa.eu/en/ai-act/timeline/timeline-implementation-eu-ai-act</a></li>
-<li class="">Investors.com — Tesla Q4 2025 earnings call recap (robotaxi testing): <a href="https://www.investors.com/news/tesla-stock-q4-earnings-elon-musk-conference-call-robotaxis/" target="_blank" rel="noopener noreferrer" class="">https://www.investors.com/news/tesla-stock-q4-earnings-elon-musk-conference-call-robotaxis/</a></li>
-<li class="">Investopedia — Tesla reports 1.1M active FSD subscriptions: <a href="https://www.investopedia.com/tesla-is-promoting-its-fsd-sales-they-are-also-an-important-part-of-elon-musk-pay-tsla-11895017" target="_blank" rel="noopener noreferrer" class="">https://www.investopedia.com/tesla-is-promoting-its-fsd-sales-they-are-also-an-important-part-of-elon-musk-pay-tsla-11895017</a></li>
-</ul>]]></content>
-        <author>
-            <name>The Autonomous Pilot</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="fsd" term="fsd"/>
-        <category label="tesla" term="tesla"/>
-        <category label="ai" term="ai"/>
-        <category label="regulations" term="regulations"/>
-        <category label="testing" term="testing"/>
-        <category label="seguridad" term="seguridad"/>
-        <category label="europa" term="europa"/>
     </entry>
 </feed>
