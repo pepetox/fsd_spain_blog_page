@@ -2,11 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fsd.pepetox.es</id>
     <title>FSD Spain Blog</title>
-    <updated>2026-03-03T00:00:00.000Z</updated>
+    <updated>2026-03-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fsd.pepetox.es"/>
     <subtitle>FSD Spain Blog</subtitle>
     <icon>https://fsd.pepetox.es/img/fsdspain.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Irlanda abre la puerta al FSD Supervised en Europa: por qué importa mucho más de lo que parece]]></title>
+        <id>https://fsd.pepetox.es/irlanda-fsd-supervised-europa</id>
+        <link href="https://fsd.pepetox.es/irlanda-fsd-supervised-europa"/>
+        <updated>2026-03-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Irlanda fija el 16 de marzo de 2026 para habilitar Level 2 en su marco legal. Analizamos por qué este movimiento puede acelerar el camino del FSD Supervised en Europa.]]></summary>
+        <content type="html"><![CDATA[<p>Irlanda acaba de hacer algo que en Europa vale más que cien rumores en X: poner fecha, firma y base legal a la siguiente fase de los sistemas de conducción asistida avanzados. Si no cambia nada en el último minuto, el <strong>16 de marzo de 2026</strong> entra en vigor el instrumento que activa el marco para vehículos autónomos de <strong>Level 2</strong> en carreteras irlandesas. Y en el contexto actual de Tesla, eso convierte a Irlanda en la noticia más importante del día para cualquiera que siga el futuro de <strong>FSD Supervised</strong> en Europa.</p>
+<p><img decoding="async" loading="lazy" alt="Tesla en carretera europea bajo lluvia, como metáfora del avance regulatorio hacia FSD Supervised en Europa" src="https://fsd.pepetox.es/assets/images/2026-03-06-irlanda-fsd-supervised-europa-3e76f3ad25ff802064a9898ca8f48a02.png" width="1024" height="1024" class="img_ev3q"></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="no-es-un-lanzamiento-en-españa-es-algo-más-útil-una-señal-regulatoria-real">No es un lanzamiento en España. Es algo más útil: una señal regulatoria real<a href="https://fsd.pepetox.es/irlanda-fsd-supervised-europa#no-es-un-lanzamiento-en-espa%C3%B1a-es-algo-m%C3%A1s-%C3%BAtil-una-se%C3%B1al-regulatoria-real" class="hash-link" aria-label="Enlace directo al No es un lanzamiento en España. Es algo más útil: una señal regulatoria real" title="Enlace directo al No es un lanzamiento en España. Es algo más útil: una señal regulatoria real" translate="no">​</a></h2>
+<p>La tentación obvia es leer esta noticia como "Tesla llega ya a Europa". Eso sería exagerar. Lo correcto es algo más preciso y, de hecho, más relevante:</p>
+<ul>
+<li class=""><strong>Irlanda sí ha firmado una pieza legal concreta</strong> para habilitar el marco de despliegue y pruebas de vehículos autónomos de Level 2.</li>
+<li class=""><strong>La fecha efectiva está fijada</strong>: 16 de marzo de 2026.</li>
+<li class=""><strong>Eso no equivale a una beta pública inmediata en España</strong>, ni siquiera a un despliegue instantáneo en toda la UE.</li>
+</ul>
+<p>La diferencia importa. Europa no se mueve a golpe de hype, sino de homologación, interpretación regulatoria y validación país por país. Por eso este paso pesa tanto: no es una promesa vaga ni un "pronto", sino una activación jurídica real.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-ha-aprobado-exactamente-irlanda">Qué ha aprobado exactamente Irlanda<a href="https://fsd.pepetox.es/irlanda-fsd-supervised-europa#qu%C3%A9-ha-aprobado-exactamente-irlanda" class="hash-link" aria-label="Enlace directo al Qué ha aprobado exactamente Irlanda" title="Enlace directo al Qué ha aprobado exactamente Irlanda" translate="no">​</a></h2>
+<p>El punto clave está en el <strong>Road Traffic and Roads Act 2023 (Commencement) Order 2026</strong>, publicado como <strong>S.I. No. 63 of 2026</strong>. El texto nombra expresamente el <strong>16th day of March 2026</strong> como fecha de entrada en vigor de los apartados relevantes de la ley para permitir que el marco de vehículos autónomos sea legalmente operable en Irlanda.</p>
+<p>La lectura política también importa. El comunicado del ministro Seán Canney presenta la medida como el paso necesario para permitir el uso y despliegue futuro de vehículos conectados y autónomos en carreteras irlandesas. En otras palabras: Irlanda no está improvisando una demo, está abriendo una puerta regulatoria.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-esto-importa-a-tesla-aunque-no-mencione-fsd-en-el-boe-irlandés">Por qué esto importa a Tesla aunque no mencione "FSD" en el BOE irlandés<a href="https://fsd.pepetox.es/irlanda-fsd-supervised-europa#por-qu%C3%A9-esto-importa-a-tesla-aunque-no-mencione-fsd-en-el-boe-irland%C3%A9s" class="hash-link" aria-label="Enlace directo al Por qué esto importa a Tesla aunque no mencione &quot;FSD&quot; en el BOE irlandés" title="Enlace directo al Por qué esto importa a Tesla aunque no mencione &quot;FSD&quot; en el BOE irlandés" translate="no">​</a></h2>
+<p>Tesla no aparece como protagonista formal en el instrumento legal, pero el encaje es evidente. Hoy, la oferta comercial de Tesla sigue definiéndose como <strong>FSD Supervised</strong>, es decir, un sistema avanzado de asistencia al conductor que <strong>requiere supervisión constante</strong>. Ese matiz es precisamente el que vuelve a Irlanda tan relevante: el marco de <strong>Level 2</strong> y el debate europeo sobre sistemas <strong>Level 2+</strong> están mucho más cerca del producto que Tesla ya vende y actualiza que cualquier narrativa de robotaxi totalmente sin conductor para cliente particular.</p>
+<p>La propia Tesla sigue usando el lenguaje de <strong>"Supervised"</strong> en su documentación oficial de FSD. Eso obliga a separar dos planos:</p>
+<ul>
+<li class="">El plano comercial y técnico: Tesla mejora FSD con iteraciones frecuentes y conducción cada vez más natural.</li>
+<li class="">El plano regulatorio: Europa solo dejará avanzar aquello que encaje con sus categorías legales y responsabilidades del conductor.</li>
+</ul>
+<p>Irlanda no resuelve el segundo plano para todo el continente, pero sí demuestra que ese encaje ya no es teórico.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-efecto-dominó-que-el-mercado-está-mirando">El efecto dominó que el mercado está mirando<a href="https://fsd.pepetox.es/irlanda-fsd-supervised-europa#el-efecto-domin%C3%B3-que-el-mercado-est%C3%A1-mirando" class="hash-link" aria-label="Enlace directo al El efecto dominó que el mercado está mirando" title="Enlace directo al El efecto dominó que el mercado está mirando" translate="no">​</a></h2>
+<p>Aquí entra la parte que merece análisis, no humo. No hay confirmación oficial de una beta inmediata en España, ni de un "go live" europeo general. Pero sí hay una inferencia razonable:</p>
+<p><strong>cuando un país europeo mueve primero una pieza regulatoria compatible con UNECE, el resto del ecosistema mira de inmediato a los siguientes nodos de homologación</strong>.</p>
+<p>En la conversación de la comunidad aparecen dos nombres una y otra vez:</p>
+<ul>
+<li class=""><strong>UNECE</strong>, porque sigue siendo la capa regulatoria de referencia para buena parte del continente.</li>
+<li class=""><strong>RDW en Países Bajos</strong>, por su peso histórico en homologaciones y validaciones técnicas.</li>
+</ul>
+<p>Eso no significa que mañana veamos FSD Supervised en Madrid, Barcelona o Valencia. Significa que el debate deja de ser "si Europa está lista para empezar" y pasa a ser "quién será el siguiente en concretarlo".</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="mientras-europa-se-mueve-en-regulación-tesla-sigue-afinando-producto">Mientras Europa se mueve en regulación, Tesla sigue afinando producto<a href="https://fsd.pepetox.es/irlanda-fsd-supervised-europa#mientras-europa-se-mueve-en-regulaci%C3%B3n-tesla-sigue-afinando-producto" class="hash-link" aria-label="Enlace directo al Mientras Europa se mueve en regulación, Tesla sigue afinando producto" title="Enlace directo al Mientras Europa se mueve en regulación, Tesla sigue afinando producto" translate="no">​</a></h2>
+<p>Fuera de Europa no ha habido en estas últimas horas un salto de versión comparable al impacto que tuvo v13. El foco actual está más en consolidación que en espectáculo. El tracker público de Not a Tesla App muestra que la rama visible más reciente sigue en <strong>FSD Supervised 14.2.2.5</strong>, con subversiones recientes orientadas sobre todo a ajustes y correcciones.</p>
+<p>Eso encaja con la fase actual del producto:</p>
+<ul>
+<li class="">menos narrativa de "gran rewrite" pública,</li>
+<li class="">más trabajo de estabilidad,</li>
+<li class="">más kilometraje acumulado,</li>
+<li class="">y más demos que enseñan un comportamiento cada vez más fluido en escenarios complejos.</li>
+</ul>
+<p>En vídeos recientes de testers vuelven a repetirse los mismos patrones positivos: desvíos por obras, tráfico denso, rampas estrechas y maniobras de baja velocidad resueltas con naturalidad. Pero conviene insistir en lo que demasiada gente olvida cuando el vídeo sale bien:</p>
+<p><strong>FSD sigue siendo Supervised.</strong></p>
+<p>Ese recordatorio no es burocracia. Es la diferencia entre analizar el sistema como ADAS avanzado o venderlo irresponsablemente como autonomía plena para usuarios privados.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-dato-de-los-miles-de-millones-de-millas-útil-pero-no-es-la-noticia-central-de-hoy">El dato de los miles de millones de millas: útil, pero no es la noticia central de hoy<a href="https://fsd.pepetox.es/irlanda-fsd-supervised-europa#el-dato-de-los-miles-de-millones-de-millas-%C3%BAtil-pero-no-es-la-noticia-central-de-hoy" class="hash-link" aria-label="Enlace directo al El dato de los miles de millones de millas: útil, pero no es la noticia central de hoy" title="Enlace directo al El dato de los miles de millones de millas: útil, pero no es la noticia central de hoy" translate="no">​</a></h2>
+<p>En paralelo, la comunidad vuelve a empujar el relato del volumen de datos. Aquí conviene ser estrictos con las fechas: la cifra pública que he podido verificar en cobertura del <strong>18 de febrero de 2026</strong> es de <strong>más de 8.2 mil millones de millas acumuladas</strong> por la flota FSD Supervised. Puede haber estimaciones comunitarias más altas desde entonces, pero lo relevante analíticamente no es el decimal exacto del día, sino la dirección:</p>
+<ul>
+<li class="">Tesla ya opera sobre una base masiva de kilometraje real.</li>
+<li class="">Esa escala alimenta entrenamiento, validación y refinamiento del comportamiento end-to-end.</li>
+<li class="">El valor de esa base de datos aumenta todavía más cuando los reguladores empiezan a abrir puertas en nuevos mercados.</li>
+</ul>
+<p>Es decir: sin marco legal, las millas no se monetizan en Europa. Pero sin millas, el marco legal tampoco basta para convencer a consumidores y reguladores. Las dos piezas se retroalimentan.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-significa-esto-para-españa">Qué significa esto para España<a href="https://fsd.pepetox.es/irlanda-fsd-supervised-europa#qu%C3%A9-significa-esto-para-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Qué significa esto para España" title="Enlace directo al Qué significa esto para España" translate="no">​</a></h2>
+<p>La respuesta corta: <strong>todavía no hay confirmación de despliegue en España</strong>.</p>
+<p>La respuesta útil: el movimiento irlandés mejora claramente el contexto.</p>
+<p>España sigue dentro de una realidad regulatoria europea donde el progreso suele llegar por acumulación de precedentes, no por sorpresa. Si Irlanda demuestra que el marco puede activarse, y si otros reguladores europeos se alinean en interpretación y homologación, Tesla tendrá una base mucho más sólida para pedir el siguiente paso.</p>
+<p>Para quienes seguimos FSD desde España, la noticia correcta no es "ya está". La noticia correcta es:</p>
+<p><strong>Europa acaba de pasar de la especulación abstracta a una fecha concreta en un país concreto.</strong></p>
+<p>Y eso, en regulación, suele ser el comienzo de la parte interesante.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/irlanda-fsd-supervised-europa#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
+<p>La señal más importante del día no sale de una demo viral ni de un nuevo número de versión. Sale de un documento legal irlandés con fecha de entrada en vigor. Irlanda no ha lanzado FSD en toda Europa, pero sí ha hecho algo imprescindible para que eso pueda ocurrir: convertir la conversación en un problema de ejecución regulatoria, no de fantasía.</p>
+<p>Si los siguientes movimientos llegan desde UNECE, Países Bajos u otro regulador europeo relevante, recordaremos este momento como uno de esos pequeños giros que, vistos en retrospectiva, cambian la trayectoria completa.</p>
+<p>Seguiremos de cerca cualquier señal sobre homologación, ride-alongs, despliegues limitados o pasos regulatorios que acerquen FSD Supervised a España.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/irlanda-fsd-supervised-europa#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class=""><a href="https://www.seancanney.com/minister-canney-signs-statutory-instrument-to-enable-level-2-autonomous-vehicles-on-irish-roads/" target="_blank" rel="noopener noreferrer" class="">Minister Canney signs Statutory Instrument to enable Level 2 Autonomous Vehicles on Irish roads</a></li>
+<li class=""><a href="https://www.irishstatutebook.ie/eli/2026/si/63/made/en/pdf" target="_blank" rel="noopener noreferrer" class="">Road Traffic and Roads Act 2023 (Commencement) Order 2026 - S.I. No. 63 of 2026</a></li>
+<li class=""><a href="https://www.notateslaapp.com/fsd-beta" target="_blank" rel="noopener noreferrer" class="">Not a Tesla App - FSD Beta / FSD Supervised tracker</a></li>
+<li class=""><a href="https://www.notateslaapp.com/fsd-beta/news" target="_blank" rel="noopener noreferrer" class="">Not a Tesla App - FSD news</a></li>
+<li class=""><a href="https://www.notateslaapp.com/news/3633/teslas-updated-safety-report-fsd-supervised-is-safer-than-humans" target="_blank" rel="noopener noreferrer" class="">Not a Tesla App - Tesla Updates Safety Report: Widening Safety Gap Between FSD And Humans</a></li>
+</ul>]]></content>
+        <author>
+            <name>The Autonomous Pilot</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="tesla" term="tesla"/>
+        <category label="europa" term="europa"/>
+        <category label="regulacion" term="regulacion"/>
+        <category label="ia" term="ia"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[El parking antes que la M-30: por qué la baja velocidad puede abrir la puerta de FSD en Europa]]></title>
         <id>https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa</id>
@@ -1483,58 +1568,5 @@ Un sistema que gestiona bien la décima, cuando todo se complica, genera confian
         <category label="testing" term="testing"/>
         <category label="europa" term="europa"/>
         <category label="robotaxi" term="robotaxi"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Euro NCAP 2026: el examen real del FSD en Europa empieza fuera del laboratorio]]></title>
-        <id>https://fsd.pepetox.es/euro-ncap-2026-fsd-espana</id>
-        <link href="https://fsd.pepetox.es/euro-ncap-2026-fsd-espana"/>
-        <updated>2026-01-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Euro NCAP endurece sus protocolos en 2026: más conducción real, más foco en la supervisión humana y una vara de medir que Tesla no podrá esquivar en Europa.]]></summary>
-        <content type="html"><![CDATA[<p>Son las 08:20 en la M‑30. El tráfico va a trompicones, una moto se filtra por la izquierda, el coche de delante frena tarde y el panel variable cambia de 80 a 60. Aquí no basta con “ver” bien: hay que <strong>decidir con criterio y comunicarlo al conductor</strong>. Ese es el nuevo examen europeo para sistemas avanzados como FSD.</p>
-<p>La señal más clara no llega de Tesla, sino de <strong>Euro NCAP</strong>: a partir de 2026, la organización endurece sus protocolos y <strong>evalúa la asistencia al conductor también en conducción real</strong>, no solo en pista. Además, <strong>sube el listón de la monitorización del conductor</strong> y la calidad de la interfaz (HMI). Es una hoja de ruta que convierte a Europa en el juez más incómodo para la autonomía supervisada.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-giro-de-euro-ncap-de-la-pista-a-la-carretera">El giro de Euro NCAP: de la pista a la carretera<a href="https://fsd.pepetox.es/euro-ncap-2026-fsd-espana#el-giro-de-euro-ncap-de-la-pista-a-la-carretera" class="hash-link" aria-label="Enlace directo al El giro de Euro NCAP: de la pista a la carretera" title="Enlace directo al El giro de Euro NCAP: de la pista a la carretera" translate="no">​</a></h2>
-<p>Euro NCAP ha anunciado el mayor cambio de sus protocolos desde 2009. La clave para FSD está en tres puntos:</p>
-<ul>
-<li class=""><strong>Pruebas en conducción real</strong> para sistemas de asistencia, no solo escenarios de laboratorio.</li>
-<li class=""><strong>Énfasis en la monitorización del conductor</strong>: atención, engagement y sistemas capaces de reaccionar si el humano no responde.</li>
-<li class=""><strong>Evaluación de la interfaz</strong>: controles esenciales y claridad para evitar distracciones.</li>
-</ul>
-<p>En otras palabras: la seguridad ya no es solo “evitar el choque”, es también <strong>cómo el sistema convive con el humano</strong> en el uso cotidiano. Para FSD, esto significa que “funcionar bien” no basta; hay que hacerlo <strong>de forma comprensible y aceptable</strong> para el usuario europeo.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-este-cambio-pesa-más-que-una-actualización-de-software">Por qué este cambio pesa más que una actualización de software<a href="https://fsd.pepetox.es/euro-ncap-2026-fsd-espana#por-qu%C3%A9-este-cambio-pesa-m%C3%A1s-que-una-actualizaci%C3%B3n-de-software" class="hash-link" aria-label="Enlace directo al Por qué este cambio pesa más que una actualización de software" title="Enlace directo al Por qué este cambio pesa más que una actualización de software" translate="no">​</a></h2>
-<p>La UE tiene un marco específico para sistemas de asistencia avanzada: <strong>el Reglamento ONU nº 171 (DCAS)</strong>. Su lógica es clara: homologación, monitorización, validación y trazabilidad del software. Europa ya no discute si la autonomía es posible, sino <strong>cómo demostrarla con criterios verificables</strong>.</p>
-<p>Ese es el choque cultural con el enfoque estadounidense. En EE. UU. el relato es “iterar rápido”. En Europa el relato es “demostrar con método”. Y Euro NCAP 2026 convierte esa exigencia en una <strong>prueba pública de confianza</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-en-2026">Expectativa vs. realidad (en 2026)<a href="https://fsd.pepetox.es/euro-ncap-2026-fsd-espana#expectativa-vs-realidad-en-2026" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad (en 2026)" title="Enlace directo al Expectativa vs. realidad (en 2026)" translate="no">​</a></h2>
-<p><strong>Expectativa:</strong> “FSD será cada vez más capaz, la red neuronal lo resolverá.”</p>
-<p><strong>Realidad:</strong> en Europa el problema no es solo técnico, sino <strong>de verificación</strong>: ¿puede el sistema probar que es seguro en conducción real, con un conductor verdaderamente implicado y una interfaz que reduzca errores?</p>
-<p>Si la respuesta no es sólida, el despliegue se frena aunque el software avance.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-mensaje-para-españa-el-estándar-sube-y-rápido">El mensaje para España: el estándar sube, y rápido<a href="https://fsd.pepetox.es/euro-ncap-2026-fsd-espana#el-mensaje-para-espa%C3%B1a-el-est%C3%A1ndar-sube-y-r%C3%A1pido" class="hash-link" aria-label="Enlace directo al El mensaje para España: el estándar sube, y rápido" title="Enlace directo al El mensaje para España: el estándar sube, y rápido" translate="no">​</a></h2>
-<p>España no va a evaluar FSD solo por lo bien que gira en rotondas; lo hará por:</p>
-<ul>
-<li class=""><strong>cómo gestiona la atención del conductor</strong> en tráfico denso,</li>
-<li class=""><strong>cómo comunica límites y responsabilidad</strong>,</li>
-<li class=""><strong>cómo responde ante escenarios cotidianos</strong> (motos, carriles que se borran, obras, lluvia intermitente).</li>
-</ul>
-<p>Si quieres una visión más “de calle”, aquí tienes nuestro análisis sobre el desafío de las rotondas españolas: <a class="" href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana">El desafío de la rotonda: FSD en España</a>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión-el-examen-europeo-ya-está-diseñado">Conclusión: el examen europeo ya está diseñado<a href="https://fsd.pepetox.es/euro-ncap-2026-fsd-espana#conclusi%C3%B3n-el-examen-europeo-ya-est%C3%A1-dise%C3%B1ado" class="hash-link" aria-label="Enlace directo al Conclusión: el examen europeo ya está diseñado" title="Enlace directo al Conclusión: el examen europeo ya está diseñado" translate="no">​</a></h2>
-<p>Euro NCAP 2026 marca el nuevo tablero: conducción real, supervisión humana sólida y una experiencia que no cree confusión. Si Tesla quiere que FSD avance en Europa, tendrá que demostrarlo bajo esas reglas, no solo con vídeos espectaculares.</p>
-<p>La buena noticia: <strong>esto empuja a la industria hacia sistemas más honestos y seguros</strong>. La mala: el camino será más lento y exigente de lo que muchos esperan.</p>
-<p>Si te interesa seguir este pulso entre tecnología y regulación, quédate en el blog y comparte tu lectura: <strong>¿crees que la evaluación en conducción real acelerará o frenará la llegada de FSD a España?</strong></p>
-<hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/euro-ncap-2026-fsd-espana#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h3>
-<ul>
-<li class="">Euro NCAP — “Euro NCAP announces 2026 protocol changes to tackle modern driving risks” (26 Nov 2025): <a href="https://www.euroncap.com/en/press-media/press-releases/euro-ncap-announces-2026-protocol-changes-to-tackle-modern-driving-risks/" target="_blank" rel="noopener noreferrer" class="">https://www.euroncap.com/en/press-media/press-releases/euro-ncap-announces-2026-protocol-changes-to-tackle-modern-driving-risks/</a></li>
-<li class="">Reglamento ONU nº 171 (DCAS) — EUR‑Lex 2024/2689 (entrada en vigor 22 Sep 2024): <a href="https://eur-lex.europa.eu/eli/reg/2024/2689/oj/eng" target="_blank" rel="noopener noreferrer" class="">https://eur-lex.europa.eu/eli/reg/2024/2689/oj/eng</a></li>
-<li class="">Reglamento ONU nº 171 (DCAS) — EUR‑Lex 2025/1899 (texto consolidado con enmiendas, 26 Sep 2025): <a href="https://eur-lex.europa.eu/eli/reg/2025/1899/oj/eng" target="_blank" rel="noopener noreferrer" class="">https://eur-lex.europa.eu/eli/reg/2025/1899/oj/eng</a></li>
-</ul>]]></content>
-        <author>
-            <name>The Autonomous Pilot</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="fsd" term="fsd"/>
-        <category label="europa" term="europa"/>
-        <category label="regulations" term="regulations"/>
-        <category label="testing" term="testing"/>
-        <category label="ai" term="ai"/>
-        <category label="seguridad" term="seguridad"/>
     </entry>
 </feed>
