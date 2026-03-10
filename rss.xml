@@ -4,10 +4,79 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Fri, 06 Mar 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[FSD en Europa no se juega solo en la carretera: el giro a suscripción puede ser la clave]]></title>
+            <link>https://fsd.pepetox.es/fsd-europa-suscripcion-mensual</link>
+            <guid>https://fsd.pepetox.es/fsd-europa-suscripcion-mensual</guid>
+            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tesla cambia FSD (Supervised) hacia un modelo de suscripción mensual. Analizamos por qué ese movimiento puede acelerar o frenar su adopción real en España y Europa.]]></description>
+            <content:encoded><![CDATA[<p>Un martes cualquiera en Madrid: atasco en la A-2, un carril que desaparece sin aviso claro y una salida con trazado confuso. En ese escenario, la pregunta no es solo si FSD puede conducir bien; la pregunta es cuánta gente va a probarlo, mantenerlo y generar los datos de uso que hacen falta para que Europa lo vea como una tecnología madura.</p>
+<p>Tesla ha hecho un movimiento importante que pasa más desapercibido que un vídeo viral: en su actualización de resultados <strong>Q4/FY 2025 (28 de enero de 2026)</strong> indicó que, desde ese trimestre, está pasando FSD (Supervised) a <strong>acceso solo por suscripción mensual</strong>, retirando gradualmente el pago único.</p>
+<p>No es un detalle comercial menor. Es una decisión que afecta directamente al ritmo de adopción, a la calidad del feedback de usuarios y, en última instancia, a la conversación regulatoria europea.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-dato-nuevo-que-importa-en-2026">El dato nuevo que importa en 2026<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#el-dato-nuevo-que-importa-en-2026" class="hash-link" aria-label="Enlace directo al El dato nuevo que importa en 2026" title="Enlace directo al El dato nuevo que importa en 2026" translate="no">​</a></h2>
+<p>Según Tesla (Q4/FY 2025):</p>
+<ul>
+<li class="">sigue buscando aprobación regulatoria en China y Europa,</li>
+<li class="">ya está ofreciendo <strong>ride-alongs</strong> a consumidores en Italia, Alemania, Francia y Suiza,</li>
+<li class="">y arranca la transición de FSD (Supervised) a <strong>modelo mensual</strong>.</li>
+</ul>
+<p>En paralelo, la página oficial de FSD sigue sin listar países de la UE entre los mercados con disponibilidad comercial completa, lo que confirma que Europa continúa en fase de preparación y validación.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-en-españa">Expectativa vs. realidad en España<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#expectativa-vs-realidad-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad en España" title="Enlace directo al Expectativa vs. realidad en España" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa">Expectativa<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#expectativa" class="hash-link" aria-label="Enlace directo al Expectativa" title="Enlace directo al Expectativa" translate="no">​</a></h3>
+<p>"Cuando llegue la aprobación, todo despega de golpe".</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad">Realidad<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#realidad" class="hash-link" aria-label="Enlace directo al Realidad" title="Enlace directo al Realidad" translate="no">​</a></h3>
+<p>En Europa, el despliegue real suele ser incremental. El modelo de suscripción puede facilitar ese aterrizaje porque reduce barrera de entrada y permite probar FSD durante meses concretos (viajes largos, cambios de rutina, trayectos complejos), sin compromiso permanente.</p>
+<p>Eso puede acelerar tres cosas que sí importan en el mundo real:</p>
+<ul>
+<li class="">más conductores probando el sistema en contextos variados,</li>
+<li class="">más datos de uso en escenarios urbanos europeos complejos,</li>
+<li class="">y mejor comprensión pública de límites y responsabilidades de un sistema supervisado.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-este-cambio-toca-el-núcleo-técnico">¿Por qué este cambio toca el núcleo técnico?<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#por-qu%C3%A9-este-cambio-toca-el-n%C3%BAcleo-t%C3%A9cnico" class="hash-link" aria-label="Enlace directo al ¿Por qué este cambio toca el núcleo técnico?" title="Enlace directo al ¿Por qué este cambio toca el núcleo técnico?" translate="no">​</a></h2>
+<p>Parece un tema de pricing, pero también es ingeniería de producto:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-más-ciclos-de-aprendizaje-con-usuarios-reales">1) Más ciclos de aprendizaje con usuarios reales<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#1-m%C3%A1s-ciclos-de-aprendizaje-con-usuarios-reales" class="hash-link" aria-label="Enlace directo al 1) Más ciclos de aprendizaje con usuarios reales" title="Enlace directo al 1) Más ciclos de aprendizaje con usuarios reales" translate="no">​</a></h3>
+<p>Si más gente entra y sale del producto por meses, Tesla recibe señales más diversas sobre comportamiento en rotondas, calles estrechas, obras y lluvia intermitente, justo donde Europa aprieta más.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-menos-fricción-para-testeo-continuo">2) Menos fricción para testeo continuo<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#2-menos-fricci%C3%B3n-para-testeo-continuo" class="hash-link" aria-label="Enlace directo al 2) Menos fricción para testeo continuo" title="Enlace directo al 2) Menos fricción para testeo continuo" translate="no">​</a></h3>
+<p>La suscripción permite activar FSD cuando el conductor percibe valor real. Ese uso "por necesidad" suele revelar mejor los puntos fuertes y débiles que una compra emocional de una sola vez.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-alineación-con-una-narrativa-de-software-vivo">3) Alineación con una narrativa de "software vivo"<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#3-alineaci%C3%B3n-con-una-narrativa-de-software-vivo" class="hash-link" aria-label="Enlace directo al 3) Alineación con una narrativa de &quot;software vivo&quot;" title="Enlace directo al 3) Alineación con una narrativa de &quot;software vivo&quot;" translate="no">​</a></h3>
+<p>Si FSD evoluciona por OTA, un modelo mensual encaja con la lógica de servicio en mejora continua, no con una promesa cerrada pagada una vez.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-choque-con-el-marco-europeo-sigue-ahí">El choque con el marco europeo sigue ahí<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#el-choque-con-el-marco-europeo-sigue-ah%C3%AD" class="hash-link" aria-label="Enlace directo al El choque con el marco europeo sigue ahí" title="Enlace directo al El choque con el marco europeo sigue ahí" translate="no">​</a></h2>
+<p>Nada de esto elimina el cuello de botella regulatorio. La propia RDW recordó en su comunicación del <strong>24 de noviembre de 2025</strong> que la prioridad es seguridad vial y que cualquier aprobación depende de demostrar cumplimiento de forma convincente.</p>
+<p>Por eso conviene separar dos planos:</p>
+<ul>
+<li class=""><strong>Plano producto</strong>: Tesla mejora y empaqueta FSD como servicio recurrente.</li>
+<li class=""><strong>Plano regulatorio</strong>: Europa exige evidencia, validación y responsabilidades claras del conductor.</li>
+</ul>
+<p>El progreso real llega cuando ambos planos avanzan a la vez.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-significa-para-la-comunidad-fsd-en-españa">Qué significa para la comunidad FSD en España<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#qu%C3%A9-significa-para-la-comunidad-fsd-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Qué significa para la comunidad FSD en España" title="Enlace directo al Qué significa para la comunidad FSD en España" translate="no">​</a></h2>
+<p>Para quienes seguimos FSD desde España, esta es una lectura útil:</p>
+<ul>
+<li class="">no hay anuncio oficial de disponibilidad general en España a fecha <strong>10 de marzo de 2026</strong>,</li>
+<li class="">pero sí hay señales de despliegue gradual en Europa mediante experiencias supervisadas,</li>
+<li class="">y ahora un modelo comercial que puede hacer más sostenible la adopción cuando llegue el permiso.</li>
+</ul>
+<p>Si quieres contexto regulatorio reciente, puedes leer <a class="" href="https://fsd.pepetox.es/irlanda-fsd-supervised-europa">nuestro análisis sobre el movimiento de Irlanda</a>. Y si te interesa la parte técnica de conducción predictiva en autopista, <a class="" href="https://fsd.pepetox.es/fsd-predictivo-autopista-v14">aquí tienes el análisis de v14</a>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
+<p>La batalla europea de FSD no se gana solo con una demo perfecta en carretera. Se gana cuando tecnología, regulación y modelo de adopción encajan a la vez.</p>
+<p>El giro a suscripción mensual puede parecer menos épico que una maniobra viral, pero podría ser justo la pieza que faltaba para que FSD pase de "curiosidad" a "uso regular" en Europa, y ahí es donde empieza la tracción de verdad.</p>
+<p>Seguiremos monitorizando señales oficiales de homologación, pruebas públicas y cambios de producto para entender cuándo ese encaje llega también a España.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class="">Tesla Investor Relations — Q4/FY 2025 Update (28 Jan 2026): <a href="https://ir.tesla.com/" target="_blank" rel="noopener noreferrer" class="">https://ir.tesla.com/</a></li>
+<li class="">Tesla FSD (página oficial): <a href="https://www.tesla.com/fsd" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/fsd</a></li>
+<li class="">Tesla Events — FSD Ride-Along Utrecht (16 Feb - 31 Mar 2026): <a href="https://www.tesla.com/event/full-self-driving--supervised--ride-along-at-tesla-utrecht" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/event/full-self-driving--supervised--ride-along-at-tesla-utrecht</a></li>
+<li class="">RDW — Response following Tesla’s call to action (24 Nov 2025): <a href="https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action</a></li>
+</ul>]]></content:encoded>
+            <category>fsd</category>
+            <category>tesla</category>
+            <category>ai</category>
+            <category>europa</category>
+            <category>testing</category>
+        </item>
         <item>
             <title><![CDATA[Irlanda abre la puerta al FSD Supervised en Europa: por qué importa mucho más de lo que parece]]></title>
             <link>https://fsd.pepetox.es/irlanda-fsd-supervised-europa</link>
@@ -1442,53 +1511,6 @@ Un sistema que gestiona bien la décima, cuando todo se complica, genera confian
             <category>testing</category>
             <category>vision</category>
             <category>espana</category>
-        </item>
-        <item>
-            <title><![CDATA[Geocercas y realidad europea: lo que el robotaxi de Tesla en EE. UU. enseña a España]]></title>
-            <link>https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa</link>
-            <guid>https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa</guid>
-            <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Tesla empuja el robotaxi en EE. UU., pero Europa exige un ODD claro. Analizamos por qué la geocerca puede ser la llave (y el freno) para España.]]></description>
-            <content:encoded><![CDATA[<p>Son las 07:55 en una glorieta de Alcalá de Henares. Un autobús entra tarde, un patinete se cuela por la derecha y una furgoneta bloquea la salida. En EE. UU., Tesla dice que está probando robotaxis sin conductor en rutas limitadas. En España, esa misma escena te obliga a una pregunta incómoda: <strong>¿cuál es el “territorio” real en el que el FSD puede prometer seguridad?</strong></p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detonante-el-relato-robotaxi-se-acelera">El detonante: el relato robotaxi se acelera<a href="https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa#el-detonante-el-relato-robotaxi-se-acelera" class="hash-link" aria-label="Enlace directo al El detonante: el relato robotaxi se acelera" title="Enlace directo al El detonante: el relato robotaxi se acelera" translate="no">​</a></h2>
-<p>En las últimas semanas, Tesla ha reforzado públicamente su narrativa de robotaxi en EE. UU., con planes de expandir servicios autónomos a varias ciudades y pruebas sin conductor en Austin. Esto no es solo marketing: es una señal de que la compañía quiere <strong>pasar del “beta” a un modelo operativo con límites claros</strong>.</p>
-<p>Para Europa, la lectura es distinta: no basta con que el coche conduzca, tiene que <strong>conducir dentro de un dominio operativo definido (ODD)</strong> que sea verificable y aceptable para los reguladores.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-geocerca-no-es-una-excusa-es-una-estrategia">La geocerca no es una excusa, es una estrategia<a href="https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa#la-geocerca-no-es-una-excusa-es-una-estrategia" class="hash-link" aria-label="Enlace directo al La geocerca no es una excusa, es una estrategia" title="Enlace directo al La geocerca no es una excusa, es una estrategia" translate="no">​</a></h2>
-<p>Una geocerca es más que un perímetro en un mapa. Es el mecanismo que permite decir: <strong>“aquí sí, aquí no”</strong>. En robotaxi, esa honestidad es clave. En España, una geocerca bien diseñada podría limitar el servicio a:</p>
-<ul>
-<li class="">Zonas urbanas con señalización consistente</li>
-<li class="">Intersecciones conocidas y mapeadas en detalle</li>
-<li class="">Condiciones meteorológicas predecibles</li>
-</ul>
-<p>Eso no debilita el proyecto: <strong>lo hace legal y auditable</strong>. En Europa, el salto no vendrá por promesas, sino por demostrar que el sistema sabe cuándo no operar.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-españa-2026">Expectativa vs. realidad (España 2026)<a href="https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa#expectativa-vs-realidad-espa%C3%B1a-2026" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad (España 2026)" title="Enlace directo al Expectativa vs. realidad (España 2026)" translate="no">​</a></h2>
-<p><strong>Expectativa:</strong> “Si el robotaxi funciona en Austin, funcionará en cualquier ciudad europea.”</p>
-<p><strong>Realidad:</strong> las ciudades europeas mezclan trazados históricos, peatones impredecibles y normativa más estricta sobre supervisión y trazabilidad. La geocerca puede ser el puente entre un prototipo estadounidense y una operación europea segura.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-necesita-fsd-para-que-la-geocerca-sea-creíble-aquí">¿Qué necesita FSD para que la geocerca sea creíble aquí?<a href="https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa#qu%C3%A9-necesita-fsd-para-que-la-geocerca-sea-cre%C3%ADble-aqu%C3%AD" class="hash-link" aria-label="Enlace directo al ¿Qué necesita FSD para que la geocerca sea creíble aquí?" title="Enlace directo al ¿Qué necesita FSD para que la geocerca sea creíble aquí?" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-un-mapa-operativo-vivo-no-un-mapa-bonito">1) Un mapa operativo vivo, no un mapa bonito<a href="https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa#1-un-mapa-operativo-vivo-no-un-mapa-bonito" class="hash-link" aria-label="Enlace directo al 1) Un mapa operativo vivo, no un mapa bonito" title="Enlace directo al 1) Un mapa operativo vivo, no un mapa bonito" translate="no">​</a></h3>
-<p>No se trata de HD maps estáticos. Se trata de <strong>mapas con contexto operativo</strong>: obras temporales, cambios de carril por eventos, carriles bus con horario variable. El sistema tiene que reconocer cuándo la realidad se sale del mapa y reducir velocidad o pedir ayuda.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-sensores-capaces-de-leer-europa">2) Sensores capaces de “leer” Europa<a href="https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa#2-sensores-capaces-de-leer-europa" class="hash-link" aria-label="Enlace directo al 2) Sensores capaces de “leer” Europa" title="Enlace directo al 2) Sensores capaces de “leer” Europa" translate="no">​</a></h3>
-<p>El hardware y el software deben lidiar con señales mixtas (castellano, catalán, euskera), carteles antiguos y marcas viales desgastadas. Si el coche no entiende un panel variable, <strong>la geocerca se vuelve un riesgo</strong>.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-trazabilidad-para-el-regulador">3) Trazabilidad para el regulador<a href="https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa#3-trazabilidad-para-el-regulador" class="hash-link" aria-label="Enlace directo al 3) Trazabilidad para el regulador" title="Enlace directo al 3) Trazabilidad para el regulador" translate="no">​</a></h3>
-<p>Europa no se conformará con un vídeo espectacular. Necesitará trazas: <strong>por qué el sistema decidió frenar, por qué cedió el control, qué incertidumbre detectó</strong>. Ese rastro es el pasaporte regulatorio.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-giro-narrativo-que-importa">El giro narrativo que importa<a href="https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa#el-giro-narrativo-que-importa" class="hash-link" aria-label="Enlace directo al El giro narrativo que importa" title="Enlace directo al El giro narrativo que importa" translate="no">​</a></h2>
-<p>Tesla está empujando el robotaxi como producto. En Europa, tendrá que venderlo como <strong>servicio dentro de un ODD explícito</strong>. Esa diferencia es técnica y política. Y, para España, puede ser la clave: <strong>el primer paso realista hacia un robotaxi legal no es “conducir en todas partes”, sino “conducir de forma impecable en un territorio acotado”</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway-para-la-comunidad-fsd">Takeaway para la comunidad FSD<a href="https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa#takeaway-para-la-comunidad-fsd" class="hash-link" aria-label="Enlace directo al Takeaway para la comunidad FSD" title="Enlace directo al Takeaway para la comunidad FSD" translate="no">​</a></h2>
-<p>Si seguimos solo el ruido de versiones, nos perdemos el punto. El futuro del FSD en Europa no depende solo de la red neuronal, sino de <strong>cómo se define su territorio y cómo se prueba su seguridad en ese territorio</strong>. Eso es geocerca, y también es confianza pública.</p>
-<p>Si quieres profundizar en los criterios europeos de evaluación, puedes leer nuestro análisis sobre el <a class="" href="https://fsd.pepetox.es/euro-ncap-2026-fsd-espana">examen de Euro NCAP 2026</a>. También seguimos el pulso técnico de FSD en España en nuestras <a class="" href="https://fsd.pepetox.es/fsd-pruebas-madrid-espana">pruebas locales y escenarios reales</a>.</p>
-<hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/geocercas-robotaxi-fsd-europa#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h3>
-<ul>
-<li class="">Tesla acelera su narrativa robotaxi y planes de expansión (AP). <a href="https://apnews.com/article/tesla-robotaxi-service-cybercab-earnings-df3e0cc1d9d36e0b1c0a2e2c7c0b0f68" target="_blank" rel="noopener noreferrer" class="">https://apnews.com/article/tesla-robotaxi-service-cybercab-earnings-df3e0cc1d9d36e0b1c0a2e2c7c0b0f68</a></li>
-<li class="">Tesla prueba robotaxis sin conductor en Austin y reporta suscripciones FSD (Investors.com). <a href="https://www.investors.com/news/tesla-stock-robotaxi-austin-fsd-subscriptions-2026/" target="_blank" rel="noopener noreferrer" class="">https://www.investors.com/news/tesla-stock-robotaxi-austin-fsd-subscriptions-2026/</a></li>
-<li class="">Imagen de cabecera (Unsplash, Leo Visions). <a href="https://images.unsplash.com/photo-1764983432146-0217568c8a00" target="_blank" rel="noopener noreferrer" class="">https://images.unsplash.com/photo-1764983432146-0217568c8a00</a></li>
-</ul>]]></content:encoded>
-            <category>fsd</category>
-            <category>tesla</category>
-            <category>ai</category>
-            <category>testing</category>
-            <category>europa</category>
-            <category>robotaxi</category>
         </item>
     </channel>
 </rss>
