@@ -2,11 +2,108 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fsd.pepetox.es</id>
     <title>FSD Spain Blog</title>
-    <updated>2026-03-11T00:00:00.000Z</updated>
+    <updated>2026-03-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fsd.pepetox.es"/>
     <subtitle>FSD Spain Blog</subtitle>
     <icon>https://fsd.pepetox.es/img/fsdspain.png</icon>
+    <entry>
+        <title type="html"><![CDATA[La lista que de verdad importa: por qué Europa aún no aparece en el mapa oficial de FSD]]></title>
+        <id>https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente</id>
+        <link href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente"/>
+        <updated>2026-03-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A 17 de marzo de 2026, Tesla sigue dejando a Europa fuera de la lista oficial de países con FSD. Analizamos por qué esa ausencia dice más que cualquier rumor.]]></summary>
+        <content type="html"><![CDATA[<p>Un Model 3 puede bordear una glorieta francesa delante de las cámaras, esquivar bicicletas en Ámsterdam durante una demo y dejar a media comunidad de X convencida de que el lanzamiento europeo está a días de distancia. Pero cuando un propietario español se hace la pregunta que de verdad importa, "¿dónde dice Tesla, negro sobre blanco, que FSD está activo para clientes normales?", la respuesta sigue siendo incómoda: <strong>Europa todavía no aparece en la lista oficial</strong>.</p>
+<p><img decoding="async" loading="lazy" alt="Tesla Model 3 navegando una rotonda española bajo lluvia ligera, como metáfora del examen europeo real para FSD" src="https://fsd.pepetox.es/assets/images/2026-03-17-fsd-lista-oficial-europa-122c4bcbf3958209e67404a9b727dea5.png" width="1376" height="768" class="img_ev3q"></p>
+<p>Eso, a <strong>17 de marzo de 2026</strong>, es probablemente la actualización más útil para entender el momento real de FSD en nuestro continente. No porque invalide el progreso técnico, sino porque separa tres cosas que demasiadas veces se mezclan: <strong>demostración</strong>, <strong>documentación</strong> y <strong>despliegue comercial</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-señal-más-importante-no-está-en-un-vídeo-está-en-la-página-oficial">La señal más importante no está en un vídeo: está en la página oficial<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#la-se%C3%B1al-m%C3%A1s-importante-no-est%C3%A1-en-un-v%C3%ADdeo-est%C3%A1-en-la-p%C3%A1gina-oficial" class="hash-link" aria-label="Enlace directo al La señal más importante no está en un vídeo: está en la página oficial" title="Enlace directo al La señal más importante no está en un vídeo: está en la página oficial" translate="no">​</a></h2>
+<p>Tesla mantiene una página de soporte específica para <strong>Full Self-Driving (Supervised)</strong> donde enumera los países en los que la función está disponible. La lista pública incluye mercados como <strong>Estados Unidos, Canadá, China, México, Puerto Rico, Australia, Nueva Zelanda y Corea del Sur</strong>. La Unión Europea no figura.</p>
+<p>Ese detalle vale más que muchos rumores porque es la capa donde Tesla asume lenguaje operativo frente al cliente. Una demo puede ser marketing. Un evento puede ser validación preliminar. Pero una lista oficial de disponibilidad es una frontera mucho más seria: implica soporte, disclaimers, expectativas de uso y responsabilidad comercial.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="entonces-qué-está-haciendo-tesla-en-europa">Entonces, ¿qué está haciendo Tesla en Europa?<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#entonces-qu%C3%A9-est%C3%A1-haciendo-tesla-en-europa" class="hash-link" aria-label="Enlace directo al Entonces, ¿qué está haciendo Tesla en Europa?" title="Enlace directo al Entonces, ¿qué está haciendo Tesla en Europa?" translate="no">​</a></h2>
+<p>Aquí está el matiz importante: que Europa no aparezca en la lista comercial no significa que Tesla esté quieta.</p>
+<p>En su actualización de resultados <strong>Q4/FY 2025</strong>, publicada el <strong>28 de enero de 2026</strong>, Tesla explicó que seguía pendiente de <strong>aprobación regulatoria en Europa</strong> y, al mismo tiempo, que estaba ofreciendo <strong>ride-alongs de FSD (Supervised)</strong> a consumidores en <strong>Italia, Alemania, Francia y Suiza</strong>. En otras palabras: el producto ya se enseña, pero todavía no se declara como disponible para el comprador europeo medio.</p>
+<p>Ese desfase es la historia real de 2026:</p>
+<ul>
+<li class="">en Estados Unidos y otros mercados, FSD es producto;</li>
+<li class="">en Europa, FSD sigue siendo sobre todo <strong>proceso</strong>;</li>
+<li class="">y entre ambos estados hay una capa regulatoria que no se salta con un clip viral.</li>
+</ul>
+<p>Si quieres contexto sobre esa fase de demostraciones, puedes leer <a class="" href="https://fsd.pepetox.es/fsd-europa-invitaciones-tempranas-neerlandes">nuestro análisis sobre las invitaciones tempranas en Países Bajos</a>. Pero la lectura de hoy es distinta: no va de dónde se ve el coche, sino de dónde Tesla ya se atreve a poner su firma comercial.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-documentación-técnica-también-da-pistas-y-no-son-menores">La documentación técnica también da pistas, y no son menores<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#la-documentaci%C3%B3n-t%C3%A9cnica-tambi%C3%A9n-da-pistas-y-no-son-menores" class="hash-link" aria-label="Enlace directo al La documentación técnica también da pistas, y no son menores" title="Enlace directo al La documentación técnica también da pistas, y no son menores" translate="no">​</a></h2>
+<p>La ironía del momento europeo es que <strong>la propia documentación oficial de Tesla ya describe escenarios que suenan profundamente europeos</strong>. En el manual del propietario del Model Y con FSD (Supervised), Tesla explica que el sistema puede intentar navegar por:</p>
+<ul>
+<li class="">calles urbanas,</li>
+<li class="">intersecciones complejas,</li>
+<li class="">rampas de entrada y salida,</li>
+<li class="">y <strong>rotondas</strong>.</li>
+</ul>
+<p>Pero acto seguido añade algo mucho más importante que el titular fácil: la supervisión sigue siendo obligatoria y puede requerirse intervención en situaciones como:</p>
+<ul>
+<li class="">carreteras estrechas con vehículos aparcados invadiendo el carril,</li>
+<li class="">marcas viales degradadas o temporales,</li>
+<li class="">obras,</li>
+<li class="">geometrías extrañas,</li>
+<li class="">y condiciones de visibilidad comprometida.</li>
+</ul>
+<p>Traducido al castellano llano: Tesla ya habla el idioma técnico del problema europeo. Sabe que el examen no es solo "seguir un carril" sino interpretar una calle secundaria en Toledo, una glorieta mal pintada en Málaga o una travesía con coches en doble fila y señalización provisional.</p>
+<p>No estamos ante una IA que solo funcione en avenidas de California. Tampoco estamos ante un sistema ya listo para liberarse sin fricción en la UE. Estamos en el punto intermedio incómodo: <strong>la red neuronal parece cada vez más capaz, pero el producto europeo exige algo más que capacidad bruta</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-esta-ausencia-en-la-lista-oficial-importa-más-de-lo-que-parece">Por qué esta ausencia en la lista oficial importa más de lo que parece<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#por-qu%C3%A9-esta-ausencia-en-la-lista-oficial-importa-m%C3%A1s-de-lo-que-parece" class="hash-link" aria-label="Enlace directo al Por qué esta ausencia en la lista oficial importa más de lo que parece" title="Enlace directo al Por qué esta ausencia en la lista oficial importa más de lo que parece" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-porque-obliga-a-separar-hype-de-disponibilidad">1. Porque obliga a separar hype de disponibilidad<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#1-porque-obliga-a-separar-hype-de-disponibilidad" class="hash-link" aria-label="Enlace directo al 1. Porque obliga a separar hype de disponibilidad" title="Enlace directo al 1. Porque obliga a separar hype de disponibilidad" translate="no">​</a></h3>
+<p>La comunidad FSD vive pendiente de capturas, insiders y estimaciones. Eso tiene valor para detectar tendencia, pero si quieres saber dónde está realmente el producto, la pregunta correcta no es "¿ha hecho Tesla una demo?", sino "¿ha actualizado Tesla su documentación comercial?".</p>
+<p>Hoy la respuesta para Europa sigue siendo no.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-porque-el-cuello-de-botella-ya-no-es-solo-técnico">2. Porque el cuello de botella ya no es solo técnico<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#2-porque-el-cuello-de-botella-ya-no-es-solo-t%C3%A9cnico" class="hash-link" aria-label="Enlace directo al 2. Porque el cuello de botella ya no es solo técnico" title="Enlace directo al 2. Porque el cuello de botella ya no es solo técnico" translate="no">​</a></h3>
+<p>En 2024 y 2025 era razonable discutir si la red neuronal estaba madura para escenarios urbanos complejos. En 2026, la conversación útil es otra: <strong>cómo traducir esa capacidad en una homologación defendible país por país o bajo marcos paneuropeos compatibles con UNECE</strong>.</p>
+<p>Aquí es donde entran autoridades como <strong>RDW</strong> en Países Bajos. Su mensaje oficial del <strong>24 de noviembre de 2025</strong> fue claro: Tesla había solicitado un permiso de prueba para vehículos de conducción autónoma en vía pública y la evaluación se haría con prioridad en seguridad vial. Es un lenguaje administrativo, sí, pero también es la prueba de que el embudo europeo ya está en la fase de evidencia formal.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-porque-cambia-lo-que-deberíamos-vigilar-desde-españa">3. Porque cambia lo que deberíamos vigilar desde España<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#3-porque-cambia-lo-que-deber%C3%ADamos-vigilar-desde-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al 3. Porque cambia lo que deberíamos vigilar desde España" title="Enlace directo al 3. Porque cambia lo que deberíamos vigilar desde España" translate="no">​</a></h3>
+<p>Si eres lector del blog desde España, quizá lo más sensato ya no sea perseguir cada rumor sobre una supuesta fecha de lanzamiento. Lo más útil es vigilar tres señales mucho más robustas:</p>
+<ul>
+<li class="">cambios en la <strong>lista oficial de países</strong> con FSD (Supervised);</li>
+<li class="">ampliación de eventos o pruebas hacia mercados con peso regulatorio;</li>
+<li class="">y nuevas piezas legales o interpretativas que reduzcan la distancia entre demostración y disponibilidad.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs realidad<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs realidad" title="Enlace directo al Expectativa vs realidad" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa">Expectativa<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#expectativa" class="hash-link" aria-label="Enlace directo al Expectativa" title="Enlace directo al Expectativa" translate="no">​</a></h3>
+<p>"Si Tesla ya enseña FSD en Europa y la documentación reconoce rotondas, el despliegue general está al caer."</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad">Realidad<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#realidad" class="hash-link" aria-label="Enlace directo al Realidad" title="Enlace directo al Realidad" translate="no">​</a></h3>
+<p>La secuencia europea suele ser más áspera:</p>
+<ol>
+<li class="">Tesla demuestra capacidad.</li>
+<li class="">Tesla documenta límites y supervisión.</li>
+<li class="">Un regulador acepta pruebas o un marco concreto.</li>
+<li class="">Solo después llega la disponibilidad oficial para cliente.</li>
+</ol>
+<p>Europa está moviéndose entre los pasos 2 y 3, no en el 4.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-esta-foto-dice-sobre-españa">Lo que esta foto dice sobre España<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#lo-que-esta-foto-dice-sobre-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Lo que esta foto dice sobre España" title="Enlace directo al Lo que esta foto dice sobre España" translate="no">​</a></h2>
+<p>Para España, la lectura es doble.</p>
+<p>La parte optimista: si Tesla ya documenta formalmente escenarios como rotondas, cruces complejos y calles urbanas densas, significa que el producto objetivo encaja bastante mejor con nuestro mundo real que hace dos años.</p>
+<p>La parte realista: mientras España y el resto de la UE no aparezcan en la capa oficial de disponibilidad, lo que tenemos es una tecnología prometedora en fase avanzada de validación, no un lanzamiento comercial consumado.</p>
+<p>Por eso conviene mantener las dos ideas a la vez:</p>
+<ul>
+<li class=""><strong>sí</strong>, el sistema parece acercarse al nivel de naturalidad necesario para Europa;</li>
+<li class=""><strong>no</strong>, eso no equivale todavía a que un conductor español pueda contratar y usar FSD con normalidad mañana.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
+<p>La noticia de fondo no es que FSD haya hecho una maniobra bonita en una ciudad europea. La noticia de fondo es que, a <strong>17 de marzo de 2026</strong>, Tesla sigue separando con mucho cuidado lo que <strong>puede mostrar</strong> en Europa de lo que <strong>declara disponible</strong> en Europa.</p>
+<p>Y esa prudencia documental, lejos de ser aburrida, es exactamente donde se mide el estado real del proyecto.</p>
+<p>Seguiremos atentos a cualquier cambio en la lista oficial, a nuevas decisiones de los reguladores europeos y a las señales de que España puede pasar de espectadora a mercado activo. Si quieres estar al día, sigue el blog y comparte en comentarios cuál crees que será la próxima señal verdaderamente decisiva.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class="">Tesla Support, Full Self-Driving (Supervised): <a href="https://www.tesla.com/support/autopilot" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/support/autopilot</a></li>
+<li class="">Tesla Owner's Manual, Full Self-Driving (Supervised): <a href="https://www.tesla.com/ownersmanual/modely/en_us/GUID-50331432-B914-400D-B93D-556EAD66FD0B.html" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/ownersmanual/modely/en_us/GUID-50331432-B914-400D-B93D-556EAD66FD0B.html</a></li>
+<li class="">Tesla Investor Relations, Q4 and FY 2025 Update (28 de enero de 2026): <a href="https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q4-2025-Update.pdf" target="_blank" rel="noopener noreferrer" class="">https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q4-2025-Update.pdf</a></li>
+<li class="">RDW, Tesla applies for testing permit for self-driving vehicles in the Netherlands (24 de noviembre de 2025): <a href="https://www.rdw.nl/en/about-us/news/2025/tesla-applies-for-testing-permit-for-self-driving-vehicles-in-the-netherlands" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/en/about-us/news/2025/tesla-applies-for-testing-permit-for-self-driving-vehicles-in-the-netherlands</a></li>
+</ul>]]></content>
+        <author>
+            <name>The Autonomous Pilot</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="tesla" term="tesla"/>
+        <category label="europa" term="europa"/>
+        <category label="ai" term="ai"/>
+        <category label="testing" term="testing"/>
+        <category label="regulations" term="regulations"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Europa pasa de la espera a la ejecución: FSD Supervised arranca su fase más real en 2026]]></title>
         <id>https://fsd.pepetox.es/fsd-europa-invitaciones-tempranas-neerlandes</id>
@@ -1534,64 +1631,5 @@ Un sistema que gestiona bien la décima, cuando todo se complica, genera confian
         <category label="regulations" term="regulations"/>
         <category label="espana" term="espana"/>
         <category label="seguridad" term="seguridad"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europa obliga a explicar los límites del FSD: el examen real es la atención del conductor]]></title>
-        <id>https://fsd.pepetox.es/limites-fsd-atencion-conductor</id>
-        <link href="https://fsd.pepetox.es/limites-fsd-atencion-conductor"/>
-        <updated>2026-02-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[La UE no solo pide que el coche conduzca: exige que el conductor entienda límites, reciba avisos claros y no se desconecte del volante.]]></summary>
-        <content type="html"><![CDATA[<p>Son las 07:40 en la A‑6 entrando a Madrid. El FSD traza la curva, pero el panel muestra una alerta: “manos al volante”. En Europa, esa escena no es un detalle: es <strong>el núcleo de la homologación</strong>. Aquí no basta con que la IA conduzca bien; tiene que <strong>explicar sus límites y mantener al humano despierto</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detonante-europeo-dcas-ya-no-es-promesa-es-norma">El detonante europeo: DCAS ya no es promesa, es norma<a href="https://fsd.pepetox.es/limites-fsd-atencion-conductor#el-detonante-europeo-dcas-ya-no-es-promesa-es-norma" class="hash-link" aria-label="Enlace directo al El detonante europeo: DCAS ya no es promesa, es norma" title="Enlace directo al El detonante europeo: DCAS ya no es promesa, es norma" translate="no">​</a></h2>
-<p>En 2024 entró en vigor la regulación UNECE para <strong>Driver Control Assistance Systems (DCAS)</strong>, un marco que define sistemas de nivel 2 y fija requisitos concretos sobre <strong>atención del conductor, avisos y comunicación de limitaciones</strong>. Es un cambio profundo: Europa convierte la “responsabilidad del conductor” en <strong>obligaciones verificables</strong>.</p>
-<p>En paralelo, el regulador holandés (RDW) ha confirmado una <strong>demostración prevista para febrero de 2026</strong> sobre FSD Supervised. No es aprobación automática; es una prueba de cumplimiento. Esa fecha hace que todo lo anterior deje de ser teórico.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-problema-real-no-es-la-conducción-es-la-conciencia-de-modo">El problema real no es la conducción, es la “conciencia de modo”<a href="https://fsd.pepetox.es/limites-fsd-atencion-conductor#el-problema-real-no-es-la-conducci%C3%B3n-es-la-conciencia-de-modo" class="hash-link" aria-label="Enlace directo al El problema real no es la conducción, es la “conciencia de modo”" title="Enlace directo al El problema real no es la conducción, es la “conciencia de modo”" translate="no">​</a></h2>
-<p>FSD puede girar, frenar y mantener carril. Pero la UE insiste en algo más incómodo: <strong>el conductor debe entender cuándo el sistema está dentro de sus límites y cuándo no</strong>. Esa “conciencia de modo” no es UX bonita, es seguridad. Si un humano cree que el coche es más capaz de lo que es, el riesgo se dispara.</p>
-<p>Por eso la regulación exige:</p>
-<ul>
-<li class=""><strong>Avisos escalonados y claros</strong> cuando el conductor se desconecta.</li>
-<li class=""><strong>Señales visuales + auditivas/hápticas</strong> para las alertas críticas.</li>
-<li class=""><strong>Comunicación explícita</strong> de limitaciones en la compra, la publicidad y los canales oficiales.</li>
-</ul>
-<p>Esto es el antídoto europeo contra el “modo demasiado confiado”.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-españa-2026">Expectativa vs. realidad (España 2026)<a href="https://fsd.pepetox.es/limites-fsd-atencion-conductor#expectativa-vs-realidad-espa%C3%B1a-2026" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad (España 2026)" title="Enlace directo al Expectativa vs. realidad (España 2026)" translate="no">​</a></h2>
-<p><strong>Expectativa:</strong> “Con más datos, la red neuronal lo arregla todo.”</p>
-<p><strong>Realidad:</strong> aunque la red mejore, el sistema <strong>debe demostrar que sabe pedir ayuda</strong>. En calles españolas con obras, carriles bus variables o señalización ambigua, el salto no es solo técnico: es <strong>cómo y cuándo el coche te devuelve el control</strong>.</p>
-<p>La consecuencia es clara: no se trata de “más kilómetros”, sino de <strong>más claridad</strong>. Cada intervención del sistema debe estar <strong>justificada, registrada y comunicada</strong> de forma comprensible.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="euro-ncap-2026-la-evaluación-también-mira-al-humano">Euro NCAP 2026: la evaluación también mira al humano<a href="https://fsd.pepetox.es/limites-fsd-atencion-conductor#euro-ncap-2026-la-evaluaci%C3%B3n-tambi%C3%A9n-mira-al-humano" class="hash-link" aria-label="Enlace directo al Euro NCAP 2026: la evaluación también mira al humano" title="Enlace directo al Euro NCAP 2026: la evaluación también mira al humano" translate="no">​</a></h2>
-<p>Euro NCAP ha anunciado que en 2026 elevará el listón: mayor peso a la <strong>monitorización del conductor</strong> y a la <strong>calidad de la interfaz (HMI)</strong>. En pocas palabras: el coche ya no se evalúa solo por evitar accidentes, sino por <strong>cómo mantiene al conductor atento y responsable</strong>.</p>
-<p>Esto conecta con la filosofía DCAS: la autonomía supervisada debe ser <strong>medible y demostrable</strong> en el mundo real, no solo en un vídeo viral.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-necesita-fsd-para-pasar-el-examen-europeo">Qué necesita FSD para pasar el examen europeo<a href="https://fsd.pepetox.es/limites-fsd-atencion-conductor#qu%C3%A9-necesita-fsd-para-pasar-el-examen-europeo" class="hash-link" aria-label="Enlace directo al Qué necesita FSD para pasar el examen europeo" title="Enlace directo al Qué necesita FSD para pasar el examen europeo" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-alertas-que-sean-imposibles-de-ignorar">1) Alertas que sean imposibles de ignorar<a href="https://fsd.pepetox.es/limites-fsd-atencion-conductor#1-alertas-que-sean-imposibles-de-ignorar" class="hash-link" aria-label="Enlace directo al 1) Alertas que sean imposibles de ignorar" title="Enlace directo al 1) Alertas que sean imposibles de ignorar" translate="no">​</a></h3>
-<p>La UE define tipos de avisos (manos al volante, ojos a la carretera, control directo inmediato). Si el aviso es débil o confuso, el sistema suspende en la práctica.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-transparencia-total-sobre-límites">2) Transparencia total sobre límites<a href="https://fsd.pepetox.es/limites-fsd-atencion-conductor#2-transparencia-total-sobre-l%C3%ADmites" class="hash-link" aria-label="Enlace directo al 2) Transparencia total sobre límites" title="Enlace directo al 2) Transparencia total sobre límites" translate="no">​</a></h3>
-<p>La comunicación de limitaciones ya no es opcional. Debe estar en la compra, en la app y en la publicidad. Europa quiere <strong>coherencia entre marketing y realidad</strong>.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-monitorización-del-conductor-como-corazón-del-sistema">3) Monitorización del conductor como “corazón del sistema”<a href="https://fsd.pepetox.es/limites-fsd-atencion-conductor#3-monitorizaci%C3%B3n-del-conductor-como-coraz%C3%B3n-del-sistema" class="hash-link" aria-label="Enlace directo al 3) Monitorización del conductor como “corazón del sistema”" title="Enlace directo al 3) Monitorización del conductor como “corazón del sistema”" translate="no">​</a></h3>
-<p>El FSD no puede depender solo de cámaras hacia fuera. Las cámaras hacia dentro y la detección de atención son el verdadero filtro regulatorio.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-mensaje-para-la-comunidad-fsd-en-españa">El mensaje para la comunidad FSD en España<a href="https://fsd.pepetox.es/limites-fsd-atencion-conductor#el-mensaje-para-la-comunidad-fsd-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al El mensaje para la comunidad FSD en España" title="Enlace directo al El mensaje para la comunidad FSD en España" translate="no">​</a></h2>
-<p>Si queremos ver FSD en nuestras carreteras, el debate no es solo “cuánto conduce”, sino <strong>cómo te mantiene responsable</strong>. El futuro europeo no es un salto repentino a lo autónomo total: es una <strong>autonomía supervisada, auditada y pedagógica</strong>.</p>
-<p>El reto está claro: <strong>conducir bien y explicar mejor</strong>.</p>
-<p>¿Crees que Tesla está priorizando suficientemente la comunicación de límites y la monitorización del conductor? Te leo en los comentarios. Y si quieres seguir el hilo regulatorio, aquí tienes más análisis sobre el examen europeo del FSD:</p>
-<ul>
-<li class=""><a class="" href="https://fsd.pepetox.es/euro-ncap-2026-fsd-espana">Euro NCAP 2026: el examen real del FSD en Europa</a></li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/limites-fsd-atencion-conductor#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
-<ul>
-<li class=""><a href="https://unece.org/press/new-un-regulation-paves-way-roll-out-additional-driver-assistance-systems" target="_blank" rel="noopener noreferrer" class="">UNECE (01/02/2024): New UN regulation paves the way for the roll-out of additional driver assistance systems</a></li>
-<li class=""><a href="https://unece.org/press/new-un-regulation-paves-way-deployment-driving-assistance-systems-worldwide" target="_blank" rel="noopener noreferrer" class="">UNECE (04/10/2024): New UN regulation paves way for deployment of driving assistance systems worldwide</a></li>
-<li class=""><a href="https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action" target="_blank" rel="noopener noreferrer" class="">RDW (24/11/2025): RDW response following Tesla’s call to action</a></li>
-<li class=""><a href="https://www.euroncap.com/en/press-media/press-releases/2025/euro-ncap-announces-2026-protocol-changes-to-tackle-modern-driving-risks/" target="_blank" rel="noopener noreferrer" class="">Euro NCAP (26/11/2025): Euro NCAP announces 2026 protocol changes to tackle modern driving risks</a></li>
-<li class=""><a href="https://eur-lex.europa.eu/eli/reg/2024/2689/oj" target="_blank" rel="noopener noreferrer" class="">EUR-Lex (2024/2689): UN Regulation No 171 – DCAS</a></li>
-</ul>]]></content>
-        <author>
-            <name>The Autonomous Pilot</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="fsd" term="fsd"/>
-        <category label="tesla" term="tesla"/>
-        <category label="regulations" term="regulations"/>
-        <category label="ai" term="ai"/>
-        <category label="testing" term="testing"/>
-        <category label="espana" term="espana"/>
     </entry>
 </feed>
