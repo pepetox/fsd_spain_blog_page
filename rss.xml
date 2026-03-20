@@ -4,10 +4,92 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Tue, 17 Mar 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[Tesla pone fecha al examen europeo: FSD cierra pruebas con RDW y entra en revisión final]]></title>
+            <link>https://fsd.pepetox.es/fsd-rdw-expediente-final</link>
+            <guid>https://fsd.pepetox.es/fsd-rdw-expediente-final</guid>
+            <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tesla afirma haber completado la fase final de pruebas de FSD Supervised con la RDW y sitúa el siguiente hito en el 10 de abril de 2026. Analizamos qué cambia de verdad para Europa.]]></description>
+            <content:encoded><![CDATA[<p>A las 07:01 UTC del <strong>20 de marzo de 2026</strong>, Tesla Europe publicó el mensaje más concreto hasta ahora sobre el estado regulatorio de <strong>FSD (Supervised)</strong> en Europa. No era otro vídeo urbano, ni otra demo bonita entre bicicletas neerlandesas. Era algo más serio: la compañía afirma haber <strong>cerrado la fase final de pruebas con la RDW</strong>, haber entregado toda la documentación para <strong>UN R171</strong> y para las <strong>exenciones del Artículo 39</strong>, y haber pasado el expediente al escritorio del regulador.</p>
+<p><img decoding="async" loading="lazy" alt="Ilustración editorial de un Tesla Model 3 en una calle neerlandesa durante la fase final regulatoria de FSD" src="https://fsd.pepetox.es/assets/images/2026-03-20-fsd-rdw-expediente-final-122c4bcbf3958209e67404a9b727dea5.png" width="1376" height="768" class="img_ev3q"></p>
+<p>Si esa formulación se sostiene, el debate en Europa cambia de sitio. Ya no estamos solo en la fase de "¿puede Tesla mostrar FSD en carreteras europeas?". Estamos en la fase de "¿ha entregado por fin el paquete técnico y jurídico suficiente para intentar una aprobación formal?".</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-nuevo-de-hoy-menos-demo-más-expediente">Lo nuevo de hoy: menos demo, más expediente<a href="https://fsd.pepetox.es/fsd-rdw-expediente-final#lo-nuevo-de-hoy-menos-demo-m%C3%A1s-expediente" class="hash-link" aria-label="Enlace directo al Lo nuevo de hoy: menos demo, más expediente" title="Enlace directo al Lo nuevo de hoy: menos demo, más expediente" translate="no">​</a></h2>
+<p>El dato importante del post oficial de Tesla Europe no es solo que diga haber completado la fase final de pruebas. Lo realmente relevante es el encadenado:</p>
+<ul>
+<li class="">Tesla asegura haber terminado la validación final del vehículo con la <strong>RDW</strong> neerlandesa.</li>
+<li class="">Tesla dice haber remitido <strong>toda la documentación</strong> necesaria para <strong>UN R171</strong> y las <strong>exenciones del Artículo 39</strong>.</li>
+<li class="">Según la propia compañía, la RDW ya está <strong>revisando internamente</strong> tanto el expediente como los resultados de test.</li>
+<li class="">Tesla añade una fecha orientativa: <strong>10 de abril de 2026</strong> para la aprobación en Países Bajos, desplazando la expectativa previa del <strong>20 de marzo de 2026</strong>.</li>
+</ul>
+<p>Ese último detalle importa bastante. El mercado suele reaccionar a la palabra "aprobación", pero aquí la señal más valiosa es otra: <strong>Tesla admite implícitamente que el proceso sigue vivo, pero no cerrado</strong>. Si la fecha se mueve, es porque la conversación ya está en la capa administrativa real, no en el hype de redes.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-significa-exactamente-que-entre-la-rdw">Qué significa exactamente que entre la RDW<a href="https://fsd.pepetox.es/fsd-rdw-expediente-final#qu%C3%A9-significa-exactamente-que-entre-la-rdw" class="hash-link" aria-label="Enlace directo al Qué significa exactamente que entre la RDW" title="Enlace directo al Qué significa exactamente que entre la RDW" translate="no">​</a></h2>
+<p>La <strong>RDW</strong> no es un actor menor. Es una de las autoridades de homologación con más peso dentro del ecosistema regulatorio europeo y lleva meses siendo el nodo más visible del avance de Tesla en la región.</p>
+<p>En <strong>noviembre de 2025</strong>, la propia RDW confirmó públicamente que Tesla había solicitado un permiso para probar vehículos de conducción automatizada en vías públicas de Países Bajos. Aquello señalaba apertura regulatoria. Lo de hoy, si damos por válida la comunicación de Tesla, sería el paso siguiente: <strong>pasar de la autorización de pruebas al intento de aprobación operativa bajo un expediente más completo</strong>.</p>
+<p>Eso no equivale todavía a disponibilidad comercial plena en toda Europa. Pero sí eleva el nivel de seriedad del proceso. Una demo enseña capacidad. Un expediente exige trazabilidad.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-parte-más-ambiciosa-del-mensaje-el-efecto-dominó-europeo">La parte más ambiciosa del mensaje: el efecto dominó europeo<a href="https://fsd.pepetox.es/fsd-rdw-expediente-final#la-parte-m%C3%A1s-ambiciosa-del-mensaje-el-efecto-domin%C3%B3-europeo" class="hash-link" aria-label="Enlace directo al La parte más ambiciosa del mensaje: el efecto dominó europeo" title="Enlace directo al La parte más ambiciosa del mensaje: el efecto dominó europeo" translate="no">​</a></h2>
+<p>Tesla no se limita a hablar de Países Bajos. En el mismo mensaje sostiene dos cosas adicionales:</p>
+<ol>
+<li class="">que una aprobación neerlandesa podría ser reconocida nacionalmente por otros países europeos;</li>
+<li class="">que podría llegar una <strong>aprobación a escala UE durante el verano de 2026</strong>.</li>
+</ol>
+<p>Aquí conviene subir el nivel de rigor.</p>
+<p>La primera afirmación es <strong>plausible dentro del marco europeo de homologación</strong>, pero su alcance práctico depende del tipo exacto de aprobación, de las condiciones asociadas y de cómo cada país interprete la implementación nacional.</p>
+<p>La segunda es todavía más sensible: hoy no es un hecho, sino <strong>una expectativa expresada por Tesla</strong>. Debe leerse como orientación estratégica de la compañía, no como calendario confirmado por el regulador.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs realidad<a href="https://fsd.pepetox.es/fsd-rdw-expediente-final#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs realidad" title="Enlace directo al Expectativa vs realidad" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa">Expectativa<a href="https://fsd.pepetox.es/fsd-rdw-expediente-final#expectativa" class="hash-link" aria-label="Enlace directo al Expectativa" title="Enlace directo al Expectativa" translate="no">​</a></h3>
+<p>"Si Tesla habla ya de expediente completo y fecha de aprobación, Europa está a días de tener FSD liberado para clientes."</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad">Realidad<a href="https://fsd.pepetox.es/fsd-rdw-expediente-final#realidad" class="hash-link" aria-label="Enlace directo al Realidad" title="Enlace directo al Realidad" translate="no">​</a></h3>
+<p>Lo razonable, a <strong>20 de marzo de 2026</strong>, es una lectura más sobria:</p>
+<ul>
+<li class="">Tesla parece haber avanzado desde las demostraciones públicas hacia la <strong>revisión documental final</strong>.</li>
+<li class="">La RDW todavía no ha comunicado aprobación pública en la fecha de publicación de este artículo.</li>
+<li class="">Un posible visto bueno en Países Bajos sería un <strong>hito enorme</strong>, pero no significa despliegue simultáneo, instantáneo y homogéneo en toda la UE.</li>
+</ul>
+<p>Europa sigue funcionando como Europa: cuando parece que todo está a punto, aún queda una capa más de validación, firma, interpretación y condiciones de uso.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-el-retraso-del-20-de-marzo-al-10-de-abril-no-es-mala-señal">Por qué el retraso del 20 de marzo al 10 de abril no es mala señal<a href="https://fsd.pepetox.es/fsd-rdw-expediente-final#por-qu%C3%A9-el-retraso-del-20-de-marzo-al-10-de-abril-no-es-mala-se%C3%B1al" class="hash-link" aria-label="Enlace directo al Por qué el retraso del 20 de marzo al 10 de abril no es mala señal" title="Enlace directo al Por qué el retraso del 20 de marzo al 10 de abril no es mala señal" translate="no">​</a></h2>
+<p>En tecnología autónoma, un retraso corto suele leerse como decepción. En regulación, muchas veces significa otra cosa: que el expediente ha llegado a una fase donde se revisan detalles, se contrastan anexos y se documentan límites.</p>
+<p>Tesla acompaña su mensaje con cifras bastante agresivas sobre el volumen del trabajo realizado en Europa durante los últimos 18 meses:</p>
+<ul>
+<li class="">más de <strong>1,6 millones de kilómetros</strong> de pruebas de FSD en carreteras europeas;</li>
+<li class="">más de <strong>13.000 ride-alongs</strong> con clientes;</li>
+<li class="">más de <strong>4.500 ejecuciones</strong> de escenarios de pista;</li>
+<li class="">miles de páginas para <strong>400+ requisitos de conformidad</strong>.</li>
+</ul>
+<p>No tenemos hoy una publicación independiente que audite punto por punto esas cifras en abierto, así que deben leerse como <strong>datos declarados por Tesla</strong>. Aun así, el simple hecho de presentarlas en este contexto refuerza una idea: la compañía está intentando demostrar que ya no llega a Europa con promesas, sino con un dosier defensivo.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-cambia-para-españa">Lo que cambia para España<a href="https://fsd.pepetox.es/fsd-rdw-expediente-final#lo-que-cambia-para-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Lo que cambia para España" title="Enlace directo al Lo que cambia para España" translate="no">​</a></h2>
+<p>Desde España, esta noticia no significa "FSD llega mañana". Significa algo más útil: <strong>el cuello de botella europeo parece haberse desplazado desde la calle al despacho</strong>.</p>
+<p>Eso tiene varias implicaciones:</p>
+<ul>
+<li class="">si la RDW aprueba, el argumento de que "Europa aún ni siquiera está en fase formal" perderá fuerza;</li>
+<li class="">otros reguladores nacionales tendrán una base más concreta para reconocer, adaptar o cuestionar el expediente;</li>
+<li class="">la conversación española podrá centrarse menos en rumores y más en condiciones reales de despliegue: supervisión, límites funcionales, responsabilidad y calendario país por país.</li>
+</ul>
+<p>Para los seguidores de FSD en España, el próximo marcador ya no es un clip viral en X. Es bastante más prosaico y bastante más importante: <strong>si aparece o no una aprobación formal documentada en abril</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-lectura-estratégica">La lectura estratégica<a href="https://fsd.pepetox.es/fsd-rdw-expediente-final#la-lectura-estrat%C3%A9gica" class="hash-link" aria-label="Enlace directo al La lectura estratégica" title="Enlace directo al La lectura estratégica" translate="no">​</a></h2>
+<p>Tesla lleva meses enseñando que su stack puede circular por entornos urbanos europeos complejos. Lo que faltaba era demostrar que también podía sobrevivir al filtro que de verdad separa demo de producto: el regulatorio.</p>
+<p>El mensaje del <strong>20 de marzo de 2026</strong> no prueba por sí solo que Tesla haya ganado ese examen. Pero sí sugiere que, por primera vez en serio, la empresa cree haber entregado la versión final de su respuesta.</p>
+<p>Y en Europa, ese momento vale más que cien vídeos bien editados.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/fsd-rdw-expediente-final#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
+<p>La noticia de hoy no es que Tesla haya hecho una ruta más en Países Bajos. La noticia es que afirma haber <strong>cerrado la fase final de pruebas</strong>, <strong>entregado el expediente regulatorio completo</strong> y <strong>movido la conversación al terreno de la aprobación formal</strong>.</p>
+<p>Si la RDW confirma ese paso y el calendario no vuelve a moverse demasiado, abril de 2026 puede convertirse en el primer mes en el que Europa deje de discutir solo sobre capacidad técnica y empiece a discutir sobre disponibilidad real.</p>
+<p>Seguiremos atentos. Porque el siguiente titular ya no debería ser "mirad lo bien que gira en una rotonda", sino uno bastante más determinante: <strong>qué aprobó exactamente Europa, con qué límites y desde cuándo</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-rdw-expediente-final#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class="">Tesla Europe en X, 20 mar 2026: avance oficial sobre cierre de fase final de pruebas, revisión por RDW y expectativa de aprobación neerlandesa el 10 de abril. <a href="https://x.com/teslaeurope/status/2034872940542800361" target="_blank" rel="noopener noreferrer" class="">https://x.com/teslaeurope/status/2034872940542800361</a></li>
+<li class="">RDW, 24 nov 2025: solicitud de Tesla para permiso de prueba con vehículos de conducción automatizada en vías públicas neerlandesas. <a href="https://www.rdw.nl/en/about-us/news/2025/tesla-applies-for-testing-permit-for-self-driving-vehicles-in-the-netherlands" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/en/about-us/news/2025/tesla-applies-for-testing-permit-for-self-driving-vehicles-in-the-netherlands</a></li>
+<li class="">Tesla Q4/FY 2025 Update, 28 ene 2026: contexto de despliegue internacional de FSD (Supervised) y situación regulatoria europea. <a href="https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q4-2025-Update.pdf" target="_blank" rel="noopener noreferrer" class="">https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q4-2025-Update.pdf</a></li>
+</ul>]]></content:encoded>
+            <category>fsd</category>
+            <category>tesla</category>
+            <category>europa</category>
+            <category>regulations</category>
+            <category>testing</category>
+            <category>ai</category>
+        </item>
         <item>
             <title><![CDATA[La lista que de verdad importa: por qué Europa aún no aparece en el mapa oficial de FSD]]></title>
             <link>https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente</link>
@@ -1496,62 +1578,6 @@ Un sistema que gestiona bien la décima, cuando todo se complica, genera confian
             <category>testing</category>
             <category>espana</category>
             <category>regulations</category>
-        </item>
-        <item>
-            <title><![CDATA[El Talón de Aquiles Urbano: FSD frente a ciclistas y patinetes en España]]></title>
-            <link>https://fsd.pepetox.es/fsd-ciclistas-patinetes-espana</link>
-            <guid>https://fsd.pepetox.es/fsd-ciclistas-patinetes-espana</guid>
-            <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[La micro‑movilidad europea no perdona: scooters, bicis y carriles mixtos exigen predicción, negociación y una IA que lea intenciones en tiempo real.]]></description>
-            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="FSD y micromovilidad en España" src="https://fsd.pepetox.es/assets/images/fsd_ciclistas_patinetes_espana-a167d4b1dc99b5951332c0494393a2d4.png" width="1024" height="1024" class="img_ev3q"></p>
-<p>Barcelona, 08:15. Un patinete aparece por tu derecha, un ciclista entra en el carril bus y un coche de reparto abre la puerta sin mirar. En ese segundo no hay margen para "recalcular": <strong>la IA debe anticipar</strong>. El 22 de noviembre de 2025 Tesla presionó públicamente en X con un calendario para Europa; dos días después, el 24 de noviembre de 2025, la RDW aclaró que solo hay una <strong>demostración prevista para febrero de 2026</strong>, sin aprobación garantizada y con el calendario aún sujeto a revisión. Con la UNECE endureciendo los requisitos de sistemas tipo DCAS, el verdadero examen europeo no es una autopista vacía: <strong>es la micro‑movilidad urbana</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detonante-europeo-más-asistencia-más-responsabilidad">El detonante europeo: más asistencia, más responsabilidad<a href="https://fsd.pepetox.es/fsd-ciclistas-patinetes-espana#el-detonante-europeo-m%C3%A1s-asistencia-m%C3%A1s-responsabilidad" class="hash-link" aria-label="Enlace directo al El detonante europeo: más asistencia, más responsabilidad" title="Enlace directo al El detonante europeo: más asistencia, más responsabilidad" translate="no">​</a></h2>
-<p>La regulación UNECE para <strong>Driver Control Assistance Systems (Reglamento UN R171)</strong> entró en vigor el 30 de septiembre de 2024. No es un simple sello: define estos sistemas como <strong>asistencia de nivel 2</strong> y exige <strong>conductores atentos</strong>, avisos claros y comunicación proactiva de límites. En paralelo, la RDW ha confirmado que Tesla debe <strong>demostrar</strong> en febrero de 2026 que FSD Supervised cumple los estándares requeridos, y que el calendario aún está por confirmarse. No hay “fecha de lanzamiento”, hay una prueba dura de seguridad.</p>
-<p>Además, el 14 de febrero de 2026 Tesla dejará de vender FSD como compra única y pasará a un modelo exclusivamente por suscripción. Eso aumenta la presión por demostrar valor real en mercados difíciles como el europeo: el producto ya no se defiende solo por “promesas futuras”, sino por rendimiento observable hoy.</p>
-<p>La lectura estratégica es simple: Europa está dispuesta a aceptar más automatización <strong>solo si el sistema demuestra control fino en escenarios reales</strong>. Y en ciudades españolas, esos escenarios están dominados por bicicletas y patinetes.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="españa-no-es-california-la-micromovilidad-manda">España no es California: la micro‑movilidad manda<a href="https://fsd.pepetox.es/fsd-ciclistas-patinetes-espana#espa%C3%B1a-no-es-california-la-micromovilidad-manda" class="hash-link" aria-label="Enlace directo al España no es California: la micro‑movilidad manda" title="Enlace directo al España no es California: la micro‑movilidad manda" translate="no">​</a></h2>
-<p>En muchas ciudades españolas, los carriles se mezclan, las señales son ambiguas y las trayectorias de patinetes cambian en un par de metros. El coche autónomo no se enfrenta a un único vehículo, sino a un <strong>enjambre de trayectorias</strong> que requieren negociación social:</p>
-<ul>
-<li class="">Ciclistas que adelantan por la izquierda pero se cruzan para girar a la derecha.</li>
-<li class="">Patinetes que invaden el carril de circulación cuando la calzada se estrecha.</li>
-<li class="">Carriles bici discontinuos que obligan a “leer” intenciones más que líneas.</li>
-</ul>
-<p><strong>Expectativa:</strong> “Si la red neuronal ve a un ciclista, frenará y ya está.”</p>
-<p><strong>Realidad:</strong> el sistema debe <strong>predecir si el ciclista va a cambiar de carril</strong>, si va a frenar o si va a zigzaguear. Eso exige algo más que detección: exige <strong>modelado de intención</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-reto-técnico-predicción-y-negociación-no-solo-detección">El reto técnico: predicción y negociación, no solo detección<a href="https://fsd.pepetox.es/fsd-ciclistas-patinetes-espana#el-reto-t%C3%A9cnico-predicci%C3%B3n-y-negociaci%C3%B3n-no-solo-detecci%C3%B3n" class="hash-link" aria-label="Enlace directo al El reto técnico: predicción y negociación, no solo detección" title="Enlace directo al El reto técnico: predicción y negociación, no solo detección" translate="no">​</a></h2>
-<p>En entornos urbanos, la decisión correcta no siempre es frenar. A veces es <strong>mantener velocidad</strong>, otras es <strong>ceder el espacio</strong>, y otras es <strong>crear hueco</strong> para que un ciclista termine su maniobra con seguridad. Para FSD, esto implica tres niveles críticos:</p>
-<ol>
-<li class=""><strong>Predicción multimodal:</strong> interpretar señales sutiles (posición del cuerpo, ángulo del manillar, velocidad relativa) para estimar próximas trayectorias.</li>
-<li class=""><strong>Negociación social:</strong> dejar claro a los demás qué vas a hacer (micro‑frenos, posicionamiento dentro del carril, movimientos suaves) para evitar sustos.</li>
-<li class=""><strong>Confort + legalidad:</strong> mantener distancias laterales seguras sin invadir carriles de forma agresiva ni bloquear el tráfico.</li>
-</ol>
-<p>Si la IA se comporta como un humano inseguro, el entorno reacciona peor. Pero si se comporta como un humano demasiado agresivo, el regulador lo tumba. <strong>Ese es el equilibrio europeo.</strong></p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-tendrá-que-demostrar-tesla-en-2026">Qué tendrá que demostrar Tesla en 2026<a href="https://fsd.pepetox.es/fsd-ciclistas-patinetes-espana#qu%C3%A9-tendr%C3%A1-que-demostrar-tesla-en-2026" class="hash-link" aria-label="Enlace directo al Qué tendrá que demostrar Tesla en 2026" title="Enlace directo al Qué tendrá que demostrar Tesla en 2026" translate="no">​</a></h2>
-<p>Para que Europa confíe en FSD, el sistema debe demostrar métricas claras en micro‑movilidad urbana:</p>
-<ul>
-<li class=""><strong>Tasa de falsas alarmas baja</strong>: no “frenar por miedo” ante cada bicicleta lejana.</li>
-<li class=""><strong>Deceleraciones suaves y predecibles</strong>: evitar frenazos que asusten al ciclista.</li>
-<li class=""><strong>Adelantamientos legales y seguros</strong>: respetar distancias laterales y señalización.</li>
-<li class=""><strong>Gestión de carriles mixtos</strong>: interpretar cuando el carril bici se integra y cuándo no.</li>
-</ul>
-<p>Si Tesla quiere aprobar en la UE, la evidencia tendrá que incluir <strong>datos reales de calles europeas</strong> y no solo simulaciones o vídeos llamativos. En España, las bicis y patinetes son el filtro más realista para separar “autonomía demo” de “autonomía usable”.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión-el-futuro-se-juega-en-el-carril-bici">Conclusión: el futuro se juega en el carril bici<a href="https://fsd.pepetox.es/fsd-ciclistas-patinetes-espana#conclusi%C3%B3n-el-futuro-se-juega-en-el-carril-bici" class="hash-link" aria-label="Enlace directo al Conclusión: el futuro se juega en el carril bici" title="Enlace directo al Conclusión: el futuro se juega en el carril bici" translate="no">​</a></h2>
-<p>Europa ya no discute si la IA puede girar. Discute si <strong>puede convivir con los usuarios más vulnerables</strong>. El FSD que conquiste Madrid, Barcelona o Valencia será el que haya aprendido a negociar con ciclistas y patinetes en tiempo real.</p>
-<p>Si quieres seguir este debate, lee también nuestra visión sobre la <a class="" href="https://fsd.pepetox.es/revolucion-end-to-end-fsd-v12-v13">revolución end‑to‑end del FSD</a> y nuestro análisis de por qué Europa <strong>pone el foco en la atención del conductor</strong> en <a class="" href="https://fsd.pepetox.es/limites-fsd-atencion-conductor">este post</a>. Cuéntanos en comentarios: ¿qué situación urbana crees que será el verdadero “examen final” en España?</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-ciclistas-patinetes-espana#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
-<ul>
-<li class="">UNECE — "New UN regulation paves way for deployment of driving assistance systems worldwide" (04 Oct 2024): <a href="https://unece.org/media/press/395206" target="_blank" rel="noopener noreferrer" class="">https://unece.org/media/press/395206</a></li>
-<li class="">RDW — "RDW response following Tesla’s call to action" (24 Nov 2025): <a href="https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action</a></li>
-<li class="">TechCrunch — "Tesla FSD software may not be approved by EU regulator after all" (24 Nov 2025): <a href="https://techcrunch.com/2025/11/24/tesla-fsd-software-may-not-be-approved-by-eu-regulator-after-all/" target="_blank" rel="noopener noreferrer" class="">https://techcrunch.com/2025/11/24/tesla-fsd-software-may-not-be-approved-by-eu-regulator-after-all/</a></li>
-<li class="">The Verge — "Tesla to stop selling FSD as a standalone package and switch to subscription only" (04 Feb 2026): <a href="https://www.theverge.com/news/861705/tesla-fsd-stop-selling-standalone-subscription-only" target="_blank" rel="noopener noreferrer" class="">https://www.theverge.com/news/861705/tesla-fsd-stop-selling-standalone-subscription-only</a></li>
-</ul>]]></content:encoded>
-            <category>fsd</category>
-            <category>tesla</category>
-            <category>ai</category>
-            <category>testing</category>
-            <category>regulations</category>
-            <category>espana</category>
-            <category>seguridad</category>
         </item>
     </channel>
 </rss>
