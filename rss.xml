@@ -4,10 +4,107 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Fri, 20 Mar 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[Ámsterdam enseña la demo; España pondrá el examen final a FSD en las calles estrechas]]></title>
+            <link>https://fsd.pepetox.es/fsd-calles-estrechas-espana</link>
+            <guid>https://fsd.pepetox.es/fsd-calles-estrechas-espana</guid>
+            <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tesla mantiene ride-alongs oficiales en Europa hasta el 31 de marzo, pero el reto decisivo para FSD sigue estando en las calles estrechas españolas.]]></description>
+            <content:encoded><![CDATA[<p>En una calle de doble sentido de cualquier pueblo castellano, la conducción autónoma no se juega en un giro bonito ni en una glorieta limpia. Se juega cuando aparece una furgoneta de reparto medio subida a la acera, un coche viene de frente y solo queda una pregunta: <strong>¿entiende la red neuronal que aquí no basta con ver, sino que hay que negociar?</strong></p>
+<p>Ese, a <strong>24 de marzo de 2026</strong>, es el hueco real entre la promesa de Tesla y el examen europeo. Mientras la compañía mantiene <strong>ride-alongs oficiales de FSD (Supervised) en Tesla Amsterdam y Tesla Utrecht hasta el 31 de marzo</strong>, su propia documentación sigue recordando algo importante: la disponibilidad depende de la región, de la aprobación regulatoria y de que los conductores sean especialmente cautos en países nuevos. La noticia, por tanto, no es solo que Europa vea demos. La noticia es que <strong>la IA se acerca al momento en que tendrá que demostrar cortesía, precisión y sangre fría en la España menos fotogénica</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-último-que-ha-cambiado-más-exposición-pública-no-menos-dificultad">Lo último que ha cambiado: más exposición pública, no menos dificultad<a href="https://fsd.pepetox.es/fsd-calles-estrechas-espana#lo-%C3%BAltimo-que-ha-cambiado-m%C3%A1s-exposici%C3%B3n-p%C3%BAblica-no-menos-dificultad" class="hash-link" aria-label="Enlace directo al Lo último que ha cambiado: más exposición pública, no menos dificultad" title="Enlace directo al Lo último que ha cambiado: más exposición pública, no menos dificultad" translate="no">​</a></h2>
+<p>Tesla ha movido ficha en el frente más visible. Sus eventos oficiales siguen ofreciendo experiencias de <strong>Full Self-Driving (Supervised)</strong> en ciudades neerlandesas como Ámsterdam y Utrecht durante marzo. Eso importa porque ya no hablamos solo de vídeos subidos por terceros, sino de una campaña pública donde la marca decide enseñar el sistema en tráfico europeo real.</p>
+<p>Pero conviene no confundir <strong>mostrar</strong> con <strong>resolver</strong>.</p>
+<p>La propia página de soporte de Tesla sobre FSD (Supervised), revisada hoy, insiste en dos ideas que encajan perfectamente con el momento europeo:</p>
+<ul>
+<li class="">el sistema depende de la <strong>región</strong> y de la <strong>aprobación regulatoria</strong>;</li>
+<li class="">y el conductor debe seguir supervisando activamente porque el coche <strong>no es autónomo</strong>.</li>
+</ul>
+<p>Además, el manual más reciente del Model Y va un paso más allá: Tesla admite que, al expandirse a nuevos países, el sistema debe adaptarse a <strong>infraestructuras, comportamientos de conducción y patrones de tráfico únicos</strong>. Esa frase parece genérica hasta que la aterrizas en España. Entonces deja de sonar a disclaimer y empieza a parecer una hoja de ruta técnica.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-una-calle-estrecha-española-vale-más-que-diez-demos-limpias">Por qué una calle estrecha española vale más que diez demos limpias<a href="https://fsd.pepetox.es/fsd-calles-estrechas-espana#por-qu%C3%A9-una-calle-estrecha-espa%C3%B1ola-vale-m%C3%A1s-que-diez-demos-limpias" class="hash-link" aria-label="Enlace directo al Por qué una calle estrecha española vale más que diez demos limpias" title="Enlace directo al Por qué una calle estrecha española vale más que diez demos limpias" translate="no">​</a></h2>
+<p>Hay escenarios donde FSD puede parecer brillante con relativa rapidez: avenidas amplias, semáforos bien visibles, carriles claros, tráfico predecible. Y luego está la calle española de verdad:</p>
+<ul>
+<li class="">coches aparcados ocupando parte del carril;</li>
+<li class="">visibilidad lateral pobre por esquinas, fachadas o furgonetas altas;</li>
+<li class="">prioridad ambigua que a menudo se resuelve por <strong>lenguaje social</strong>;</li>
+<li class="">usuarios que esperan una cesión rápida, pero no una maniobra brusca.</li>
+</ul>
+<p>Aquí el reto no es solo geométrico. Es <strong>social</strong>.</p>
+<p>Un conductor humano no calcula únicamente si “cabe”. También interpreta si el vehículo que viene de frente ya ha cedido un poco, si el repartidor probablemente va a abrir la puerta, si el coche de detrás se impacienta y si conviene detenerse pronto para que la maniobra sea comprensible para todos. Esa mezcla de percepción, predicción e intención compartida es justo donde una IA puede ser excelente... o parecer torpe aunque técnicamente “no choque”.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detalle-técnico-que-más-importa-gestionar-la-incertidumbre-sin-parecer-indeciso">El detalle técnico que más importa: gestionar la incertidumbre sin parecer indeciso<a href="https://fsd.pepetox.es/fsd-calles-estrechas-espana#el-detalle-t%C3%A9cnico-que-m%C3%A1s-importa-gestionar-la-incertidumbre-sin-parecer-indeciso" class="hash-link" aria-label="Enlace directo al El detalle técnico que más importa: gestionar la incertidumbre sin parecer indeciso" title="Enlace directo al El detalle técnico que más importa: gestionar la incertidumbre sin parecer indeciso" translate="no">​</a></h2>
+<p>En redes se habla mucho de si FSD reconoce peatones, bicis o señales. Todo eso importa, pero en calles estrechas europeas el cuello de botella suele ser otro: <strong>qué hace el sistema cuando ninguna opción es perfecta</strong>.</p>
+<p>Pensemos en un ejemplo habitual. Vas por una calle de doble sentido con coches aparcados a tu derecha. Un vehículo viene de frente. Para pasar, uno de los dos debe:</p>
+<ol>
+<li class="">leer antes que el otro que el ancho útil se está cerrando;</li>
+<li class="">decidir si sigue o cede;</li>
+<li class="">comunicar esa intención con velocidad, trayectoria y pausa;</li>
+<li class="">ejecutar la maniobra sin generar miedo ni bloqueo.</li>
+</ol>
+<p>Ese proceso es mucho más difícil de lo que parece. No basta con tener una red que detecte bordes y objetos. Hace falta una política de conducción que se comporte con:</p>
+<ul>
+<li class=""><strong>prudencia</strong> suficiente para no invadir espacio inseguro;</li>
+<li class=""><strong>fluidez</strong> suficiente para no quedarse congelada;</li>
+<li class=""><strong>legibilidad</strong> suficiente para que el otro conductor entienda la intención.</li>
+</ul>
+<p>En Europa, y especialmente en España, esa legibilidad social es parte de la seguridad. Una maniobra técnicamente correcta pero dudosa puede crear más riesgo que una cesión temprana y limpia.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs. realidad<a href="https://fsd.pepetox.es/fsd-calles-estrechas-espana#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad" title="Enlace directo al Expectativa vs. realidad" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa">Expectativa<a href="https://fsd.pepetox.es/fsd-calles-estrechas-espana#expectativa" class="hash-link" aria-label="Enlace directo al Expectativa" title="Enlace directo al Expectativa" translate="no">​</a></h3>
+<p>"Si Tesla ya hace ride-alongs oficiales en Europa, lo duro ya está hecho."</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad">Realidad<a href="https://fsd.pepetox.es/fsd-calles-estrechas-espana#realidad" class="hash-link" aria-label="Enlace directo al Realidad" title="Enlace directo al Realidad" translate="no">​</a></h3>
+<p>Lo duro empieza precisamente cuando dejas de medir el sistema por el trayecto que sale bien y empiezas a medirlo por su comportamiento en escenarios <strong>incómodos, repetitivos y culturalmente locales</strong>:</p>
+<ul>
+<li class="">calles estrechas con coches mal aparcados;</li>
+<li class="">cruces sin señalización perfecta;</li>
+<li class="">tráfico que negocia más por intuición que por marcas viales;</li>
+<li class="">conductores que esperan naturalidad, no robotismo.</li>
+</ul>
+<p>Por eso las demos de marzo son valiosas, pero incompletas. Enseñan que Tesla quiere normalizar la presencia pública de FSD en Europa. No demuestran todavía, por sí solas, que el sistema haya dominado la capa más difícil de la conducción española: la <strong>micro-negociación urbana</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-dice-la-propia-documentación-de-tesla-leído-con-ojos-españoles">Lo que dice la propia documentación de Tesla, leído con ojos españoles<a href="https://fsd.pepetox.es/fsd-calles-estrechas-espana#lo-que-dice-la-propia-documentaci%C3%B3n-de-tesla-le%C3%ADdo-con-ojos-espa%C3%B1oles" class="hash-link" aria-label="Enlace directo al Lo que dice la propia documentación de Tesla, leído con ojos españoles" title="Enlace directo al Lo que dice la propia documentación de Tesla, leído con ojos españoles" translate="no">​</a></h2>
+<p>La web de soporte de Tesla afirma que FSD (Supervised) puede navegar por casi cualquier sitio bajo supervisión activa y menciona explícitamente escenarios como calles residenciales, intersecciones y rotondas. El manual también advierte que puede requerirse intervención del conductor en carreteras estrechas con tráfico de frente, obras o intersecciones complejas.</p>
+<p>Mi lectura es esta: Tesla ya describe el problema correcto.</p>
+<p>Eso es una buena noticia, porque significa que el sistema no está pensado solo para autopistas bonitas. Pero también es una advertencia seria para la comunidad FSD: si la propia marca reconoce que en <strong>vías estrechas con coches de frente</strong> la supervisión puede ser decisiva, entonces ese es exactamente el terreno donde habrá que exigir más evidencia antes de cantar victoria en Europa.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-tendría-que-demostrar-fsd-para-convencer-de-verdad-en-españa">Qué tendría que demostrar FSD para convencer de verdad en España<a href="https://fsd.pepetox.es/fsd-calles-estrechas-espana#qu%C3%A9-tendr%C3%ADa-que-demostrar-fsd-para-convencer-de-verdad-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Qué tendría que demostrar FSD para convencer de verdad en España" title="Enlace directo al Qué tendría que demostrar FSD para convencer de verdad en España" translate="no">​</a></h2>
+<p>No hablo de un vídeo viral. Hablo de señales repetibles.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-cesiones-limpias-en-calles-con-ancho-variable">1. Cesiones limpias en calles con ancho variable<a href="https://fsd.pepetox.es/fsd-calles-estrechas-espana#1-cesiones-limpias-en-calles-con-ancho-variable" class="hash-link" aria-label="Enlace directo al 1. Cesiones limpias en calles con ancho variable" title="Enlace directo al 1. Cesiones limpias en calles con ancho variable" translate="no">​</a></h3>
+<p>Que el coche identifique pronto cuándo ya no compensa “forzar” el paso y ceda de forma natural.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-comportamiento-estable-con-referencias-visuales-pobres">2. Comportamiento estable con referencias visuales pobres<a href="https://fsd.pepetox.es/fsd-calles-estrechas-espana#2-comportamiento-estable-con-referencias-visuales-pobres" class="hash-link" aria-label="Enlace directo al 2. Comportamiento estable con referencias visuales pobres" title="Enlace directo al 2. Comportamiento estable con referencias visuales pobres" translate="no">​</a></h3>
+<p>Que no serpentee ni dude en exceso cuando las líneas desaparecen y el espacio útil se define por coches aparcados, bordillos y huecos.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-interacciones-socialmente-comprensibles">3. Interacciones socialmente comprensibles<a href="https://fsd.pepetox.es/fsd-calles-estrechas-espana#3-interacciones-socialmente-comprensibles" class="hash-link" aria-label="Enlace directo al 3. Interacciones socialmente comprensibles" title="Enlace directo al 3. Interacciones socialmente comprensibles" translate="no">​</a></h3>
+<p>Que otros conductores, peatones y ciclistas puedan anticipar qué va a hacer el Tesla sin necesidad de adivinar.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-degradación-honesta">4. Degradación honesta<a href="https://fsd.pepetox.es/fsd-calles-estrechas-espana#4-degradaci%C3%B3n-honesta" class="hash-link" aria-label="Enlace directo al 4. Degradación honesta" title="Enlace directo al 4. Degradación honesta" translate="no">​</a></h3>
+<p>Que, si la incertidumbre sube demasiado, el sistema reduzca velocidad y facilite una toma de control clara, no una salida abrupta del problema.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-debería-vigilar-la-comunidad-en-las-próximas-semanas">Lo que debería vigilar la comunidad en las próximas semanas<a href="https://fsd.pepetox.es/fsd-calles-estrechas-espana#lo-que-deber%C3%ADa-vigilar-la-comunidad-en-las-pr%C3%B3ximas-semanas" class="hash-link" aria-label="Enlace directo al Lo que debería vigilar la comunidad en las próximas semanas" title="Enlace directo al Lo que debería vigilar la comunidad en las próximas semanas" translate="no">​</a></h2>
+<p>Si Tesla sigue ampliando demos o pruebas públicas en Europa, yo miraría menos el número de kilómetros y más estos detalles:</p>
+<ul>
+<li class="">si aparecen recorridos en centros urbanos densos o calles menos “curadas” para marketing;</li>
+<li class="">si vemos maniobras de cesión reales en espacio estrecho con tráfico de frente;</li>
+<li class="">si la documentación oficial cambia de tono sobre alcance, límites o países elegibles;</li>
+<li class="">y si empiezan a aparecer señales públicas de validación que describan mejor <strong>cómo</strong> se evalúan estos escenarios.</li>
+</ul>
+<p>Para entender por qué Europa sigue separando demostración y disponibilidad, puedes leer también <a class="" href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente">nuestro análisis sobre la ausencia de Europa en la lista oficial de FSD</a>. Y si te interesa el examen cotidiano en entorno urbano, encaja bien con <a class="" href="https://fsd.pepetox.es/madrid-auditoria-fsd">esta auditoría de Madrid como prueba de calle real</a>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/fsd-calles-estrechas-espana#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
+<p>Las demos oficiales en Ámsterdam son una señal de avance. Pero el momento de verdad para FSD en Europa no llegará cuando haga otro trayecto limpio delante de una cámara. Llegará cuando pueda gestionar con naturalidad una calle estrecha española, con coches mal aparcados, espacio ambiguo y conductores humanos esperando que la máquina entienda algo muy poco digital: <strong>cuándo insistir y cuándo ceder</strong>.</p>
+<p>Ahí se separan las demos convincentes de los sistemas listos para convivir con nuestras carreteras.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-calles-estrechas-espana#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class="">Tesla Events, <strong>Full Self-Driving (Supervised) Ride-Along at Tesla Amsterdam</strong> (consultado el 24/03/2026): <a href="https://www.tesla.com/event/full-self-driving--supervised--ride-along-at-tesla-amsterdam" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/event/full-self-driving--supervised--ride-along-at-tesla-amsterdam</a></li>
+<li class="">Tesla Events, <strong>Full Self-Driving (Supervised) Ride-Along at Tesla Utrecht</strong> (consultado el 24/03/2026): <a href="https://www.tesla.com/en_jo/event/full-self-driving--supervised--ride-along-at-tesla-utrecht" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/en_jo/event/full-self-driving--supervised--ride-along-at-tesla-utrecht</a></li>
+<li class="">Tesla Support, <strong>Full Self-Driving (Supervised)</strong> (consultado el 24/03/2026): <a href="https://www.tesla.com/support/fsd" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/support/fsd</a></li>
+<li class="">Tesla, <strong>Model Y Owner’s Manual, software version 2026.2.8</strong> (consultado el 24/03/2026): <a href="https://www.tesla.com/ownersmanual/modely/en_mx/Owners_Manual.pdf" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/ownersmanual/modely/en_mx/Owners_Manual.pdf</a></li>
+<li class="">RDW, <strong>RDW response following Tesla's call to action</strong> (24/11/2025): <a href="https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action</a></li>
+</ul>]]></content:encoded>
+            <category>fsd</category>
+            <category>tesla</category>
+            <category>ai</category>
+            <category>testing</category>
+            <category>espana</category>
+            <category>europa</category>
+            <category>vision</category>
+        </item>
         <item>
             <title><![CDATA[Tesla pone fecha al examen europeo: FSD cierra pruebas con RDW y entra en revisión final]]></title>
             <link>https://fsd.pepetox.es/fsd-rdw-expediente-final</link>
@@ -1528,55 +1625,6 @@ Un sistema que gestiona bien la décima, cuando todo se complica, genera confian
             <category>testing</category>
             <category>espana</category>
             <category>seguridad</category>
-            <category>regulations</category>
-        </item>
-        <item>
-            <title><![CDATA[La intersección invisible: FSD ante la prioridad a la derecha en España]]></title>
-            <link>https://fsd.pepetox.es/prioridad-derecha-intersecciones-fsd</link>
-            <guid>https://fsd.pepetox.es/prioridad-derecha-intersecciones-fsd</guid>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[En los cruces sin semáforo ni marcas, el FSD no solo debe ver: tiene que negociar la prioridad a la derecha y anticipar intenciones humanas en milisegundos.]]></description>
-            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="Tesla FSD ante una intersección sin señalizar en un pueblo español" src="https://fsd.pepetox.es/assets/images/fsd_interseccion_pueblo_espana-31d8d4ef3f115c613cd72734ebd9b67e.png" width="1024" height="1024" class="img_ev3q"></p>
-<p>Es temprano y atraviesas un pueblo castellano. Dos calles se cruzan sin semáforo, sin líneas claras, sin carteles visibles a tiempo. Un coche aparece por la derecha a 30 km/h. No hay duda para un humano: <strong>ceder el paso</strong>. Para un sistema end‑to‑end, esa “regla silenciosa” es un test de inteligencia situacional, no de visión.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detonante-europeo-la-demostración-de-febrero-no-será-un-paseo">El detonante europeo: la demostración de febrero no será un paseo<a href="https://fsd.pepetox.es/prioridad-derecha-intersecciones-fsd#el-detonante-europeo-la-demostraci%C3%B3n-de-febrero-no-ser%C3%A1-un-paseo" class="hash-link" aria-label="Enlace directo al El detonante europeo: la demostración de febrero no será un paseo" title="Enlace directo al El detonante europeo: la demostración de febrero no será un paseo" translate="no">​</a></h2>
-<p>La RDW (Países Bajos) ha dejado claro que <strong>febrero de 2026 es una demostración</strong> para FSD Supervised, no una aprobación automática. Y que el calendario está condicionado a cumplir los requisitos de seguridad. Esto cambia el foco: la IA debe superar <strong>escenarios reales</strong> donde las normas no están pintadas en el suelo, sino en la cultura de conducción. En España, el cruce sin señalización es un “examen práctico” diario.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-la-prioridad-a-la-derecha-es-un-problema-de-ia-y-no-de-mapas">Por qué la prioridad a la derecha es un problema de IA (y no de mapas)<a href="https://fsd.pepetox.es/prioridad-derecha-intersecciones-fsd#por-qu%C3%A9-la-prioridad-a-la-derecha-es-un-problema-de-ia-y-no-de-mapas" class="hash-link" aria-label="Enlace directo al Por qué la prioridad a la derecha es un problema de IA (y no de mapas)" title="Enlace directo al Por qué la prioridad a la derecha es un problema de IA (y no de mapas)" translate="no">​</a></h2>
-<p>En teoría, el reglamento es simple. En la práctica, estas intersecciones son un sistema de negociación humana:</p>
-<ul>
-<li class=""><strong>Conocimiento implícito</strong>: un conductor sabe que “toca” ceder aunque no haya señal. La IA debe inferirlo sin apoyo explícito.</li>
-<li class=""><strong>Intenciones rápidas</strong>: un coche que frena levemente puede “ceder”, pero otro puede acelerar para pasar. El comportamiento es ambiguo.</li>
-<li class=""><strong>Entorno visual pobre</strong>: calles estrechas, coches aparcados, esquinas ciegas y marcas borradas reducen el tiempo útil de decisión.</li>
-</ul>
-<p>Un mapa HD no resuelve esto. El mapa puede decir “intersección”, pero <strong>no puede predecir quién va a ceder</strong>. La decisión real exige leer velocidades, posiciones y micro‑gestos del tráfico en tiempo real.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs. realidad<a href="https://fsd.pepetox.es/prioridad-derecha-intersecciones-fsd#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad" title="Enlace directo al Expectativa vs. realidad" translate="no">​</a></h2>
-<p><strong>Expectativa:</strong> “Si detecta el coche de la derecha, simplemente frena.”</p>
-<p><strong>Realidad:</strong> frenar siempre no es seguro ni socialmente aceptable. En algunos cruces, detenerse cuando no hace falta provoca confusión y riesgo por alcance. El FSD necesita <strong>política de negociación</strong>, no solo detección de objetos.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-tendría-que-demostrar-fsd-para-aprobar-en-europa">Qué tendría que demostrar FSD para aprobar en Europa<a href="https://fsd.pepetox.es/prioridad-derecha-intersecciones-fsd#qu%C3%A9-tendr%C3%ADa-que-demostrar-fsd-para-aprobar-en-europa" class="hash-link" aria-label="Enlace directo al Qué tendría que demostrar FSD para aprobar en Europa" title="Enlace directo al Qué tendría que demostrar FSD para aprobar en Europa" translate="no">​</a></h2>
-<p>La regulación DCAS (UN R171) exige no solo conducción competente, sino <strong>gestión responsable del conductor</strong> y comunicación clara de límites. En un cruce sin señalizar, eso se traduce en tres requisitos prácticos:</p>
-<ol>
-<li class=""><strong>Confianza calibrada</strong>: saber cuándo ceder y cuándo avanzar, sin bloqueos ni brusquedad.</li>
-<li class=""><strong>Explicabilidad de la decisión</strong>: si el sistema duda, debe pedir al conductor de forma temprana, no en el último segundo.</li>
-<li class=""><strong>Consistencia</strong>: que el comportamiento sea estable y predecible para otros conductores (lo que evita accidentes “por sorpresa”).</li>
-</ol>
-<p>Este es el tipo de escenario que no se resuelve con una demo bonita en autopista. Es una prueba de <strong>cultura vial local</strong>, y Europa la va a medir con lupa.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-paso-siguiente-para-españa">El paso siguiente para España<a href="https://fsd.pepetox.es/prioridad-derecha-intersecciones-fsd#el-paso-siguiente-para-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al El paso siguiente para España" title="Enlace directo al El paso siguiente para España" translate="no">​</a></h2>
-<p>Si queremos un FSD que funcione aquí, la receta es clara: <strong>datos locales</strong>, entrenamiento con intersecciones reales y validación transparente. No basta con “conducir bien”; hay que <strong>conducir como se conduce en España</strong>.</p>
-<p>Si te interesan otros retos europeos donde la norma es dinámica, te recomiendo nuestro análisis sobre <a class="" href="https://fsd.pepetox.es/fsd-carril-bus-paneles-variables">carriles bus y paneles variables</a> y la lectura de la <a class="" href="https://fsd.pepetox.es/fsd-paso-cebra-espana">interacción con peatones en cruces</a>.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/prioridad-derecha-intersecciones-fsd#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h3>
-<p>El futuro del FSD en Europa no se decide en una autopista perfecta. Se decide en cruces invisibles donde la IA debe entender reglas no escritas. <strong>Ahí está el verdadero examen</strong>.</p>
-<p>¿Has vivido un cruce así con tu Tesla? Cuéntalo en comentarios y sigue el blog: lo que pase en febrero es solo el primer capítulo.</p>
-<hr>
-<p><strong>Fuentes</strong></p>
-<ul>
-<li class="">RDW: respuesta oficial sobre la demostración de FSD Supervised en febrero de 2026. <a href="https://www.rdw.nl/particulier/nieuws/2025/rdw-reageert-op-berichtgeving-over-toelating-full-self-driving-systeem-tesla" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/particulier/nieuws/2025/rdw-reageert-op-berichtgeving-over-toelating-full-self-driving-systeem-tesla</a></li>
-<li class="">UNECE: Reglamento UN R171 (DCAS) y requisitos de responsabilidad y atención del conductor. <a href="https://unece.org/transport/documents/2024/09/press-releases/new-un-regulation-help-keep-driver-engaged" target="_blank" rel="noopener noreferrer" class="">https://unece.org/transport/documents/2024/09/press-releases/new-un-regulation-help-keep-driver-engaged</a></li>
-<li class="">EUR-Lex: texto consolidado del Reglamento UN R171. <a href="https://eur-lex.europa.eu/eli/reg/2021/387/oj" target="_blank" rel="noopener noreferrer" class="">https://eur-lex.europa.eu/eli/reg/2021/387/oj</a></li>
-</ul>]]></content:encoded>
-            <category>fsd</category>
-            <category>tesla</category>
-            <category>ai</category>
-            <category>testing</category>
-            <category>espana</category>
             <category>regulations</category>
         </item>
     </channel>
