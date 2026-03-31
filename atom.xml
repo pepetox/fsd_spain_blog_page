@@ -2,11 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fsd.pepetox.es</id>
     <title>FSD Spain Blog</title>
-    <updated>2026-03-24T00:00:00.000Z</updated>
+    <updated>2026-03-31T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fsd.pepetox.es"/>
     <subtitle>FSD Spain Blog</subtitle>
     <icon>https://fsd.pepetox.es/img/fsdspain.png</icon>
+    <entry>
+        <title type="html"><![CDATA[El mapa sur de FSD en Europa ya es oficial: Padua y Montpellier se parecen mucho más a España que Ámsterdam]]></title>
+        <id>https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier</id>
+        <link href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier"/>
+        <updated>2026-03-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A 31 de marzo de 2026, Tesla mantiene ride-alongs de FSD Supervised en el sur de Europa y prolonga Padua hasta el 30 de abril. Analizamos por qué ese detalle importa más para España que otra demo bonita en el norte.]]></summary>
+        <content type="html"><![CDATA[<p>A las siete y media de la tarde, en una salida urbana cualquiera del norte de Italia, el examen no consiste en seguir un carril perfecto. Consiste en leer una moto que aparece tarde por el retrovisor, una rotonda mal resuelta por el tráfico, una furgoneta medio invadiendo el borde derecho y un conductor de detrás que no te va a regalar ni medio segundo. Si Tesla quiere demostrar que <strong>FSD (Supervised)</strong> puede sobrevivir a Europa de verdad, ese tipo de escenario vale más que otra vuelta limpia en una avenida amable.</p>
+<p>Y esa es precisamente la noticia útil de hoy, <strong>31 de marzo de 2026</strong>: mientras varios eventos europeos de demostración de Tesla cierran hoy en ciudades francesas como <strong>Montpellier, Lyon o Strasbourg</strong>, la compañía <strong>mantiene Padua activa hasta el 30 de abril de 2026</strong>. No es un lanzamiento comercial. No es una homologación cerrada. Pero sí es una pista oficial sobre <strong>dónde cree Tesla que merece la pena enseñar el sistema en condiciones cada vez más parecidas a las que tendría que resolver en España</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-nuevo-no-es-solo-que-haya-demos-es-dónde-siguen-vivas">Lo nuevo no es solo que haya demos: es dónde siguen vivas<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#lo-nuevo-no-es-solo-que-haya-demos-es-d%C3%B3nde-siguen-vivas" class="hash-link" aria-label="Enlace directo al Lo nuevo no es solo que haya demos: es dónde siguen vivas" title="Enlace directo al Lo nuevo no es solo que haya demos: es dónde siguen vivas" translate="no">​</a></h2>
+<p>Tesla dejó claro en su actualización <strong>Q4/FY 2025</strong>, publicada el <strong>28 de enero de 2026</strong>, que seguía buscando aprobación regulatoria en Europa y que ya estaba ofreciendo <strong>ride-alongs</strong> a consumidores en <strong>Italia, Alemania, Francia y Suiza</strong>. Ese dato ya era importante. Lo que cambia la lectura a cierre de marzo es el mapa operativo visible en la propia web de eventos de Tesla:</p>
+<ul>
+<li class=""><strong>Montpellier</strong> figura con sesiones del <strong>23 de febrero al 31 de marzo de 2026</strong>.</li>
+<li class=""><strong>Lyon</strong> figura del <strong>4 al 31 de marzo de 2026</strong>.</li>
+<li class=""><strong>Strasbourg</strong> figura del <strong>4 al 31 de marzo de 2026</strong>.</li>
+<li class=""><strong>Padua</strong> figura del <strong>28 de febrero al 30 de abril de 2026</strong>.</li>
+</ul>
+<p>La inferencia razonable es esta: Tesla no está limitándose a enseñar FSD donde la foto queda mejor. Está prolongando presencia en un entorno del sur europeo donde la conducción cotidiana se parece bastante más a la mezcla ibérica de <strong>rotondas, fricción urbana, motos, carriles ambiguos y negociación social</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-padua-importa-más-a-españa-que-otra-demo-neerlandesa">Por qué Padua importa más a España que otra demo neerlandesa<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#por-qu%C3%A9-padua-importa-m%C3%A1s-a-espa%C3%B1a-que-otra-demo-neerlandesa" class="hash-link" aria-label="Enlace directo al Por qué Padua importa más a España que otra demo neerlandesa" title="Enlace directo al Por qué Padua importa más a España que otra demo neerlandesa" translate="no">​</a></h2>
+<p>Ámsterdam fue útil para demostrar que la red neuronal no se descompone entre bicicletas, peatones y calles compactas. Pero España no es Ámsterdam.</p>
+<p>El examen español probable para FSD no será una postal de canal ni una calle históricamente pacificada. Será algo mucho menos glamuroso:</p>
+<ul>
+<li class="">rotondas de varios radios con entradas agresivas;</li>
+<li class="">travesías con coches mal aparcados;</li>
+<li class="">cambios de prioridad que se resuelven por contexto más que por geometría ideal;</li>
+<li class="">scooters, motos y ciclistas entrando y saliendo del campo visual con poca cortesía;</li>
+<li class="">lluvia intermitente, sol bajo y marcas viales que a veces parecen sugerencias.</li>
+</ul>
+<p>Italia y el sur de Francia no son España, pero comparten suficiente ADN vial como para que estas demos valgan más, para nosotros, que muchas pruebas del norte. Si FSD se comporta con naturalidad ahí, la conversación sobre España deja de ser solo regulatoria y empieza a ser también <strong>conductual</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-propia-tesla-ya-admite-que-europa-no-es-copiar-y-pegar">La propia Tesla ya admite que Europa no es copiar y pegar<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#la-propia-tesla-ya-admite-que-europa-no-es-copiar-y-pegar" class="hash-link" aria-label="Enlace directo al La propia Tesla ya admite que Europa no es copiar y pegar" title="Enlace directo al La propia Tesla ya admite que Europa no es copiar y pegar" translate="no">​</a></h2>
+<p>Aquí conviene dejar a un lado el hype y leer la documentación oficial. En el <strong>manual vigente del Model Y 2025+</strong>, Tesla explica que <strong>FSD (Supervised)</strong> intenta conducir hasta el destino, incluyendo <strong>intersecciones, giros, rotondas y entradas o salidas de autopista</strong>. Eso suena ambicioso, pero el matiz clave viene justo después.</p>
+<p>Tesla también advierte que, al expandir el sistema a nuevos países, debe adaptarse a la <strong>infraestructura, los hábitos de conducción y los patrones de tráfico específicos de cada país</strong>. Y no se queda en la abstracción: entre los ejemplos donde puede hacer falta intervención humana menciona <strong>carreteras estrechas con tráfico de frente o vehículos en doble fila</strong>, <strong>zonas de obras</strong> e <strong>intersecciones complejas</strong>.</p>
+<p>Traducido al idioma de cualquier conductor español: Tesla ya sabe perfectamente cuál es el examen. No habla solo de semáforos y carriles claros. Habla de las mismas situaciones donde un humano competente mezcla visión, intuición social y paciencia.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs realidad<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs realidad" title="Enlace directo al Expectativa vs realidad" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa">Expectativa<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#expectativa" class="hash-link" aria-label="Enlace directo al Expectativa" title="Enlace directo al Expectativa" translate="no">​</a></h3>
+<p>"Si Tesla mantiene eventos en Italia y Francia, Europa está a semanas de tener FSD abierto para todos".</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad">Realidad<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#realidad" class="hash-link" aria-label="Enlace directo al Realidad" title="Enlace directo al Realidad" translate="no">​</a></h3>
+<p>Lo serio, a <strong>31 de marzo de 2026</strong>, es decir algo más preciso:</p>
+<ul>
+<li class="">Tesla <strong>sí</strong> está ampliando y manteniendo exposición pública de FSD en Europa continental.</li>
+<li class="">Tesla <strong>sí</strong> parece elegir escenarios cada vez más útiles para validar conducción real, no solo marketing.</li>
+<li class="">Tesla <strong>no</strong> ha anunciado todavía disponibilidad comercial general en España.</li>
+<li class="">Tesla <strong>sigue</strong> condicionada por aprobación regulatoria europea y nacional.</li>
+</ul>
+<p>Eso no resta importancia a lo que estamos viendo. Al contrario: lo vuelve más interesante. Cuando una empresa mantiene demostraciones supervisadas durante semanas y las extiende en plazas concretas, no está vendiendo una fantasía instantánea. Está acumulando confianza, datos y narrativa pública en paralelo al expediente regulatorio.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detalle-técnico-que-de-verdad-separa-una-demo-buena-de-un-producto-europeo">El detalle técnico que de verdad separa una demo buena de un producto europeo<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#el-detalle-t%C3%A9cnico-que-de-verdad-separa-una-demo-buena-de-un-producto-europeo" class="hash-link" aria-label="Enlace directo al El detalle técnico que de verdad separa una demo buena de un producto europeo" title="Enlace directo al El detalle técnico que de verdad separa una demo buena de un producto europeo" translate="no">​</a></h2>
+<p>En Estados Unidos, una gran parte del debate gira alrededor de millas sin intervención, viajes largos o suavidad general del sistema. En Europa, y especialmente pensando en España, hay una capa adicional: <strong>la legibilidad social de la maniobra</strong>.</p>
+<p>Un sistema puede detectar bien un coche, una moto y un bordillo, y aun así conducir mal para estándares humanos si:</p>
+<ul>
+<li class="">duda demasiado antes de entrar en una rotonda;</li>
+<li class="">frena tarde y transmite nerviosismo;</li>
+<li class="">invade espacio de forma técnicamente segura pero socialmente torpe;</li>
+<li class="">o se queda bloqueado cuando otro conductor espera una cesión clara.</li>
+</ul>
+<p>Ese es el motivo por el que el mapa sur importa tanto. En estas geografías, FSD no solo tiene que "ver". Tiene que <strong>negociar</strong>. Y negociar bien es una mezcla de predicción, control del riesgo y comunicación implícita con otros usuarios.</p>
+<p>Si quieres ver por qué este cuello de botella importa tanto, puedes leer <a class="" href="https://fsd.pepetox.es/fsd-calles-estrechas-espana">nuestro análisis sobre el examen de las calles estrechas españolas</a>. Y si te interesa la parte regulatoria dura, sigue siendo clave <a class="" href="https://fsd.pepetox.es/fsd-rdw-expediente-final">la revisión final del expediente con RDW</a>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-debería-vigilar-la-comunidad-fsd-en-españa-a-partir-de-abril">Lo que debería vigilar la comunidad FSD en España a partir de abril<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#lo-que-deber%C3%ADa-vigilar-la-comunidad-fsd-en-espa%C3%B1a-a-partir-de-abril" class="hash-link" aria-label="Enlace directo al Lo que debería vigilar la comunidad FSD en España a partir de abril" title="Enlace directo al Lo que debería vigilar la comunidad FSD en España a partir de abril" translate="no">​</a></h2>
+<p>Abril no será interesante por un rumor más en X, sino por señales mucho más concretas:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-si-padua-se-queda-sola-o-se-convierte-en-patrón">1. Si Padua se queda sola o se convierte en patrón<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#1-si-padua-se-queda-sola-o-se-convierte-en-patr%C3%B3n" class="hash-link" aria-label="Enlace directo al 1. Si Padua se queda sola o se convierte en patrón" title="Enlace directo al 1. Si Padua se queda sola o se convierte en patrón" translate="no">​</a></h3>
+<p>Si Tesla prolonga o replica eventos similares en más ciudades del sur europeo, la lectura será clara: está explorando entornos más transferibles a mercados como España.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-si-el-discurso-oficial-cambia-de-experiencia-a-despliegue">2. Si el discurso oficial cambia de "experiencia" a "despliegue"<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#2-si-el-discurso-oficial-cambia-de-experiencia-a-despliegue" class="hash-link" aria-label="Enlace directo al 2. Si el discurso oficial cambia de &quot;experiencia&quot; a &quot;despliegue&quot;" title="Enlace directo al 2. Si el discurso oficial cambia de &quot;experiencia&quot; a &quot;despliegue&quot;" translate="no">​</a></h3>
+<p>La frontera importante sigue siendo documental. Una demo es demostración. Una página oficial de disponibilidad o una homologación efectiva es otra cosa.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-si-aparecen-más-señales-de-adaptación-al-estilo-de-conducción-local">3. Si aparecen más señales de adaptación al estilo de conducción local<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#3-si-aparecen-m%C3%A1s-se%C3%B1ales-de-adaptaci%C3%B3n-al-estilo-de-conducci%C3%B3n-local" class="hash-link" aria-label="Enlace directo al 3. Si aparecen más señales de adaptación al estilo de conducción local" title="Enlace directo al 3. Si aparecen más señales de adaptación al estilo de conducción local" translate="no">​</a></h3>
+<p>No basta con que el coche complete la ruta. Debe hacerlo de forma comprensible para el resto del tráfico. En Europa, esa naturalidad vale casi tanto como la precisión.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
+<p>La actualización más útil del día no es una nueva promesa ni una fecha grandilocuente. Es algo más sobrio y, por eso mismo, más valioso: <strong>Tesla mantiene vivo su escaparate de FSD en el sur de Europa mientras varias citas francesas cierran hoy, 31 de marzo de 2026, y Padua sigue hasta el 30 de abril</strong>.</p>
+<p>Para la comunidad española, eso importa porque acerca el foco a carreteras, rotondas y comportamientos humanos que se parecen bastante más a nuestro examen real. El futuro de FSD en Europa no se decidirá solo en el reglamento ni solo en un vídeo viral. Se decidirá cuando la red neuronal sea capaz de parecer competente, prudente y natural en la Europa menos idealizada.</p>
+<p>Seguiremos atentos a cualquier movimiento oficial que convierta estas demostraciones en validación regulatoria y, más tarde, en disponibilidad real para España.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class=""><a href="https://ir.tesla.com/_flysystem/s3/sec/000162828026003837/tsla-20260128-gen.pdf" target="_blank" rel="noopener noreferrer" class="">Tesla Q4/FY 2025 Update (28 de enero de 2026)</a></li>
+<li class=""><a href="https://www.tesla.com/event/full-self-driving--supervised--ride-along-experience-in--padova" target="_blank" rel="noopener noreferrer" class="">Tesla Events: Full Self-Driving (Supervised) Ride-Along Experience in Padova</a></li>
+<li class=""><a href="https://www.tesla.com/event/full-self-driving--supervised--ride-along-experience-in-montpellier" target="_blank" rel="noopener noreferrer" class="">Tesla Events: Full Self-Driving (Supervised) Ride-Along Experience in Montpellier</a></li>
+<li class=""><a href="https://www.tesla.com/event/full-self-driving-supervised-ride-along-experience-in-lyon" target="_blank" rel="noopener noreferrer" class="">Tesla Events: Full Self-Driving (Supervised) Ride-Along Experience in Lyon</a></li>
+<li class=""><a href="https://www.tesla.com/event/full-self-driving-supervised-ride-along-experience-in-strasbourg" target="_blank" rel="noopener noreferrer" class="">Tesla Events: Full Self-Driving (Supervised) Ride-Along Experience in Strasbourg</a></li>
+<li class=""><a href="https://www.tesla.com/ownersmanual/modely/en_us/Owners_Manual.pdf" target="_blank" rel="noopener noreferrer" class="">Tesla Model Y Owner’s Manual 2025+</a></li>
+</ul>]]></content>
+        <author>
+            <name>The Autonomous Pilot</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="tesla" term="tesla"/>
+        <category label="europa" term="europa"/>
+        <category label="testing" term="testing"/>
+        <category label="ai" term="ai"/>
+        <category label="espana" term="espana"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ámsterdam enseña la demo; España pondrá el examen final a FSD en las calles estrechas]]></title>
         <id>https://fsd.pepetox.es/fsd-calles-estrechas-espana</id>
@@ -1622,87 +1709,6 @@ Un sistema que gestiona bien la décima, cuando todo se complica, genera confian
         <category label="ai" term="ai"/>
         <category label="testing" term="testing"/>
         <category label="europa" term="europa"/>
-        <category label="seguridad" term="seguridad"/>
-        <category label="regulations" term="regulations"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[El pasillo de emergencia: cuando FSD tiene que entender una sirena española]]></title>
-        <id>https://fsd.pepetox.es/pasillo-emergencia-sirenas-fsd</id>
-        <link href="https://fsd.pepetox.es/pasillo-emergencia-sirenas-fsd"/>
-        <updated>2026-02-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[EEUU ya entrena a FSD para ceder a vehículos de emergencia. En España, el reto real es crear el pasillo, anticipar a los humanos y no bloquear la vía.]]></summary>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="Un Tesla creando pasillo de emergencia en una autopista española mientras se acerca una ambulancia" src="https://fsd.pepetox.es/assets/images/fsd_pasillo_emergencia_sirenas_espana-36784aad1747d69a92d2475d6dda3e8b.png" width="1200" height="630" class="img_ev3q"></p>
-<p>M-40, hora punta. Vas por el carril central y, de repente, el retrovisor se llena de destellos azules. La sirena no te pide permiso: te obliga a improvisar una coreografía colectiva con desconocidos. Los coches se abren, alguien duda, otro frena tarde, una moto se cuela por el hueco. En España lo llamamos <strong>pasillo de emergencia</strong>. Y ahí, justo ahí, es donde se separa una asistencia “que conduce” de una asistencia que <strong>entiende la carretera como un sistema social</strong>.</p>
-<p>En EEUU, Tesla ya está empujando una pieza clave: que FSD <em>Supervised</em> detecte vehículos de emergencia y <strong>ceda el paso o se aparte</strong>. En Europa, sin embargo, no basta con “orillarse”. El examen es más fino: ¿puede el sistema ayudar a crear pasillo sin generar caos, sin frenar por pánico y sin inducir a otros a maniobras peligrosas?</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-regla-no-escrita-el-pasillo-es-un-comportamiento-de-grupo">La regla no escrita: el pasillo es un comportamiento de grupo<a href="https://fsd.pepetox.es/pasillo-emergencia-sirenas-fsd#la-regla-no-escrita-el-pasillo-es-un-comportamiento-de-grupo" class="hash-link" aria-label="Enlace directo al La regla no escrita: el pasillo es un comportamiento de grupo" title="Enlace directo al La regla no escrita: el pasillo es un comportamiento de grupo" translate="no">​</a></h2>
-<p>La DGT lo explica de forma simple: cuando llega un vehículo prioritario, la vía debe despejarse para que pase. Pero en la práctica española el “cómo” es el problema:</p>
-<ul>
-<li class="">En autopista de 2 carriles, se espera que el carril izquierdo se pegue a la izquierda y el derecho a la derecha para abrir un corredor.</li>
-<li class="">En 3 o 4 carriles, la decisión depende de densidad, arcenes, salidas cercanas y de si hay motos filtrando.</li>
-<li class="">En túneles y tramos con obras, el margen físico desaparece y el riesgo sube.</li>
-</ul>
-<p>Un humano competente no sigue solo una norma: <strong>lee al resto</strong>. Si el coche de delante duda, tú no aceleras. Si el de al lado se abre, tú acompañas. Y si hay un motorista, dejas espacio “extra” aunque la línea no lo pida.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-nuevo-y-lo-importante-fsd-ya-practica-el-gesto-correcto">Lo nuevo (y lo importante): FSD ya practica el gesto correcto<a href="https://fsd.pepetox.es/pasillo-emergencia-sirenas-fsd#lo-nuevo-y-lo-importante-fsd-ya-practica-el-gesto-correcto" class="hash-link" aria-label="Enlace directo al Lo nuevo (y lo importante): FSD ya practica el gesto correcto" title="Enlace directo al Lo nuevo (y lo importante): FSD ya practica el gesto correcto" translate="no">​</a></h2>
-<p>En las notas de versiones recientes en EEUU se menciona explícitamente una mejora: el sistema <strong>responde a vehículos de emergencia</strong> (por ejemplo, cediendo paso o apartándose cuando detecta luces y contexto). No es un detalle cosmético: es una habilidad que conecta visión, planificación y normas implícitas.</p>
-<p>La lectura estratégica es clara: si Tesla quiere un FSD creíble en Europa, necesita dominar los escenarios donde la seguridad no depende de un carril bien pintado, sino de <strong>prioridades dinámicas</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="españa-como-stress-test-sirena-densidad-y-motos">España como “stress test”: sirena, densidad y motos<a href="https://fsd.pepetox.es/pasillo-emergencia-sirenas-fsd#espa%C3%B1a-como-stress-test-sirena-densidad-y-motos" class="hash-link" aria-label="Enlace directo al España como “stress test”: sirena, densidad y motos" title="Enlace directo al España como “stress test”: sirena, densidad y motos" translate="no">​</a></h2>
-<p>Si tuviera que elegir un solo escenario para medir la madurez del FSD en nuestras carreteras, no sería una rotonda perfecta ni una autopista vacía. Sería este:</p>
-<ol>
-<li class="">Tráfico denso, velocidad variable.</li>
-<li class="">Un vehículo de emergencia acercándose por detrás.</li>
-<li class="">Motos filtrando entre carriles.</li>
-<li class="">Señalización temporal (obras, conos, carril cerrado).</li>
-</ol>
-<p>Aquí los fallos típicos de un sistema end-to-end no son “se salió del carril”. Son fallos sociales:</p>
-<ul>
-<li class=""><strong>Frenazo innecesario</strong>: crea riesgo de alcance y bloquea el corredor.</li>
-<li class=""><strong>Orillarse tarde</strong>: obliga a otros a maniobras bruscas.</li>
-<li class=""><strong>Movimiento ambiguo</strong>: si tu intención no es clara, el resto no te acompaña.</li>
-</ul>
-<p>En otras palabras: el pasillo no es una maniobra. Es una negociación en tiempo real.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-tendría-que-demostrar-fsd-para-que-europa-lo-tome-en-serio">Qué tendría que demostrar FSD para que Europa lo tome en serio<a href="https://fsd.pepetox.es/pasillo-emergencia-sirenas-fsd#qu%C3%A9-tendr%C3%ADa-que-demostrar-fsd-para-que-europa-lo-tome-en-serio" class="hash-link" aria-label="Enlace directo al Qué tendría que demostrar FSD para que Europa lo tome en serio" title="Enlace directo al Qué tendría que demostrar FSD para que Europa lo tome en serio" translate="no">​</a></h2>
-<p>Bajo el paraguas UNECE/DCAS, Europa insiste en una idea: sistemas potentes, sí, pero <strong>supervisados</strong>, con límites comunicados y con el conductor en control cuando toca. En un escenario de emergencia eso implica requisitos muy concretos (aunque la regulación no use esas palabras):</p>
-<ul>
-<li class="">Detectar pronto el evento (luces, trayectorias, comportamiento del tráfico).</li>
-<li class="">Planificar una maniobra <em>suave y legible</em> para los demás.</li>
-<li class="">No “secuestrar” al conductor: si el sistema duda, debe pedir ayuda con tiempo.</li>
-</ul>
-<p>Si te interesa el marco europeo de responsabilidades y atención, enlaza con el contexto de estos dos posts recientes:</p>
-<ul>
-<li class=""><a class="" href="https://fsd.pepetox.es/limites-fsd-atencion-conductor">Europa obliga a explicar los límites del FSD: el examen real es la atención del conductor</a></li>
-<li class=""><a class="" href="https://fsd.pepetox.es/prioridad-derecha-intersecciones-fsd">La intersección invisible: FSD ante la prioridad a la derecha en España</a></li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-solución-no-es-magia-es-instrumentación--datos--pruebas-europeas">La solución no es magia: es instrumentación + datos + pruebas europeas<a href="https://fsd.pepetox.es/pasillo-emergencia-sirenas-fsd#la-soluci%C3%B3n-no-es-magia-es-instrumentaci%C3%B3n--datos--pruebas-europeas" class="hash-link" aria-label="Enlace directo al La solución no es magia: es instrumentación + datos + pruebas europeas" title="Enlace directo al La solución no es magia: es instrumentación + datos + pruebas europeas" translate="no">​</a></h2>
-<p>El pasillo de emergencia exige tres ingredientes que Tesla (y cualquier actor) tiene que construir de forma verificable:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-señales-de-emergencia-robustas">1) Señales de emergencia “robustas”<a href="https://fsd.pepetox.es/pasillo-emergencia-sirenas-fsd#1-se%C3%B1ales-de-emergencia-robustas" class="hash-link" aria-label="Enlace directo al 1) Señales de emergencia “robustas”" title="Enlace directo al 1) Señales de emergencia “robustas”" translate="no">​</a></h3>
-<p>No basta con ver una luz azul lejana: hay reflejos, publicidad LED, ambulancias sin ángulo directo y vehículos camuflados. El sistema necesita redundancia: contexto del tráfico, patrones de aproximación y un umbral de decisión que minimice falsos positivos sin retrasar la reacción.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-políticas-de-maniobra-que-no-rompan-el-flujo">2) Políticas de maniobra que no rompan el flujo<a href="https://fsd.pepetox.es/pasillo-emergencia-sirenas-fsd#2-pol%C3%ADticas-de-maniobra-que-no-rompan-el-flujo" class="hash-link" aria-label="Enlace directo al 2) Políticas de maniobra que no rompan el flujo" title="Enlace directo al 2) Políticas de maniobra que no rompan el flujo" translate="no">​</a></h3>
-<p>En España, el pasillo se crea <em>sin parar</em> cuando se puede. La IA debe priorizar:</p>
-<ul>
-<li class="">Deceleraciones progresivas.</li>
-<li class="">Posicionamiento lateral estable.</li>
-<li class="">Señales inequívocas (sin bandazos, sin “dudas”).</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-validación-en-escenarios-reales-no-solo-vídeos">3) Validación en escenarios reales (no solo vídeos)<a href="https://fsd.pepetox.es/pasillo-emergencia-sirenas-fsd#3-validaci%C3%B3n-en-escenarios-reales-no-solo-v%C3%ADdeos" class="hash-link" aria-label="Enlace directo al 3) Validación en escenarios reales (no solo vídeos)" title="Enlace directo al 3) Validación en escenarios reales (no solo vídeos)" translate="no">​</a></h3>
-<p>Europa no va a aceptar “parece que lo hizo bien” en un clip. Necesita evidencia: repetición, métricas, y comportamiento consistente con usuarios vulnerables alrededor.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/pasillo-emergencia-sirenas-fsd#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
-<p>Que FSD aprenda a ceder a una ambulancia es una mejora real. Pero en España el reto no es <em>ver</em> la emergencia: es <strong>coordinarse con humanos bajo presión</strong>. Si Tesla quiere que Europa confíe, tiene que convertir el pasillo de emergencia en una conducta estable, legible y auditable.</p>
-<p>¿Has vivido un “pasillo” complicado con tu Tesla (con Autopilot o sin él)? Cuéntalo en comentarios. Y si quieres que sigamos bajando la autonomía a escenarios españoles reales, quédate por aquí: esa es la batalla que decide el futuro del FSD en Europa.</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/pasillo-emergencia-sirenas-fsd#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
-<ul>
-<li class="">Not a Tesla App: notas de versión de FSD <em>Supervised</em> v14.2.2.3 (menciona mejoras de respuesta a vehículos de emergencia). <a href="https://www.notateslaapp.com/software-updates/version/2026.2.2.3/release-notes" target="_blank" rel="noopener noreferrer" class="">https://www.notateslaapp.com/software-updates/version/2026.2.2.3/release-notes</a></li>
-<li class="">DGT: información sobre el “corredor/pasillo de emergencia” y recomendaciones de actuación. <a href="https://www.dgt.es/comunicacion/noticias/corredor-de-emergencia/" target="_blank" rel="noopener noreferrer" class="">https://www.dgt.es/comunicacion/noticias/corredor-de-emergencia/</a></li>
-</ul>]]></content>
-        <author>
-            <name>The Autonomous Pilot</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="fsd" term="fsd"/>
-        <category label="tesla" term="tesla"/>
-        <category label="ai" term="ai"/>
-        <category label="testing" term="testing"/>
-        <category label="espana" term="espana"/>
         <category label="seguridad" term="seguridad"/>
         <category label="regulations" term="regulations"/>
     </entry>
