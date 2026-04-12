@@ -2,11 +2,179 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fsd.pepetox.es</id>
     <title>FSD Spain Blog</title>
-    <updated>2026-04-07T00:00:00.000Z</updated>
+    <updated>2026-04-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fsd.pepetox.es"/>
     <subtitle>FSD Spain Blog</subtitle>
     <icon>https://fsd.pepetox.es/img/fsdspain.png</icon>
+    <entry>
+        <title type="html"><![CDATA[FSD Supervised ya es legal en Países Bajos: qué ha aprobado exactamente la RDW y por qué Europa todavía no ha cruzado la última puerta]]></title>
+        <id>https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real</id>
+        <link href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real"/>
+        <updated>2026-04-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[La RDW ha aprobado Tesla FSD Supervised con validez provisional en Países Bajos. Analizamos qué se ha autorizado, qué límites tiene y por qué aún no equivale a una aprobación paneuropea.]]></summary>
+        <content type="html"><![CDATA[<p>En una calle estrecha de Ámsterdam, con una bici entrando tarde por la derecha, un tranvía ocupando media escena y una señal europea que no perdona ambigüedades, la pregunta ya no es si Tesla puede grabar una demo bonita. La pregunta, a <strong>12 de abril de 2026</strong>, es otra: <strong>si Europa ha dado por fin su primer sí regulatorio real a FSD Supervised</strong>.</p>
+<p>La respuesta correcta es: <strong>sí, pero solo si se dice con precisión quirúrgica</strong>. El <strong>10 de abril de 2026</strong>, la <strong>RDW</strong> neerlandesa confirmó que ha emitido una <strong>type approval</strong> para <strong>Tesla FSD Supervised</strong> con <strong>validez provisional en Países Bajos</strong>. Eso convierte el tema en noticia grande de verdad. Pero no significa que “Europa haya aprobado FSD” en bloque. Significa algo más interesante: <strong>Tesla ha pasado de la fase de demostración a la fase de uso legal real en un Estado miembro</strong>.</p>
+<p><img decoding="async" loading="lazy" alt="Ilustración editorial de un Tesla con FSD Supervised circulando por una calle neerlandesa bajo supervisión regulatoria" src="https://fsd.pepetox.es/assets/images/2026-04-12-fsd-paises-bajos-rdw-aprobacion-79fd628dd98b0f1e35696f8b6f5ebb04.png" width="1376" height="768" class="img_ev3q"></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-noticia-importante-no-es-el-hype-es-el-verbo-regulatorio">La noticia importante no es el hype: es el verbo regulatorio<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#la-noticia-importante-no-es-el-hype-es-el-verbo-regulatorio" class="hash-link" aria-label="Enlace directo al La noticia importante no es el hype: es el verbo regulatorio" title="Enlace directo al La noticia importante no es el hype: es el verbo regulatorio" translate="no">​</a></h2>
+<p>Durante meses el lenguaje europeo alrededor de FSD ha estado lleno de ruido: ride-alongs, capturas de pantalla, fechas filtradas, promesas en X y mucha confusión entre <strong>demo</strong>, <strong>evaluación</strong>, <strong>exención</strong>, <strong>homologación</strong> y <strong>lanzamiento</strong>.</p>
+<p>El comunicado de la RDW del <strong>10 de abril de 2026</strong> cambia eso porque usa el verbo que importa: <strong>approve</strong>.</p>
+<p>Lo que dice el regulador, en esencia, es esto:</p>
+<ul>
+<li class="">Tesla ha recibido una <strong>type approval</strong> para FSD Supervised.</li>
+<li class="">Esa aprobación tiene <strong>provisional validity in the Netherlands</strong>.</li>
+<li class="">El sistema ha sido evaluado durante más de <strong>1,5 años</strong>.</li>
+<li class="">La autoridad considera que el sistema aporta una <strong>contribución positiva a la seguridad vial</strong>.</li>
+</ul>
+<p>Eso ya no es una demo. Ya no es “Tesla dice que”. Ya no es “la RDW revisará en febrero”. Es un acto regulatorio con consecuencias de producto.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-se-ha-aprobado-exactamente">Qué se ha aprobado exactamente<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#qu%C3%A9-se-ha-aprobado-exactamente" class="hash-link" aria-label="Enlace directo al Qué se ha aprobado exactamente" title="Enlace directo al Qué se ha aprobado exactamente" translate="no">​</a></h2>
+<p>Aquí conviene subir mucho el nivel de rigor, porque si el titular se simplifica demasiado se rompe solo.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="no-se-ha-aprobado-un-coche-autónomo">No se ha aprobado un coche autónomo<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#no-se-ha-aprobado-un-coche-aut%C3%B3nomo" class="hash-link" aria-label="Enlace directo al No se ha aprobado un coche autónomo" title="Enlace directo al No se ha aprobado un coche autónomo" translate="no">​</a></h3>
+<p>La propia <strong>RDW</strong> insiste en que el producto aprobado <strong>no es self-driving</strong> en sentido jurídico. Lo que se ha autorizado es un sistema dentro de la familia de <strong>driver assistance systems</strong>, no un robotaxi sin responsabilidad humana.</p>
+<p>Eso implica varias cosas:</p>
+<ul>
+<li class="">el conductor sigue siendo <strong>responsable</strong>;</li>
+<li class="">el conductor debe poder <strong>intervenir inmediatamente</strong>;</li>
+<li class="">el sistema no elimina la necesidad de supervisión;</li>
+<li class="">la aprobación no convierte a Tesla en proveedor de autonomía nivel 4 para cliente final en Europa.</li>
+</ul>
+<p>La mejor forma de decirlo es esta: <strong>Tesla ha logrado una aprobación operativa de su sistema supervisado, no una emancipación legal del conductor</strong>.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="sí-se-ha-aprobado-un-uso-mucho-más-amplio-que-el-de-un-adas-trivial">Sí se ha aprobado un uso mucho más amplio que el de un ADAS trivial<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#s%C3%AD-se-ha-aprobado-un-uso-mucho-m%C3%A1s-amplio-que-el-de-un-adas-trivial" class="hash-link" aria-label="Enlace directo al Sí se ha aprobado un uso mucho más amplio que el de un ADAS trivial" title="Enlace directo al Sí se ha aprobado un uso mucho más amplio que el de un ADAS trivial" translate="no">​</a></h3>
+<p>La página de soporte de Tesla en Países Bajos ya describe <strong>FSD (Supervised)</strong> como un sistema capaz de:</p>
+<ul>
+<li class="">seguir rutas de navegación;</li>
+<li class="">conducir por calles urbanas y residenciales;</li>
+<li class="">gestionar giros, intersecciones y rotondas;</li>
+<li class="">realizar cambios de carril;</li>
+<li class="">interactuar con tráfico complejo bajo supervisión activa.</li>
+</ul>
+<p>Eso importa porque el salto europeo no llega por una autopista vacía. Llega por el hecho de que el producto ya se presenta oficialmente para <strong>entornos urbanos reales</strong>, aunque siempre con vigilancia humana.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-ha-cambiado-respecto-a-marzo-y-por-qué-esta-vez-sí-es-distinto">Qué ha cambiado respecto a marzo y por qué esta vez sí es distinto<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#qu%C3%A9-ha-cambiado-respecto-a-marzo-y-por-qu%C3%A9-esta-vez-s%C3%AD-es-distinto" class="hash-link" aria-label="Enlace directo al Qué ha cambiado respecto a marzo y por qué esta vez sí es distinto" title="Enlace directo al Qué ha cambiado respecto a marzo y por qué esta vez sí es distinto" translate="no">​</a></h2>
+<p>Hasta hace muy poco, la historia oficial era otra.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="noviembre-de-2025-la-rdw-pone-freno-al-ruido">Noviembre de 2025: la RDW pone freno al ruido<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#noviembre-de-2025-la-rdw-pone-freno-al-ruido" class="hash-link" aria-label="Enlace directo al Noviembre de 2025: la RDW pone freno al ruido" title="Enlace directo al Noviembre de 2025: la RDW pone freno al ruido" translate="no">​</a></h3>
+<p>El <strong>24 de noviembre de 2025</strong>, después de que Tesla calentara la expectativa pública, la RDW aclaró que <strong>febrero de 2026</strong> era la fecha prevista para que Tesla demostrara cumplimiento suficiente como para <strong>solicitar</strong> una exención. No prometía aprobación.</p>
+<p>Esa matización fue crucial. El regulador estaba diciendo: “todavía no estamos aprobando nada; estamos evaluando si merece seguir avanzando”.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="marzo-de-2026-expediente-final-pero-no-cierre">Marzo de 2026: expediente final, pero no cierre<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#marzo-de-2026-expediente-final-pero-no-cierre" class="hash-link" aria-label="Enlace directo al Marzo de 2026: expediente final, pero no cierre" title="Enlace directo al Marzo de 2026: expediente final, pero no cierre" translate="no">​</a></h3>
+<p>El <strong>20 de marzo de 2026</strong>, la RDW confirmó que Tesla estaba en la <strong>fase final de evaluación</strong>. A esa fecha, el expediente seguía vivo, pero no había todavía una luz verde definitiva.</p>
+<p>Ese momento era importante, pero seguía siendo una antesala.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="abril-de-2026-la-antesala-se-convierte-en-acto-regulatorio">Abril de 2026: la antesala se convierte en acto regulatorio<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#abril-de-2026-la-antesala-se-convierte-en-acto-regulatorio" class="hash-link" aria-label="Enlace directo al Abril de 2026: la antesala se convierte en acto regulatorio" title="Enlace directo al Abril de 2026: la antesala se convierte en acto regulatorio" translate="no">​</a></h3>
+<p>Lo del <strong>10 de abril de 2026</strong> sí rompe la narrativa anterior porque la aprobación ya no es especulación. Es una resolución oficial con efecto práctico en el país que ha actuado como punta de lanza del proceso europeo.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-países-bajos-y-por-qué-esto-encaja-tanto-con-la-estrategia-de-tesla">Por qué Países Bajos y por qué esto encaja tanto con la estrategia de Tesla<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#por-qu%C3%A9-pa%C3%ADses-bajos-y-por-qu%C3%A9-esto-encaja-tanto-con-la-estrategia-de-tesla" class="hash-link" aria-label="Enlace directo al Por qué Países Bajos y por qué esto encaja tanto con la estrategia de Tesla" title="Enlace directo al Por qué Países Bajos y por qué esto encaja tanto con la estrategia de Tesla" translate="no">​</a></h2>
+<p>Tesla no ha llegado a Holanda por accidente.</p>
+<p>La <strong>RDW</strong> es uno de los reguladores técnicamente más relevantes dentro del ecosistema europeo de homologación. Países Bajos ofrece un terreno ideal para Tesla por varias razones:</p>
+<ul>
+<li class="">cultura institucional relativamente abierta a nuevas tecnologías;</li>
+<li class="">red viaria moderna y muy instrumentada;</li>
+<li class="">densidad urbana y complejidad real que sirven como banco de pruebas creíble;</li>
+<li class="">peso regulatorio suficiente para convertir un avance nacional en un posible precedente europeo.</li>
+</ul>
+<p>En otras palabras: <strong>Holanda no era solo un mercado; era el laboratorio político-jurídico correcto</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detalle-más-interesante-del-soporte-de-tesla-la-geografía-vuelve-a-mandar">El detalle más interesante del soporte de Tesla: la geografía vuelve a mandar<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#el-detalle-m%C3%A1s-interesante-del-soporte-de-tesla-la-geograf%C3%ADa-vuelve-a-mandar" class="hash-link" aria-label="Enlace directo al El detalle más interesante del soporte de Tesla: la geografía vuelve a mandar" title="Enlace directo al El detalle más interesante del soporte de Tesla: la geografía vuelve a mandar" translate="no">​</a></h2>
+<p>Uno de los datos más reveladores no está en un PDF técnico, sino en el soporte público de Tesla en neerlandés.</p>
+<p>Tesla deja claro que:</p>
+<ul>
+<li class="">FSD Supervised está <strong>disponible en Países Bajos</strong>;</li>
+<li class="">el acceso requiere activación desde el coche;</li>
+<li class="">el usuario debe ver un vídeo introductorio y completar un <strong>quiz</strong>;</li>
+<li class="">la suscripción cuesta <strong>99 euros al mes</strong>;</li>
+<li class="">si el vehículo entra en un país donde el sistema no está aprobado, <strong>FSD se desactiva tras avisar</strong>.</li>
+</ul>
+<p>Ese último punto es oro editorial.</p>
+<p>Porque convierte la regulación en una frontera funcional del producto. Europa no es solo un mapa comercial; es una red de permisos. El coche puede ser el mismo, el hardware puede ser el mismo, el stack puede ser muy parecido, pero la capacidad legal cambia al cruzar la frontera.</p>
+<p>La conclusión fuerte aquí es esta: <strong>FSD ya no está geocercado solo por software; está geocercado por derecho administrativo europeo</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="entonces-europa-ha-aprobado-fsd-o-no">Entonces, ¿Europa ha aprobado FSD o no?<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#entonces-europa-ha-aprobado-fsd-o-no" class="hash-link" aria-label="Enlace directo al Entonces, ¿Europa ha aprobado FSD o no?" title="Enlace directo al Entonces, ¿Europa ha aprobado FSD o no?" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="sí-si-hablamos-del-primer-sí-real-dentro-de-la-ue">Sí, si hablamos del primer sí real dentro de la UE<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#s%C3%AD-si-hablamos-del-primer-s%C3%AD-real-dentro-de-la-ue" class="hash-link" aria-label="Enlace directo al Sí, si hablamos del primer sí real dentro de la UE" title="Enlace directo al Sí, si hablamos del primer sí real dentro de la UE" translate="no">​</a></h3>
+<p>Si la pregunta es “¿existe ya un país de la UE donde Tesla tenga aprobación legal para FSD Supervised?”, la respuesta es <strong>sí: Países Bajos</strong>.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="no-si-hablamos-de-una-aprobación-paneuropea">No, si hablamos de una aprobación paneuropea<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#no-si-hablamos-de-una-aprobaci%C3%B3n-paneuropea" class="hash-link" aria-label="Enlace directo al No, si hablamos de una aprobación paneuropea" title="Enlace directo al No, si hablamos de una aprobación paneuropea" translate="no">​</a></h3>
+<p>Si la pregunta es “¿puede Tesla activar ya FSD Supervised en toda la Unión Europea?”, la respuesta es <strong>no</strong>.</p>
+<p>La propia RDW explica que el siguiente paso requiere:</p>
+<ol>
+<li class="">presentar el expediente ante la <strong>Comisión Europea</strong>;</li>
+<li class="">someterlo a la votación de los Estados miembros;</li>
+<li class="">obtener mayoría en el comité correspondiente.</li>
+</ol>
+<p>Eso significa que la noticia de abril no cierra la historia europea. <strong>La abre en serio</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-implica-esto-para-españa">Qué implica esto para España<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#qu%C3%A9-implica-esto-para-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Qué implica esto para España" title="Enlace directo al Qué implica esto para España" translate="no">​</a></h2>
+<p>Desde España, esta aprobación neerlandesa importa muchísimo más de lo que parece por tres razones.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-el-debate-deja-de-ser-teórico">1. El debate deja de ser teórico<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#1-el-debate-deja-de-ser-te%C3%B3rico" class="hash-link" aria-label="Enlace directo al 1. El debate deja de ser teórico" title="Enlace directo al 1. El debate deja de ser teórico" translate="no">​</a></h3>
+<p>Durante mucho tiempo se podía discutir si Europa estaba aún en fase de rumor, de pruebas o de promesa. Esa coartada se ha roto. Ya existe un Estado miembro donde el sistema ha cruzado la barrera regulatoria suficiente para uso legal.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-el-cuello-de-botella-se-desplaza">2. El cuello de botella se desplaza<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#2-el-cuello-de-botella-se-desplaza" class="hash-link" aria-label="Enlace directo al 2. El cuello de botella se desplaza" title="Enlace directo al 2. El cuello de botella se desplaza" translate="no">​</a></h3>
+<p>El problema ya no es “si Tesla puede circular por una ciudad europea con supervisión”. El problema pasa a ser:</p>
+<ul>
+<li class="">con qué condiciones puede extenderse;</li>
+<li class="">cómo se votará el expediente a nivel UE;</li>
+<li class="">qué límites impondrá cada marco nacional al despliegue posterior.</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-españa-deja-de-mirar-una-hipótesis-lejana">3. España deja de mirar una hipótesis lejana<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#3-espa%C3%B1a-deja-de-mirar-una-hip%C3%B3tesis-lejana" class="hash-link" aria-label="Enlace directo al 3. España deja de mirar una hipótesis lejana" title="Enlace directo al 3. España deja de mirar una hipótesis lejana" translate="no">​</a></h3>
+<p>Para el lector español, Holanda ya no es una demo exótica. Es el precedente más serio hasta la fecha. Si la aprobación neerlandesa aguanta y el proceso comunitario avanza, la conversación española cambiará de tono: dejará de discutir si esto es ciencia ficción y empezará a discutir <strong>qué condiciones de uso serían aceptables aquí</strong>.</p>
+<p>Y ahí aparece el verdadero examen español: rotondas densas, motos filtrando, calles estrechas, obras mal señalizadas y una cultura vial menos predecible que la de un recorrido de showcase.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs realidad<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs realidad" title="Enlace directo al Expectativa vs realidad" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa">Expectativa<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#expectativa" class="hash-link" aria-label="Enlace directo al Expectativa" title="Enlace directo al Expectativa" translate="no">​</a></h3>
+<p>"Tesla ya ha conseguido que Europa apruebe FSD."</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad">Realidad<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#realidad" class="hash-link" aria-label="Enlace directo al Realidad" title="Enlace directo al Realidad" translate="no">​</a></h3>
+<p>La lectura rigurosa, a <strong>12 de abril de 2026</strong>, es esta:</p>
+<ul>
+<li class="">Tesla ha logrado una <strong>aprobación legal real</strong> en <strong>Países Bajos</strong>.</li>
+<li class="">La aprobación es para <strong>FSD Supervised</strong>, no para autonomía plena.</li>
+<li class="">El conductor sigue siendo responsable.</li>
+<li class="">El sistema está <strong>limitado geográficamente</strong> al país aprobado.</li>
+<li class="">La extensión al resto de la UE requiere todavía un proceso político-regulatorio adicional.</li>
+</ul>
+<p>Eso no empequeñece la noticia. La vuelve más potente, porque la hace creíble.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-esta-aprobación-dice-de-tesla-y-de-la-regulación-europea">Lo que esta aprobación dice de Tesla y de la regulación europea<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#lo-que-esta-aprobaci%C3%B3n-dice-de-tesla-y-de-la-regulaci%C3%B3n-europea" class="hash-link" aria-label="Enlace directo al Lo que esta aprobación dice de Tesla y de la regulación europea" title="Enlace directo al Lo que esta aprobación dice de Tesla y de la regulación europea" translate="no">​</a></h2>
+<p>Tesla llevaba años ganando titulares por capacidad técnica y perdiendo credibilidad por exceso de calendario. Lo que cambia ahora es que, por primera vez en serio dentro de la UE, la compañía puede decir: “esto ya no es solo un vídeo; esto ya tiene permiso”.</p>
+<p>Y Europa, por su parte, está enviando su propio mensaje:</p>
+<ul>
+<li class="">no compra el hype sin expediente;</li>
+<li class="">no renuncia a la supervisión humana;</li>
+<li class="">pero tampoco bloquea indefinidamente un sistema si considera que la evidencia es suficiente.</li>
+</ul>
+<p>Esa combinación es muy europea: <strong>prudente, lenta, burocrática... y cuando se mueve, deja huella</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-debe-vigilar-ahora-la-comunidad-fsd-en-europa">Qué debe vigilar ahora la comunidad FSD en Europa<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#qu%C3%A9-debe-vigilar-ahora-la-comunidad-fsd-en-europa" class="hash-link" aria-label="Enlace directo al Qué debe vigilar ahora la comunidad FSD en Europa" title="Enlace directo al Qué debe vigilar ahora la comunidad FSD en Europa" translate="no">​</a></h2>
+<p>Si quieres separar señal de ruido a partir de hoy, yo vigilaría cinco cosas:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-si-aparece-el-detalle-técnico-público-de-la-type-approval">1. Si aparece el detalle técnico público de la type approval<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#1-si-aparece-el-detalle-t%C3%A9cnico-p%C3%BAblico-de-la-type-approval" class="hash-link" aria-label="Enlace directo al 1. Si aparece el detalle técnico público de la type approval" title="Enlace directo al 1. Si aparece el detalle técnico público de la type approval" translate="no">​</a></h3>
+<p>No hemos visto todavía el documento completo con todos los límites operativos expuestos en abierto. Ahí estará parte de la letra pequeña que definirá el verdadero alcance.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-cómo-se-ejecuta-el-rollout-en-holanda">2. Cómo se ejecuta el rollout en Holanda<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#2-c%C3%B3mo-se-ejecuta-el-rollout-en-holanda" class="hash-link" aria-label="Enlace directo al 2. Cómo se ejecuta el rollout en Holanda" title="Enlace directo al 2. Cómo se ejecuta el rollout en Holanda" translate="no">​</a></h3>
+<p>Una cosa es la aprobación. Otra es:</p>
+<ul>
+<li class="">a qué coches llega primero;</li>
+<li class="">con qué software;</li>
+<li class="">bajo qué escalado;</li>
+<li class="">y con qué vigilancia inicial por parte de Tesla.</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-el-movimiento-de-la-comisión-europea">3. El movimiento de la Comisión Europea<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#3-el-movimiento-de-la-comisi%C3%B3n-europea" class="hash-link" aria-label="Enlace directo al 3. El movimiento de la Comisión Europea" title="Enlace directo al 3. El movimiento de la Comisión Europea" translate="no">​</a></h3>
+<p>El siguiente salto importante no es otro vídeo. Es saber cuándo entra el expediente en la fase de decisión comunitaria.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-la-reacción-de-otros-reguladores-y-fabricantes">4. La reacción de otros reguladores y fabricantes<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#4-la-reacci%C3%B3n-de-otros-reguladores-y-fabricantes" class="hash-link" aria-label="Enlace directo al 4. La reacción de otros reguladores y fabricantes" title="Enlace directo al 4. La reacción de otros reguladores y fabricantes" translate="no">​</a></h3>
+<p>Cada aprobación relevante reordena el tablero competitivo. Si Tesla consigue mantener este avance, otros actores tendrán que responder no solo con producto, sino con narrativa regulatoria.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-qué-pasa-cuando-el-producto-sale-del-laboratorio-neerlandés">5. Qué pasa cuando el producto sale del laboratorio neerlandés<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#5-qu%C3%A9-pasa-cuando-el-producto-sale-del-laboratorio-neerland%C3%A9s" class="hash-link" aria-label="Enlace directo al 5. Qué pasa cuando el producto sale del laboratorio neerlandés" title="Enlace directo al 5. Qué pasa cuando el producto sale del laboratorio neerlandés" translate="no">​</a></h3>
+<p>Lo difícil no es circular bien en el primer mercado aprobado. Lo difícil es sobrevivir a la diversidad europea sin romper consistencia, seguridad ni confianza del regulador.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
+<p>La noticia de abril no es que Tesla haya hecho una demo más en calles holandesas. La noticia es que <strong>FSD Supervised ya tiene una aprobación legal real en Países Bajos</strong>.</p>
+<p>Eso convierte a Holanda en la primera prueba fuerte de que Tesla puede pasar en Europa de la promesa al producto. Pero también deja clara la siguiente verdad incómoda: <strong>la última puerta todavía no es Ámsterdam, sino Bruselas</strong>.</p>
+<p>Para el blog de FSD en España, esta es la lectura correcta: no estamos ante un “todo Europa, ya”. Estamos ante algo más serio y quizá más interesante: <strong>el momento en que Europa deja de discutir si Tesla puede empezar, y empieza a discutir cómo debe escalar</strong>.</p>
+<p>Y esa discusión, por fin, ya no es hipotética.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class="">RDW, <strong>RDW explanation of European type approval Tesla with provisional validity in the Netherlands</strong> (10 abril 2026): <a href="https://www.rdw.nl/en/news/2026/rdw-explanation-of-european-type-approval-tesla-with-provisional-validity-in-the-netherlands" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/en/news/2026/rdw-explanation-of-european-type-approval-tesla-with-provisional-validity-in-the-netherlands</a></li>
+<li class="">RDW, actualización previa de fase final de evaluación (20 marzo 2026): <a href="https://www.rdw.nl/nieuws/2026/reactie-rdw-naar-aanleiding-van-bericht-tesla" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/nieuws/2026/reactie-rdw-naar-aanleiding-van-bericht-tesla</a></li>
+<li class="">RDW, aclaración sobre febrero de 2026 y la petición de Tesla (24 noviembre 2025): <a href="https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action</a></li>
+<li class="">Tesla Support NL, <strong>FSD (Supervised)</strong>: <a href="https://www.tesla.com/nl_nl/support/fsd" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/nl_nl/support/fsd</a></li>
+<li class="">Tesla Support NL, <strong>Full Self-Driving subscriptions</strong>: <a href="https://www.tesla.com/nl_nl/support/full-self-driving-subscriptions" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/nl_nl/support/full-self-driving-subscriptions</a></li>
+<li class="">Reglamento (UE) 2018/858, marco para homologación y exenciones de nuevas tecnologías: <a href="https://eur-lex.europa.eu/eli/reg/2018/858/2024-05-28/eng" target="_blank" rel="noopener noreferrer" class="">https://eur-lex.europa.eu/eli/reg/2018/858/2024-05-28/eng</a></li>
+<li class="">Reglamento de Ejecución (UE) 2020/683, formato y procedimiento de aprobaciones: <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1692677605682&amp;uri=CELEX%3A32020R0683" target="_blank" rel="noopener noreferrer" class="">https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1692677605682&amp;uri=CELEX%3A32020R0683</a></li>
+</ul>]]></content>
+        <author>
+            <name>The Autonomous Pilot</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="tesla" term="tesla"/>
+        <category label="europa" term="europa"/>
+        <category label="regulations" term="regulations"/>
+        <category label="rdw" term="rdw"/>
+        <category label="paises-bajos" term="paises-bajos"/>
+        <category label="ai" term="ai"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[La pista más útil sobre FSD en Europa ya no está en el rumor: está en el manual que anticipa el examen español]]></title>
         <id>https://fsd.pepetox.es/manual-tesla-examen-espanol-fsd</id>
@@ -1633,97 +1801,6 @@ Un sistema que gestiona bien la décima, cuando todo se complica, genera confian
         <category label="testing" term="testing"/>
         <category label="china" term="china"/>
         <category label="europa" term="europa"/>
-        <category label="seguridad" term="seguridad"/>
-        <category label="regulations" term="regulations"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[El lenguaje de la mano: cuando FSD tiene que obedecer a un agente en España]]></title>
-        <id>https://fsd.pepetox.es/gestos-agentes-trafico-fsd</id>
-        <link href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd"/>
-        <updated>2026-02-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Rotondas, lluvia y obras son difíciles. Pero el test definitivo en España es otro: entender y obedecer el gesto de un agente que reescribe la carretera en tiempo real.]]></summary>
-        <content type="html"><![CDATA[<p>AP-6, salida de Segovia, 19:47. Lluvia fina. Ves luces azules a lo lejos y, de pronto, el carril “desaparece”: un agente te hace un gesto seco con la mano y te manda a la izquierda. No hay señal luminosa que lo explique. No hay marca en el asfalto. Solo un humano con chaleco reflectante, un silbato y una autoridad legal que convierte su brazo en la norma más importante de la vía.</p>
-<p>Para Tesla FSD <em>Supervised</em>, este escenario no es un “edge case” pintoresco. Es el tipo de realidad española que separa una IA que <strong>conduce</strong> de una IA que <strong>entiende cuándo la carretera ha cambiado de reglas</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="no-es-visión-es-soberanía-de-la-norma">No es visión: es soberanía de la norma<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#no-es-visi%C3%B3n-es-soberan%C3%ADa-de-la-norma" class="hash-link" aria-label="Enlace directo al No es visión: es soberanía de la norma" title="Enlace directo al No es visión: es soberanía de la norma" translate="no">​</a></h2>
-<p>La mayoría de retos que obsesionan a la comunidad (rotondas, carriles estrechos, motos filtrando) son difíciles porque el mundo es ambiguo. Pero con un agente ocurre algo distinto: <strong>la ambigüedad se termina</strong>.</p>
-<p>En ese momento, el sistema no necesita “adivinar” la intención del tráfico. Necesita:</p>
-<ul>
-<li class="">Detectar que hay un humano “especial” (agente, operario autorizado, señalista).</li>
-<li class="">Interpretar correctamente un gesto que puede ser sutil, rápido y contextual.</li>
-<li class="">Cambiar el plan de conducción aunque contradiga el mapa, las líneas o la señalización previa.</li>
-<li class="">Y hacerlo de forma <strong>legible</strong> para los coches de alrededor (sin frenazos, sin bandazos).</li>
-</ul>
-<p>Dicho de otra manera: un agente es un “override” del mundo físico. Y Europa, por cómo regula, va a exigir que este override sea tratable con seguridad.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-señal-humana-como-api-y-por-qué-a-la-ia-le-cuesta">La señal humana como API (y por qué a la IA le cuesta)<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#la-se%C3%B1al-humana-como-api-y-por-qu%C3%A9-a-la-ia-le-cuesta" class="hash-link" aria-label="Enlace directo al La señal humana como API (y por qué a la IA le cuesta)" title="Enlace directo al La señal humana como API (y por qué a la IA le cuesta)" translate="no">​</a></h2>
-<p>Para un conductor español, los gestos son un idioma aprendido a base de experiencia: “pasa”, “para”, “cambia de carril”, “sigue recto aunque el carril esté pintado”. Para una red neuronal end-to-end, la dificultad no es solo ver una mano.</p>
-<p>Es un paquete completo:</p>
-<ul>
-<li class=""><strong>Percepción</strong>: distinguir un gesto real de un movimiento casual, con lluvia, contra-luz, faros, reflejos y chalecos que “queman” el sensor.</li>
-<li class=""><strong>Semántica</strong>: entender <em>qué</em> significa en ese contexto (no es lo mismo “sigue” en un control que “sigue” en una obra).</li>
-<li class=""><strong>Autoridad</strong>: saber que ese gesto tiene prioridad sobre señales y marcas.</li>
-<li class=""><strong>Planificación social</strong>: ejecutar la maniobra de forma que el resto de humanos “lea” tu intención.</li>
-</ul>
-<p>Y aquí hay un detalle técnico clave que a veces se pasa por alto: el gesto no es una señal aislada. Es una señal <strong>acompañada</strong> por el comportamiento del entorno (coches parados, conos, luces, desvíos). La IA tiene que fusionarlo todo en milisegundos.</p>
-<p>Si te interesa este enfoque de “la carretera como sistema social”, conecta muy bien con dos escenarios recientes:</p>
-<ul>
-<li class=""><a class="" href="https://fsd.pepetox.es/fsd-obras-desvios-examen-europa">Obras y desvíos: el examen europeo sorpresa</a></li>
-<li class=""><a class="" href="https://fsd.pepetox.es/fsd-carril-bus-paneles-variables">Paneles variables y carril bus-VAO: leer la ley en tiempo real</a></li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-nuevo-tesla-ya-menciona-gestos-humanos-en-mejoras-recientes">Lo nuevo: Tesla ya menciona “gestos humanos” en mejoras recientes<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#lo-nuevo-tesla-ya-menciona-gestos-humanos-en-mejoras-recientes" class="hash-link" aria-label="Enlace directo al Lo nuevo: Tesla ya menciona “gestos humanos” en mejoras recientes" title="Enlace directo al Lo nuevo: Tesla ya menciona “gestos humanos” en mejoras recientes" translate="no">​</a></h2>
-<p>Esta semana, lo interesante no es una promesa grandilocuente. Es una línea en las notas de versión: mejoras relacionadas con <strong>human gestures</strong> y con el manejo de <strong>carreteras bloqueadas / desvíos</strong> en FSD <em>Supervised</em> (EE. UU.). Cuando Tesla empieza a escribir estas capacidades como “features” repetibles, normalmente es porque ya tiene datos, métricas internas y una política de conducción que puede entrenar y validar de forma consistente.</p>
-<p>En Europa, esto importa por una razón muy concreta: si el objetivo es una demostración creíble (y, más adelante, aprobación), el sistema tiene que demostrar robustez justo donde el mapa falla y la autoridad humana manda.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="españa-como-stress-test-controles-eventos-y-caos-legal">España como stress test: controles, eventos y caos “legal”<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#espa%C3%B1a-como-stress-test-controles-eventos-y-caos-legal" class="hash-link" aria-label="Enlace directo al España como stress test: controles, eventos y caos “legal”" title="Enlace directo al España como stress test: controles, eventos y caos “legal”" translate="no">​</a></h2>
-<p>Piensa en los escenarios españoles donde un gesto manda más que cualquier señal:</p>
-<ul>
-<li class=""><strong>Controles</strong> de Guardia Civil con desvíos improvisados.</li>
-<li class=""><strong>Accesos</strong> a estadios, ferias o eventos donde te guían a un carril que “no existe”.</li>
-<li class=""><strong>Accidentes</strong> con cortes parciales donde el carril se convierte en una negociación dirigida.</li>
-<li class=""><strong>Obras móviles</strong> en las que el operario te indica que “pases” aunque el carril esté marcado como cerrado.</li>
-</ul>
-<p>Ahora imagina el fallo típico de un sistema que todavía no domina esto:</p>
-<ul>
-<li class="">Se queda “congelado” porque el gesto contradice su política normal.</li>
-<li class="">Obedece tarde y provoca una maniobra brusca (peligro de alcance).</li>
-<li class="">Interpreta mal el gesto y se mete en el carril equivocado (confusión en cadena).</li>
-</ul>
-<p>Y aquí está la tensión europea: <strong>un fallo no es solo técnico; es regulatorio</strong>. Porque la pregunta del regulador no será “¿puede girar bien?”. Será “¿qué hace cuando el mundo cambia y el conductor espera que el coche obedezca a la autoridad vial?”.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-realidad-legal-los-gestos-no-son-opinión-son-señalización">La realidad legal: los gestos no son “opinión”, son señalización<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#la-realidad-legal-los-gestos-no-son-opini%C3%B3n-son-se%C3%B1alizaci%C3%B3n" class="hash-link" aria-label="Enlace directo al La realidad legal: los gestos no son “opinión”, son señalización" title="Enlace directo al La realidad legal: los gestos no son “opinión”, son señalización" translate="no">​</a></h2>
-<p>En España, las señales (incluidas las de agentes) están definidas y tienen fuerza normativa. Eso significa que, aunque el sistema sea “solo” un asistente supervisado, su comportamiento debe ser compatible con el marco legal real: no basta con conducir “de forma segura” en abstracto; hay que hacerlo respetando la señalización y su jerarquía.</p>
-<p>Para el FSD, esto se traduce en un requisito práctico: cuando el agente manda, el sistema debe actuar de forma que el conductor pueda supervisar y, si hace falta, intervenir con margen. En otras palabras: <strong>obedecer bien o pedir ayuda pronto</strong>. No hay término medio.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-tendría-que-demostrar-tesla-para-que-europa-lo-tome-en-serio">Qué tendría que demostrar Tesla para que Europa lo tome en serio<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#qu%C3%A9-tendr%C3%ADa-que-demostrar-tesla-para-que-europa-lo-tome-en-serio" class="hash-link" aria-label="Enlace directo al Qué tendría que demostrar Tesla para que Europa lo tome en serio" title="Enlace directo al Qué tendría que demostrar Tesla para que Europa lo tome en serio" translate="no">​</a></h2>
-<p>Si tuviera que definir un “checklist” de madurez para este caso (sin caer en listas tipo changelog), sería este:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-detección-temprana-y-robusta-del-rol">1) Detección temprana y robusta del “rol”<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#1-detecci%C3%B3n-temprana-y-robusta-del-rol" class="hash-link" aria-label="Enlace directo al 1) Detección temprana y robusta del “rol”" title="Enlace directo al 1) Detección temprana y robusta del “rol”" translate="no">​</a></h3>
-<p>No es solo “un peatón”. Es un peatón con rol: agente, operario autorizado, señalista. La red tiene que reconocer el contexto (chaleco, postura, herramientas, entorno) con baja tasa de falsos positivos.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-interpretación-del-gesto-con-incertidumbre-explícita">2) Interpretación del gesto con incertidumbre explícita<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#2-interpretaci%C3%B3n-del-gesto-con-incertidumbre-expl%C3%ADcita" class="hash-link" aria-label="Enlace directo al 2) Interpretación del gesto con incertidumbre explícita" title="Enlace directo al 2) Interpretación del gesto con incertidumbre explícita" translate="no">​</a></h3>
-<p>Habrá gestos confusos, parcialmente ocluidos o contradictorios. El sistema debería tratarlo como una estimación probabilística: si la confianza no es alta, la maniobra debe ser conservadora y el conductor debe recibir una petición de supervisión clara y con tiempo.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-maniobras-legibles-para-humanos">3) Maniobras legibles para humanos<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#3-maniobras-legibles-para-humanos" class="hash-link" aria-label="Enlace directo al 3) Maniobras legibles para humanos" title="Enlace directo al 3) Maniobras legibles para humanos" translate="no">​</a></h3>
-<p>En España, el tráfico “lee” intenciones. Un asistente que duda en medio de un desvío dirigido crea caos. La ejecución debe ser suave, decisiva y predecible para que el resto coopere.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-evidencia-europea-no-solo-vídeos-virales">4) Evidencia europea, no solo vídeos virales<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#4-evidencia-europea-no-solo-v%C3%ADdeos-virales" class="hash-link" aria-label="Enlace directo al 4) Evidencia europea, no solo vídeos virales" title="Enlace directo al 4) Evidencia europea, no solo vídeos virales" translate="no">​</a></h3>
-<p>Europa no se va a conformar con clips de “lo hizo una vez”. Va a querer consistencia, repetición y un comportamiento que no dependa de condiciones perfectas (luz, clima, señalización impecable).</p>
-<p>Y si te preocupa el lado humano (fatiga y supervisión), aquí hay un hilo directo:</p>
-<ul>
-<li class=""><a class="" href="https://fsd.pepetox.es/fatiga-supervision-fsd-europa">Fatiga de supervisión: el coste real del FSD en Europa</a></li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
-<p>Las rotondas son el titular, la lluvia es el drama, y las obras son el susto. Pero el escenario que define si el FSD está listo para España puede ser más simple y más duro: <strong>un agente levantando la mano y reescribiendo la carretera en tiempo real</strong>.</p>
-<p>La pregunta para la comunidad no es “¿cuándo llega FSD a Europa?”. Es: <strong>¿qué pruebas públicas veremos de que la IA entiende y respeta nuestro “idioma” vial, incluido el gesto humano con autoridad?</strong></p>
-<p>Si has pasado por un control o un desvío dirigido y has notado cómo reacciona tu Tesla (aunque sea con Autopilot/EAP), cuéntalo en comentarios. Estos casos, repetidos miles de veces, son los que van a decidir la credibilidad del FSD en Europa.</p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
-<ul>
-<li class="">Not a Tesla App: notas de versión (FSD <em>Supervised</em>) que mencionan mejoras de “human gestures” y el manejo de carreteras bloqueadas/desvíos. <a href="https://www.notateslaapp.com/software-updates/version/2025.45.8/release-notes" target="_blank" rel="noopener noreferrer" class="">https://www.notateslaapp.com/software-updates/version/2025.45.8/release-notes</a></li>
-<li class="">TeslaMagz: resumen de notas de versión de FSD v14.2.2.3 (incluye mención a “human gestures”). <a href="https://teslamagz.com/tesla-fsd-v14-2-2-3-released-whats-new/" target="_blank" rel="noopener noreferrer" class="">https://teslamagz.com/tesla-fsd-v14-2-2-3-released-whats-new/</a></li>
-<li class="">BOE: Reglamento General de Circulación (Anexo I, señales y gestos de agentes). <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514" target="_blank" rel="noopener noreferrer" class="">https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514</a></li>
-</ul>]]></content>
-        <author>
-            <name>The Autonomous Pilot</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="fsd" term="fsd"/>
-        <category label="tesla" term="tesla"/>
-        <category label="ai" term="ai"/>
-        <category label="testing" term="testing"/>
-        <category label="espana" term="espana"/>
         <category label="seguridad" term="seguridad"/>
         <category label="regulations" term="regulations"/>
     </entry>
