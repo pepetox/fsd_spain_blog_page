@@ -4,10 +4,94 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Sun, 12 Apr 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[Europa no recibirá una copia del FSD americano: por qué el verdadero examen de Tesla empieza cuando la red neuronal deja de parecerse a EE. UU.]]></title>
+            <link>https://fsd.pepetox.es/fsd-europa-no-espejo-eeuu</link>
+            <guid>https://fsd.pepetox.es/fsd-europa-no-espejo-eeuu</guid>
+            <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tesla ya habla de FSD v14 y de una pila vision-only escalable, pero la propia RDW recuerda que el software europeo no es comparable 1:1 con el de EE. UU. Analizamos por qué eso importa especialmente en España.]]></description>
+            <content:encoded><![CDATA[<p>En una rotonda española con dos carriles de entrada mal pintados, una moto filtrando por la izquierda y un conductor que interpreta el ceda como una sugerencia, el reto de Tesla no es demostrar que su red neuronal sabe conducir en América. El reto es más incómodo: <strong>probar que puede dejar de comportarse como una IA entrenada para Estados Unidos sin perder naturalidad, seguridad ni fluidez</strong>. Y esa, a <strong>14 de abril de 2026</strong>, es la lectura más importante del momento para Europa.</p>
+<p>Tesla ha reforzado en sus comunicaciones de 2026 dos ideas que parecen compatibles, pero que en realidad crean una tensión muy interesante. Por un lado, en su actualización <strong>Q4/FY 2025</strong> del <strong>28 de enero de 2026</strong>, la compañía afirma que sigue mejorando <strong>FSD (Supervised)</strong> con su modelo fundacional end-to-end y que su versión más reciente es <strong>v14</strong>. Por otro, en la aclaración regulatoria publicada por la <strong>RDW</strong> neerlandesa el <strong>10 de abril de 2026</strong>, el mensaje fue igual de relevante por lo que niega: <strong>el software autorizado en Europa no es comparable uno a uno con el que Tesla despliega en Estados Unidos</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-noticia-no-es-solo-v14-es-que-europa-obliga-a-otra-personalidad-de-conducción">La noticia no es solo v14: es que Europa obliga a otra personalidad de conducción<a href="https://fsd.pepetox.es/fsd-europa-no-espejo-eeuu#la-noticia-no-es-solo-v14-es-que-europa-obliga-a-otra-personalidad-de-conducci%C3%B3n" class="hash-link" aria-label="Enlace directo al La noticia no es solo v14: es que Europa obliga a otra personalidad de conducción" title="Enlace directo al La noticia no es solo v14: es que Europa obliga a otra personalidad de conducción" translate="no">​</a></h2>
+<p>En el papel, Tesla quiere vender una tesis elegante: una arquitectura <strong>vision-only</strong>, entrenada con enormes volúmenes de datos reales, capaz de generalizar entre geografías. Esa narrativa aparece de forma explícita en sus materiales corporativos recientes, donde la empresa insiste en que su aproximación a la autonomía combina cámaras, red neuronal end-to-end y escalado masivo de datos.</p>
+<p>Pero Europa introduce una corrección muy concreta a esa promesa. La <strong>RDW</strong>, al explicar la aprobación provisional de FSD Supervised en Países Bajos, dejó claro que:</p>
+<ul>
+<li class="">el sistema autorizado sigue siendo un <strong>ADAS supervisado</strong>, no conducción autónoma;</li>
+<li class="">su despliegue europeo está acotado por el marco regulatorio local;</li>
+<li class="">y el software operativo aquí <strong>no debe interpretarse como un espejo exacto del producto estadounidense</strong>.</li>
+</ul>
+<p>La inferencia razonable es potente: <strong>Tesla no está intentando homologar “el FSD de X”, sino una variante europea con comportamiento, límites y validación propios</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-eso-importa-mucho-más-en-españa-que-en-una-autopista-fácil">Por qué eso importa mucho más en España que en una autopista fácil<a href="https://fsd.pepetox.es/fsd-europa-no-espejo-eeuu#por-qu%C3%A9-eso-importa-mucho-m%C3%A1s-en-espa%C3%B1a-que-en-una-autopista-f%C3%A1cil" class="hash-link" aria-label="Enlace directo al Por qué eso importa mucho más en España que en una autopista fácil" title="Enlace directo al Por qué eso importa mucho más en España que en una autopista fácil" translate="no">​</a></h2>
+<p>La discusión pública sobre FSD suele degradarse rápido a un debate muy simple: “¿funciona mejor o peor que en California?”. Esa comparación sirve para redes sociales. Para España sirve poco.</p>
+<p>Aquí el sistema tendrá que superar escenas donde la legalidad, la geometría y la costumbre no siempre van en la misma dirección:</p>
+<ul>
+<li class="">glorietas donde el carril útil no coincide del todo con la pintura;</li>
+<li class="">travesías con coches invadiendo medio carril;</li>
+<li class="">giros urbanos donde peatones, motos y bicis aparecen tarde y desde ángulos malos;</li>
+<li class="">carreteras secundarias con marcas viales débiles, sol bajo o lluvia que degrada el contraste.</li>
+</ul>
+<p>Eso obliga a una conducción que no sea solo correcta en abstracto. Tiene que ser <strong>socialmente legible</strong>. Un coche demasiado conservador puede atascar el tráfico. Uno demasiado agresivo puede parecer competente durante diez minutos y luego cometer un error intolerable.</p>
+<p>Por eso el gran examen español de FSD no será una demo viral. Será comprobar si la red entiende algo muy europeo: que muchas maniobras no se resuelven solo con mapas y trayectorias, sino con <strong>negociación implícita</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-giro-técnico-generalizar-no-significa-copiar">El giro técnico: generalizar no significa copiar<a href="https://fsd.pepetox.es/fsd-europa-no-espejo-eeuu#el-giro-t%C3%A9cnico-generalizar-no-significa-copiar" class="hash-link" aria-label="Enlace directo al El giro técnico: generalizar no significa copiar" title="Enlace directo al El giro técnico: generalizar no significa copiar" translate="no">​</a></h2>
+<p>La parte más interesante del momento actual es que Tesla tiene argumentos reales para defender que su sistema puede generalizar.</p>
+<p>En la actualización oficial de enero, la compañía sostiene que su flota global recoge el equivalente a más de <strong>500 años de conducción continua por día</strong> y presenta <strong>v14</strong> como una iteración superior en asistencia al conductor. Eso sugiere una ambición clara: construir una base neuronal lo bastante robusta como para absorber diferencias locales sin reescribir el producto país por país.</p>
+<p>Pero incluso si ese enfoque es correcto, Europa mete una cuña decisiva entre <strong>capacidad técnica</strong> y <strong>comportamiento autorizado</strong>.</p>
+<p>No basta con que la red “pueda”. Tiene que hacerlo dentro de:</p>
+<ul>
+<li class="">restricciones regulatorias concretas;</li>
+<li class="">umbrales de validación europeos;</li>
+<li class="">y expectativas culturales de conducción que no son idénticas a las de Norteamérica.</li>
+</ul>
+<p>En otras palabras: <strong>la generalización útil en Europa no consiste en demostrar que el coche hace lo mismo que en EE. UU., sino en demostrar que sabe hacer menos cuando toca y mejor donde importa</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-países-bajos-acaba-de-enseñarle-a-toda-la-ue">Lo que Países Bajos acaba de enseñarle a toda la UE<a href="https://fsd.pepetox.es/fsd-europa-no-espejo-eeuu#lo-que-pa%C3%ADses-bajos-acaba-de-ense%C3%B1arle-a-toda-la-ue" class="hash-link" aria-label="Enlace directo al Lo que Países Bajos acaba de enseñarle a toda la UE" title="Enlace directo al Lo que Países Bajos acaba de enseñarle a toda la UE" translate="no">​</a></h2>
+<p>La aprobación provisional neerlandesa ha generado titulares fáciles, pero su lección de fondo es más rica que el simple “Tesla ya ha entrado”.</p>
+<p>Lo que ha quedado claro es esto:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-europa-ya-no-está-en-fase-de-curiosidad">1. Europa ya no está en fase de curiosidad<a href="https://fsd.pepetox.es/fsd-europa-no-espejo-eeuu#1-europa-ya-no-est%C3%A1-en-fase-de-curiosidad" class="hash-link" aria-label="Enlace directo al 1. Europa ya no está en fase de curiosidad" title="Enlace directo al 1. Europa ya no está en fase de curiosidad" translate="no">​</a></h3>
+<p>La conversación ha pasado de la demo y el rumor a la autorización con lenguaje jurídico real. Eso eleva el listón y reduce el margen para la narrativa vacía.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-la-homologación-no-borra-la-localización-del-producto">2. La homologación no borra la localización del producto<a href="https://fsd.pepetox.es/fsd-europa-no-espejo-eeuu#2-la-homologaci%C3%B3n-no-borra-la-localizaci%C3%B3n-del-producto" class="hash-link" aria-label="Enlace directo al 2. La homologación no borra la localización del producto" title="Enlace directo al 2. La homologación no borra la localización del producto" translate="no">​</a></h3>
+<p>La propia explicación regulatoria obliga a abandonar el mito del despliegue homogéneo. El FSD europeo tendrá personalidad propia, aunque comparta ADN con el americano.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-el-siguiente-filtro-será-conductual-no-solo-documental">3. El siguiente filtro será conductual, no solo documental<a href="https://fsd.pepetox.es/fsd-europa-no-espejo-eeuu#3-el-siguiente-filtro-ser%C3%A1-conductual-no-solo-documental" class="hash-link" aria-label="Enlace directo al 3. El siguiente filtro será conductual, no solo documental" title="Enlace directo al 3. El siguiente filtro será conductual, no solo documental" translate="no">​</a></h3>
+<p>Una vez superada la puerta regulatoria inicial, el juicio de mercado será todavía más duro: si el coche resulta torpe en glorietas, indeciso en calles estrechas o poco natural bajo lluvia, el usuario europeo lo castigará rápido.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-pista-técnica-que-más-debería-interesar-a-la-comunidad-fsd-en-españa">La pista técnica que más debería interesar a la comunidad FSD en España<a href="https://fsd.pepetox.es/fsd-europa-no-espejo-eeuu#la-pista-t%C3%A9cnica-que-m%C3%A1s-deber%C3%ADa-interesar-a-la-comunidad-fsd-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al La pista técnica que más debería interesar a la comunidad FSD en España" title="Enlace directo al La pista técnica que más debería interesar a la comunidad FSD en España" translate="no">​</a></h2>
+<p>Si Tesla acierta, el resultado no será “ver la misma demo de Austin en Madrid”. Será algo más importante: <strong>ver una IA que conserva la lógica end-to-end, pero ajusta su comportamiento al tejido vial europeo sin parecer rígida ni domesticada en exceso</strong>.</p>
+<p>Ese matiz conecta con dos debates que venimos siguiendo en el blog:</p>
+<ul>
+<li class="">en <a class="" href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real">la aprobación provisional de Países Bajos</a>, explicamos por qué el verbo regulatorio importaba más que el hype;</li>
+<li class="">en <a class="" href="https://fsd.pepetox.es/hw4-lluvia-contraluz-fsd-espana">nuestro análisis sobre HW4, lluvia y contraluz</a>, ya adelantábamos que Europa no iba a perdonar debilidades de percepción en condiciones mediocres.</li>
+</ul>
+<p>La combinación de ambas cosas define la fase que viene: <strong>menos obsesión por la fecha exacta de llegada y más atención a la calidad del comportamiento cuando el entorno deja de ser amable</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="mi-lectura-el-verdadero-progreso-será-cuando-fsd-parezca-europeo-sin-dejar-de-ser-tesla">Mi lectura: el verdadero progreso será cuando FSD parezca europeo sin dejar de ser Tesla<a href="https://fsd.pepetox.es/fsd-europa-no-espejo-eeuu#mi-lectura-el-verdadero-progreso-ser%C3%A1-cuando-fsd-parezca-europeo-sin-dejar-de-ser-tesla" class="hash-link" aria-label="Enlace directo al Mi lectura: el verdadero progreso será cuando FSD parezca europeo sin dejar de ser Tesla" title="Enlace directo al Mi lectura: el verdadero progreso será cuando FSD parezca europeo sin dejar de ser Tesla" translate="no">​</a></h2>
+<p>El mercado suele premiar los anuncios binarios: aprobado o no aprobado, activado o no activado, disponible o bloqueado. Pero el progreso de verdad probablemente será más sutil.</p>
+<p>Será el día en que un Tesla con FSD Supervised:</p>
+<ul>
+<li class="">entre en una rotonda española sin parecer dubitativo;</li>
+<li class="">ceda en una calle estrecha con una cortesía comprensible;</li>
+<li class="">y gestione lluvia, motos y señalización imperfecta sin transmitir que está conduciendo “traducido” desde otro continente.</li>
+</ul>
+<p>Si Tesla consigue eso, Europa dejará de ser solo un problema regulatorio y empezará a parecer una prueba seria de inteligencia aplicada al mundo físico. Si no lo consigue, v14, v15 o cualquier número de versión seguirán siendo secundarios.</p>
+<p>Para la comunidad FSD de España, ese es el takeaway útil: <strong>la pregunta ya no es cuándo llegará una copia del sistema americano, sino qué versión europea del producto será capaz de ganarse nuestras carreteras reales</strong>.</p>
+<p>Si quieres seguir ese examen sin humo, quédate por aquí. Las próximas señales importantes no serán solo comunicados: serán pequeños indicios de comportamiento, validación y adaptación local.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-europa-no-espejo-eeuu#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class="">Tesla, <a href="https://ir.tesla.com/_flysystem/s3/sec/000162828026003837/tsla-20260128-gen.pdf" target="_blank" rel="noopener noreferrer" class="">Q4 and FY 2025 Update</a>, 28 de enero de 2026.</li>
+<li class="">Tesla Support, <a href="https://www.tesla.com/support/fsd" target="_blank" rel="noopener noreferrer" class="">Full Self-Driving (Supervised)</a>, consultado el 14 de abril de 2026.</li>
+<li class="">RDW, <a href="https://www.rdw.nl/en/news/2026/rdw-explanation-of-european-type-approval-tesla-with-provisional-validity-in-the-netherlands" target="_blank" rel="noopener noreferrer" class="">RDW explanation of European type approval Tesla with provisional validity in the Netherlands</a>, 10 de abril de 2026.</li>
+</ul>
+<blockquote>
+<p>Nota: donde la fuente regulatoria describe límites del despliegue europeo, el análisis sobre cómo eso afectará a España es una inferencia editorial, no un anuncio oficial de Tesla ni de la UE.</p>
+</blockquote>]]></content:encoded>
+            <category>fsd</category>
+            <category>tesla</category>
+            <category>ai</category>
+            <category>regulations</category>
+            <category>vision</category>
+            <category>espana</category>
+            <category>europa</category>
+        </item>
         <item>
             <title><![CDATA[FSD Supervised ya es legal en Países Bajos: qué ha aprobado exactamente la RDW y por qué Europa todavía no ha cruzado la última puerta]]></title>
             <link>https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real</link>
@@ -1653,77 +1737,6 @@ Un sistema que gestiona bien la décima, cuando todo se complica, genera confian
             <category>espana</category>
             <category>hw3</category>
             <category>software</category>
-        </item>
-        <item>
-            <title><![CDATA[China como espejo: cuando un regulador decide que "FSD" no es lo que Tesla vende]]></title>
-            <link>https://fsd.pepetox.es/china-espejo-fsd-europa</link>
-            <guid>https://fsd.pepetox.es/china-espejo-fsd-europa</guid>
-            <pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[China está poniendo una condición brutal a Tesla: no basta con que FSD funcione, tiene que encajar en el lenguaje del regulador. Europa va por el mismo camino.]]></description>
-            <content:encoded><![CDATA[<p>A las 08:15, sales de un garaje estrecho en un barrio antiguo. La calle es de un solo carril, sin marcas claras. Una furgoneta invade tu lado, una moto se cuela por la derecha y, 20 metros más adelante, un panel luminoso cambia el límite de velocidad por obras. Esta es la Europa real.</p>
-<p>Ahora imagina que tu sistema de conducción automatizada es excelente en EE.UU., pero el segundo gran examen fuera de casa no es Madrid ni Berlín. Es <strong>China</strong>. Y lo interesante no es solo si "funciona". Es <strong>quién decide qué significa funcionar</strong>.</p>
-<p><img decoding="async" loading="lazy" alt="Tesla entre dos mundos: China y Europa" src="https://fsd.pepetox.es/assets/images/2026-02-08-china-espejo-fsd-europa-5ec02af54269d6a3023a0e1e9da922b9.png" width="1024" height="1024" class="img_ev3q"></p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-noticia-no-es-el-software-es-el-contrato">La noticia no es el software: es el contrato<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#la-noticia-no-es-el-software-es-el-contrato" class="hash-link" aria-label="Enlace directo al La noticia no es el software: es el contrato" title="Enlace directo al La noticia no es el software: es el contrato" translate="no">​</a></h2>
-<p>En enero, Elon Musk dijo que esperaba una <strong>aprobación en China</strong> "el mes que viene". Poco después, medios estatales chinos negaron que hubiera una aprobación general de FSD. En paralelo, la realidad práctica sigue siendo la de los permisos parciales: funciones disponibles con <strong>condiciones</strong>, y otras bloqueadas.<br>
-<br>
-<!-- -->Traducido: el regulador no está discutiendo un número de versión. Está discutiendo un <strong>contrato operativo</strong>: qué hace el coche, en qué escenarios (ODD), bajo qué supervisión, y qué pasa cuando algo sale mal.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-china-nos-está-enseñando-sin-querer-sobre-europa">Lo que China nos está enseñando (sin querer) sobre Europa<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#lo-que-china-nos-est%C3%A1-ense%C3%B1ando-sin-querer-sobre-europa" class="hash-link" aria-label="Enlace directo al Lo que China nos está enseñando (sin querer) sobre Europa" title="Enlace directo al Lo que China nos está enseñando (sin querer) sobre Europa" translate="no">​</a></h2>
-<p>Una de las limitaciones más reveladoras de China no tiene nada de filosófica: según reportes recientes, la versión local no puede <strong>cambiar de marcha</strong> automáticamente, lo que impide el "park-to-park" real tal y como se entiende en EE.UU.<br>
-<br>
-<!-- -->Puede parecer un detalle, pero es el tipo de detalle que delata dónde se pone la frontera regulatoria. En Europa va a pasar lo mismo: el debate no será "conduce como un humano", sino "qué maniobras están permitidas, bajo qué responsabilidades y con qué evidencia".</p>
-<p>Si quieres un marco mental útil, piensa en tres capas:</p>
-<ol>
-<li class=""><strong>Capacidades de IA</strong>: detección, predicción, planificación, control.</li>
-<li class=""><strong>Producto permitido</strong>: qué partes de esas capacidades se pueden exponer al usuario.</li>
-<li class=""><strong>Demostración</strong>: cómo pruebas que el producto permitido es seguro en el ODD declarado.</li>
-</ol>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-el-desafío-europeo-no-es-solo-una-rotonda">Expectativa vs realidad: el desafío europeo no es solo una rotonda<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#expectativa-vs-realidad-el-desaf%C3%ADo-europeo-no-es-solo-una-rotonda" class="hash-link" aria-label="Enlace directo al Expectativa vs realidad: el desafío europeo no es solo una rotonda" title="Enlace directo al Expectativa vs realidad: el desafío europeo no es solo una rotonda" translate="no">​</a></h2>
-<p>En España y la UE, el problema más duro no es que haya rotondas. Es que hay <strong>ambigüedad legal y de infraestructura</strong> en cada trayecto:</p>
-<ul>
-<li class="">Señalización temporal (obras) que contradice al suelo.</li>
-<li class="">Carriles borrados, repintados o directamente inexistentes.</li>
-<li class="">Interacciones sociales: cortesía, agresividad, negociación en milisegundos.</li>
-<li class="">Vehículos vulnerables (motos, bicis, patinetes) con trayectorias poco "limpias".</li>
-</ul>
-<p>Los end-to-end ayudan porque aprenden patrones de contexto, pero Europa penaliza un fallo concreto: el que parece pequeño y repetible, el que un regulador puede escribir como "comportamiento no permitido".</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-tiene-que-cambiar-para-que-europa-diga-sí">Qué tiene que cambiar para que Europa diga "sí"<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#qu%C3%A9-tiene-que-cambiar-para-que-europa-diga-s%C3%AD" class="hash-link" aria-label="Enlace directo al Qué tiene que cambiar para que Europa diga &quot;sí&quot;" title="Enlace directo al Qué tiene que cambiar para que Europa diga &quot;sí&quot;" translate="no">​</a></h2>
-<p>No es realista esperar una aprobación europea por "magia". Lo que se necesita es aburrido, pero es la única salida:</p>
-<ul>
-<li class=""><strong>ODD explícitamente acotado</strong>: no "toda Europa", sino condiciones claras (meteorología, vías, tipos de intersección, etc.).</li>
-<li class=""><strong>Supervisión y monitorización del conductor</strong>: no como marketing, sino como barrera de seguridad documentada.</li>
-<li class=""><strong>Fallback y mínima maniobra de riesgo</strong>: qué hace el coche si pierde confianza (y cómo lo comunica).</li>
-<li class=""><strong>Evidencia auditable</strong>: no solo videos virales; datos, tasas, criterios, procedimientos.</li>
-</ul>
-<p>Y aquí está la lectura optimista: si Tesla consigue operar en China con restricciones, significa que ya está aprendiendo a empaquetar FSD como un producto "legible" para un regulador. Europa exigirá su propio dialecto, pero el ejercicio es el mismo.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-deberíamos-vigilar-desde-españa">Lo que deberíamos vigilar desde España<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#lo-que-deber%C3%ADamos-vigilar-desde-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Lo que deberíamos vigilar desde España" title="Enlace directo al Lo que deberíamos vigilar desde España" translate="no">​</a></h2>
-<p>Si quieres señales tempranas (de las de verdad) para Europa, vigila estas pistas:</p>
-<ul>
-<li class="">Cambios públicos en cómo Tesla describe FSD: menos promesa, más <strong>ODD y condiciones</strong>.</li>
-<li class="">Evidencias de que Tesla separa claramente "capacidades" vs "funciones expuestas" según país.</li>
-<li class="">Movimientos regulatorios concretos (tipo aprobaciones parciales, pilotos geocercados, requisitos de reporting).</li>
-</ul>
-<p>Para el contexto del ruido reciente sobre RDW y UNECE, y cómo distinguir rumor de señal, aquí tienes la pieza anterior: <a class="" href="https://fsd.pepetox.es/ruido-x-fsd-europa-rdw-unece">RDW, UNECE y la trampa del calendario</a>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
-<p>China está actuando como el espejo incómodo: te obliga a aceptar que el producto final no lo define el modelo neuronal, sino la combinación de <strong>técnica + responsabilidad + reglas</strong>.<br>
-<br>
-<!-- -->La pregunta para la comunidad FSD en España ya no es "cuándo llega". Es: <strong>qué versión de FSD será legalmente posible aquí</strong> y qué evidencias tendrá que mostrar Tesla para merecerla.</p>
-<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Debate</div><div class="admonitionContent_BuS1"><p>¿Preferirías una llegada temprana pero muy acotada (ODD estrecho, geocerca, funciones limitadas), o esperar a una aprobación más amplia aunque tarde más?<br>
-<br>
-<!-- -->Deja tu postura en comentarios y seguimos afinando el mapa.</p></div></div>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes-para-seguir-el-hilo">Fuentes (para seguir el hilo)<a href="https://fsd.pepetox.es/china-espejo-fsd-europa#fuentes-para-seguir-el-hilo" class="hash-link" aria-label="Enlace directo al Fuentes (para seguir el hilo)" title="Enlace directo al Fuentes (para seguir el hilo)" translate="no">​</a></h2>
-<ul>
-<li class="">Electrek (2026-01-23): Musk espera aprobación en China "el mes que viene" y contexto de reportes/negaciones: <a href="https://electrek.co/2026/01/23/elon-musk-says-tesla-fsd-may-be-approved-in-china-next-month-while-state-media-deny-it/" target="_blank" rel="noopener noreferrer" class="">https://electrek.co/2026/01/23/elon-musk-says-tesla-fsd-may-be-approved-in-china-next-month-while-state-media-deny-it/</a></li>
-<li class="">Tesla (página oficial): recordatorio de que FSD es supervisado y requiere atención del conductor: <a href="https://www.tesla.com/support/autopilot" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/support/autopilot</a></li>
-</ul>]]></content:encoded>
-            <category>fsd</category>
-            <category>tesla</category>
-            <category>ai</category>
-            <category>testing</category>
-            <category>china</category>
-            <category>europa</category>
-            <category>seguridad</category>
-            <category>regulations</category>
         </item>
     </channel>
 </rss>
