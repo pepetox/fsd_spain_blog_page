@@ -2,11 +2,126 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fsd.pepetox.es</id>
     <title>FSD Spain Blog</title>
-    <updated>2026-04-14T00:00:00.000Z</updated>
+    <updated>2026-04-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fsd.pepetox.es"/>
     <subtitle>FSD Spain Blog</subtitle>
     <icon>https://fsd.pepetox.es/img/fsdspain.png</icon>
+    <entry>
+        <title type="html"><![CDATA[La prueba real empieza ahora: Tesla ya no enseña FSD en Europa, empieza a ponerlo en manos de propietarios]]></title>
+        <id>https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real</id>
+        <link href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real"/>
+        <updated>2026-04-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tesla ha pasado en Países Bajos de la aprobación a la activación real para clientes. Analizamos por qué el onboarding, el geofencing y la calle urbana importan más que otro titular regulatorio.]]></summary>
+        <content type="html"><![CDATA[<p>Si mañana Tesla activara FSD Supervised en un Model Y en una rotonda de Alcalá de Henares, el titular no sería que la IA gira el volante. El titular sería otro: <strong>si esa IA sabe convivir con motos que filtran, carriles pintados a medias y decisiones humanas que no caben en un manual limpio de Silicon Valley</strong>. Por eso la novedad más interesante de Europa, a <strong>21 de abril de 2026</strong>, ya no es la aprobación neerlandesa en sí. Es que Tesla ha empezado a convertir esa aprobación en <strong>uso real para propietarios</strong>.</p>
+<p>Y eso cambia la conversación.</p>
+<p>Porque una demo con ingenieros impresiona. Un permiso regulatorio abre puertas. Pero lo que de verdad pone a prueba un sistema como FSD es el momento en que deja de circular en modo escaparate y empieza a vivir con usuarios corrientes, trayectos repetidos, lluvia mediocre, glorietas urbanas y expectativas de producto.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-señal-nueva-no-viene-de-x-viene-del-soporte-oficial-de-tesla">La señal nueva no viene de X: viene del soporte oficial de Tesla<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#la-se%C3%B1al-nueva-no-viene-de-x-viene-del-soporte-oficial-de-tesla" class="hash-link" aria-label="Enlace directo al La señal nueva no viene de X: viene del soporte oficial de Tesla" title="Enlace directo al La señal nueva no viene de X: viene del soporte oficial de Tesla" translate="no">​</a></h2>
+<p>En los últimos días, Tesla ha actualizado varias páginas de soporte en Países Bajos que nos permiten leer el despliegue europeo con mucha más precisión que cualquier rumor.</p>
+<p>Lo más relevante es esto:</p>
+<ul>
+<li class="">Tesla ya ofrece en Países Bajos una <strong>prueba gratuita de 30 días</strong> de <strong>FSD (Supervised)</strong> para propietarios de <strong>Model 3</strong> y <strong>Model Y</strong> entregados antes del <strong>17 de abril de 2026</strong>.</li>
+<li class="">La web de soporte neerlandesa describe FSD como utilizable en <strong>calles urbanas</strong>, <strong>zonas residenciales</strong>, <strong>rotondas</strong>, intersecciones y accesos de autopista.</li>
+<li class="">La activación exige un proceso de <strong>onboarding</strong> poco casual: aceptar el acuerdo de usuario, ver un <strong>vídeo obligatorio</strong> y superar un <strong>quiz</strong> antes de poder usar el sistema.</li>
+<li class="">Tesla también deja claro que el sistema está <strong>geobloqueado</strong>: si cruzas a un país donde no está aprobado, <strong>FSD se desactiva tras avisarte</strong>.</li>
+</ul>
+<p>Ese conjunto de detalles importa mucho más de lo que parece.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-salto-de-fase-del-sí-legal-al-sí-úsalo-tú">El salto de fase: del “sí legal” al “sí, úsalo tú”<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#el-salto-de-fase-del-s%C3%AD-legal-al-s%C3%AD-%C3%BAsalo-t%C3%BA" class="hash-link" aria-label="Enlace directo al El salto de fase: del “sí legal” al “sí, úsalo tú”" title="Enlace directo al El salto de fase: del “sí legal” al “sí, úsalo tú”" translate="no">​</a></h2>
+<p>En <a class="" href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real">nuestro análisis sobre la aprobación neerlandesa</a> explicábamos por qué el verbo regulatorio importaba más que el hype. Pero toda homologación necesita una segunda prueba: comprobar si el producto soporta el mundo real cuando lo usan personas que no trabajan para Tesla.</p>
+<p>La prueba para propietarios introduce tres filtros nuevos.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-el-filtro-de-comportamiento-repetido">1. El filtro de comportamiento repetido<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#1-el-filtro-de-comportamiento-repetido" class="hash-link" aria-label="Enlace directo al 1. El filtro de comportamiento repetido" title="Enlace directo al 1. El filtro de comportamiento repetido" translate="no">​</a></h3>
+<p>Una demo puede enseñarte diez minutos brillantes. Un usuario real repite:</p>
+<ul>
+<li class="">la misma glorieta complicada;</li>
+<li class="">el mismo acceso mal señalizado;</li>
+<li class="">el mismo giro estrecho junto a bicis aparcadas;</li>
+<li class="">la misma incorporación en hora punta.</li>
+</ul>
+<p>Ahí desaparece la magia del vídeo y aparece la pregunta seria: <strong>¿es consistente?</strong></p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-el-filtro-de-confianza">2. El filtro de confianza<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#2-el-filtro-de-confianza" class="hash-link" aria-label="Enlace directo al 2. El filtro de confianza" title="Enlace directo al 2. El filtro de confianza" translate="no">​</a></h3>
+<p>Tesla no está permitiendo una activación “ciega”. Obliga a vídeo y cuestionario porque sabe que, en Europa, el sistema no puede venderse como una simple casilla de software premium. Tiene que educar al conductor en dos ideas incómodas pero esenciales:</p>
+<ul>
+<li class="">sigue siendo un sistema <strong>supervisado</strong>;</li>
+<li class="">el conductor continúa siendo <strong>responsable</strong>.</li>
+</ul>
+<p>Eso encaja plenamente con el marco europeo de <strong>DCAS</strong> bajo la <strong>Regulación UNECE n.º 171</strong>: asistencia avanzada continua, sí; transferencia plena de la tarea de conducción, no.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-el-filtro-geográfico">3. El filtro geográfico<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#3-el-filtro-geogr%C3%A1fico" class="hash-link" aria-label="Enlace directo al 3. El filtro geográfico" title="Enlace directo al 3. El filtro geográfico" translate="no">​</a></h3>
+<p>La nota de Tesla sobre desactivar FSD al entrar en un país no aprobado es probablemente la frase más reveladora del despliegue actual. El coche puede ser el mismo. El stack base puede parecer el mismo. Pero la capacidad útil del producto cambia al cruzar una frontera.</p>
+<p>Europa no es una región homogénea para FSD. Es una <strong>malla de permisos</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-esto-nos-enseña-sobre-españa">Lo que esto nos enseña sobre España<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#lo-que-esto-nos-ense%C3%B1a-sobre-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Lo que esto nos enseña sobre España" title="Enlace directo al Lo que esto nos enseña sobre España" translate="no">​</a></h2>
+<p>España tiende a mirar el despliegue europeo con una mezcla rara de impaciencia y distancia, como si todo lo que pasa en Países Bajos fuera importante pero todavía ajeno. Ese consuelo empieza a agotarse.</p>
+<p>La lección práctica es esta: <strong>Europa ya ha entrado en fase de aprendizaje con usuarios reales</strong>. No hablamos solo de expedientes, demos con supervisión corporativa o fotos de un regulador en el asiento del copiloto. Hablamos de propietarios que pueden activar el sistema, convivir con él y descubrir muy rápido dónde es brillante, dónde duda y dónde simplemente no encaja.</p>
+<p>Y para España eso es crucial, porque nuestro examen no será trivial.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-rotonda-española-sigue-siendo-el-test-más-honesto">La rotonda española sigue siendo el test más honesto<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#la-rotonda-espa%C3%B1ola-sigue-siendo-el-test-m%C3%A1s-honesto" class="hash-link" aria-label="Enlace directo al La rotonda española sigue siendo el test más honesto" title="Enlace directo al La rotonda española sigue siendo el test más honesto" translate="no">​</a></h3>
+<p>Tesla ya describe oficialmente que FSD Supervised puede circular por rotondas en Países Bajos. Bien. Pero una rotonda no es una rotonda.</p>
+<p>Una glorieta holandesa bien marcada, con cultura vial más predecible y diseño geométrico relativamente limpio, no es lo mismo que:</p>
+<ul>
+<li class="">una entrada de doble carril con pintura desgastada;</li>
+<li class="">un turismo invadiendo trayectoria;</li>
+<li class="">una moto entrando tarde por el hueco;</li>
+<li class="">un peatón asomando desde detrás de una furgoneta;</li>
+<li class="">y un conductor local que negocia prioridades “a ojo”.</li>
+</ul>
+<p>La red neuronal no solo debe trazar una línea correcta. Debe producir una conducta <strong>socialmente legible</strong> para el resto del tráfico.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-calle-estrecha-española-no-perdona-el-exceso-de-prudencia">La calle estrecha española no perdona el exceso de prudencia<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#la-calle-estrecha-espa%C3%B1ola-no-perdona-el-exceso-de-prudencia" class="hash-link" aria-label="Enlace directo al La calle estrecha española no perdona el exceso de prudencia" title="Enlace directo al La calle estrecha española no perdona el exceso de prudencia" translate="no">​</a></h3>
+<p>En Europa se habla mucho de regulación, pero el mercado puede ser igual de duro que el regulador. Un FSD demasiado prudente en una calle estrecha de pueblo, esperando más de la cuenta ante cada incertidumbre, puede generar una experiencia frustrante aunque técnicamente sea segura.</p>
+<p>Y el problema contrario es todavía peor: un sistema demasiado confiado puede parecer espectacular durante tres días y perder credibilidad con una sola maniobra fea.</p>
+<p>La victoria en Europa no será solo “hacer más”. Será <strong>hacer lo justo con naturalidad</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detalle-más-interesante-tesla-está-tratando-fsd-como-producto-no-solo-como-promesa">El detalle más interesante: Tesla está tratando FSD como producto, no solo como promesa<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#el-detalle-m%C3%A1s-interesante-tesla-est%C3%A1-tratando-fsd-como-producto-no-solo-como-promesa" class="hash-link" aria-label="Enlace directo al El detalle más interesante: Tesla está tratando FSD como producto, no solo como promesa" title="Enlace directo al El detalle más interesante: Tesla está tratando FSD como producto, no solo como promesa" translate="no">​</a></h2>
+<p>Hay un matiz que me parece especialmente importante. El soporte neerlandés no presenta FSD como un concepto futurista. Lo presenta como un producto con:</p>
+<ul>
+<li class="">precio mensual de <strong>99 euros</strong>;</li>
+<li class="">onboarding obligatorio;</li>
+<li class="">condiciones de elegibilidad;</li>
+<li class="">límites de jurisdicción;</li>
+<li class="">y lista concreta de escenarios de uso.</li>
+</ul>
+<p>Eso suena menos épico que una promesa de robotaxi, pero para Europa es mucho más serio.</p>
+<p>Porque significa que Tesla ha pasado del lenguaje aspiracional al lenguaje de operación cotidiana. Y cuando una tecnología entra en esa fase, lo que importa ya no es el entusiasmo del fan más convencido. Importa:</p>
+<ul>
+<li class="">cuánto interviene la gente;</li>
+<li class="">cuánto confía;</li>
+<li class="">cuánto repite;</li>
+<li class="">y cuánto recomienda o deja de recomendar la función.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs realidad<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs realidad" title="Enlace directo al Expectativa vs realidad" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa">Expectativa<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#expectativa" class="hash-link" aria-label="Enlace directo al Expectativa" title="Enlace directo al Expectativa" translate="no">​</a></h3>
+<p>"Europa ya ha aprobado FSD; ahora solo falta encenderlo en todos los países."</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad">Realidad<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#realidad" class="hash-link" aria-label="Enlace directo al Realidad" title="Enlace directo al Realidad" translate="no">​</a></h3>
+<p>La realidad, a <strong>21 de abril de 2026</strong>, es más interesante y más dura:</p>
+<ul>
+<li class="">Tesla ya ha empezado a mover FSD en Europa desde la aprobación hacia el <strong>uso real por clientes</strong> en Países Bajos.</li>
+<li class="">Ese uso sigue siendo <strong>supervisado</strong>, con responsabilidad permanente del conductor.</li>
+<li class="">El despliegue incluye <strong>fricción deliberada</strong>: vídeo, quiz, requisitos de elegibilidad y límites geográficos.</li>
+<li class="">El siguiente examen no es solo político o jurídico. Es <strong>conductual</strong>: comprobar si el sistema resulta natural, consistente y útil en la complejidad europea diaria.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="mi-lectura-lo-importante-no-es-que-tesla-haya-entrado-sino-cómo-sobreviva-a-la-rutina">Mi lectura: lo importante no es que Tesla haya entrado, sino cómo sobreviva a la rutina<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#mi-lectura-lo-importante-no-es-que-tesla-haya-entrado-sino-c%C3%B3mo-sobreviva-a-la-rutina" class="hash-link" aria-label="Enlace directo al Mi lectura: lo importante no es que Tesla haya entrado, sino cómo sobreviva a la rutina" title="Enlace directo al Mi lectura: lo importante no es que Tesla haya entrado, sino cómo sobreviva a la rutina" translate="no">​</a></h2>
+<p>La comunidad FSD a veces confunde el primer día con la línea de meta. En realidad, el primer día solo inaugura la fase más difícil.</p>
+<p>Si el despliegue neerlandés funciona bien, Tesla habrá demostrado algo valioso: que su red end-to-end no solo consigue una aprobación, sino que también aguanta el contacto con usuarios reales dentro del marco europeo.</p>
+<p>Si funciona mal, la lectura será igual de importante: Europa no bloqueó por capricho, sino porque convertir una IA de conducción en producto fiable sobre calles reales es muchísimo más complejo que encadenar demos convincentes.</p>
+<p>Para España, el takeaway útil es muy claro. El futuro de FSD aquí no dependerá solo de Bruselas ni solo de la DGT. Dependerá también de algo mucho menos glamuroso y mucho más decisivo: <strong>cómo se comporte la IA cuando la metes, día tras día, en la rutina imperfecta de una ciudad europea</strong>.</p>
+<p>Si quieres seguir esa transición sin humo, quédate por aquí. Las próximas señales relevantes no serán solo anuncios oficiales. Serán pequeños indicios de producto: cómo gira, cómo cede, cómo duda y cómo aprende cuando el escenario deja de estar preparado para una demo.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class="">Tesla Support Nederland, <a href="https://www.tesla.com/nl_nl/support/fsd/trial-for-owners" target="_blank" rel="noopener noreferrer" class="">Proefperiode Full Self-Driving (Supervised) voor eigenaren</a>, consultado el 21 de abril de 2026.</li>
+<li class="">Tesla Support Nederland, <a href="https://www.tesla.com/nl_nl/support/fsd" target="_blank" rel="noopener noreferrer" class="">Full Self-Driving (Supervised)</a>, consultado el 21 de abril de 2026.</li>
+<li class="">Tesla Support Nederland, <a href="https://www.tesla.com/nl_nl/support/full-self-driving-subscriptions" target="_blank" rel="noopener noreferrer" class="">Abonnementen Full Self-Driving (Supervised)</a>, consultado el 21 de abril de 2026.</li>
+<li class="">UNECE, <a href="https://unece.org/media/press/395206" target="_blank" rel="noopener noreferrer" class="">New UN regulation paves way for deployment of driving assistance systems worldwide</a>, 4 de octubre de 2024.</li>
+</ul>
+<blockquote>
+<p>Nota editorial: el hecho de que Tesla haya pasado a pruebas con propietarios en Países Bajos es un dato soportado por las páginas oficiales enlazadas. La extrapolación sobre cómo puede comportarse el sistema en España es análisis propio, no un anuncio oficial de Tesla ni de los reguladores españoles.</p>
+</blockquote>]]></content>
+        <author>
+            <name>The Autonomous Pilot</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="tesla" term="tesla"/>
+        <category label="europa" term="europa"/>
+        <category label="testing" term="testing"/>
+        <category label="ai" term="ai"/>
+        <category label="paises-bajos" term="paises-bajos"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Europa no recibirá una copia del FSD americano: por qué el verdadero examen de Tesla empieza cuando la red neuronal deja de parecerse a EE. UU.]]></title>
         <id>https://fsd.pepetox.es/fsd-europa-no-espejo-eeuu</id>
@@ -1725,96 +1840,5 @@ Un sistema que gestiona bien la décima, cuando todo se complica, genera confian
         <category label="europa" term="europa"/>
         <category label="seguridad" term="seguridad"/>
         <category label="autopistas" term="autopistas"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V14 Lite y el límite del HW3: cuando FSD aprende a caber (sin romperse) en Europa]]></title>
-        <id>https://fsd.pepetox.es/v14-lite-hw3-europa</id>
-        <link href="https://fsd.pepetox.es/v14-lite-hw3-europa"/>
-        <updated>2026-02-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tesla habla de un 'V14 Lite' para HW3 y mueve FSD hacia la suscripción. La pista clave para Europa: comprimir el modelo sin perder criterio en carreteras españolas.]]></summary>
-        <content type="html"><![CDATA[<p>Sales de un garaje en pendiente, ruedas húmedas, luz baja. Te incorporas a una calle estrecha donde dos coches no pasan sin negociar. Un repartidor se asoma desde una furgoneta, una moto filtra por el hueco imposible, y al final de la calle hay una rotonda con marcas medio borradas y un semáforo que no siempre manda.</p>
-<p>Si FSD quiere <strong>existir en Europa</strong>, no basta con “conducir bien” en un vídeo americano. Tiene que <strong>acertar en escenarios españoles</strong> que no perdonan: señales temporales, calzadas irregulares, motos que aparecen y desaparecen, y una cultura vial donde el contexto pesa tanto como las líneas.</p>
-<p>Y esta semana han aparecido dos pistas que, juntas, explican más del futuro europeo que cualquier rumor de calendario:</p>
-<ol>
-<li class="">Tesla está empujando FSD hacia el modelo <strong>suscripción</strong> (y, según reportes, en EE. UU. dejaría de ofrecer la compra “de por vida” a partir del <strong>14 de febrero de 2026</strong>).</li>
-<li class="">En un earnings call, Tesla mencionó explícitamente un <strong>“V14 Lite” para HW3</strong>.</li>
-</ol>
-<p><img decoding="async" loading="lazy" alt="FSD encogiendo el modelo sin encoger la ambición" src="https://fsd.pepetox.es/assets/images/2026-02-09-v14-lite-hw3-europa-beebf1a91ca255675dc327359dd9b2d2.png" width="1024" height="1024" class="img_ev3q"></p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-el-giro-de-producto-cuando-fsd-se-vuelve-servicio">1) El giro de producto: cuando FSD se vuelve “servicio”<a href="https://fsd.pepetox.es/v14-lite-hw3-europa#1-el-giro-de-producto-cuando-fsd-se-vuelve-servicio" class="hash-link" aria-label="Enlace directo al 1) El giro de producto: cuando FSD se vuelve “servicio”" title="Enlace directo al 1) El giro de producto: cuando FSD se vuelve “servicio”" translate="no">​</a></h2>
-<p>Para Europa, el detalle no es el precio. Es la señal estratégica.</p>
-<p>Un producto “compra una vez y ya” se vende como promesa. Una suscripción se vende como <strong>relación continua</strong>: mejoras, métricas, soporte, y (sobre todo) un coste reputacional si el sistema decepciona mes a mes.</p>
-<p>Si de verdad se confirma el paso a suscripción como vía principal, Tesla está diciendo: FSD no es una opción estática, es un <strong>programa vivo</strong>. Y eso encaja con lo que Europa necesitará para aprobar algo serio: iteración, reporting, restricciones por ODD, y una historia de seguridad que mejore con datos, no con marketing.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-la-frase-que-importa-v14-lite-para-hw3">2) La frase que importa: “V14 Lite” para HW3<a href="https://fsd.pepetox.es/v14-lite-hw3-europa#2-la-frase-que-importa-v14-lite-para-hw3" class="hash-link" aria-label="Enlace directo al 2) La frase que importa: “V14 Lite” para HW3" title="Enlace directo al 2) La frase que importa: “V14 Lite” para HW3" translate="no">​</a></h2>
-<p>Lo verdaderamente técnico no es “V14”. Es <strong>Lite</strong>.</p>
-<p>Cuando Tesla (vía Ashok Elluswamy) menciona un “V14 Lite” orientado a HW3, está admitiendo de forma elegante la realidad física: el HW3 no tiene el margen de cómputo que el stack end-to-end moderno querría, pero el parque instalado es enorme. Así que el camino no es “tirar el hardware”, sino <strong>meter el cerebro en un cráneo más pequeño</strong>.</p>
-<p>Y aquí llega el punto clave: si puedes hacer que un modelo más compacto conduzca bien en el entorno relativamente “limpio” de muchas carreteras estadounidenses, aún te queda el nivel Europa.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-por-qué-españa-es-un-examen-brutal-para-un-modelo-lite">3) Por qué España es un examen brutal para un modelo “Lite”<a href="https://fsd.pepetox.es/v14-lite-hw3-europa#3-por-qu%C3%A9-espa%C3%B1a-es-un-examen-brutal-para-un-modelo-lite" class="hash-link" aria-label="Enlace directo al 3) Por qué España es un examen brutal para un modelo “Lite”" title="Enlace directo al 3) Por qué España es un examen brutal para un modelo “Lite”" translate="no">​</a></h2>
-<p>Los modelos comprimidos fallan donde el mundo exige <em>juicio</em>, no solo reflejos.</p>
-<p>En España ese juicio se juega en detalles que parecen menores hasta que se convierten en accidente o en intervención:</p>
-<ul>
-<li class=""><strong>Rotondas</strong>: no solo entrar y salir; es leer intención, huecos, y marcas imperfectas.</li>
-<li class=""><strong>Motos</strong>: trayectorias no lineales, filtrado, adelantamientos que dependen de microespacios.</li>
-<li class=""><strong>Infraestructura variable</strong>: obras, señales temporales, carriles que “aparecen” y “desaparecen”.</li>
-<li class=""><strong>Pueblos y cascos antiguos</strong>: sombras duras, estrechez real, peatones impredecibles, stops “sociales”.</li>
-</ul>
-<p>Un modelo “Lite” puede perder precisión en el largo tail: confundir roles, sobrerreaccionar o tardar en decidir. Y en Europa, esa duda se paga doble: en seguridad y en credibilidad regulatoria.</p>
-<p>Si quieres ejemplos de “realidad española” que no son opcionales, conecta con:</p>
-<ul>
-<li class=""><a class="" href="https://fsd.pepetox.es/gestos-agentes-trafico-fsd">El lenguaje de la mano: cuando FSD tiene que obedecer a un agente en España</a></li>
-<li class=""><a class="" href="https://fsd.pepetox.es/camaras-lluvia-fsd-espana">Cámaras y lluvia: el día que el sensor se vuelve política</a></li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-cómo-encoges-un-cerebro-sin-volverlo-torpe">4) Cómo encoges un cerebro sin volverlo torpe<a href="https://fsd.pepetox.es/v14-lite-hw3-europa#4-c%C3%B3mo-encoges-un-cerebro-sin-volverlo-torpe" class="hash-link" aria-label="Enlace directo al 4) Cómo encoges un cerebro sin volverlo torpe" title="Enlace directo al 4) Cómo encoges un cerebro sin volverlo torpe" translate="no">​</a></h2>
-<p>“Lite” no significa “menos inteligente”. Significa “misma política de conducción, con menos coste”.</p>
-<p>En IA aplicada a conducción, eso suele implicar (simplificando) una combinación de:</p>
-<ul>
-<li class=""><strong>Destilación</strong>: un modelo grande enseña a uno pequeño a imitar decisiones, no solo etiquetas.</li>
-<li class=""><strong>Optimización de latencia</strong>: menos milisegundos en percepción y planificación equivalen a más margen de seguridad.</li>
-<li class=""><strong>Priorización del contexto temporal</strong>: que el modelo recuerde lo que vio hace 0,5-2 segundos (crítico para motos y oclusiones).</li>
-<li class=""><strong>Barreras de seguridad</strong>: cuando la confianza cae, el sistema tiene que pedir supervisión antes de improvisar.</li>
-</ul>
-<p>Lo importante para Europa es que “Lite” obliga a Tesla a ser explícita con su ingeniería: qué se mantiene, qué se recorta, qué se monitoriza y qué se bloquea por escenario.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-europa-no-audita-parámetros-audita-responsabilidades">5) Europa no audita “parámetros”: audita responsabilidades<a href="https://fsd.pepetox.es/v14-lite-hw3-europa#5-europa-no-audita-par%C3%A1metros-audita-responsabilidades" class="hash-link" aria-label="Enlace directo al 5) Europa no audita “parámetros”: audita responsabilidades" title="Enlace directo al 5) Europa no audita “parámetros”: audita responsabilidades" translate="no">​</a></h2>
-<p>Aunque el post de hoy sea técnico, Europa siempre vuelve a la misma pregunta: si el sistema hace X, bajo Y condiciones, quién responde cuando falla.</p>
-<p>Por eso, a la comunidad española le interesa más el <em>packaging</em> del sistema que el número de versión:</p>
-<ul>
-<li class="">¿Qué ODD declara (y cuál no)?</li>
-<li class="">¿Qué hace cuando no está seguro?</li>
-<li class="">¿Cómo demuestra consistencia en escenarios europeos, no solo en autopistas “fáciles”?</li>
-</ul>
-<p>Si te interesa separar rumor de señal en el lado regulatorio, esta pieza de hace dos días sigue siendo el marco más sano:</p>
-<ul>
-<li class=""><a class="" href="https://fsd.pepetox.es/ruido-x-fsd-europa-rdw-unece">El ruido de X: RDW, UNECE y la trampa del calendario para FSD en Europa</a></li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="6-qué-vigilar-señales-tempranas-desde-españa">6) Qué vigilar (señales tempranas desde España)<a href="https://fsd.pepetox.es/v14-lite-hw3-europa#6-qu%C3%A9-vigilar-se%C3%B1ales-tempranas-desde-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al 6) Qué vigilar (señales tempranas desde España)" title="Enlace directo al 6) Qué vigilar (señales tempranas desde España)" translate="no">​</a></h2>
-<p>Si Tesla va en serio con Europa, veremos antes “pistas de ingeniería” que anuncios grandilocuentes:</p>
-<ul>
-<li class="">Menciones públicas repetidas a versiones “Lite” y a compatibilidad real con HW3 (sin humo).</li>
-<li class="">Notas de versión que hablen de comportamientos concretos (motos, obras, gestos, rotondas) y no solo “improvements”.</li>
-<li class="">Demos europeas con <strong>alcance acotado</strong> y condiciones claras (y no un “ya casi” eterno).</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/v14-lite-hw3-europa#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
-<p>El titular de hoy no es si Europa recibe FSD mañana. El titular es que Tesla está preparando un mundo donde FSD se vive como servicio y donde el stack tiene que <strong>caber en HW3</strong> sin perder criterio.</p>
-<p>Y si un “V14 Lite” es viable, el siguiente paso lógico es el que realmente nos importa en España: demostrar que ese modelo compacto no se rompe en nuestras rotondas, nuestras motos y nuestras calles estrechas.</p>
-<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Debate</div><div class="admonitionContent_BuS1"><p>Si Tesla lanza FSD en Europa primero en modo muy acotado (ODD estrecho, funciones limitadas, fuertes barreras de seguridad), ¿lo verías como progreso real o como una “demo eterna”? Cuéntalo en comentarios.</p></div></div>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes-para-seguir-el-hilo">Fuentes (para seguir el hilo)<a href="https://fsd.pepetox.es/v14-lite-hw3-europa#fuentes-para-seguir-el-hilo" class="hash-link" aria-label="Enlace directo al Fuentes (para seguir el hilo)" title="Enlace directo al Fuentes (para seguir el hilo)" translate="no">​</a></h2>
-<ul>
-<li class="">Earnings call transcript (mención de “V14 Lite” para HW3, Ashok Elluswamy): <a href="https://www.alphaspread.com/security/nasdaq/tsla/earnings-calls/q3-2025" target="_blank" rel="noopener noreferrer" class="">https://www.alphaspread.com/security/nasdaq/tsla/earnings-calls/q3-2025</a></li>
-<li class="">Not a Tesla App (reportes sobre cambio a suscripción en EE. UU., fecha 14 feb 2026): <a href="https://www.notateslaapp.com/news/2672/tesla-to-end-purchase-of-fsd-in-the-us-switches-to-subscription-only" target="_blank" rel="noopener noreferrer" class="">https://www.notateslaapp.com/news/2672/tesla-to-end-purchase-of-fsd-in-the-us-switches-to-subscription-only</a></li>
-<li class="">Teslarati (reportes sobre el mismo cambio a suscripción, contexto): <a href="https://www.teslarati.com/tesla-fsd-option-removed-subscription-only/" target="_blank" rel="noopener noreferrer" class="">https://www.teslarati.com/tesla-fsd-option-removed-subscription-only/</a></li>
-<li class="">Tesla (recordatorio oficial: Autopilot/FSD requiere supervisión activa): <a href="https://www.tesla.com/support/autopilot" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/support/autopilot</a></li>
-</ul>]]></content>
-        <author>
-            <name>The Autonomous Pilot</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="fsd" term="fsd"/>
-        <category label="tesla" term="tesla"/>
-        <category label="ai" term="ai"/>
-        <category label="testing" term="testing"/>
-        <category label="europa" term="europa"/>
-        <category label="espana" term="espana"/>
-        <category label="hw3" term="hw3"/>
-        <category label="software" term="software"/>
     </entry>
 </feed>
