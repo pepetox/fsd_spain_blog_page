@@ -2,11 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fsd.pepetox.es</id>
     <title>FSD Spain Blog</title>
-    <updated>2026-06-09T00:00:00.000Z</updated>
+    <updated>2026-06-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fsd.pepetox.es"/>
     <subtitle>FSD Spain Blog</subtitle>
     <icon>https://fsd.pepetox.es/img/fsdspain.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Bilbao no es Austin: por qué el viaje clave de FSD en España se está haciendo desde el asiento del pasajero]]></title>
+        <id>https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero</id>
+        <link href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero"/>
+        <updated>2026-06-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tesla ya ofrece ride-alongs de FSD Supervised en Bilbao. La cuestión clave para España no es el show: es qué evidencia deja ese asiento del pasajero.]]></summary>
+        <content type="html"><![CDATA[<p>Te sientas en el asiento del pasajero en un Tesla Center de Bilbao, el coche sale a la calle y durante unos minutos parece que el futuro ya ha llegado a España. Gira, se coloca, negocia tráfico real y transmite esa sensación peligrosa de inevitabilidad. Pero justo ahí conviene enfriar el entusiasmo: <strong>una demo pública no es un lanzamiento, y un ride-along no es todavía una homologación</strong>. La novedad importante de junio de 2026 no es solo que Tesla enseñe FSD Supervised más cerca de casa; es que por fin podemos observar cómo intenta convertir un producto norteamericano en un expediente europeo.</p>
+<p>Tesla mantiene publicada una experiencia oficial de <strong>Full Self-Driving (Supervised) Ride-Along en Bilbao</strong> con fechas del <strong>1 de junio al 31 de julio de 2026</strong> en su centro de Iurreta. No es un rumor de X ni un vídeo editado por un fan. Es la propia compañía invitando a subirse, mirar y comparar. Y eso cambia bastante el tipo de conversación que deberíamos tener en España.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-dato-importante-no-es-el-trayecto-es-el-formato">El dato importante no es el trayecto: es el formato<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#el-dato-importante-no-es-el-trayecto-es-el-formato" class="hash-link" aria-label="Enlace directo al El dato importante no es el trayecto: es el formato" title="Enlace directo al El dato importante no es el trayecto: es el formato" translate="no">​</a></h2>
+<p>Durante años, el debate europeo sobre FSD ha oscilado entre dos extremos malos:</p>
+<ul>
+<li class="">la demo viral que parece resolverlo todo;</li>
+<li class="">y la lectura regulatoria que asume que nada cambia hasta el día de la aprobación.</li>
+</ul>
+<p>El ride-along oficial rompe un poco esa falsa dicotomía. No convierte a FSD en autónomo ni lo libera mágicamente del marco UNECE. Pero tampoco es simple marketing vacío. Es un formato intermedio mucho más interesante: <strong>producto mostrado en entorno real, bajo control de Tesla, delante de potenciales clientes y curiosos, en carreteras que no son California</strong>.</p>
+<p>Eso obliga a la compañía a pasar otra clase de examen. No solo el de seguridad técnica, sino el de credibilidad contextual.</p>
+<p>En España, el pasajero no juzga FSD por un gráfico ni por una promesa de robotaxi. Lo juzga por cosas mucho más terrenales:</p>
+<ul>
+<li class="">si entra en una incorporación con decisión pero sin brusquedad;</li>
+<li class="">si interpreta una glorieta sin parecer perdido;</li>
+<li class="">si no se deja intimidar por motos, doble fila o marcas viales cansadas;</li>
+<li class="">y, sobre todo, si transmite calma sin volverse torpe.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="bilbao-importa-porque-acerca-el-debate-al-suelo-europeo">Bilbao importa porque acerca el debate al suelo europeo<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#bilbao-importa-porque-acerca-el-debate-al-suelo-europeo" class="hash-link" aria-label="Enlace directo al Bilbao importa porque acerca el debate al suelo europeo" title="Enlace directo al Bilbao importa porque acerca el debate al suelo europeo" translate="no">​</a></h2>
+<p>Hay una diferencia enorme entre ver FSD en Texas y verlo anunciado oficialmente en el País Vasco. En Estados Unidos, el lector europeo tiende a rellenar huecos: asume que ya se adaptará, que el cambio es solo político, que el software “ya sabe conducir”. En Bilbao ya no vale esa abstracción. La pregunta pasa a ser más incómoda y más útil:</p>
+<p><strong>¿qué parte de la experiencia es transferible a una carretera española normal y qué parte sigue siendo una demostración cuidadosamente acotada?</strong></p>
+<p>Ese matiz importa porque Tesla ya no solo enseña capacidad técnica. Enseña también intención operativa. Cuando una marca dedica agenda, personal y centros físicos a estas demostraciones, está diciendo que quiere acostumbrar al mercado europeo a una idea muy concreta: <strong>FSD Supervised ya no es solo una promesa lejana; es un producto que aspira a ser visto, probado y discutido aquí</strong>.</p>
+<p>Y esa transición, para la comunidad FSD España, vale oro. Nos permite dejar atrás el análisis puramente importado de YouTube y empezar a juzgar con criterios locales.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs. realidad<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad" title="Enlace directo al Expectativa vs. realidad" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa">Expectativa<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#expectativa" class="hash-link" aria-label="Enlace directo al Expectativa" title="Enlace directo al Expectativa" translate="no">​</a></h3>
+<p>Si Tesla ya organiza ride-alongs oficiales en España, el lanzamiento general debe de estar a la vuelta de la esquina.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad">Realidad<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#realidad" class="hash-link" aria-label="Enlace directo al Realidad" title="Enlace directo al Realidad" translate="no">​</a></h3>
+<p>Que una demo exista no significa que el despliegue masivo esté resuelto. Significa algo más modesto, pero también más serio: que Tesla cree tener suficiente confianza como para poner su sistema delante de público europeo sin esconderlo detrás de un clip de treinta segundos.</p>
+<p>Eso es relevante. Pero el salto que falta sigue siendo el de siempre: <strong>pasar de experiencia observada a comportamiento aprobable, repetible y bien delimitado</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-cuello-de-botella-sigue-teniendo-siglas">El cuello de botella sigue teniendo siglas<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#el-cuello-de-botella-sigue-teniendo-siglas" class="hash-link" aria-label="Enlace directo al El cuello de botella sigue teniendo siglas" title="Enlace directo al El cuello de botella sigue teniendo siglas" translate="no">​</a></h2>
+<p>Mientras Tesla abre estas ventanas públicas, el reloj regulatorio no se ha parado. UNECE anunció el <strong>6 de febrero de 2026</strong> una regulación global para facilitar la introducción segura de vehículos self-driving en vías públicas. En paralelo, el calendario visible de <strong>GRVA/WP.29</strong> mantiene una cita formal el <strong>23 de junio de 2026</strong>, después de que la 24.ª sesión de GRVA hubiera adoptado el borrador de la <strong>02 series de la Regulación UN n.º 171 (DCAS)</strong> para remitirlo a adopción superior.</p>
+<p>Traducido al idioma del lector español: Europa no está quieta, pero tampoco se mueve al ritmo del hype.</p>
+<p>Y aquí es donde muchos análisis fallan. Se habla de regulación como si fuera un simple semáforo rojo. No lo es. Es un embudo técnico y jurídico que obliga a demostrar varias cosas a la vez:</p>
+<ul>
+<li class="">qué hace exactamente el sistema;</li>
+<li class="">en qué condiciones lo hace;</li>
+<li class="">cómo se supervisa al conductor;</li>
+<li class="">cómo se comunican límites y degradaciones;</li>
+<li class="">y qué evidencias sostienen que el comportamiento observado no era una excepción bonita.</li>
+</ul>
+<p>Por eso Bilbao importa tanto. Porque nos enseña el producto. Pero GRVA, DCAS y la lógica UNECE siguen recordándonos que <strong>verlo funcionar una tarde no equivale a haber demostrado que merece circular a escala</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-verdadero-examen-español-no-se-hace-en-el-volante-sino-en-la-confianza">El verdadero examen español no se hace en el volante, sino en la confianza<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#el-verdadero-examen-espa%C3%B1ol-no-se-hace-en-el-volante-sino-en-la-confianza" class="hash-link" aria-label="Enlace directo al El verdadero examen español no se hace en el volante, sino en la confianza" title="Enlace directo al El verdadero examen español no se hace en el volante, sino en la confianza" translate="no">​</a></h2>
+<p>Aquí hay una lectura más profunda. Tesla ya tiene en Europa una ventaja narrativa clara: sus demos son más fáciles de entender que sus papeles regulatorios. La gente se sube, mira la pantalla, siente el giro, evalúa el frenado y sale con una opinión.</p>
+<p>El regulador, en cambio, no premia sensaciones. Premia consistencia.</p>
+<p>Y en España esa diferencia será decisiva. Porque nuestro entorno vial castiga mucho las medias tintas:</p>
+<ul>
+<li class="">glorietas donde la trayectoria “legal” y la trayectoria “social” no siempre coinciden;</li>
+<li class="">calles estrechas con coches invadiendo espacio útil;</li>
+<li class="">motos apareciendo por huecos improbables;</li>
+<li class="">pasos de peatones con visibilidad parcial;</li>
+<li class="">incorporaciones cortas donde la duda de dos segundos ya cambia toda la maniobra.</li>
+</ul>
+<p>Si FSD quiere ganarse algo más que curiosidad, tendrá que demostrar que su conducción supervisada no solo evita errores graves, sino que <strong>administra bien la incertidumbre cotidiana</strong>. Y eso no se resuelve solo con un paseo convincente.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-tesla-parece-estar-construyendo-de-verdad">Lo que Tesla parece estar construyendo de verdad<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#lo-que-tesla-parece-estar-construyendo-de-verdad" class="hash-link" aria-label="Enlace directo al Lo que Tesla parece estar construyendo de verdad" title="Enlace directo al Lo que Tesla parece estar construyendo de verdad" translate="no">​</a></h2>
+<p>Mi lectura es que Tesla está ensamblando tres capas a la vez en Europa:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-familiaridad-pública">1. Familiaridad pública<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#1-familiaridad-p%C3%BAblica" class="hash-link" aria-label="Enlace directo al 1. Familiaridad pública" title="Enlace directo al 1. Familiaridad pública" translate="no">​</a></h3>
+<p>Los ride-alongs convierten FSD en algo visible y comentable. Reducen distancia psicológica. Hacen que el sistema deje de ser “lo que pasa en Austin” y pase a ser “lo que acaban de enseñar en Bilbao”.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-disciplina-de-producto">2. Disciplina de producto<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#2-disciplina-de-producto" class="hash-link" aria-label="Enlace directo al 2. Disciplina de producto" title="Enlace directo al 2. Disciplina de producto" translate="no">​</a></h3>
+<p>Tesla no puede vender esto en Europa con la ambigüedad semántica de otros años. La propia documentación de soporte insiste en que <strong>FSD (Supervised)</strong> exige supervisión activa y no convierte el vehículo en autónomo. Eso obliga a una comunicación más precisa, y esa precisión también es parte del expediente.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-acumulación-de-contexto">3. Acumulación de contexto<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#3-acumulaci%C3%B3n-de-contexto" class="hash-link" aria-label="Enlace directo al 3. Acumulación de contexto" title="Enlace directo al 3. Acumulación de contexto" translate="no">​</a></h3>
+<p>Cada demostración pública en suelo europeo vale menos como prueba definitiva que como señal acumulativa. Enseña cómo se comporta el sistema, qué escenarios Tesla se atreve a mostrar y qué narrativa técnica quiere sostener ante clientes y reguladores.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-pregunta-incómoda-qué-no-estamos-viendo">La pregunta incómoda: ¿qué no estamos viendo?<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#la-pregunta-inc%C3%B3moda-qu%C3%A9-no-estamos-viendo" class="hash-link" aria-label="Enlace directo al La pregunta incómoda: ¿qué no estamos viendo?" title="Enlace directo al La pregunta incómoda: ¿qué no estamos viendo?" translate="no">​</a></h2>
+<p>Un ride-along bien organizado puede enseñar mucho, pero también puede esconder lo más importante:</p>
+<ul>
+<li class="">cuánto se ha preparado la ruta;</li>
+<li class="">qué escenarios se han evitado;</li>
+<li class="">cuánta intervención silenciosa existe en la operación;</li>
+<li class="">y qué parte del rendimiento depende de condiciones favorables de tráfico, clima y complejidad.</li>
+</ul>
+<p>Eso no invalida la demo. Solo impide convertirla en prueba absoluta.</p>
+<p>De hecho, esta puede ser la postura más útil para la comunidad: <strong>mirar estas experiencias con entusiasmo técnico, pero con criterio de auditoría</strong>. Celebrar que Tesla se exponga aquí, sí. Pero exigir que esa exposición se traduzca en señales de robustez real, no en una gira interminable de asientos del pasajero.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-debería-pasar-después-de-bilbao">Qué debería pasar después de Bilbao<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#qu%C3%A9-deber%C3%ADa-pasar-despu%C3%A9s-de-bilbao" class="hash-link" aria-label="Enlace directo al Qué debería pasar después de Bilbao" title="Enlace directo al Qué debería pasar después de Bilbao" translate="no">​</a></h2>
+<p>Si Tesla quiere que este momento signifique algo más que visibilidad comercial, el siguiente paso lógico no es hacer más ruido. Es hacer mejor evidencia:</p>
+<ol>
+<li class="">Más demostraciones en escenarios europeos difíciles, no solo rutas cómodas.</li>
+<li class="">Más claridad sobre límites operativos y takeover.</li>
+<li class="">Más continuidad entre soporte oficial, demos públicas y calendario regulatorio.</li>
+<li class="">Más señales de que el comportamiento mostrado es estable también en el caos pequeño de la conducción española.</li>
+</ol>
+<p>Si esa cadena se consolida, entonces sí podremos decir que España está dejando de ser mero público y empieza a convertirse en terreno de validación social y técnica para FSD.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-takeaway-para-la-comunidad-fsd-españa">El takeaway para la comunidad FSD España<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#el-takeaway-para-la-comunidad-fsd-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al El takeaway para la comunidad FSD España" title="Enlace directo al El takeaway para la comunidad FSD España" translate="no">​</a></h2>
+<p>La noticia de junio de 2026 no es que FSD ya haya “llegado” a España. La noticia es más interesante: <strong>Tesla ha decidido que ya merece ser observado aquí de cerca</strong>.</p>
+<p>Eso es menos espectacular que un titular de lanzamiento, pero probablemente más útil. Porque nos permite empezar a medir a FSD donde importa: no en la épica de Silicon Valley, sino en el estándar emocional y vial de un pasajero español que quiere salir del coche pensando una sola cosa: “sí, esto parecía competente, pero también entendía dónde estaba”.</p>
+<p>Si quieres poner esta pieza en contexto, enlaza bien con <a class="" href="https://fsd.pepetox.es/fsd-video-quiz-frontera">el vídeo, el quiz y la frontera: así empieza de verdad FSD en Europa</a> y con <a class="" href="https://fsd.pepetox.es/fsd-ultimo-metro-espana">el último metro que de verdad decide si FSD parece listo en España</a>. La conversación buena para hoy no es si hubo demo o no. Es otra: <strong>¿qué tendría que enseñarnos Tesla en una ciudad española para que dejaras de verlo como una exhibición y empezaras a verlo como un sistema listo para convivir con nuestro tráfico?</strong></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class=""><a href="https://www.tesla.com/event/full-self-driving-supervised-ride-along-experience-in-bilbao" target="_blank" rel="noopener noreferrer" class="">Tesla Events: Full Self-Driving (Supervised) Ride-Along Experience in Bilbao</a></li>
+<li class=""><a href="https://www.tesla.com/support/fsd" target="_blank" rel="noopener noreferrer" class="">Tesla Support: Full Self-Driving (Supervised)</a></li>
+<li class=""><a href="https://www.tesla.com/nl_nl/support/fsd" target="_blank" rel="noopener noreferrer" class="">Tesla Support Nederland: Full Self-Driving (Supervised)</a></li>
+<li class=""><a href="https://unece.org/sustainable-development/press/un-announces-global-regulation-facilitate-safe-introduction-self" target="_blank" rel="noopener noreferrer" class="">UNECE press release, 6 February 2026: global regulation for self-driving vehicles</a></li>
+<li class=""><a href="https://unece.org/transport/events/wp29grva-working-party-automatedautonomous-and-connected-vehicles-25th-session" target="_blank" rel="noopener noreferrer" class="">UNECE GRVA 25th session calendar, formal part on 23 June 2026</a></li>
+<li class=""><a href="https://unece.org/transport/events/wp29grva-working-party-automatedautonomous-and-connected-vehicles-24th-session" target="_blank" rel="noopener noreferrer" class="">UNECE GRVA 24th session summary on draft 02 amendments to UN Regulation No. 171 (DCAS)</a></li>
+</ul>]]></content>
+        <author>
+            <name>The Autonomous Pilot</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="tesla" term="tesla"/>
+        <category label="testing" term="testing"/>
+        <category label="espana" term="espana"/>
+        <category label="europa" term="europa"/>
+        <category label="regulations" term="regulations"/>
+        <category label="ai" term="ai"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Austin no prepara a FSD para lo más difícil de España: el último metro]]></title>
         <id>https://fsd.pepetox.es/fsd-ultimo-metro-espana</id>
@@ -1730,121 +1840,6 @@
         <category label="ai" term="ai"/>
         <category label="safety" term="safety"/>
         <category label="testing" term="testing"/>
-        <category label="europa" term="europa"/>
-        <category label="regulations" term="regulations"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HW4 en lluvia y contraluz: la prueba española que no se gana en un ride-along]]></title>
-        <id>https://fsd.pepetox.es/hw4-lluvia-contraluz-fsd-espana</id>
-        <link href="https://fsd.pepetox.es/hw4-lluvia-contraluz-fsd-espana"/>
-        <updated>2026-02-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tesla acelera FSD con v14 y ride-alongs en Europa, pero la prueba real en España sigue siendo visión robusta en lluvia, contraluz y señalización imperfecta.]]></summary>
-        <content type="html"><![CDATA[<p>Sales de la M-40 al atardecer, el sol cae bajo de frente, el asfalto refleja una lluvia fina y la línea del carril derecho aparece y desaparece bajo parches de pintura vieja. Un coche frena tarde para coger la salida y una moto te pasa filtrando justo cuando el carril se estrecha por obras. Ese es el momento en el que la conversación sobre FSD deja de ser marketing y se convierte en una pregunta de ingeniería: <strong>¿qué ve realmente la red cuando Europa le quita nitidez al mundo?</strong></p>
-<p>A fecha <strong>24 de febrero de 2026</strong>, el contexto está más interesante que hace un mes: Tesla ha reforzado su narrativa de autonomía en su actualización de resultados de <strong>Q4/FY 2025 (28 de enero de 2026)</strong>, donde habla de su versión <strong>v14</strong>, del crecimiento de sus suscripciones FSD y de <em>ride-alongs</em> en varios países europeos. Pero, al mismo tiempo, <strong>no hay (por ahora) un comunicado público nuevo de RDW</strong> que cierre el capítulo europeo: en la web pública de noticias de RDW, la referencia a Tesla sigue siendo la nota del <strong>24 de noviembre de 2025</strong>, que insiste en demostración, calendario condicionado y seguridad como criterio.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-actualización-más-reciente-no-cambia-el-examen-cambia-la-presión">La actualización más reciente no cambia el examen: cambia la presión<a href="https://fsd.pepetox.es/hw4-lluvia-contraluz-fsd-espana#la-actualizaci%C3%B3n-m%C3%A1s-reciente-no-cambia-el-examen-cambia-la-presi%C3%B3n" class="hash-link" aria-label="Enlace directo al La actualización más reciente no cambia el examen: cambia la presión" title="Enlace directo al La actualización más reciente no cambia el examen: cambia la presión" translate="no">​</a></h2>
-<p>Hay dos hechos que conviene separar.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-qué-ha-dicho-tesla-recientemente-hecho">1) Qué ha dicho Tesla recientemente (hecho)<a href="https://fsd.pepetox.es/hw4-lluvia-contraluz-fsd-espana#1-qu%C3%A9-ha-dicho-tesla-recientemente-hecho" class="hash-link" aria-label="Enlace directo al 1) Qué ha dicho Tesla recientemente (hecho)" title="Enlace directo al 1) Qué ha dicho Tesla recientemente (hecho)" translate="no">​</a></h3>
-<p>En el <em>shareholder deck</em> de Tesla (Q4/FY 2025), publicado el <strong>28 de enero de 2026</strong>, la compañía afirma que:</p>
-<ul>
-<li class="">sigue mejorando FSD (Supervised) con un modelo <em>end-to-end</em> y menciona la versión <strong>v14</strong>,</li>
-<li class="">continúa buscando aprobación regulatoria en <strong>China y Europa</strong>,</li>
-<li class="">y ya ofrece <em>ride-alongs</em> a consumidores en <strong>Italia, Alemania, Francia y Suiza</strong>.</li>
-</ul>
-<p>Eso importa porque muestra una estrategia clara: aumentar evidencia pública y presión de expectativa mientras el frente regulatorio sigue abierto.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-qué-ha-dicho-rdw-públicamente-hecho">2) Qué ha dicho RDW públicamente (hecho)<a href="https://fsd.pepetox.es/hw4-lluvia-contraluz-fsd-espana#2-qu%C3%A9-ha-dicho-rdw-p%C3%BAblicamente-hecho" class="hash-link" aria-label="Enlace directo al 2) Qué ha dicho RDW públicamente (hecho)" title="Enlace directo al 2) Qué ha dicho RDW públicamente (hecho)" translate="no">​</a></h3>
-<p>La nota de RDW del <strong>24 de noviembre de 2025</strong> no prometía aprobación automática en febrero de 2026. Decía algo más exigente: Tesla debía <strong>demostrar</strong> que FSD Supervised cumple los requisitos, y que el calendario podía cumplirse o no. RDW subrayó además que la <strong>seguridad vial</strong> es prioritaria.</p>
-<p>Mi lectura (análisis): desde el punto de vista europeo, esto desplaza el debate desde el "wow" de una demo al terreno menos vistoso pero decisivo: <strong>robustez, límites del sistema y validación</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-españa-es-una-prueba-de-visión-no-solo-de-planificación">Por qué España es una prueba de visión (no solo de planificación)<a href="https://fsd.pepetox.es/hw4-lluvia-contraluz-fsd-espana#por-qu%C3%A9-espa%C3%B1a-es-una-prueba-de-visi%C3%B3n-no-solo-de-planificaci%C3%B3n" class="hash-link" aria-label="Enlace directo al Por qué España es una prueba de visión (no solo de planificación)" title="Enlace directo al Por qué España es una prueba de visión (no solo de planificación)" translate="no">​</a></h2>
-<p>Cuando se habla de FSD en Europa, mucha gente piensa primero en regulación. Correcto, pero incompleto. Antes de la regulación hay una capa técnica que pesa muchísimo: <strong>la calidad de percepción en condiciones imperfectas y culturalmente caóticas</strong>.</p>
-<p>En España, un stack de conducción asistida se enfrenta a una combinación especialmente dura:</p>
-<ul>
-<li class=""><strong>contraluz frecuente</strong> (amanecer/atardecer con sol bajo),</li>
-<li class=""><strong>señalización horizontal degradada</strong> o repintada a capas,</li>
-<li class=""><strong>obras con geometría temporal</strong> que rompen la “normalidad” del carril,</li>
-<li class=""><strong>rotondas con trayectorias ambiguas</strong> y conductas agresivas,</li>
-<li class=""><strong>lluvia fina + reflejos</strong> que empeoran el contraste de líneas y bordes.</li>
-</ul>
-<p>El problema no es solo “ver objetos”. Es <strong>inferir geometría útil</strong> cuando el mundo real está lleno de pistas contradictorias.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-lo-que-el-usuario-ve-y-lo-que-el-sistema-necesita">Expectativa vs. realidad: lo que el usuario ve y lo que el sistema necesita<a href="https://fsd.pepetox.es/hw4-lluvia-contraluz-fsd-espana#expectativa-vs-realidad-lo-que-el-usuario-ve-y-lo-que-el-sistema-necesita" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad: lo que el usuario ve y lo que el sistema necesita" title="Enlace directo al Expectativa vs. realidad: lo que el usuario ve y lo que el sistema necesita" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa">Expectativa<a href="https://fsd.pepetox.es/hw4-lluvia-contraluz-fsd-espana#expectativa" class="hash-link" aria-label="Enlace directo al Expectativa" title="Enlace directo al Expectativa" translate="no">​</a></h3>
-<p>"Si v14 ya funciona mejor en EE. UU. y Tesla hace <em>ride-alongs</em> en Europa, lo difícil está hecho".</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad">Realidad<a href="https://fsd.pepetox.es/hw4-lluvia-contraluz-fsd-espana#realidad" class="hash-link" aria-label="Enlace directo al Realidad" title="Enlace directo al Realidad" translate="no">​</a></h3>
-<p>Un <em>ride-along</em> enseña fluidez en un recorrido concreto. Europa (y especialmente España) pedirá algo distinto: <strong>comportamiento repetible cuando la percepción cae de calidad</strong>.</p>
-<p>Eso incluye preguntas incómodas pero muy concretas:</p>
-<ul>
-<li class="">¿Qué hace el sistema cuando la línea del carril “brilla” por agua y parece desplazada?</li>
-<li class="">¿Cómo evita sobrecorregir cuando una rotonda tiene marcas antiguas visibles debajo de las nuevas?</li>
-<li class="">¿Cómo negocia una incorporación corta si el vehículo de delante cambia de intención tarde?</li>
-<li class="">¿Qué margen mantiene cuando hay motos filtrando y la referencia lateral se vuelve inestable?</li>
-</ul>
-<p>Aquí se decide si estamos ante una demo convincente o ante un producto europeo serio.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-reto-de-hw4-no-es-solo-la-cámara-es-la-calibración-del-comportamiento">El reto de HW4 no es solo la cámara: es la calibración del comportamiento<a href="https://fsd.pepetox.es/hw4-lluvia-contraluz-fsd-espana#el-reto-de-hw4-no-es-solo-la-c%C3%A1mara-es-la-calibraci%C3%B3n-del-comportamiento" class="hash-link" aria-label="Enlace directo al El reto de HW4 no es solo la cámara: es la calibración del comportamiento" title="Enlace directo al El reto de HW4 no es solo la cámara: es la calibración del comportamiento" translate="no">​</a></h2>
-<p>En el debate público se simplifica mucho con frases como “más cámaras” o “mejor hardware”. Pero en carretera real, la diferencia práctica suele venir de otra cosa: <strong>cómo el sistema gestiona la incertidumbre</strong>.</p>
-<p>Cuando la percepción es limpia, casi cualquier sistema moderno parece competente. La madurez aparece cuando la percepción es mala y el coche aun así mantiene tres virtudes a la vez:</p>
-<ul>
-<li class=""><strong>seguridad</strong> (no se mete donde no debe),</li>
-<li class=""><strong>suavidad</strong> (no genera frenazos o zigzags innecesarios),</li>
-<li class=""><strong>legibilidad social</strong> (los demás conductores entienden lo que va a hacer).</li>
-</ul>
-<p>Ese triángulo es especialmente difícil en España. Un humano experimentado “rellena huecos” con contexto cultural: sabe que ese coche probablemente invadirá, que esa furgoneta repartiendo puede abrir puerta, o que esa rotonda tiene una salida que casi todo el mundo toma mal. Una red neuronal puede aprender patrones, sí, pero Europa va a pedir pruebas de que esa intuición estadística <strong>no se rompe</strong> cuando cambian lluvia, iluminación, pintura y hábitos locales.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-europa-dcas-obliga-a-poner-encima-de-la-mesa">Lo que Europa (DCAS) obliga a poner encima de la mesa<a href="https://fsd.pepetox.es/hw4-lluvia-contraluz-fsd-espana#lo-que-europa-dcas-obliga-a-poner-encima-de-la-mesa" class="hash-link" aria-label="Enlace directo al Lo que Europa (DCAS) obliga a poner encima de la mesa" title="Enlace directo al Lo que Europa (DCAS) obliga a poner encima de la mesa" translate="no">​</a></h2>
-<p>La parte interesante de la regulación europea no es que "prohíba"; es que <strong>fuerza a explicitar límites</strong>.</p>
-<p>La regulación <strong>UN Regulation No 171 (DCAS)</strong>, en su versión consolidada en EUR-Lex (con enmiendas vigentes hasta septiembre de 2025), deja varias ideas clave que encajan exactamente con el problema FSD en España:</p>
-<ul>
-<li class="">DCAS es <strong>nivel 2</strong>: asiste, pero <strong>no sustituye</strong> al conductor.</li>
-<li class="">El conductor debe <strong>supervisar permanentemente</strong> el entorno y el sistema.</li>
-<li class="">El sistema opera dentro de <strong>límites/boundaries</strong> y no está diseñado para reconocer “cada situación”.</li>
-<li class="">La validación no es solo prestaciones bonitas; incluye <strong>monitorización del sistema, validación y documentación</strong>.</li>
-</ul>
-<p>Traducción práctica para la comunidad FSD: si Tesla quiere avanzar en Europa, no basta con que el coche haga un trayecto impresionante. Tiene que demostrar algo mucho más aburrido y mucho más potente: <strong>qué hace cuando no está seguro, cómo avisa, cómo degrada y cómo cede el control sin crear una situación peor</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-verdadero-cuello-de-botella-pasar-de-conduce-a-demuestra-que-conduce-bien">El verdadero cuello de botella: pasar de “conduce” a “demuestra que conduce bien”<a href="https://fsd.pepetox.es/hw4-lluvia-contraluz-fsd-espana#el-verdadero-cuello-de-botella-pasar-de-conduce-a-demuestra-que-conduce-bien" class="hash-link" aria-label="Enlace directo al El verdadero cuello de botella: pasar de “conduce” a “demuestra que conduce bien”" title="Enlace directo al El verdadero cuello de botella: pasar de “conduce” a “demuestra que conduce bien”" translate="no">​</a></h2>
-<p>Este es el punto que más se subestima en redes: la dificultad no es únicamente mejorar la conducción, sino <strong>convertir esa mejora en evidencia aceptable para una autoridad</strong>.</p>
-<p>Por eso el debate sobre España y Europa debería cambiar de pregunta.</p>
-<p>En lugar de preguntar:</p>
-<blockquote>
-<p>“¿Cuándo llega FSD?”</p>
-</blockquote>
-<p>La pregunta útil es:</p>
-<blockquote>
-<p>“¿Qué evidencia faltaría para confiar en FSD en lluvia, contraluz, obras y rotondas españolas de forma repetible?”</p>
-</blockquote>
-<p>Ese cambio mental importa porque acerca a la comunidad al trabajo real: observar casos, describir fallos con precisión, distinguir errores de percepción vs. predicción vs. planificación, y exigir métricas que tengan sentido fuera del clip viral.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-mirar-en-las-próximas-semanas-sin-caer-en-el-hype">Qué mirar en las próximas semanas (sin caer en el hype)<a href="https://fsd.pepetox.es/hw4-lluvia-contraluz-fsd-espana#qu%C3%A9-mirar-en-las-pr%C3%B3ximas-semanas-sin-caer-en-el-hype" class="hash-link" aria-label="Enlace directo al Qué mirar en las próximas semanas (sin caer en el hype)" title="Enlace directo al Qué mirar en las próximas semanas (sin caer en el hype)" translate="no">​</a></h2>
-<p>Si en Europa aparecen más demos, <em>ride-alongs</em> o pruebas, yo vigilaría estas señales por encima del número de vídeos:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-repetibilidad-en-escenarios-feos">1) Repetibilidad en escenarios “feos”<a href="https://fsd.pepetox.es/hw4-lluvia-contraluz-fsd-espana#1-repetibilidad-en-escenarios-feos" class="hash-link" aria-label="Enlace directo al 1) Repetibilidad en escenarios “feos”" title="Enlace directo al 1) Repetibilidad en escenarios “feos”" translate="no">​</a></h3>
-<p>No un recorrido perfecto, sino varios recorridos con:</p>
-<ul>
-<li class="">lluvia o asfalto mojado,</li>
-<li class="">sol bajo,</li>
-<li class="">obras temporales,</li>
-<li class="">rotondas con tráfico denso.</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-calidad-de-las-transiciones-y-degradación">2) Calidad de las transiciones y degradación<a href="https://fsd.pepetox.es/hw4-lluvia-contraluz-fsd-espana#2-calidad-de-las-transiciones-y-degradaci%C3%B3n" class="hash-link" aria-label="Enlace directo al 2) Calidad de las transiciones y degradación" title="Enlace directo al 2) Calidad de las transiciones y degradación" translate="no">​</a></h3>
-<p>Cuando el sistema duda, ¿reduce velocidad con tiempo? ¿pide intervención de forma comprensible? ¿deja el coche en una posición socialmente segura?</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-evidencia-regulatoria-no-solo-narrativa-comercial">3) Evidencia regulatoria, no solo narrativa comercial<a href="https://fsd.pepetox.es/hw4-lluvia-contraluz-fsd-espana#3-evidencia-regulatoria-no-solo-narrativa-comercial" class="hash-link" aria-label="Enlace directo al 3) Evidencia regulatoria, no solo narrativa comercial" title="Enlace directo al 3) Evidencia regulatoria, no solo narrativa comercial" translate="no">​</a></h3>
-<p>Cualquier señal pública de proceso (autoridades, marcos, alcance de pruebas, límites) vale más para Europa que diez clips espectaculares.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway-para-la-comunidad-fsd-en-españa">Takeaway para la comunidad FSD en España<a href="https://fsd.pepetox.es/hw4-lluvia-contraluz-fsd-espana#takeaway-para-la-comunidad-fsd-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Takeaway para la comunidad FSD en España" title="Enlace directo al Takeaway para la comunidad FSD en España" translate="no">​</a></h2>
-<p>La noticia de fondo no es solo que Tesla empuje v14 o enseñe <em>ride-alongs</em> en Europa. La noticia importante es que <strong>el listón europeo obliga a demostrar robustez precisamente donde la carretera española castiga más a la visión: lluvia, contraluz y señalización imperfecta</strong>.</p>
-<p>Si FSD supera eso con consistencia, no será solo una victoria de producto. Será una señal de que el sistema está aprendiendo a conducir en el mundo real europeo, no en una versión “limpia” del mapa.</p>
-<p>Y si quieres seguir esa evolución sin humo, te recomiendo leer también nuestro análisis sobre <a class="" href="https://fsd.pepetox.es/fsd-europa-demo-vs-validacion">por qué febrero era más un examen de evidencia que una fecha de lanzamiento</a> y esta pieza sobre <a class="" href="https://fsd.pepetox.es/madrid-auditoria-fsd">la calle como auditoría en Madrid</a>.</p>
-<p>¿Has visto casos especialmente duros de lluvia, reflejos o rotondas donde crees que un sistema así sufriría? Déjalo en comentarios: esos escenarios valen más que mil slogans.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/hw4-lluvia-contraluz-fsd-espana#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
-<ul>
-<li class="">Tesla Investor Relations, <strong>Q4 and FY 2025 Update</strong> (28/01/2026): <a href="https://ir.tesla.com/" target="_blank" rel="noopener noreferrer" class="">https://ir.tesla.com/</a> y deck Q4/FY2025</li>
-<li class="">RDW, <strong>RDW response following Tesla's call to action</strong> (24/11/2025): <a href="https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action</a></li>
-<li class="">RDW, página de noticias pública (revisada para verificar publicaciones visibles posteriores): <a href="https://www.rdw.nl/en/news" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/en/news</a></li>
-<li class="">EUR-Lex, <strong>UN Regulation No 171 (DCAS) [2025/1899]</strong>: <a href="https://eur-lex.europa.eu/eli/reg/2025/1899/oj/eng" target="_blank" rel="noopener noreferrer" class="">https://eur-lex.europa.eu/eli/reg/2025/1899/oj/eng</a></li>
-</ul>]]></content>
-        <author>
-            <name>The Autonomous Pilot</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="fsd" term="fsd"/>
-        <category label="tesla" term="tesla"/>
-        <category label="ai" term="ai"/>
-        <category label="testing" term="testing"/>
-        <category label="vision" term="vision"/>
-        <category label="espana" term="espana"/>
         <category label="europa" term="europa"/>
         <category label="regulations" term="regulations"/>
     </entry>
