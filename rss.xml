@@ -4,10 +4,93 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Tue, 16 Jun 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[FSD ya no solo mira la carretera: unas gafas de sol pueden decidir su futuro en España]]></title>
+            <link>https://fsd.pepetox.es/fsd-mirada-conductor-gafas-sol-espana</link>
+            <guid>https://fsd.pepetox.es/fsd-mirada-conductor-gafas-sol-espana</guid>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tesla mejora el seguimiento de mirada de FSD. En España, el examen real está entre el sol, las gafas oscuras y los túneles.]]></description>
+            <content:encoded><![CDATA[<p>Entras en un túnel de la A-7 con el sol bajo clavado en el parabrisas. Llevas gafas oscuras, FSD mantiene la trayectoria y, en menos de un segundo, el habitáculo pasa de una luz brutal a la penumbra. El coche debe resolver dos problemas a la vez: <strong>entender la carretera y comprobar que tú sigues entendiéndola</strong>. Si la cámara interior confunde tus gafas con distracción, te castigará estando atento; si interpreta una mirada perdida como atención, el fallo es bastante más serio.</p>
+<p>Ese segundo problema acaba de ganar peso en la evolución de Tesla. Las notas de <strong>FSD (Supervised) v14.3.3</strong> documentaron una monitorización del conductor más sensible, con mejor seguimiento de la mirada, mejor tratamiento de gafas y mayor precisión cuando cambia la iluminación. No es la función que protagoniza los vídeos virales, pero sí una de las que mejor explica qué necesita FSD para ser creíble en España: <strong>un sistema supervisado solo es tan sólido como su capacidad para saber si la supervisión existe de verdad</strong>.</p>
+<p><img decoding="async" loading="lazy" alt="Conductor con gafas de sol entrando en un túnel mientras la cámara de habitáculo supervisa su atención" src="https://fsd.pepetox.es/assets/images/2026-06-23-fsd-monitorizacion-mirada-espana-80c719e0f72f1700dc5b620917fbf636.png" width="1376" height="768" class="img_ev3q"></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-actualización-importante-ocurrió-dentro-del-coche">La actualización importante ocurrió dentro del coche<a href="https://fsd.pepetox.es/fsd-mirada-conductor-gafas-sol-espana#la-actualizaci%C3%B3n-importante-ocurri%C3%B3-dentro-del-coche" class="hash-link" aria-label="Enlace directo al La actualización importante ocurrió dentro del coche" title="Enlace directo al La actualización importante ocurrió dentro del coche" translate="no">​</a></h2>
+<p>La rama 14.3 ha recibido después compilaciones menores, incluida v14.3.4, pero la mejora de cabina que Tesla terminó detallando en junio apareció en las notas de v14.3.3. El texto identifica tres frentes concretos:</p>
+<ul>
+<li class="">seguimiento de la dirección de la mirada;</li>
+<li class="">gestión de gafas y gafas de sol;</li>
+<li class="">precisión con iluminación variable.</li>
+</ul>
+<p>Hay un matiz relevante. El <strong>3 de junio de 2026</strong>, la cuenta oficial Tesla AI aclaró que la capacidad se había desplegado en una actualización anterior, aunque no se había destacado entonces en las notas. Por tanto, no deberíamos presentarla como un interruptor encendido exactamente ese día. La noticia real es más interesante: <strong>Tesla ha decidido hacer visible una capa de seguridad que ya estaba funcionando y que resulta central para FSD Supervised</strong>.</p>
+<p>Tampoco es una confirmación de disponibilidad de v14.3.3 en España. Las notas consultadas corresponden a vehículos compatibles con AI4 en los mercados donde esa compilación se ha distribuido. Lo que sí ofrecen es una pista técnica del producto que Tesla quiere escalar: mejorar la red que conduce y, en paralelo, la red que vigila al humano responsable.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-conducir-mejor-puede-hacer-más-difícil-supervisar">Expectativa vs. realidad: conducir mejor puede hacer más difícil supervisar<a href="https://fsd.pepetox.es/fsd-mirada-conductor-gafas-sol-espana#expectativa-vs-realidad-conducir-mejor-puede-hacer-m%C3%A1s-dif%C3%ADcil-supervisar" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad: conducir mejor puede hacer más difícil supervisar" title="Enlace directo al Expectativa vs. realidad: conducir mejor puede hacer más difícil supervisar" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa">Expectativa<a href="https://fsd.pepetox.es/fsd-mirada-conductor-gafas-sol-espana#expectativa" class="hash-link" aria-label="Enlace directo al Expectativa" title="Enlace directo al Expectativa" translate="no">​</a></h3>
+<p>Cuanto mejor conduce FSD, más segura y relajada se vuelve la experiencia.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad">Realidad<a href="https://fsd.pepetox.es/fsd-mirada-conductor-gafas-sol-espana#realidad" class="hash-link" aria-label="Enlace directo al Realidad" title="Enlace directo al Realidad" translate="no">​</a></h3>
+<p>Cuanto menos interviene el conductor, más difícil es mantener una atención activa durante minutos de conducción aparentemente impecable. La paradoja es incómoda: <strong>la competencia de la automatización puede degradar la calidad de su propia supervisión</strong>.</p>
+<p>Por eso no basta con detectar unas manos en el volante. Un conductor puede ejercer una pequeña fuerza y estar pensando en otra cosa. La dirección de la mirada aporta una señal más rica, aunque tampoco infalible: mirar al frente no demuestra por sí solo que se esté comprendiendo la escena.</p>
+<p>El manual europeo de Tesla lo formula con bastante claridad. Cuando FSD Supervised está activo, la cámara de habitáculo comprueba la implicación visual y la disponibilidad de las manos para retomar el control. Si el conductor aparta la vista de forma repetida, aparecen avisos; si los ignora, el sistema puede desactivarse durante el trayecto. El propio manual advierte, además, de que la monitorización puede emitir alertas con un conductor atento o no emitirlas ante un uso incorrecto.</p>
+<p>Esa limitación no invalida el sistema. Define el examen que debe superar.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-españa-complica-el-seguimiento-de-mirada">Por qué España complica el seguimiento de mirada<a href="https://fsd.pepetox.es/fsd-mirada-conductor-gafas-sol-espana#por-qu%C3%A9-espa%C3%B1a-complica-el-seguimiento-de-mirada" class="hash-link" aria-label="Enlace directo al Por qué España complica el seguimiento de mirada" title="Enlace directo al Por qué España complica el seguimiento de mirada" translate="no">​</a></h2>
+<p>Una cámara interior no trabaja en un laboratorio con luz constante. En una ruta española normal puede encontrarse, en pocos kilómetros, con situaciones muy distintas.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="sol-bajo-y-gafas-oscuras">Sol bajo y gafas oscuras<a href="https://fsd.pepetox.es/fsd-mirada-conductor-gafas-sol-espana#sol-bajo-y-gafas-oscuras" class="hash-link" aria-label="Enlace directo al Sol bajo y gafas oscuras" title="Enlace directo al Sol bajo y gafas oscuras" translate="no">​</a></h3>
+<p>En invierno, una entrada a Madrid por la A-6 o un trayecto hacia el oeste al atardecer obliga a protegerse del deslumbramiento. Las gafas ocultan parte de los ojos justo cuando el sistema más necesita distinguir entre una mirada al frente y una distracción.</p>
+<p>El objetivo no puede ser simplemente “ver la pupila”. Debe inferir atención con señales parciales y evitar que unas gafas normales conviertan una función de seguridad en una fábrica de avisos falsos.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="túneles-y-cambios-de-exposición">Túneles y cambios de exposición<a href="https://fsd.pepetox.es/fsd-mirada-conductor-gafas-sol-espana#t%C3%BAneles-y-cambios-de-exposici%C3%B3n" class="hash-link" aria-label="Enlace directo al Túneles y cambios de exposición" title="Enlace directo al Túneles y cambios de exposición" translate="no">​</a></h3>
+<p>La M-30, la A-7 o cualquier sucesión de túneles cortos crean transiciones rápidas de luminosidad. La cámara tiene que reajustar exposición sin perder durante segundos la capacidad de interpretar la cara. Ese intervalo es pequeño para una persona y enorme para una función que decide si el conductor está listo para intervenir.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="miradas-legítimas-fuera-del-parabrisas">Miradas legítimas fuera del parabrisas<a href="https://fsd.pepetox.es/fsd-mirada-conductor-gafas-sol-espana#miradas-leg%C3%ADtimas-fuera-del-parabrisas" class="hash-link" aria-label="Enlace directo al Miradas legítimas fuera del parabrisas" title="Enlace directo al Miradas legítimas fuera del parabrisas" translate="no">​</a></h3>
+<p>Conducir atento no significa mirar siempre al mismo punto. Hay que comprobar un retrovisor, vigilar una moto que filtra, leer una señal lateral o anticipar un vehículo en una incorporación. Un buen sistema de monitorización debe separar esas exploraciones necesarias de una distracción prolongada.</p>
+<p>Aquí aparece la diferencia entre una alarma rígida y una IA útil: <strong>no medir solo dónde miras, sino durante cuánto tiempo, en qué contexto y ante qué maniobra</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-cámara-interior-también-necesita-entender-contexto">La cámara interior también necesita entender contexto<a href="https://fsd.pepetox.es/fsd-mirada-conductor-gafas-sol-espana#la-c%C3%A1mara-interior-tambi%C3%A9n-necesita-entender-contexto" class="hash-link" aria-label="Enlace directo al La cámara interior también necesita entender contexto" title="Enlace directo al La cámara interior también necesita entender contexto" translate="no">​</a></h2>
+<p>La red exterior de FSD intenta reconstruir geometría, detectar objetos y anticipar trayectorias. La red interior afronta otro problema: inferir disponibilidad humana a partir de ojos, cabeza, manos, iluminación y comportamiento reciente.</p>
+<p>No son tareas independientes. Imaginemos que FSD se aproxima a una rotonda de varios carriles:</p>
+<ol>
+<li class="">La percepción exterior detecta vehículos, carriles y posibles trayectorias.</li>
+<li class="">El planificador elige una entrada y calcula el margen disponible.</li>
+<li class="">La cámara interior observa que el conductor mira brevemente a la izquierda, justo hacia el tráfico con prioridad.</li>
+<li class="">El sistema debe interpretar esa mirada como parte de la supervisión, no como abandono de la tarea.</li>
+</ol>
+<p>Esta coordinación es la frontera interesante. Un monitor que solo cuenta segundos con los ojos centrados puede ser estricto y, aun así, poco inteligente. Uno que incorpora el riesgo de la escena puede exigir más atención antes de una maniobra compleja y tolerar una consulta breve al retrovisor cuando corresponde.</p>
+<p>Tesla no ha explicado públicamente que su sistema ya realice toda esa fusión contextual. Es una dirección técnica razonable, no un hecho confirmado. Precisamente por eso las pruebas europeas deberían medirla en situaciones reproducibles y no limitarse a comprobar si aparece un aviso.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-debería-demostrar-una-prueba-española-seria">Qué debería demostrar una prueba española seria<a href="https://fsd.pepetox.es/fsd-mirada-conductor-gafas-sol-espana#qu%C3%A9-deber%C3%ADa-demostrar-una-prueba-espa%C3%B1ola-seria" class="hash-link" aria-label="Enlace directo al Qué debería demostrar una prueba española seria" title="Enlace directo al Qué debería demostrar una prueba española seria" translate="no">​</a></h2>
+<p>La mejora no se valida con una vuelta limpia a mediodía. Necesita una matriz de escenarios que fuerce los límites:</p>
+<ul>
+<li class="">conductor con y sin gafas, incluyendo cristales oscuros y reflectantes;</li>
+<li class="">sol frontal, luz lateral, noche y sucesión rápida de túneles;</li>
+<li class="">miradas legítimas a retrovisores, pantalla y señales laterales;</li>
+<li class="">distracciones reales de distinta duración;</li>
+<li class="">conductores con alturas, rasgos y posiciones de asiento diferentes;</li>
+<li class="">avisos que lleguen pronto, pero no interrumpan constantemente a quien conduce bien.</li>
+</ul>
+<p>Las dos métricas esenciales son opuestas. Por un lado, cuántas distracciones deja pasar el sistema. Por otro, cuántas veces acusa injustamente a un conductor atento. Optimizar solo una puede arruinar la otra.</p>
+<p>Ese equilibrio importa especialmente en un producto supervisado. Demasiados falsos negativos crean riesgo; demasiados falsos positivos generan fatiga de alertas y enseñan al usuario a ignorarlas. <strong>Una advertencia pierde valor cada vez que se activa sin motivo comprensible</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="no-es-autonomía-total-y-precisamente-por-eso-importa">No es autonomía total, y precisamente por eso importa<a href="https://fsd.pepetox.es/fsd-mirada-conductor-gafas-sol-espana#no-es-autonom%C3%ADa-total-y-precisamente-por-eso-importa" class="hash-link" aria-label="Enlace directo al No es autonomía total, y precisamente por eso importa" title="Enlace directo al No es autonomía total, y precisamente por eso importa" translate="no">​</a></h2>
+<p>La página española de Tesla insiste en que las funciones actuales requieren supervisión activa y no convierten el coche en autónomo. La regulación UN R171 para sistemas DCAS sigue la misma lógica general: la asistencia avanzada debe mantener al conductor implicado y gestionar la falta de respuesta con avisos y estrategias verificables.</p>
+<p>La mejora de mirada no elimina esa fricción regulatoria ni demuestra por sí sola que FSD esté listo para España. Pero sí ataca una pregunta que Europa no puede esquivar: <strong>¿cómo se demuestra que el humano conserva un control efectivo cuando la IA ejecuta casi todas las maniobras?</strong></p>
+<p>Ya analizamos por qué <a class="" href="https://fsd.pepetox.es/limites-fsd-atencion-conductor">Europa obliga a explicar los límites de FSD</a> y cómo los <a class="" href="https://fsd.pepetox.es/desafio-m30-vision-only-tuneles">túneles de la M-30 desafían a un sistema basado en visión</a>. La novedad de junio conecta ambos problemas. La luz que complica las cámaras exteriores también puede degradar la cámara que vigila al responsable legal del vehículo.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-takeaway-para-la-comunidad-fsd-españa">El takeaway para la comunidad FSD España<a href="https://fsd.pepetox.es/fsd-mirada-conductor-gafas-sol-espana#el-takeaway-para-la-comunidad-fsd-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al El takeaway para la comunidad FSD España" title="Enlace directo al El takeaway para la comunidad FSD España" translate="no">​</a></h2>
+<p>El próximo gran salto europeo quizá no se reconozca por una maniobra espectacular. Puede aparecer como algo mucho menos vistoso: una cámara interior que entiende que unas gafas de sol no significan desatención, que mirar un retrovisor no es distraerse y que entrar en un túnel no debe dejar al sistema ciego respecto al conductor.</p>
+<p>FSD necesita mirar mejor hacia fuera. Pero mientras siga siendo <strong>Supervised</strong>, también tiene que mirar mejor hacia dentro.</p>
+<p>La pregunta útil para la comunidad no es si queremos menos avisos, sino <strong>qué comportamiento debería exigirnos el coche antes de confiar en que estamos realmente preparados para intervenir</strong>. Cuéntanos qué escenario español usarías para poner a prueba esa monitorización y sigue el blog para acompañar el aterrizaje técnico —no solo comercial— de FSD en Europa.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-mirada-conductor-gafas-sol-espana#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class=""><a href="https://teslascope.com/software/2026.14.6.7?version=2026.14.6.7" target="_blank" rel="noopener noreferrer" class="">Notas de la actualización Tesla 2026.14.6.7 / FSD (Supervised) v14.3.3</a></li>
+<li class=""><a href="https://x.com/Tesla_AI/status/2062038542470218003" target="_blank" rel="noopener noreferrer" class="">Tesla AI, aclaración del 3 de junio de 2026 sobre el despliegue previo de la mejora</a></li>
+<li class=""><a href="https://www.tesla.com/es_es/fsd" target="_blank" rel="noopener noreferrer" class="">Tesla España: Conducción automatizada total (Supervisada)</a></li>
+<li class=""><a href="https://www.tesla.com/ownersmanual/models/en_nl/Owners_Manual.pdf" target="_blank" rel="noopener noreferrer" class="">Manual europeo de Tesla: atención del conductor y cámara de habitáculo</a></li>
+<li class=""><a href="https://unece.org/node/397772" target="_blank" rel="noopener noreferrer" class="">UNECE: Reglamento ONU n.º 171 sobre Driver Control Assistance Systems</a></li>
+</ul>]]></content:encoded>
+            <category>fsd</category>
+            <category>tesla</category>
+            <category>ai</category>
+            <category>testing</category>
+            <category>espana</category>
+            <category>europa</category>
+            <category>seguridad</category>
+        </item>
         <item>
             <title><![CDATA[Bilbao no es Austin: por qué el viaje clave de FSD en España se está haciendo desde el asiento del pasajero]]></title>
             <link>https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero</link>
@@ -1713,56 +1796,6 @@
             <category>regulations</category>
             <category>europa</category>
             <category>espana</category>
-        </item>
-        <item>
-            <title><![CDATA[FSD v14 en autopista: cuando evitar un choque no es reflejo, es predicción]]></title>
-            <link>https://fsd.pepetox.es/fsd-predictivo-autopista-v14</link>
-            <guid>https://fsd.pepetox.es/fsd-predictivo-autopista-v14</guid>
-            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Los videos virales de FSD v14.2.2.5 en EE.UU. muestran conducción predictiva en alta velocidad. La pregunta para Europa no es el wow: es la evidencia que exige regulación.]]></description>
-            <content:encoded><![CDATA[<p>A 70 mph (unos 113 km/h), no hay margen para improvisar: o predices dos segundos antes, o llegas tarde. Ese es el valor real de los videos virales de <strong>FSD Supervised v14.2.2.5</strong> en autopistas de EE.UU.: no enseñan una maniobra bonita, enseñan una red que intenta leer intención y riesgo antes de que el incidente exista del todo.</p>
-<p><img decoding="async" loading="lazy" alt="Tesla en autopista europea anticipando una maniobra de riesgo" src="https://fsd.pepetox.es/assets/images/2026-02-27-fsd-predictivo-autopista-v14-4960d24f48898d4cb3597efc9bf8b595.png" width="1376" height="768" class="img_ev3q"></p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-se-está-viendo-hoy-en-eeuu">Lo que se está viendo hoy en EE.UU.<a href="https://fsd.pepetox.es/fsd-predictivo-autopista-v14#lo-que-se-est%C3%A1-viendo-hoy-en-eeuu" class="hash-link" aria-label="Enlace directo al Lo que se está viendo hoy en EE.UU." title="Enlace directo al Lo que se está viendo hoy en EE.UU." translate="no">​</a></h2>
-<p>En la conversación técnica de esta semana destacan clips donde FSD:</p>
-<ul>
-<li class="">cambia de carril de forma proactiva ante posible conflicto frontal,</li>
-<li class="">se aparta de conductores agresivos para recuperar margen de seguridad,</li>
-<li class="">y reacciona ante cruces peligrosos con frenada preventiva.</li>
-</ul>
-<p>Punto importante: estos casos son <strong>evidencia observacional en redes</strong>, no auditorías regulatorias publicadas. Aun así, sí reflejan un cambio de enfoque: pasar de "seguir carril" a <strong>gestionar riesgo dinámico</strong> en tráfico rápido.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-implica-para-españa-y-europa">Qué implica para España y Europa<a href="https://fsd.pepetox.es/fsd-predictivo-autopista-v14#qu%C3%A9-implica-para-espa%C3%B1a-y-europa" class="hash-link" aria-label="Enlace directo al Qué implica para España y Europa" title="Enlace directo al Qué implica para España y Europa" translate="no">​</a></h2>
-<p>Aquí no hay novedad oficial de última hora que autorice un despliegue general en la UE. El cuello de botella sigue siendo regulatorio y de validación:</p>
-<ul>
-<li class="">RDW (Países Bajos) ya dejó claro el <strong>24 de noviembre de 2025</strong> que Tesla debía demostrar cumplimiento y que la prioridad era seguridad vial.</li>
-<li class="">Tesla, en su <em>Q4/FY 2025 Shareholder Deck</em> (28 de enero de 2026), mantiene que sigue buscando aprobaciones en Europa y China, y menciona demos/ride-alongs en varios países europeos.</li>
-<li class="">En su <em>Impact Report 2024</em> (publicado en 2025), Tesla define FSD (Supervised) como sistema con supervisión activa y reporta disponibilidad en mercados fuera de la UE (EE.UU., Canadá, México, China, Australia, Nueva Zelanda y Corea del Sur).</li>
-</ul>
-<p>Mi lectura: en Europa el debate ya no es "si el coche hace una demo"; es <strong>si ese comportamiento predictivo se mantiene de forma repetible, medible y auditable</strong> bajo nuestro marco legal.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-test-europeo-real-calibración-no-espectáculo">El test europeo real: calibración, no espectáculo<a href="https://fsd.pepetox.es/fsd-predictivo-autopista-v14#el-test-europeo-real-calibraci%C3%B3n-no-espect%C3%A1culo" class="hash-link" aria-label="Enlace directo al El test europeo real: calibración, no espectáculo" title="Enlace directo al El test europeo real: calibración, no espectáculo" translate="no">​</a></h2>
-<p>Para que una maniobra espectacular en autopista valga ante un regulador europeo, hacen falta tres cosas:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-repetibilidad">1) Repetibilidad<a href="https://fsd.pepetox.es/fsd-predictivo-autopista-v14#1-repetibilidad" class="hash-link" aria-label="Enlace directo al 1) Repetibilidad" title="Enlace directo al 1) Repetibilidad" translate="no">​</a></h3>
-<p>No un vídeo viral, sino cientos de casos comparables con métricas de contexto, tiempo de reacción y severidad evitada.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-límites-explícitos">2) Límites explícitos<a href="https://fsd.pepetox.es/fsd-predictivo-autopista-v14#2-l%C3%ADmites-expl%C3%ADcitos" class="hash-link" aria-label="Enlace directo al 2) Límites explícitos" title="Enlace directo al 2) Límites explícitos" translate="no">​</a></h3>
-<p>Cuándo el sistema decide ceder control, cuándo reduce velocidad por incertidumbre, y cómo lo comunica al conductor.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-coherencia-con-normativa">3) Coherencia con normativa<a href="https://fsd.pepetox.es/fsd-predictivo-autopista-v14#3-coherencia-con-normativa" class="hash-link" aria-label="Enlace directo al 3) Coherencia con normativa" title="Enlace directo al 3) Coherencia con normativa" translate="no">​</a></h3>
-<p>Europa no valida hype; valida comportamiento dentro de reglas y responsabilidades del conductor en sistemas supervisados.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusión-sí-hay-salto-técnico-pero-el-permiso-se-gana-con-datos">Conclusión: sí hay salto técnico, pero el permiso se gana con datos<a href="https://fsd.pepetox.es/fsd-predictivo-autopista-v14#conclusi%C3%B3n-s%C3%AD-hay-salto-t%C3%A9cnico-pero-el-permiso-se-gana-con-datos" class="hash-link" aria-label="Enlace directo al Conclusión: sí hay salto técnico, pero el permiso se gana con datos" title="Enlace directo al Conclusión: sí hay salto técnico, pero el permiso se gana con datos" translate="no">​</a></h2>
-<p>Los clips de <strong>v14.2.2.5</strong> apuntan a una mejora relevante en conducción predictiva de alta velocidad. Eso puede salvar vidas. Pero en España/UE la pregunta decisiva sigue intacta: ¿puede ese rendimiento sostenerse con evidencia robusta y criterio regulatorio?</p>
-<p>Si la respuesta es sí, el despliegue llegará. Si no, se quedará en vídeos brillantes.</p>
-<p>En FSD Spain vamos a seguir separando señal de ruido: menos marketing, más ingeniería y más evidencia pública.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-predictivo-autopista-v14#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
-<ul>
-<li class="">RDW (24 Nov 2025): <a href="https://www.rdw.nl/en/about-rdw/latest-news/2025/11/24/tesla-fsd-demonstration-in-europe-in-february-2026" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/en/about-rdw/latest-news/2025/11/24/tesla-fsd-demonstration-in-europe-in-february-2026</a></li>
-<li class="">Tesla Q4/FY 2025 Shareholder Deck (28 Jan 2026): <a href="https://digitalassets.tesla.com/tesla-contents/image/upload/TSLA-Q4-FY25-Update.pdf" target="_blank" rel="noopener noreferrer" class="">https://digitalassets.tesla.com/tesla-contents/image/upload/TSLA-Q4-FY25-Update.pdf</a></li>
-<li class="">Tesla Impact Report 2024 (FSD Supervised availability): <a href="https://www.tesla.com/impact-report/2024" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/impact-report/2024</a></li>
-</ul>]]></content:encoded>
-            <category>fsd</category>
-            <category>tesla</category>
-            <category>ai</category>
-            <category>safety</category>
-            <category>testing</category>
-            <category>europa</category>
-            <category>regulations</category>
         </item>
     </channel>
 </rss>
