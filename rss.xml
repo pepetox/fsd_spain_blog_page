@@ -4,10 +4,101 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Tue, 23 Jun 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[El viejo HW3 acaba de recibir una segunda oportunidad: ahora España tiene que desconfiar con método]]></title>
+            <link>https://fsd.pepetox.es/fsd-v14-lite-hw3-examen-espana</link>
+            <guid>https://fsd.pepetox.es/fsd-v14-lite-hw3-examen-espana</guid>
+            <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[FSD v14 Lite empieza a llegar a HW3 en Norteamérica. Para España, la noticia no es solo compatibilidad: es cómo auditar una IA destilada en carreteras reales.]]></description>
+            <content:encoded><![CDATA[<p>Sales de un aparcamiento subterráneo en Valencia con un Model 3 de hace años. La rampa termina en una calle estrecha, el carril se estrecha por una obra, una moto se cuela por la derecha y el navegador quiere girar hacia una glorieta pequeña con marcas gastadas. Hasta esta semana, muchos propietarios de <strong>HW3</strong> miraban esa escena como una frontera: el FSD moderno parecía avanzar en HW4 mientras su coche quedaba esperando una promesa difícil. La aparición de <strong>FSD v14 Lite para HW3</strong>, detectada en la actualización 2026.20.5.1 con fecha de lanzamiento del <strong>29 de junio de 2026</strong>, cambia la conversación.</p>
+<p>No la resuelve. La vuelve más interesante.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-noticia-no-es-v14-en-hw3-es-v14-traducido-a-hw3">La noticia no es "v14 en HW3"; es "v14 traducido a HW3"<a href="https://fsd.pepetox.es/fsd-v14-lite-hw3-examen-espana#la-noticia-no-es-v14-en-hw3-es-v14-traducido-a-hw3" class="hash-link" aria-label="Enlace directo al La noticia no es &quot;v14 en HW3&quot;; es &quot;v14 traducido a HW3&quot;" title="Enlace directo al La noticia no es &quot;v14 en HW3&quot;; es &quot;v14 traducido a HW3&quot;" translate="no">​</a></h2>
+<p>Según las notas recopiladas por Not a Tesla App para la actualización <strong>2026.20.5.1</strong>, FSD v14 Lite llega a Model 3 y Model Y con HW3 e incorpora una idea técnica clave: <strong>destilar la inteligencia de HW4 v14 en HW3</strong>. En lenguaje menos académico, Tesla intenta que el hardware antiguo aprenda de un sistema más capaz sin exigirle el mismo presupuesto de cómputo.</p>
+<p>Esa palabra, <em>destilación</em>, importa mucho para Europa. No estamos hablando de copiar una versión grande y esperar que quepa. Hablamos de entrenar un modelo más compacto para imitar criterios, trayectorias y prioridades aprendidas por una red mayor.</p>
+<p>Para un conductor español, eso se traduce en preguntas muy concretas:</p>
+<ul>
+<li class="">¿mantiene el criterio en incorporaciones cortas?</li>
+<li class="">¿lee bien peatones y motos cuando aparecen entre coches aparcados?</li>
+<li class="">¿distingue una rotonda pequeña de barrio de una intersección mal pintada?</li>
+<li class="">¿se vuelve demasiado conservador cuando la señalización es ambigua?</li>
+</ul>
+<p>La compatibilidad por sí sola no basta. La calidad de esa traducción es el producto.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs. realidad<a href="https://fsd.pepetox.es/fsd-v14-lite-hw3-examen-espana#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad" title="Enlace directo al Expectativa vs. realidad" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa">Expectativa<a href="https://fsd.pepetox.es/fsd-v14-lite-hw3-examen-espana#expectativa" class="hash-link" aria-label="Enlace directo al Expectativa" title="Enlace directo al Expectativa" translate="no">​</a></h3>
+<p>HW3 recibe v14 Lite, así que una parte enorme de la flota vuelve al mapa de FSD moderno.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad">Realidad<a href="https://fsd.pepetox.es/fsd-v14-lite-hw3-examen-espana#realidad" class="hash-link" aria-label="Enlace directo al Realidad" title="Enlace directo al Realidad" translate="no">​</a></h3>
+<p>HW3 recibe una versión comprimida del criterio de HW4. Eso puede ser una gran noticia, pero también obliga a evaluar el sistema con más precisión: no basta con preguntar si "funciona"; hay que medir <strong>dónde se degrada</strong> y <strong>cómo avisa cuando no está seguro</strong>.</p>
+<p>En España, esa degradación rara vez aparecerá en una recta limpia. Aparecerá en la escena mixta: una furgoneta en doble fila, un ciclista que cambia de carril sin anunciarlo, una glorieta con coches que no respetan la teoría del manual y una marca vial que el sol bajo convierte en una sugerencia.</p>
+<p>Ahí es donde una red destilada demuestra si ha aprendido conducción o solo ha heredado una aproximación convincente.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-nuevo-que-sí-cambia-la-experiencia">Lo nuevo que sí cambia la experiencia<a href="https://fsd.pepetox.es/fsd-v14-lite-hw3-examen-espana#lo-nuevo-que-s%C3%AD-cambia-la-experiencia" class="hash-link" aria-label="Enlace directo al Lo nuevo que sí cambia la experiencia" title="Enlace directo al Lo nuevo que sí cambia la experiencia" translate="no">​</a></h2>
+<p>La misma actualización incluye piezas que ya no suenan a simple "asistente de carril". Las notas hablan de:</p>
+<ul>
+<li class="">arranque de FSD desde una posición aparcada;</li>
+<li class="">capacidades de aparcar, desapacar y maniobrar marcha atrás;</li>
+<li class=""><strong>Arrival Options</strong>, para elegir llegada a parking, calle, garaje, entrada o bordillo;</li>
+<li class=""><strong>Speed Profiles</strong> disponibles de forma más integrada, incluido un perfil más conservador;</li>
+<li class="">mejoras de respuesta en navegación, incorporaciones, bifurcaciones, peatones, semáforos y cortes de vehículos.</li>
+</ul>
+<p>Tesla también mantiene en su documentación oficial de FSD v14 Trial que las funciones recientes incluyen <strong>Speed Profiles</strong> y <strong>Arrival Options</strong>, aunque ese trial está limitado a Estados Unidos, Puerto Rico, México y Canadá. Es una distinción importante: el hecho técnico existe, pero no implica disponibilidad española.</p>
+<p>Para España, el valor está en observar la dirección del producto. FSD ya no quiere activarse solo "en marcha". Quiere empezar desde aparcado, decidir cómo llegar, elegir dónde terminar y modular su carácter. Eso acerca el software al viaje completo, pero también aumenta la responsabilidad de cada decisión pequeña.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-hw3-es-un-problema-europeo-no-solo-estadounidense">Por qué HW3 es un problema europeo, no solo estadounidense<a href="https://fsd.pepetox.es/fsd-v14-lite-hw3-examen-espana#por-qu%C3%A9-hw3-es-un-problema-europeo-no-solo-estadounidense" class="hash-link" aria-label="Enlace directo al Por qué HW3 es un problema europeo, no solo estadounidense" title="Enlace directo al Por qué HW3 es un problema europeo, no solo estadounidense" translate="no">​</a></h2>
+<p>Europa tiene un parque Tesla con muchos vehículos anteriores a AI4. Si la aprobación europea solo fuera convincente en coches nuevos, el lanzamiento nacería partido en dos: propietarios con hardware moderno por un lado, compradores históricos de FSD por otro.</p>
+<p>Ese riesgo ya lo analizamos cuando hablamos de <a class="" href="https://fsd.pepetox.es/fsd-europa-flota-desigual">la flota desigual que Tesla tendrá que desplegar en Europa</a>. V14 Lite no borra el problema, pero lo recoloca. La pregunta ya no es únicamente si HW3 se queda fuera. La pregunta pasa a ser:</p>
+<p><strong>¿qué nivel de FSD puede ofrecer HW3 sin crear una experiencia de segunda clase peligrosa o frustrante?</strong></p>
+<p>En regulación europea, esa diferencia importa. Un sistema supervisado puede tener variantes por hardware, pero debe explicarlas bien. Si un HW4 negocia una rotonda con soltura y un HW3 Lite duda tres segundos más, el conductor necesita saberlo antes de que esa duda ocurra en tráfico real.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-examen-español-no-buscar-magia-buscar-patrones">El examen español: no buscar magia, buscar patrones<a href="https://fsd.pepetox.es/fsd-v14-lite-hw3-examen-espana#el-examen-espa%C3%B1ol-no-buscar-magia-buscar-patrones" class="hash-link" aria-label="Enlace directo al El examen español: no buscar magia, buscar patrones" title="Enlace directo al El examen español: no buscar magia, buscar patrones" translate="no">​</a></h2>
+<p>Cuando FSD v14 Lite llegue a más coches y haya vídeos suficientes, la comunidad española debería evitar dos errores simétricos:</p>
+<ul>
+<li class="">declarar victoria por una ruta limpia de diez minutos;</li>
+<li class="">descartar el sistema por una intervención aislada sin contexto.</li>
+</ul>
+<p>Lo útil será documentar patrones. Por ejemplo:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="rotondas-pequeñas">Rotondas pequeñas<a href="https://fsd.pepetox.es/fsd-v14-lite-hw3-examen-espana#rotondas-peque%C3%B1as" class="hash-link" aria-label="Enlace directo al Rotondas pequeñas" title="Enlace directo al Rotondas pequeñas" translate="no">​</a></h3>
+<p>No basta con entrar y salir. Hay que mirar si el coche entiende intención, velocidad lateral y coches que cortan por dentro.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="motos-y-filtrado">Motos y filtrado<a href="https://fsd.pepetox.es/fsd-v14-lite-hw3-examen-espana#motos-y-filtrado" class="hash-link" aria-label="Enlace directo al Motos y filtrado" title="Enlace directo al Motos y filtrado" translate="no">​</a></h3>
+<p>España castiga cualquier modelo que pierda objetos en oclusiones breves. Una moto que desaparece tras una furgoneta no puede "resetearse" mentalmente.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="calles-estrechas">Calles estrechas<a href="https://fsd.pepetox.es/fsd-v14-lite-hw3-examen-espana#calles-estrechas" class="hash-link" aria-label="Enlace directo al Calles estrechas" title="Enlace directo al Calles estrechas" translate="no">​</a></h3>
+<p>El sistema debe distinguir entre prudencia y bloqueo. Ir despacio no siempre es seguro si obliga a otros a improvisar.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="llegadas-reales">Llegadas reales<a href="https://fsd.pepetox.es/fsd-v14-lite-hw3-examen-espana#llegadas-reales" class="hash-link" aria-label="Enlace directo al Llegadas reales" title="Enlace directo al Llegadas reales" translate="no">​</a></h3>
+<p>Las Arrival Options suenan muy bien hasta que el bordillo elegido está ocupado por carga y descarga, una terraza o una cola de taxis. Ya vimos por qué <a class="" href="https://fsd.pepetox.es/fsd-ultimo-metro-espana">el último metro puede romper una experiencia excelente</a>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-parte-regulatoria-europa-no-aprobará-una-promesa-de-compresión">La parte regulatoria: Europa no aprobará una promesa de compresión<a href="https://fsd.pepetox.es/fsd-v14-lite-hw3-examen-espana#la-parte-regulatoria-europa-no-aprobar%C3%A1-una-promesa-de-compresi%C3%B3n" class="hash-link" aria-label="Enlace directo al La parte regulatoria: Europa no aprobará una promesa de compresión" title="Enlace directo al La parte regulatoria: Europa no aprobará una promesa de compresión" translate="no">​</a></h2>
+<p>Tesla puede presentar v14 Lite como una victoria de ingeniería. Europa, con razón, lo mirará como una variante que debe demostrar comportamiento estable.</p>
+<p>La página oficial de Tesla sigue recordando que FSD (Supervised) requiere supervisión activa y que la disponibilidad depende de software, hardware, región y aprobación regulatoria. Ese marco no cambia por el entusiasmo de una actualización. Si algo, v14 Lite lo hace más exigente: ahora hay que explicar cómo se comporta una misma familia FSD en diferentes generaciones de hardware.</p>
+<p>Para UNECE, DCAS y los reguladores nacionales, el punto sensible no será si el modelo está "destilado". Será si el conductor recibe un sistema predecible, si las limitaciones están claras y si la supervisión humana sigue siendo realista cuando el coche acierta casi siempre.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-debería-vigilar-la-comunidad-fsd-españa">Qué debería vigilar la comunidad FSD España<a href="https://fsd.pepetox.es/fsd-v14-lite-hw3-examen-espana#qu%C3%A9-deber%C3%ADa-vigilar-la-comunidad-fsd-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Qué debería vigilar la comunidad FSD España" title="Enlace directo al Qué debería vigilar la comunidad FSD España" translate="no">​</a></h2>
+<p>Cuando aparezcan pruebas serias de v14 Lite en HW3, yo miraría menos los titulares y más estas señales:</p>
+<ul>
+<li class="">intervenciones repetidas en el mismo tipo de escena;</li>
+<li class="">diferencia entre HW3 Lite y HW4 en rutas comparables;</li>
+<li class="">comportamiento con motos, bicicletas y peatones parcialmente ocultos;</li>
+<li class="">calidad de las maniobras marcha atrás y de salida desde aparcado;</li>
+<li class="">si el perfil más conservador reduce riesgo o solo desplaza el problema a otros conductores;</li>
+<li class="">claridad de las alertas cuando el sistema no está cómodo.</li>
+</ul>
+<p>El objetivo no es pillar a Tesla en un fallo. Es construir una cultura de prueba madura. Si FSD quiere entrar en España, la comunidad tiene que pasar de "mira qué bien lo hace" a "mira en qué condiciones lo repite".</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/fsd-v14-lite-hw3-examen-espana#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
+<p>V14 Lite para HW3 es probablemente una de las noticias más importantes para los propietarios veteranos de Tesla: no por prometer autonomía, sino por intentar rescatar una flota enorme mediante aprendizaje destilado. Pero España debe leerla con calma. Una IA comprimida puede ser brillante, siempre que no comprima también el margen de seguridad.</p>
+<p>La discusión que viene no será si HW3 "merece" FSD. Será si Tesla puede demostrar, con datos y pruebas reales, que un Model 3 antiguo puede afrontar nuestras rotondas, motos, calles estrechas y llegadas imperfectas con criterio suficiente para ganarse la confianza del conductor.</p>
+<p>Y esa es una conversación que merece seguirse de cerca en este blog.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-v14-lite-hw3-examen-espana#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
+<ul>
+<li class="">Not a Tesla App: <a href="https://www.notateslaapp.com/software-updates/version/2026.20.5.1/release-notes" target="_blank" rel="noopener noreferrer" class="">Update 2026.20.5.1 (FSD 14) - Release Notes</a></li>
+<li class="">Tesla Support: <a href="https://www.tesla.com/support/fsd/v14-trial" target="_blank" rel="noopener noreferrer" class="">Full Self-Driving (Supervised) v14 Trial</a></li>
+<li class="">Tesla Support: <a href="https://www.tesla.com/support/fsd" target="_blank" rel="noopener noreferrer" class="">Full Self-Driving (Supervised)</a></li>
+</ul>]]></content:encoded>
+            <category>fsd</category>
+            <category>tesla</category>
+            <category>ai</category>
+            <category>testing</category>
+            <category>espana</category>
+            <category>europa</category>
+            <category>hw3</category>
+        </item>
         <item>
             <title><![CDATA[FSD ya no solo mira la carretera: unas gafas de sol pueden decidir su futuro en España]]></title>
             <link>https://fsd.pepetox.es/fsd-mirada-conductor-gafas-sol-espana</link>
@@ -1687,115 +1778,6 @@
             <category>europa</category>
             <category>regulacion</category>
             <category>ia</category>
-        </item>
-        <item>
-            <title><![CDATA[El parking antes que la M-30: por qué la baja velocidad puede abrir la puerta de FSD en Europa]]></title>
-            <link>https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa</link>
-            <guid>https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa</guid>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Tesla sigue empujando FSD en 2026, pero la vía más realista para ganar confianza en Europa puede empezar en parkings y maniobras de baja velocidad, no en el centro de Madrid.]]></description>
-            <content:encoded><![CDATA[<p>Entras a un parking subterráneo en Madrid, la cobertura del móvil va y viene, las columnas tapan media visión, una furgoneta invade la curva y el hueco libre parece demasiado justo. Si Tesla quiere convencer de verdad a Europa, quizá el examen más inteligente no empiece en la M-30 ni en una autopista alemana: puede empezar justo ahí, a baja velocidad, donde el margen es pequeño pero el riesgo sistémico está más acotado.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-señal-más-reciente-tesla-sigue-empujando-pero-europa-sigue-fuera-del-mapa-comercial">La señal más reciente: Tesla sigue empujando, pero Europa sigue fuera del mapa comercial<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#la-se%C3%B1al-m%C3%A1s-reciente-tesla-sigue-empujando-pero-europa-sigue-fuera-del-mapa-comercial" class="hash-link" aria-label="Enlace directo al La señal más reciente: Tesla sigue empujando, pero Europa sigue fuera del mapa comercial" title="Enlace directo al La señal más reciente: Tesla sigue empujando, pero Europa sigue fuera del mapa comercial" translate="no">​</a></h2>
-<p>A fecha <strong>3 de marzo de 2026</strong>, hay tres hechos públicos que conviene separar:</p>
-<ul>
-<li class="">La página oficial de <a href="https://www.tesla.com/fsd" target="_blank" rel="noopener noreferrer" class="">Full Self-Driving (Supervised) de Tesla</a> sigue indicando que el sistema está disponible en <strong>EE. UU., Canadá, China, México, Puerto Rico, Australia, Nueva Zelanda y Corea del Sur</strong>. Europa no aparece todavía en esa lista.</li>
-<li class="">La página de <a href="https://www.tesla.com/support/fsd" target="_blank" rel="noopener noreferrer" class="">soporte oficial de FSD (Supervised)</a> presenta FSD como un paquete que puede conducir “casi en cualquier lugar” bajo supervisión e incluye funciones de <strong>Actually Smart Summon</strong> y <strong>Autopark</strong>, es decir, maniobras donde el coche ya se mueve en entornos complejos pero normalmente a velocidad baja.</li>
-<li class="">Tesla mantiene activo un evento público de <a href="https://www.tesla.com/es_mx/event/full-self-driving--supervised--ride-along-at-tesla-utrecht" target="_blank" rel="noopener noreferrer" class="">ride-alongs de FSD en Tesla Utrecht</a> entre el <strong>16 de febrero y el 31 de marzo de 2026</strong>.</li>
-</ul>
-<p>Mi lectura es esta: Tesla sigue construyendo expectativa en Europa, pero el terreno más defendible para ganar confianza técnica y regulatoria no es el escenario más espectacular, sino el más controlable.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-el-parking-importa-más-de-lo-que-parece">Por qué el parking importa más de lo que parece<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#por-qu%C3%A9-el-parking-importa-m%C3%A1s-de-lo-que-parece" class="hash-link" aria-label="Enlace directo al Por qué el parking importa más de lo que parece" title="Enlace directo al Por qué el parking importa más de lo que parece" translate="no">​</a></h2>
-<p>Cuando se habla de FSD, el debate suele ir directo a dos imágenes:</p>
-<ul>
-<li class="">una rotonda española caótica,</li>
-<li class="">o una autopista rápida con maniobras predictivas.</li>
-</ul>
-<p>Ambas son importantes, pero no son necesariamente la mejor “rampa de entrada” para Europa.</p>
-<p>En un parking, un sistema de conducción asistida se enfrenta a problemas muy reales:</p>
-<ul>
-<li class="">geometría irregular,</li>
-<li class="">visibilidad parcial por columnas y coches altos,</li>
-<li class="">peatones impredecibles,</li>
-<li class="">maniobras cerradas con poco espacio,</li>
-<li class="">y necesidad de moverse con precisión milimétrica.</li>
-</ul>
-<p>La diferencia es que todo ocurre en un entorno con <strong>velocidad reducida</strong>. Y eso cambia mucho el tipo de riesgo.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-dónde-puede-empezar-la-confianza">Expectativa vs. realidad: dónde puede empezar la confianza<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#expectativa-vs-realidad-d%C3%B3nde-puede-empezar-la-confianza" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad: dónde puede empezar la confianza" title="Enlace directo al Expectativa vs. realidad: dónde puede empezar la confianza" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa">Expectativa<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#expectativa" class="hash-link" aria-label="Enlace directo al Expectativa" title="Enlace directo al Expectativa" translate="no">​</a></h3>
-<p>"Si FSD va a llegar a Europa, la prueba importante es circular solo por ciudad compleja desde el primer día".</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad">Realidad<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#realidad" class="hash-link" aria-label="Enlace directo al Realidad" title="Enlace directo al Realidad" translate="no">​</a></h3>
-<p>Antes de eso, tiene sentido que fabricantes, reguladores y usuarios ganen confianza en escenarios donde:</p>
-<ul>
-<li class="">los tiempos de reacción son mayores,</li>
-<li class="">las consecuencias de un error suelen ser menos severas que a 100 km/h,</li>
-<li class="">y el comportamiento es más fácil de observar, repetir y auditar.</li>
-</ul>
-<p>Eso no significa que el parking sea “fácil”. Significa que es un <strong>ODD más acotado</strong> y, por tanto, un mejor lugar para demostrar madurez incremental.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-encaja-con-el-marco-europeo">Lo que encaja con el marco europeo<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#lo-que-encaja-con-el-marco-europeo" class="hash-link" aria-label="Enlace directo al Lo que encaja con el marco europeo" title="Enlace directo al Lo que encaja con el marco europeo" translate="no">​</a></h2>
-<p>La <a href="https://unece.org/media/press/395206" target="_blank" rel="noopener noreferrer" class="">UNECE explicó al entrar en vigor la Regulación 171 (DCAS) el 30 de septiembre de 2024</a> que estos sistemas siguen siendo de <strong>nivel 2</strong>: el conductor mantiene la responsabilidad y debe permanecer implicado.</p>
-<p>Eso importa porque Europa no está pidiendo magia. Está pidiendo algo mucho más concreto:</p>
-<ul>
-<li class="">límites claros,</li>
-<li class="">supervisión efectiva,</li>
-<li class="">validación del diseño,</li>
-<li class="">y seguimiento del desempeño una vez el sistema está en la calle.</li>
-</ul>
-<p>Un despliegue convincente en maniobras de baja velocidad encaja mejor con esa lógica que una narrativa basada solo en vídeos virales de conducción urbana “casi humana”.</p>
-<p>Dicho de otra forma: para el marco europeo, un sistema que aparca con criterio, se detiene con margen y comunica bien su incertidumbre puede generar más confianza útil que una demo brillante pero difícil de repetir.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-reto-técnico-real-no-es-girar-el-volante-es-gestionar-incertidumbre-cercana">El reto técnico real no es girar el volante: es gestionar incertidumbre cercana<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#el-reto-t%C3%A9cnico-real-no-es-girar-el-volante-es-gestionar-incertidumbre-cercana" class="hash-link" aria-label="Enlace directo al El reto técnico real no es girar el volante: es gestionar incertidumbre cercana" title="Enlace directo al El reto técnico real no es girar el volante: es gestionar incertidumbre cercana" translate="no">​</a></h2>
-<p>En aparcamiento y maniobras lentas, el problema no es “seguir un carril” sino interpretar un entorno lleno de ambigüedad:</p>
-<ul>
-<li class="">líneas mal pintadas o inexistentes,</li>
-<li class="">bordillos bajos que apenas destacan,</li>
-<li class="">peatones que cambian de dirección de golpe,</li>
-<li class="">carros, bolardos, bicis y puertas que se abren.</li>
-</ul>
-<p>Aquí una red neuronal necesita hacer algo muy humano: <strong>ser conservadora sin volverse inútil</strong>.</p>
-<p>Ese equilibrio es clave en España. Un sistema demasiado agresivo parecerá brillante hasta que roce una columna o se acerque demasiado a un peatón. Uno demasiado tímido frustrará al usuario y romperá la promesa de utilidad. La madurez está en resolver esa tensión con comportamiento legible.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-tendría-que-demostrar-tesla-para-que-esto-sea-algo-más-que-marketing">Qué tendría que demostrar Tesla para que esto sea algo más que marketing<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#qu%C3%A9-tendr%C3%ADa-que-demostrar-tesla-para-que-esto-sea-algo-m%C3%A1s-que-marketing" class="hash-link" aria-label="Enlace directo al Qué tendría que demostrar Tesla para que esto sea algo más que marketing" title="Enlace directo al Qué tendría que demostrar Tesla para que esto sea algo más que marketing" translate="no">​</a></h2>
-<p>Si Tesla quiere que este frente sea una puerta real para FSD en Europa, debería dejar ver evidencia más concreta en cuatro frentes:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-repetibilidad">1. Repetibilidad<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#1-repetibilidad" class="hash-link" aria-label="Enlace directo al 1. Repetibilidad" title="Enlace directo al 1. Repetibilidad" translate="no">​</a></h3>
-<p>No solo una maniobra bonita, sino consistencia en muchos parkings, con distintos trazados, luces y obstáculos.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-gestión-de-casos-límite">2. Gestión de casos límite<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#2-gesti%C3%B3n-de-casos-l%C3%ADmite" class="hash-link" aria-label="Enlace directo al 2. Gestión de casos límite" title="Enlace directo al 2. Gestión de casos límite" translate="no">​</a></h3>
-<p>Qué hace el sistema cuando pierde referencia visual, cuando aparece un peatón por un lateral ciego o cuando el espacio es legalmente válido pero socialmente incómodo.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-supervisión-comprensible">3. Supervisión comprensible<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#3-supervisi%C3%B3n-comprensible" class="hash-link" aria-label="Enlace directo al 3. Supervisión comprensible" title="Enlace directo al 3. Supervisión comprensible" translate="no">​</a></h3>
-<p>Cómo avisa, cuándo pide intervención y qué nivel de atención exige al usuario en cada fase.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-escalado-progresivo">4. Escalado progresivo<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#4-escalado-progresivo" class="hash-link" aria-label="Enlace directo al 4. Escalado progresivo" title="Enlace directo al 4. Escalado progresivo" translate="no">​</a></h3>
-<p>Si la estrategia es sana, la baja velocidad no será el final del camino, sino la base desde la que construir confianza para escenarios urbanos y periurbanos más duros.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-lectura-estratégica-menos-épica-más-adopción-real">La lectura estratégica: menos épica, más adopción real<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#la-lectura-estrat%C3%A9gica-menos-%C3%A9pica-m%C3%A1s-adopci%C3%B3n-real" class="hash-link" aria-label="Enlace directo al La lectura estratégica: menos épica, más adopción real" title="Enlace directo al La lectura estratégica: menos épica, más adopción real" translate="no">​</a></h2>
-<p>En redes sociales, una rotonda perfecta vende más que una maniobra de aparcamiento limpia. Pero en adopción real, muchas veces ocurre lo contrario.</p>
-<p>Un sistema que:</p>
-<ul>
-<li class="">aparca bien,</li>
-<li class="">sale de espacios estrechos sin sustos,</li>
-<li class="">y se comporta con prudencia en entornos cerrados,</li>
-</ul>
-<p>puede acostumbrar al usuario europeo a convivir con una conducción asistida más capaz. Y esa familiaridad importa: reduce fricción psicológica, mejora la comprensión de límites y crea un puente entre curiosidad y confianza.</p>
-<p>Por eso, aunque Tesla siga enseñando recorridos en carretera y <em>ride-alongs</em> en Utrecht, no me sorprendería que la verdadera batalla por Europa se gane antes en maniobras lentas y espacios comprimidos que en una avenida abierta.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-significa-esto-para-españa">Qué significa esto para España<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#qu%C3%A9-significa-esto-para-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Qué significa esto para España" title="Enlace directo al Qué significa esto para España" translate="no">​</a></h2>
-<p>En España, el salto grande no será solo “activar FSD”. Será activar un sistema que no se descomponga cuando el entorno deja de parecerse a una demo ideal.</p>
-<p>Si quieres anticipar progreso real, vigila menos el hype y más estas señales:</p>
-<ul>
-<li class="">mejoras visibles en maniobras de baja velocidad con comportamiento estable,</li>
-<li class="">mensajes más claros sobre límites operativos,</li>
-<li class="">y evidencia de que Tesla puede traducir su red entrenada en EE. UU. a espacios europeos más estrechos, ambiguos y socialmente densos.</li>
-</ul>
-<p>Si te interesa cómo se traslada esta discusión a nuestros escenarios cotidianos, conecta esta pieza con <a class="" href="https://fsd.pepetox.es/el-desafio-rotonda-fsd-espana">el desafío de la rotonda española</a> y con <a class="" href="https://fsd.pepetox.es/fsd-ciclistas-patinetes-espana">el examen de FSD frente a ciclistas y patinetes</a>.</p>
-<p>La pregunta ya no es solo cuándo llegará FSD a Europa. La pregunta útil es <strong>por dónde empezará a ganarse el derecho a quedarse</strong>.</p>
-<p>En FSD Spain seguiremos separando señal de ruido: menos promesa grandilocuente, más contexto técnico y más lectura realista de lo que hace falta para verlo funcionar aquí.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/aparcamiento-caballo-troya-fsd-europa#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
-<ul>
-<li class="">Tesla FSD (disponibilidad regional): <a href="https://www.tesla.com/fsd" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/fsd</a></li>
-<li class="">Tesla Support, Full Self-Driving (Supervised): <a href="https://www.tesla.com/support/fsd" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/support/fsd</a></li>
-<li class="">Tesla Event, FSD Ride-Along at Tesla Utrecht (16 Feb - 31 Mar 2026): <a href="https://www.tesla.com/es_mx/event/full-self-driving--supervised--ride-along-at-tesla-utrecht" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/es_mx/event/full-self-driving--supervised--ride-along-at-tesla-utrecht</a></li>
-<li class="">UNECE, entrada en vigor de la Regulación 171 (DCAS): <a href="https://unece.org/media/press/395206" target="_blank" rel="noopener noreferrer" class="">https://unece.org/media/press/395206</a></li>
-</ul>]]></content:encoded>
-            <category>fsd</category>
-            <category>tesla</category>
-            <category>ai</category>
-            <category>testing</category>
-            <category>regulations</category>
-            <category>europa</category>
-            <category>espana</category>
         </item>
     </channel>
 </rss>
