@@ -4,10 +4,93 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Tue, 30 Jun 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[La línea azul de FSD: el detalle pequeño que España debería tomarse muy en serio]]></title>
+            <link>https://fsd.pepetox.es/fsd-ruta-azul-trazabilidad-espana</link>
+            <guid>https://fsd.pepetox.es/fsd-ruta-azul-trazabilidad-espana</guid>
+            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[La ruta azul de FSD en la app no es solo una curiosidad visual: apunta al reto clave para España, hacer que la autonomía supervisada sea visible, auditable y entendible.]]></description>
+            <content:encoded><![CDATA[<p>Tu pareja sale de Plaza de Castilla con tu Tesla. Tú no vas en el coche. Solo ves la app, un punto moviéndose por Madrid y, de pronto, una línea azul que sugiere algo más que navegación: <strong>el coche no solo sigue una ruta, está circulando con FSD (Supervised) activo</strong>. La escena parece menor, casi doméstica. Pero para España puede ser una de las pistas más importantes de julio de 2026: el futuro de FSD no se jugará solo en si la red neuronal negocia bien una rotonda, sino en si todos entendemos, en tiempo real y después del trayecto, <strong>qué parte del viaje hizo la IA y qué responsabilidad seguía teniendo el humano</strong>.</p>
+<p><img decoding="async" loading="lazy" alt="Tesla circulando por una avenida española con una ruta azul de conducción asistida superpuesta" src="https://fsd.pepetox.es/assets/images/2026-07-07-fsd-ruta-azul-trazabilidad-espana-8153c8552838dbb77b2b6728e90b6183.png" width="1408" height="768" class="img_ev3q"></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-noticia-discreta-fsd-empieza-a-ser-más-visible-fuera-del-coche">La noticia discreta: FSD empieza a ser más visible fuera del coche<a href="https://fsd.pepetox.es/fsd-ruta-azul-trazabilidad-espana#la-noticia-discreta-fsd-empieza-a-ser-m%C3%A1s-visible-fuera-del-coche" class="hash-link" aria-label="Enlace directo al La noticia discreta: FSD empieza a ser más visible fuera del coche" title="Enlace directo al La noticia discreta: FSD empieza a ser más visible fuera del coche" translate="no">​</a></h2>
+<p>La actualización <strong>2026.20.6.1</strong>, fechada por Not a Tesla App el <strong>2 de julio de 2026</strong>, no llegó como una gran versión FSD. Sus notas oficiales recopiladas hablan de aviso de ángulo muerto al abrir la puerta, cifrado de clips de Dashcam, controles parentales, Grok, mejoras de seguridad y cambios de servicio. Nada de eso suena a una revolución de conducción autónoma.</p>
+<p>Y, sin embargo, varios trackers y cuentas especializadas detectaron una novedad de producto más interesante: la app de Tesla puede mostrar una <strong>ruta azul</strong> cuando el vehículo circula con <strong>FSD (Supervised)</strong> activo. BASENOR la documentó el <strong>5 de julio de 2026</strong> y la actualizó el <strong>6 de julio</strong>, atribuyéndola a observaciones de Sawyer Merritt, Teslascope y TeslaNewswire, y dejando claro un matiz importante: <strong>no aparece como cambio oficial en las notas del vehículo</strong>.</p>
+<p>Ese matiz importa. No conviene convertir un hallazgo de app en anuncio global de Tesla para España. Pero tampoco conviene ignorarlo. Tesla ya explica en su documentación oficial que, dentro del coche, la indicación azul de "Self-Driving" y la línea azul de trayectoria sirven para confirmar que FSD (Supervised) está activo. Si esa señal empieza a salir del habitáculo y llega al móvil, el producto se vuelve más legible para propietarios, familias, gestores de flota y, tarde o temprano, auditores.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs. realidad<a href="https://fsd.pepetox.es/fsd-ruta-azul-trazabilidad-espana#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad" title="Enlace directo al Expectativa vs. realidad" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa">Expectativa<a href="https://fsd.pepetox.es/fsd-ruta-azul-trazabilidad-espana#expectativa" class="hash-link" aria-label="Enlace directo al Expectativa" title="Enlace directo al Expectativa" translate="no">​</a></h3>
+<p>La comunidad mira cada actualización buscando más maniobras: mejores giros, menos frenadas fantasma, rotondas más naturales, aparcamientos más humanos.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad">Realidad<a href="https://fsd.pepetox.es/fsd-ruta-azul-trazabilidad-espana#realidad" class="hash-link" aria-label="Enlace directo al Realidad" title="Enlace directo al Realidad" translate="no">​</a></h3>
+<p>Europa también mira otra cosa: <strong>evidencia, límites y trazabilidad</strong>. Una IA que conduce bien durante veinte minutos pero deja dudas sobre cuándo estaba activa, qué vio, qué pidió al conductor y qué datos quedan después, tendrá difícil ganarse la confianza regulatoria y social.</p>
+<p>Aquí es donde una simple línea azul deja de ser cosmética. En una Gran Vía llena de taxis, buses, motos y peatones, el conductor necesita saber sin ambigüedad si FSD está gobernando la trayectoria. Si hay una intervención, el propietario necesita poder reconstruir el contexto. Si una autoridad pide explicaciones, Tesla necesita demostrar que el sistema se usó dentro de sus condiciones.</p>
+<p>No hablamos de una interfaz bonita. Hablamos de gobernanza.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="españa-no-necesita-magia-necesita-estado-visible">España no necesita magia: necesita estado visible<a href="https://fsd.pepetox.es/fsd-ruta-azul-trazabilidad-espana#espa%C3%B1a-no-necesita-magia-necesita-estado-visible" class="hash-link" aria-label="Enlace directo al España no necesita magia: necesita estado visible" title="Enlace directo al España no necesita magia: necesita estado visible" translate="no">​</a></h2>
+<p>En Estados Unidos, buena parte del debate público se concentra en si FSD "puede" conducir. En España, la pregunta correcta será más dura:</p>
+<ul>
+<li class="">¿estaba FSD activo o solo navegaba el coche?</li>
+<li class="">¿qué versión de software y qué hardware participaron?</li>
+<li class="">¿qué perfil de velocidad estaba seleccionado?</li>
+<li class="">¿el conductor recibió avisos de atención?</li>
+<li class="">¿hubo toma de control manual?</li>
+<li class="">¿qué parte de esa información puede revisarse sin invadir privacidad?</li>
+</ul>
+<p>La ruta azul ayuda con la primera pregunta, pero abre todas las demás. Si el coche se aproxima a una glorieta en Valencia, se coloca tarde, duda ante un ciclista y el conductor toma el volante, el vídeo por sí solo no basta. Hace falta contexto operativo: estado de FSD, velocidad, intervención, alertas y escenario.</p>
+<p>Esto conecta con algo que ya analizamos cuando hablamos de <a class="" href="https://fsd.pepetox.es/madrid-auditoria-fsd">Madrid como auditoría real de FSD</a>. La calle española no perdona la abstracción. Una demo puede impresionar; un sistema desplegable debe explicar sus decisiones y dejar rastro de sus límites.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-espejo-neerlandés-aprobar-no-es-dejar-de-mirar">El espejo neerlandés: aprobar no es dejar de mirar<a href="https://fsd.pepetox.es/fsd-ruta-azul-trazabilidad-espana#el-espejo-neerland%C3%A9s-aprobar-no-es-dejar-de-mirar" class="hash-link" aria-label="Enlace directo al El espejo neerlandés: aprobar no es dejar de mirar" title="Enlace directo al El espejo neerlandés: aprobar no es dejar de mirar" translate="no">​</a></h2>
+<p>La lección más fuerte no viene de una app, sino de Países Bajos. El <strong>17 de junio de 2026</strong>, RDW publicó una explicación detallada sobre la type approval de FSD Supervised. El regulador neerlandés no se limitó a aceptar datos de Tesla: dijo que verificó cómo se recogieron y analizaron, revisó estadística, hizo pruebas propias y acumuló más de <strong>3.000 horas</strong> de ensayos, más de <strong>1.000 test runs</strong> y datos de <strong>1,8 millones de kilómetros</strong> recorridos en Europa con FSD Supervised.</p>
+<p>Lo más importante llega después de la aprobación. RDW afirma que sigue monitorizando los vehículos con FSD Supervised en circulación y que, por ahora, ha aumentado la frecuencia obligatoria de reporte de anual a <strong>mensual</strong>. También indica que, desde la type approval, casi <strong>40.000 Teslas</strong> con FSD Supervised han recorrido aproximadamente <strong>24 millones de kilómetros</strong> en Países Bajos sin incidentes relevantes reportados por RDW.</p>
+<p>Ese es el modelo mental que España debería copiar si llega el despliegue: no una bendición única, sino un sistema vivo de vigilancia. FSD no es una pieza mecánica congelada. Es software, datos, comportamiento humano, actualizaciones OTA y aprendizaje acumulado. Por eso la aprobación inicial solo puede ser el principio de la conversación.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-capa-técnica-que-falta-de-ver-una-línea-a-auditar-un-viaje">La capa técnica que falta: de ver una línea a auditar un viaje<a href="https://fsd.pepetox.es/fsd-ruta-azul-trazabilidad-espana#la-capa-t%C3%A9cnica-que-falta-de-ver-una-l%C3%ADnea-a-auditar-un-viaje" class="hash-link" aria-label="Enlace directo al La capa técnica que falta: de ver una línea a auditar un viaje" title="Enlace directo al La capa técnica que falta: de ver una línea a auditar un viaje" translate="no">​</a></h2>
+<p>La línea azul responde a una necesidad humana: "¿está conduciendo FSD ahora?". Pero para que el producto madure en Europa, esa señal debería formar parte de una capa más amplia.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-estado-claro-para-el-conductor">1. Estado claro para el conductor<a href="https://fsd.pepetox.es/fsd-ruta-azul-trazabilidad-espana#1-estado-claro-para-el-conductor" class="hash-link" aria-label="Enlace directo al 1. Estado claro para el conductor" title="Enlace directo al 1. Estado claro para el conductor" translate="no">​</a></h3>
+<p>Dentro del coche, Tesla ya exige que el conductor se mantenga atento y recuerda que FSD (Supervised) no convierte el vehículo en autónomo. La interfaz tiene que reforzar esa idea en situaciones españolas reales: incorporación corta a la M-30, rotonda multicarril en Murcia, calle estrecha de pueblo con coches aparcados a ambos lados.</p>
+<p>El estado debe ser inequívoco. Si el conductor duda durante medio segundo sobre si el sistema está activo, ese medio segundo ya es demasiado.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-estado-comprensible-para-el-propietario">2. Estado comprensible para el propietario<a href="https://fsd.pepetox.es/fsd-ruta-azul-trazabilidad-espana#2-estado-comprensible-para-el-propietario" class="hash-link" aria-label="Enlace directo al 2. Estado comprensible para el propietario" title="Enlace directo al 2. Estado comprensible para el propietario" translate="no">​</a></h3>
+<p>La app no debería fomentar vigilancia obsesiva, pero sí claridad. Si alguien autorizado conduce tu coche con FSD activo, verlo en el móvil puede evitar malentendidos y mejorar hábitos: quién usa el sistema, dónde se usa, en qué condiciones y con qué frecuencia.</p>
+<p>En flotas, autoescuelas, pruebas controladas o demostraciones oficiales, esta capa puede ser aún más importante. No para sustituir al conductor, sino para documentar el uso.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-estado-verificable-para-auditoría">3. Estado verificable para auditoría<a href="https://fsd.pepetox.es/fsd-ruta-azul-trazabilidad-espana#3-estado-verificable-para-auditor%C3%ADa" class="hash-link" aria-label="Enlace directo al 3. Estado verificable para auditoría" title="Enlace directo al 3. Estado verificable para auditoría" translate="no">​</a></h3>
+<p>Aquí entra el terreno delicado. Not a Tesla App recoge que <strong>2026.20.6.1</strong> incorpora cifrado de clips de Dashcam guardados en USB, y BASENOR añade que los clips descargados al móvil pueden incluir contexto como velocidad, ángulo de dirección y estado de conducción autónoma cuando se cumplen requisitos de conectividad y app.</p>
+<p>La dirección del producto parece clara: más datos útiles, más privacidad, más contexto. Para Europa, ese equilibrio será crítico. Un regulador no necesita ver la vida privada del conductor. Pero sí necesita que, ante un incidente, el sistema pueda reconstruir lo esencial sin convertir cada trayecto en una caja negra opaca.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-problema-español-nuestras-escenas-ambiguas-necesitan-metadatos">El problema español: nuestras escenas ambiguas necesitan metadatos<a href="https://fsd.pepetox.es/fsd-ruta-azul-trazabilidad-espana#el-problema-espa%C3%B1ol-nuestras-escenas-ambiguas-necesitan-metadatos" class="hash-link" aria-label="Enlace directo al El problema español: nuestras escenas ambiguas necesitan metadatos" title="Enlace directo al El problema español: nuestras escenas ambiguas necesitan metadatos" translate="no">​</a></h2>
+<p>Pensemos en una escena de Zaragoza: bus urbano parado, carril bici pegado al bordillo, una furgoneta en carga y descarga invadiendo media calzada y un peatón que duda antes de cruzar. Si FSD resuelve bien, el vídeo será espectacular. Si resuelve mal, el vídeo será insuficiente.</p>
+<p>Necesitaremos saber:</p>
+<ul>
+<li class="">si el sistema interpretó correctamente la ruta;</li>
+<li class="">si redujo velocidad por peatón, por vehículo mal aparcado o por incertidumbre;</li>
+<li class="">si el conductor intervino antes o después de una alerta;</li>
+<li class="">si la maniobra dependía de una regla local difícil de inferir desde el mapa;</li>
+<li class="">y si el comportamiento se repite en otros coches, versiones y horarios.</li>
+</ul>
+<p>Ahí está la frontera entre un vídeo viral y una tecnología aprobable. La IA puede aprender millones de patrones, pero Europa pedirá algo menos romántico y más útil: capacidad de explicación operativa.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-esto-también-importa-para-la-comunidad-fsd-españa">Por qué esto también importa para la comunidad FSD España<a href="https://fsd.pepetox.es/fsd-ruta-azul-trazabilidad-espana#por-qu%C3%A9-esto-tambi%C3%A9n-importa-para-la-comunidad-fsd-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Por qué esto también importa para la comunidad FSD España" title="Enlace directo al Por qué esto también importa para la comunidad FSD España" translate="no">​</a></h2>
+<p>La comunidad suele hacer un trabajo valioso con vídeos, rutas comparadas y análisis de intervenciones. Pero si FSD llega a España, el estándar debería subir. No bastará con decir "lo ha hecho perfecto" o "ha fallado". Habrá que acompañar cada prueba con contexto:</p>
+<ul>
+<li class="">versión de software;</li>
+<li class="">hardware del coche;</li>
+<li class="">ciudad y tipo de vía;</li>
+<li class="">condiciones de luz y meteorología;</li>
+<li class="">estado de FSD;</li>
+<li class="">intervención o ausencia de intervención;</li>
+<li class="">comportamiento del sistema de monitorización.</li>
+</ul>
+<p>Ya vimos en <a class="" href="https://fsd.pepetox.es/fsd-video-quiz-frontera">el análisis sobre el vídeo y el quiz europeo</a> que Tesla no está aterrizando FSD en Europa como una simple función activable, sino como un producto gobernado por condiciones. La ruta azul, los registros y la supervisión mensual son la siguiente capa de esa misma idea.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-conclusión-el-avance-no-siempre-parece-avance">La conclusión: el avance no siempre parece avance<a href="https://fsd.pepetox.es/fsd-ruta-azul-trazabilidad-espana#la-conclusi%C3%B3n-el-avance-no-siempre-parece-avance" class="hash-link" aria-label="Enlace directo al La conclusión: el avance no siempre parece avance" title="Enlace directo al La conclusión: el avance no siempre parece avance" translate="no">​</a></h2>
+<p>La mejora que más acerque FSD a España quizá no sea una maniobra espectacular en Austin. Puede ser algo mucho menos viral: una señal de estado más clara, un clip mejor contextualizado, un reporte mensual más exigente, una app que indique cuándo el coche está usando FSD y una comunidad que aprenda a documentar pruebas con rigor.</p>
+<p>La conducción autónoma supervisada no será aceptada en Europa solo porque parezca inteligente. Será aceptada cuando sea <strong>inteligible</strong>: visible para quien conduce, comprensible para quien la usa, verificable para quien la regula y discutible por una comunidad que no confunda entusiasmo con evidencia.</p>
+<p>Ese es el takeaway para FSD España esta semana: miremos la línea azul, sí, pero no como una curiosidad. Mirémosla como el principio de una cultura de trazabilidad. Porque cuando FSD llegue a una rotonda española llena de señales, motos y decisiones imperfectas, la pregunta no será solo si la IA lo hizo bien. Será si podemos demostrarlo.</p>
+<p>Fuentes consultadas: <a href="https://www.tesla.com/support/fsd" target="_blank" rel="noopener noreferrer" class="">Tesla Support sobre FSD (Supervised)</a>, <a href="https://www.notateslaapp.com/software-updates/version/2026.20.6.1/release-notes" target="_blank" rel="noopener noreferrer" class="">notas 2026.20.6.1 en Not a Tesla App</a>, <a href="https://www.basenor.com/blogs/news/tesla-update-2026-20-6-1" target="_blank" rel="noopener noreferrer" class="">análisis de la ruta azul en BASENOR</a>, <a href="https://www.rdw.nl/en/news/2026/explanation-of-the-type-approval-of-fsd-supervised" target="_blank" rel="noopener noreferrer" class="">explicación de RDW sobre la type approval de FSD Supervised</a> y <a href="https://www.notateslaapp.com/software-updates/version/2026.20.5.1/release-notes" target="_blank" rel="noopener noreferrer" class="">notas 2026.20.5.1 / FSD v14 Lite</a>.</p>]]></content:encoded>
+            <category>fsd</category>
+            <category>tesla</category>
+            <category>ai</category>
+            <category>testing</category>
+            <category>espana</category>
+            <category>europa</category>
+            <category>regulations</category>
+            <category>seguridad</category>
+        </item>
         <item>
             <title><![CDATA[El viejo HW3 acaba de recibir una segunda oportunidad: ahora España tiene que desconfiar con método]]></title>
             <link>https://fsd.pepetox.es/fsd-v14-lite-hw3-examen-espana</link>
@@ -1697,87 +1780,6 @@
             <category>ai</category>
             <category>europa</category>
             <category>testing</category>
-        </item>
-        <item>
-            <title><![CDATA[Irlanda abre la puerta al FSD Supervised en Europa: por qué importa mucho más de lo que parece]]></title>
-            <link>https://fsd.pepetox.es/irlanda-fsd-supervised-europa</link>
-            <guid>https://fsd.pepetox.es/irlanda-fsd-supervised-europa</guid>
-            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Irlanda fija el 16 de marzo de 2026 para habilitar Level 2 en su marco legal. Analizamos por qué este movimiento puede acelerar el camino del FSD Supervised en Europa.]]></description>
-            <content:encoded><![CDATA[<p>Irlanda acaba de hacer algo que en Europa vale más que cien rumores en X: poner fecha, firma y base legal a la siguiente fase de los sistemas de conducción asistida avanzados. Si no cambia nada en el último minuto, el <strong>16 de marzo de 2026</strong> entra en vigor el instrumento que activa el marco para vehículos autónomos de <strong>Level 2</strong> en carreteras irlandesas. Y en el contexto actual de Tesla, eso convierte a Irlanda en la noticia más importante del día para cualquiera que siga el futuro de <strong>FSD Supervised</strong> en Europa.</p>
-<p><img decoding="async" loading="lazy" alt="Tesla en carretera europea bajo lluvia, como metáfora del avance regulatorio hacia FSD Supervised en Europa" src="https://fsd.pepetox.es/assets/images/2026-03-06-irlanda-fsd-supervised-europa-3e76f3ad25ff802064a9898ca8f48a02.png" width="1024" height="1024" class="img_ev3q"></p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="no-es-un-lanzamiento-en-españa-es-algo-más-útil-una-señal-regulatoria-real">No es un lanzamiento en España. Es algo más útil: una señal regulatoria real<a href="https://fsd.pepetox.es/irlanda-fsd-supervised-europa#no-es-un-lanzamiento-en-espa%C3%B1a-es-algo-m%C3%A1s-%C3%BAtil-una-se%C3%B1al-regulatoria-real" class="hash-link" aria-label="Enlace directo al No es un lanzamiento en España. Es algo más útil: una señal regulatoria real" title="Enlace directo al No es un lanzamiento en España. Es algo más útil: una señal regulatoria real" translate="no">​</a></h2>
-<p>La tentación obvia es leer esta noticia como "Tesla llega ya a Europa". Eso sería exagerar. Lo correcto es algo más preciso y, de hecho, más relevante:</p>
-<ul>
-<li class=""><strong>Irlanda sí ha firmado una pieza legal concreta</strong> para habilitar el marco de despliegue y pruebas de vehículos autónomos de Level 2.</li>
-<li class=""><strong>La fecha efectiva está fijada</strong>: 16 de marzo de 2026.</li>
-<li class=""><strong>Eso no equivale a una beta pública inmediata en España</strong>, ni siquiera a un despliegue instantáneo en toda la UE.</li>
-</ul>
-<p>La diferencia importa. Europa no se mueve a golpe de hype, sino de homologación, interpretación regulatoria y validación país por país. Por eso este paso pesa tanto: no es una promesa vaga ni un "pronto", sino una activación jurídica real.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-ha-aprobado-exactamente-irlanda">Qué ha aprobado exactamente Irlanda<a href="https://fsd.pepetox.es/irlanda-fsd-supervised-europa#qu%C3%A9-ha-aprobado-exactamente-irlanda" class="hash-link" aria-label="Enlace directo al Qué ha aprobado exactamente Irlanda" title="Enlace directo al Qué ha aprobado exactamente Irlanda" translate="no">​</a></h2>
-<p>El punto clave está en el <strong>Road Traffic and Roads Act 2023 (Commencement) Order 2026</strong>, publicado como <strong>S.I. No. 63 of 2026</strong>. El texto nombra expresamente el <strong>16th day of March 2026</strong> como fecha de entrada en vigor de los apartados relevantes de la ley para permitir que el marco de vehículos autónomos sea legalmente operable en Irlanda.</p>
-<p>La lectura política también importa. El comunicado del ministro Seán Canney presenta la medida como el paso necesario para permitir el uso y despliegue futuro de vehículos conectados y autónomos en carreteras irlandesas. En otras palabras: Irlanda no está improvisando una demo, está abriendo una puerta regulatoria.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-esto-importa-a-tesla-aunque-no-mencione-fsd-en-el-boe-irlandés">Por qué esto importa a Tesla aunque no mencione "FSD" en el BOE irlandés<a href="https://fsd.pepetox.es/irlanda-fsd-supervised-europa#por-qu%C3%A9-esto-importa-a-tesla-aunque-no-mencione-fsd-en-el-boe-irland%C3%A9s" class="hash-link" aria-label="Enlace directo al Por qué esto importa a Tesla aunque no mencione &quot;FSD&quot; en el BOE irlandés" title="Enlace directo al Por qué esto importa a Tesla aunque no mencione &quot;FSD&quot; en el BOE irlandés" translate="no">​</a></h2>
-<p>Tesla no aparece como protagonista formal en el instrumento legal, pero el encaje es evidente. Hoy, la oferta comercial de Tesla sigue definiéndose como <strong>FSD Supervised</strong>, es decir, un sistema avanzado de asistencia al conductor que <strong>requiere supervisión constante</strong>. Ese matiz es precisamente el que vuelve a Irlanda tan relevante: el marco de <strong>Level 2</strong> y el debate europeo sobre sistemas <strong>Level 2+</strong> están mucho más cerca del producto que Tesla ya vende y actualiza que cualquier narrativa de robotaxi totalmente sin conductor para cliente particular.</p>
-<p>La propia Tesla sigue usando el lenguaje de <strong>"Supervised"</strong> en su documentación oficial de FSD. Eso obliga a separar dos planos:</p>
-<ul>
-<li class="">El plano comercial y técnico: Tesla mejora FSD con iteraciones frecuentes y conducción cada vez más natural.</li>
-<li class="">El plano regulatorio: Europa solo dejará avanzar aquello que encaje con sus categorías legales y responsabilidades del conductor.</li>
-</ul>
-<p>Irlanda no resuelve el segundo plano para todo el continente, pero sí demuestra que ese encaje ya no es teórico.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-efecto-dominó-que-el-mercado-está-mirando">El efecto dominó que el mercado está mirando<a href="https://fsd.pepetox.es/irlanda-fsd-supervised-europa#el-efecto-domin%C3%B3-que-el-mercado-est%C3%A1-mirando" class="hash-link" aria-label="Enlace directo al El efecto dominó que el mercado está mirando" title="Enlace directo al El efecto dominó que el mercado está mirando" translate="no">​</a></h2>
-<p>Aquí entra la parte que merece análisis, no humo. No hay confirmación oficial de una beta inmediata en España, ni de un "go live" europeo general. Pero sí hay una inferencia razonable:</p>
-<p><strong>cuando un país europeo mueve primero una pieza regulatoria compatible con UNECE, el resto del ecosistema mira de inmediato a los siguientes nodos de homologación</strong>.</p>
-<p>En la conversación de la comunidad aparecen dos nombres una y otra vez:</p>
-<ul>
-<li class=""><strong>UNECE</strong>, porque sigue siendo la capa regulatoria de referencia para buena parte del continente.</li>
-<li class=""><strong>RDW en Países Bajos</strong>, por su peso histórico en homologaciones y validaciones técnicas.</li>
-</ul>
-<p>Eso no significa que mañana veamos FSD Supervised en Madrid, Barcelona o Valencia. Significa que el debate deja de ser "si Europa está lista para empezar" y pasa a ser "quién será el siguiente en concretarlo".</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="mientras-europa-se-mueve-en-regulación-tesla-sigue-afinando-producto">Mientras Europa se mueve en regulación, Tesla sigue afinando producto<a href="https://fsd.pepetox.es/irlanda-fsd-supervised-europa#mientras-europa-se-mueve-en-regulaci%C3%B3n-tesla-sigue-afinando-producto" class="hash-link" aria-label="Enlace directo al Mientras Europa se mueve en regulación, Tesla sigue afinando producto" title="Enlace directo al Mientras Europa se mueve en regulación, Tesla sigue afinando producto" translate="no">​</a></h2>
-<p>Fuera de Europa no ha habido en estas últimas horas un salto de versión comparable al impacto que tuvo v13. El foco actual está más en consolidación que en espectáculo. El tracker público de Not a Tesla App muestra que la rama visible más reciente sigue en <strong>FSD Supervised 14.2.2.5</strong>, con subversiones recientes orientadas sobre todo a ajustes y correcciones.</p>
-<p>Eso encaja con la fase actual del producto:</p>
-<ul>
-<li class="">menos narrativa de "gran rewrite" pública,</li>
-<li class="">más trabajo de estabilidad,</li>
-<li class="">más kilometraje acumulado,</li>
-<li class="">y más demos que enseñan un comportamiento cada vez más fluido en escenarios complejos.</li>
-</ul>
-<p>En vídeos recientes de testers vuelven a repetirse los mismos patrones positivos: desvíos por obras, tráfico denso, rampas estrechas y maniobras de baja velocidad resueltas con naturalidad. Pero conviene insistir en lo que demasiada gente olvida cuando el vídeo sale bien:</p>
-<p><strong>FSD sigue siendo Supervised.</strong></p>
-<p>Ese recordatorio no es burocracia. Es la diferencia entre analizar el sistema como ADAS avanzado o venderlo irresponsablemente como autonomía plena para usuarios privados.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-dato-de-los-miles-de-millones-de-millas-útil-pero-no-es-la-noticia-central-de-hoy">El dato de los miles de millones de millas: útil, pero no es la noticia central de hoy<a href="https://fsd.pepetox.es/irlanda-fsd-supervised-europa#el-dato-de-los-miles-de-millones-de-millas-%C3%BAtil-pero-no-es-la-noticia-central-de-hoy" class="hash-link" aria-label="Enlace directo al El dato de los miles de millones de millas: útil, pero no es la noticia central de hoy" title="Enlace directo al El dato de los miles de millones de millas: útil, pero no es la noticia central de hoy" translate="no">​</a></h2>
-<p>En paralelo, la comunidad vuelve a empujar el relato del volumen de datos. Aquí conviene ser estrictos con las fechas: la cifra pública que he podido verificar en cobertura del <strong>18 de febrero de 2026</strong> es de <strong>más de 8.2 mil millones de millas acumuladas</strong> por la flota FSD Supervised. Puede haber estimaciones comunitarias más altas desde entonces, pero lo relevante analíticamente no es el decimal exacto del día, sino la dirección:</p>
-<ul>
-<li class="">Tesla ya opera sobre una base masiva de kilometraje real.</li>
-<li class="">Esa escala alimenta entrenamiento, validación y refinamiento del comportamiento end-to-end.</li>
-<li class="">El valor de esa base de datos aumenta todavía más cuando los reguladores empiezan a abrir puertas en nuevos mercados.</li>
-</ul>
-<p>Es decir: sin marco legal, las millas no se monetizan en Europa. Pero sin millas, el marco legal tampoco basta para convencer a consumidores y reguladores. Las dos piezas se retroalimentan.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-significa-esto-para-españa">Qué significa esto para España<a href="https://fsd.pepetox.es/irlanda-fsd-supervised-europa#qu%C3%A9-significa-esto-para-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Qué significa esto para España" title="Enlace directo al Qué significa esto para España" translate="no">​</a></h2>
-<p>La respuesta corta: <strong>todavía no hay confirmación de despliegue en España</strong>.</p>
-<p>La respuesta útil: el movimiento irlandés mejora claramente el contexto.</p>
-<p>España sigue dentro de una realidad regulatoria europea donde el progreso suele llegar por acumulación de precedentes, no por sorpresa. Si Irlanda demuestra que el marco puede activarse, y si otros reguladores europeos se alinean en interpretación y homologación, Tesla tendrá una base mucho más sólida para pedir el siguiente paso.</p>
-<p>Para quienes seguimos FSD desde España, la noticia correcta no es "ya está". La noticia correcta es:</p>
-<p><strong>Europa acaba de pasar de la especulación abstracta a una fecha concreta en un país concreto.</strong></p>
-<p>Y eso, en regulación, suele ser el comienzo de la parte interesante.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/irlanda-fsd-supervised-europa#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
-<p>La señal más importante del día no sale de una demo viral ni de un nuevo número de versión. Sale de un documento legal irlandés con fecha de entrada en vigor. Irlanda no ha lanzado FSD en toda Europa, pero sí ha hecho algo imprescindible para que eso pueda ocurrir: convertir la conversación en un problema de ejecución regulatoria, no de fantasía.</p>
-<p>Si los siguientes movimientos llegan desde UNECE, Países Bajos u otro regulador europeo relevante, recordaremos este momento como uno de esos pequeños giros que, vistos en retrospectiva, cambian la trayectoria completa.</p>
-<p>Seguiremos de cerca cualquier señal sobre homologación, ride-alongs, despliegues limitados o pasos regulatorios que acerquen FSD Supervised a España.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/irlanda-fsd-supervised-europa#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
-<ul>
-<li class=""><a href="https://www.seancanney.com/minister-canney-signs-statutory-instrument-to-enable-level-2-autonomous-vehicles-on-irish-roads/" target="_blank" rel="noopener noreferrer" class="">Minister Canney signs Statutory Instrument to enable Level 2 Autonomous Vehicles on Irish roads</a></li>
-<li class=""><a href="https://www.irishstatutebook.ie/eli/2026/si/63/made/en/pdf" target="_blank" rel="noopener noreferrer" class="">Road Traffic and Roads Act 2023 (Commencement) Order 2026 - S.I. No. 63 of 2026</a></li>
-<li class=""><a href="https://www.notateslaapp.com/fsd-beta" target="_blank" rel="noopener noreferrer" class="">Not a Tesla App - FSD Beta / FSD Supervised tracker</a></li>
-<li class=""><a href="https://www.notateslaapp.com/fsd-beta/news" target="_blank" rel="noopener noreferrer" class="">Not a Tesla App - FSD news</a></li>
-<li class=""><a href="https://www.notateslaapp.com/news/3633/teslas-updated-safety-report-fsd-supervised-is-safer-than-humans" target="_blank" rel="noopener noreferrer" class="">Not a Tesla App - Tesla Updates Safety Report: Widening Safety Gap Between FSD And Humans</a></li>
-</ul>]]></content:encoded>
-            <category>fsd</category>
-            <category>tesla</category>
-            <category>europa</category>
-            <category>regulacion</category>
-            <category>ia</category>
         </item>
     </channel>
 </rss>
