@@ -4,10 +4,105 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Tue, 07 Jul 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[La rotonda española es el examen que FSD no puede aprobar solo con vídeos de California]]></title>
+            <link>https://fsd.pepetox.es/fsd-rotonda-espanola-europa</link>
+            <guid>https://fsd.pepetox.es/fsd-rotonda-espanola-europa</guid>
+            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tras la aprobación neerlandesa y el debate europeo, el reto real para FSD en España no es solo regulatorio: es entender rotondas, carriles ambiguos y negociación humana.]]></description>
+            <content:encoded><![CDATA[<p>Llegas a una rotonda grande a las afueras de Madrid. Tres carriles pintados con optimismo, una salida mal señalizada, una moto filtrando por la derecha, un autobús que tapa media escena y un conductor que entra como si la prioridad fuera una opinión. Ese es el examen que espera a <strong>FSD (Supervised)</strong> en España: no una autopista limpia, sino una negociación continua entre geometría, intención humana y normas que muchos conductores aplican a medias. La noticia europea de 2026 no es solo que Tesla haya abierto una puerta regulatoria; es que ahora toca demostrar si una red neuronal puede leer nuestras rotondas sin convertir cada duda en un susto.</p>
+<p><img decoding="async" loading="lazy" alt="Tesla aproximándose a una rotonda urbana española con una trayectoria azul de asistencia FSD superpuesta" src="https://fsd.pepetox.es/assets/images/2026-07-14-fsd-rotonda-espanola-europa-090ed87aa2bd067ce9032642b963aa83.png" width="1408" height="768" class="img_ev3q"></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-contexto-europa-ya-no-discute-en-abstracto">El contexto: Europa ya no discute en abstracto<a href="https://fsd.pepetox.es/fsd-rotonda-espanola-europa#el-contexto-europa-ya-no-discute-en-abstracto" class="hash-link" aria-label="Enlace directo al El contexto: Europa ya no discute en abstracto" title="Enlace directo al El contexto: Europa ya no discute en abstracto" translate="no">​</a></h2>
+<p>El <strong>10 de abril de 2026</strong>, el regulador neerlandés RDW concedió una type approval con validez provisional en Países Bajos para <strong>FSD Supervised</strong>. Su explicación fue muy clara en dos puntos: el sistema no convierte al coche en autónomo y el conductor sigue siendo responsable en todo momento. También detalló que la versión europea no debe compararse uno a uno con la estadounidense, porque la homologación y el software se adaptan a requisitos distintos.</p>
+<p>En junio, RDW añadió más contexto: más de <strong>3.000 horas</strong> de pruebas propias, más de <strong>1.000 test runs</strong> y datos de <strong>1,8 millones de kilómetros</strong> recorridos en Europa con FSD Supervised antes de conceder la aprobación. Y, quizá lo más importante, elevó temporalmente la frecuencia de reporte de anual a <strong>mensual</strong> para monitorizar el sistema en uso real.</p>
+<p>Tesla, por su parte, ya lista FSD Supervised como aprobado en Países Bajos, Lituania, Estonia, Dinamarca y Bélgica, pero advierte que en otros países la disponibilidad depende de aprobación regulatoria explícita. Es decir: España no está esperando solo una actualización OTA. Está esperando una decisión técnica, jurídica y política.</p>
+<p>La organización ETSC ha puesto el contrapunto crítico: reclama evidencia pública de seguridad, claridad sobre investigación de incidentes y cautela antes de que otros Estados miembros reconozcan la aprobación neerlandesa. Puede gustar más o menos el tono, pero la pregunta de fondo es legítima: ¿cómo se valida un sistema que cambia por software y que se comporta de forma distinta según la ciudad?</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs. realidad<a href="https://fsd.pepetox.es/fsd-rotonda-espanola-europa#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad" title="Enlace directo al Expectativa vs. realidad" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa">Expectativa<a href="https://fsd.pepetox.es/fsd-rotonda-espanola-europa#expectativa" class="hash-link" aria-label="Enlace directo al Expectativa" title="Enlace directo al Expectativa" translate="no">​</a></h3>
+<p>Si FSD ya circula en Países Bajos, la llegada a España debería ser cuestión de papeleo europeo y paciencia.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad">Realidad<a href="https://fsd.pepetox.es/fsd-rotonda-espanola-europa#realidad" class="hash-link" aria-label="Enlace directo al Realidad" title="Enlace directo al Realidad" translate="no">​</a></h3>
+<p>España no es solo otro mapa. Es otro conjunto de escenas: rotondas multicarril, calles estrechas, motos entre carriles, pasos de peatones pegados a incorporaciones, carriles bici que aparecen y desaparecen, obras urbanas, pintura gastada y conductores que negocian con el parachoques.</p>
+<p>El reto no es que FSD "vea" una rotonda. El reto es que entienda <strong>qué intención está emergiendo</strong> dentro de ella.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-una-rotonda-no-es-una-curva-circular">Por qué una rotonda no es una curva circular<a href="https://fsd.pepetox.es/fsd-rotonda-espanola-europa#por-qu%C3%A9-una-rotonda-no-es-una-curva-circular" class="hash-link" aria-label="Enlace directo al Por qué una rotonda no es una curva circular" title="Enlace directo al Por qué una rotonda no es una curva circular" translate="no">​</a></h2>
+<p>Desde fuera, una rotonda parece un problema de geometría: entrar, rodear, salir. Para una red neuronal de conducción, en cambio, es una escena de inferencia social.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="carriles-que-no-cuentan-toda-la-verdad">Carriles que no cuentan toda la verdad<a href="https://fsd.pepetox.es/fsd-rotonda-espanola-europa#carriles-que-no-cuentan-toda-la-verdad" class="hash-link" aria-label="Enlace directo al Carriles que no cuentan toda la verdad" title="Enlace directo al Carriles que no cuentan toda la verdad" translate="no">​</a></h3>
+<p>En una rotonda española, el carril exterior puede ser legalmente preferible para salir, pero en la práctica puede estar ocupado por alguien que continúa girando. El carril interior puede ser correcto para una salida posterior, pero obliga a cruzar una zona de conflicto. Si las marcas están gastadas o la salida llega demasiado pronto, la decisión deja de ser un simple cálculo de trayectoria.</p>
+<p>FSD necesita anticipar no solo dónde están los coches, sino qué probabilidades hay de que cada uno haga algo incoherente con la teoría. Ahí es donde el enfoque end-to-end promete valor: aprender de millones de escenas reales en lugar de codificar a mano cada excepción. Pero también ahí está el riesgo: si la red aprende una distribución norteamericana y luego se enfrenta a una rotonda de Albacete, la confianza visual puede engañar.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="prioridad-cortes-y-lenguaje-corporal-del-tráfico">Prioridad, cortes y lenguaje corporal del tráfico<a href="https://fsd.pepetox.es/fsd-rotonda-espanola-europa#prioridad-cortes-y-lenguaje-corporal-del-tr%C3%A1fico" class="hash-link" aria-label="Enlace directo al Prioridad, cortes y lenguaje corporal del tráfico" title="Enlace directo al Prioridad, cortes y lenguaje corporal del tráfico" translate="no">​</a></h3>
+<p>Un conductor humano detecta señales débiles: una rueda que empieza a girar, una ligera invasión de carril, un coche que acelera demasiado para ceder, una moto que ya está buscando hueco. La pregunta para FSD no es si puede frenar ante un objeto. Eso ya es demasiado básico. La pregunta es si puede interpretar ese lenguaje corporal antes de que el conflicto exista.</p>
+<p>En vídeos estadounidenses, el espectáculo suele estar en giros urbanos complejos o cruces sin protección. En España, muchas de las escenas decisivas ocurrirán a 25 km/h, con poco margen lateral y mucha ambigüedad. Un sistema puede parecer brillante en autopista y aún así ser torpe en el momento exacto en que el conductor español más necesita fluidez.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="salir-tarde-también-es-un-fallo">Salir tarde también es un fallo<a href="https://fsd.pepetox.es/fsd-rotonda-espanola-europa#salir-tarde-tambi%C3%A9n-es-un-fallo" class="hash-link" aria-label="Enlace directo al Salir tarde también es un fallo" title="Enlace directo al Salir tarde también es un fallo" translate="no">​</a></h3>
+<p>La seguridad no consiste solo en evitar colisiones. Una salida demasiado tardía, una duda prolongada o una colocación tímida pueden obligar a otros a improvisar. En una rotonda cargada, conducir excesivamente conservador no siempre es neutral: puede generar presión detrás, cortes laterales y decisiones impacientes de terceros.</p>
+<p>Por eso el examen español debe medir algo más fino que "intervino o no intervino el conductor". Debe observar si FSD mantiene una intención comprensible, progresiva y legible para los demás.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-españa-debería-exigir-en-una-prueba-seria">Lo que España debería exigir en una prueba seria<a href="https://fsd.pepetox.es/fsd-rotonda-espanola-europa#lo-que-espa%C3%B1a-deber%C3%ADa-exigir-en-una-prueba-seria" class="hash-link" aria-label="Enlace directo al Lo que España debería exigir en una prueba seria" title="Enlace directo al Lo que España debería exigir en una prueba seria" translate="no">​</a></h2>
+<p>Si el despliegue avanza, la comunidad FSD española puede aportar mucho más que vídeos virales. Necesitamos una matriz de pruebas repetible.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="rotondas-por-tipo-no-por-anécdota">Rotondas por tipo, no por anécdota<a href="https://fsd.pepetox.es/fsd-rotonda-espanola-europa#rotondas-por-tipo-no-por-an%C3%A9cdota" class="hash-link" aria-label="Enlace directo al Rotondas por tipo, no por anécdota" title="Enlace directo al Rotondas por tipo, no por anécdota" translate="no">​</a></h3>
+<p>No basta una vuelta limpia en una glorieta bonita. Hacen falta categorías:</p>
+<ul>
+<li class="">rotonda pequeña de barrio con coches aparcados cerca;</li>
+<li class="">rotonda grande multicarril con salidas consecutivas;</li>
+<li class="">rotonda con carril bici y paso de peatones inmediato;</li>
+<li class="">rotonda con autobuses o camiones que ocultan campo visual;</li>
+<li class="">rotonda nocturna o con pintura degradada;</li>
+<li class="">rotonda con entrada en cuesta o visibilidad lateral limitada.</li>
+</ul>
+<p>Cada una fuerza una parte distinta del sistema: percepción, predicción, planificación, comodidad y comunicación de intención.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="métricas-mejores-que-el-aplauso">Métricas mejores que el aplauso<a href="https://fsd.pepetox.es/fsd-rotonda-espanola-europa#m%C3%A9tricas-mejores-que-el-aplauso" class="hash-link" aria-label="Enlace directo al Métricas mejores que el aplauso" title="Enlace directo al Métricas mejores que el aplauso" translate="no">​</a></h3>
+<p>Un vídeo de diez minutos sin intervención puede impresionar, pero no basta. Para evaluar FSD en España deberíamos anotar:</p>
+<ul>
+<li class="">dónde se coloca antes de entrar;</li>
+<li class="">si elige carril con suficiente antelación;</li>
+<li class="">si anticipa motos y ciclistas;</li>
+<li class="">si duda de forma comprensible o errática;</li>
+<li class="">si señaliza con tiempo;</li>
+<li class="">si la salida elegida coincide con navegación y normas locales;</li>
+<li class="">si el conductor interviene por seguridad, por incomodidad o por presión social.</li>
+</ul>
+<p>La diferencia entre esas tres intervenciones importa. No es lo mismo salvar un error que corregir una decisión lenta.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-regulación-no-debería-matar-la-innovación-pero-sí-pedir-evidencia-local">La regulación no debería matar la innovación, pero sí pedir evidencia local<a href="https://fsd.pepetox.es/fsd-rotonda-espanola-europa#la-regulaci%C3%B3n-no-deber%C3%ADa-matar-la-innovaci%C3%B3n-pero-s%C3%AD-pedir-evidencia-local" class="hash-link" aria-label="Enlace directo al La regulación no debería matar la innovación, pero sí pedir evidencia local" title="Enlace directo al La regulación no debería matar la innovación, pero sí pedir evidencia local" translate="no">​</a></h2>
+<p>Aquí conviene evitar dos caricaturas. La primera: "Europa bloquea todo por miedo". La segunda: "Tesla ya lo ha resuelto y los reguladores solo estorban". Ninguna ayuda.</p>
+<p>RDW ha mostrado un camino pragmático: probar, aprobar con límites, exigir monitorización y seguir mirando después. ETSC recuerda el otro lado: si una misma versión de software circula en miles de coches, un incidente no es solo un accidente local, puede ser una señal de producto. Ambas ideas pueden convivir.</p>
+<p>Para España, la conclusión debería ser exigente pero no inmovilista. Si FSD Supervised llega, tiene sentido empezar con disponibilidad clara, conductor plenamente responsable, datos de rendimiento por escenarios y una vigilancia que no dependa de promesas comerciales. La red neuronal puede mejorar rápido, pero la confianza pública se construye despacio.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-punto-técnico-fsd-debe-aprender-cortesía-europea">El punto técnico: FSD debe aprender cortesía europea<a href="https://fsd.pepetox.es/fsd-rotonda-espanola-europa#el-punto-t%C3%A9cnico-fsd-debe-aprender-cortes%C3%ADa-europea" class="hash-link" aria-label="Enlace directo al El punto técnico: FSD debe aprender cortesía europea" title="Enlace directo al El punto técnico: FSD debe aprender cortesía europea" translate="no">​</a></h2>
+<p>La palabra "cortesía" suena blanda, pero en conducción autónoma es técnica pura. Significa entrar cuando hay hueco, no antes. Significa no quedarse congelado si el tráfico espera que avances. Significa indicar intención de forma legible. Significa ceder a un peatón sin provocar una frenada innecesaria detrás. Significa no confundir agresividad con decisión.</p>
+<p>En una rotonda española, la conducción correcta es una negociación. FSD necesita combinar:</p>
+<ul>
+<li class="">visión robusta con marcas imperfectas;</li>
+<li class="">predicción de agentes vulnerables;</li>
+<li class="">memoria corta de objetos parcialmente ocultos;</li>
+<li class="">planificación suave pero decidida;</li>
+<li class="">monitorización real del conductor;</li>
+<li class="">trazabilidad suficiente para auditar lo ocurrido.</li>
+</ul>
+<p>Ese paquete es mucho más interesante que preguntar si "FSD llega en 2026". La fecha importa menos que la calidad del aterrizaje.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-mirar-en-los-próximos-meses">Qué mirar en los próximos meses<a href="https://fsd.pepetox.es/fsd-rotonda-espanola-europa#qu%C3%A9-mirar-en-los-pr%C3%B3ximos-meses" class="hash-link" aria-label="Enlace directo al Qué mirar en los próximos meses" title="Enlace directo al Qué mirar en los próximos meses" translate="no">​</a></h2>
+<p>La comunidad española debería seguir tres señales.</p>
+<p>Primero, si la aprobación neerlandesa se convierte en reconocimiento europeo más amplio o si cada país exige una fase propia. Segundo, si Tesla publica más información específica sobre versiones europeas, límites funcionales y reportes de seguridad. Tercero, si los primeros vídeos europeos empiezan a mostrar escenarios comparables a España: rotondas, cascos urbanos densos, carriles estrechos, peatones y motos.</p>
+<p>No necesitamos otro clip perfecto en una avenida vacía. Necesitamos ver cómo FSD razona cuando la carretera deja de parecer un diagrama.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/fsd-rotonda-espanola-europa#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
+<p>La rotonda española es una buena metáfora porque obliga a todos a abandonar los extremos. FSD no es magia, pero tampoco es un simple control de crucero con marketing. Es un sistema de IA supervisada que debe demostrar, calle a calle, que entiende nuestra forma de conducir sin copiar sus peores vicios.</p>
+<p>Si España quiere prepararse bien, la pregunta no debería ser "¿cuándo llega?". Debería ser: <strong>¿qué escenas locales queremos que supere antes de celebrarlo?</strong> Seguiremos atentos en el blog a la evolución regulatoria y, sobre todo, a las pruebas que separen el entusiasmo legítimo de la evidencia real.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes-y-lecturas-relacionadas">Fuentes y lecturas relacionadas<a href="https://fsd.pepetox.es/fsd-rotonda-espanola-europa#fuentes-y-lecturas-relacionadas" class="hash-link" aria-label="Enlace directo al Fuentes y lecturas relacionadas" title="Enlace directo al Fuentes y lecturas relacionadas" translate="no">​</a></h3>
+<ul>
+<li class="">RDW: <a href="https://www.rdw.nl/en/news/2026/rdw-explanation-of-european-type-approval-tesla-with-provisional-validity-in-the-netherlands" target="_blank" rel="noopener noreferrer" class="">type approval provisional de FSD Supervised en Países Bajos</a>.</li>
+<li class="">RDW: <a href="https://www.rdw.nl/en/news/2026/explanation-of-the-type-approval-of-fsd-supervised" target="_blank" rel="noopener noreferrer" class="">explicación del proceso de evaluación y monitorización posterior</a>.</li>
+<li class="">Tesla: <a href="https://www.tesla.com/fsd/safety" target="_blank" rel="noopener noreferrer" class="">Vehicle Safety Report y disponibilidad de FSD Supervised por mercados</a>.</li>
+<li class="">ETSC: <a href="https://etsc.eu/etsc-writes-to-eu-transport-ministers-on-tesla-fsd-as-us-crash-highlights-european-oversight-gap/" target="_blank" rel="noopener noreferrer" class="">carta y preguntas críticas sobre reconocimiento europeo de FSD</a>.</li>
+<li class="">En FSD Spain: <a class="" href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real">la aprobación real de Países Bajos</a> y <a class="" href="https://fsd.pepetox.es/madrid-auditoria-fsd">Madrid como auditoría de FSD</a>.</li>
+</ul>]]></content:encoded>
+            <category>fsd</category>
+            <category>tesla</category>
+            <category>ai</category>
+            <category>testing</category>
+            <category>espana</category>
+            <category>europa</category>
+            <category>regulations</category>
+            <category>seguridad</category>
+        </item>
         <item>
             <title><![CDATA[La línea azul de FSD: el detalle pequeño que España debería tomarse muy en serio]]></title>
             <link>https://fsd.pepetox.es/fsd-ruta-azul-trazabilidad-espana</link>
@@ -1711,75 +1806,6 @@
             <category>regulations</category>
             <category>testing</category>
             <category>ai</category>
-        </item>
-        <item>
-            <title><![CDATA[FSD en Europa no se juega solo en la carretera: el giro a suscripción puede ser la clave]]></title>
-            <link>https://fsd.pepetox.es/fsd-europa-suscripcion-mensual</link>
-            <guid>https://fsd.pepetox.es/fsd-europa-suscripcion-mensual</guid>
-            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Tesla cambia FSD (Supervised) hacia un modelo de suscripción mensual. Analizamos por qué ese movimiento puede acelerar o frenar su adopción real en España y Europa.]]></description>
-            <content:encoded><![CDATA[<p>Un martes cualquiera en Madrid: atasco en la A-2, un carril que desaparece sin aviso claro y una salida con trazado confuso. En ese escenario, la pregunta no es solo si FSD puede conducir bien; la pregunta es cuánta gente va a probarlo, mantenerlo y generar los datos de uso que hacen falta para que Europa lo vea como una tecnología madura.</p>
-<p>Tesla ha hecho un movimiento importante que pasa más desapercibido que un vídeo viral: en su actualización de resultados <strong>Q4/FY 2025 (28 de enero de 2026)</strong> indicó que, desde ese trimestre, está pasando FSD (Supervised) a <strong>acceso solo por suscripción mensual</strong>, retirando gradualmente el pago único.</p>
-<p>No es un detalle comercial menor. Es una decisión que afecta directamente al ritmo de adopción, a la calidad del feedback de usuarios y, en última instancia, a la conversación regulatoria europea.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-dato-nuevo-que-importa-en-2026">El dato nuevo que importa en 2026<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#el-dato-nuevo-que-importa-en-2026" class="hash-link" aria-label="Enlace directo al El dato nuevo que importa en 2026" title="Enlace directo al El dato nuevo que importa en 2026" translate="no">​</a></h2>
-<p>Según Tesla (Q4/FY 2025):</p>
-<ul>
-<li class="">sigue buscando aprobación regulatoria en China y Europa,</li>
-<li class="">ya está ofreciendo <strong>ride-alongs</strong> a consumidores en Italia, Alemania, Francia y Suiza,</li>
-<li class="">y arranca la transición de FSD (Supervised) a <strong>modelo mensual</strong>.</li>
-</ul>
-<p>En paralelo, la página oficial de FSD sigue sin listar países de la UE entre los mercados con disponibilidad comercial completa, lo que confirma que Europa continúa en fase de preparación y validación.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad-en-españa">Expectativa vs. realidad en España<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#expectativa-vs-realidad-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad en España" title="Enlace directo al Expectativa vs. realidad en España" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa">Expectativa<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#expectativa" class="hash-link" aria-label="Enlace directo al Expectativa" title="Enlace directo al Expectativa" translate="no">​</a></h3>
-<p>"Cuando llegue la aprobación, todo despega de golpe".</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad">Realidad<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#realidad" class="hash-link" aria-label="Enlace directo al Realidad" title="Enlace directo al Realidad" translate="no">​</a></h3>
-<p>En Europa, el despliegue real suele ser incremental. El modelo de suscripción puede facilitar ese aterrizaje porque reduce barrera de entrada y permite probar FSD durante meses concretos (viajes largos, cambios de rutina, trayectos complejos), sin compromiso permanente.</p>
-<p>Eso puede acelerar tres cosas que sí importan en el mundo real:</p>
-<ul>
-<li class="">más conductores probando el sistema en contextos variados,</li>
-<li class="">más datos de uso en escenarios urbanos europeos complejos,</li>
-<li class="">y mejor comprensión pública de límites y responsabilidades de un sistema supervisado.</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-este-cambio-toca-el-núcleo-técnico">¿Por qué este cambio toca el núcleo técnico?<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#por-qu%C3%A9-este-cambio-toca-el-n%C3%BAcleo-t%C3%A9cnico" class="hash-link" aria-label="Enlace directo al ¿Por qué este cambio toca el núcleo técnico?" title="Enlace directo al ¿Por qué este cambio toca el núcleo técnico?" translate="no">​</a></h2>
-<p>Parece un tema de pricing, pero también es ingeniería de producto:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-más-ciclos-de-aprendizaje-con-usuarios-reales">1) Más ciclos de aprendizaje con usuarios reales<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#1-m%C3%A1s-ciclos-de-aprendizaje-con-usuarios-reales" class="hash-link" aria-label="Enlace directo al 1) Más ciclos de aprendizaje con usuarios reales" title="Enlace directo al 1) Más ciclos de aprendizaje con usuarios reales" translate="no">​</a></h3>
-<p>Si más gente entra y sale del producto por meses, Tesla recibe señales más diversas sobre comportamiento en rotondas, calles estrechas, obras y lluvia intermitente, justo donde Europa aprieta más.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-menos-fricción-para-testeo-continuo">2) Menos fricción para testeo continuo<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#2-menos-fricci%C3%B3n-para-testeo-continuo" class="hash-link" aria-label="Enlace directo al 2) Menos fricción para testeo continuo" title="Enlace directo al 2) Menos fricción para testeo continuo" translate="no">​</a></h3>
-<p>La suscripción permite activar FSD cuando el conductor percibe valor real. Ese uso "por necesidad" suele revelar mejor los puntos fuertes y débiles que una compra emocional de una sola vez.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-alineación-con-una-narrativa-de-software-vivo">3) Alineación con una narrativa de "software vivo"<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#3-alineaci%C3%B3n-con-una-narrativa-de-software-vivo" class="hash-link" aria-label="Enlace directo al 3) Alineación con una narrativa de &quot;software vivo&quot;" title="Enlace directo al 3) Alineación con una narrativa de &quot;software vivo&quot;" translate="no">​</a></h3>
-<p>Si FSD evoluciona por OTA, un modelo mensual encaja con la lógica de servicio en mejora continua, no con una promesa cerrada pagada una vez.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-choque-con-el-marco-europeo-sigue-ahí">El choque con el marco europeo sigue ahí<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#el-choque-con-el-marco-europeo-sigue-ah%C3%AD" class="hash-link" aria-label="Enlace directo al El choque con el marco europeo sigue ahí" title="Enlace directo al El choque con el marco europeo sigue ahí" translate="no">​</a></h2>
-<p>Nada de esto elimina el cuello de botella regulatorio. La propia RDW recordó en su comunicación del <strong>24 de noviembre de 2025</strong> que la prioridad es seguridad vial y que cualquier aprobación depende de demostrar cumplimiento de forma convincente.</p>
-<p>Por eso conviene separar dos planos:</p>
-<ul>
-<li class=""><strong>Plano producto</strong>: Tesla mejora y empaqueta FSD como servicio recurrente.</li>
-<li class=""><strong>Plano regulatorio</strong>: Europa exige evidencia, validación y responsabilidades claras del conductor.</li>
-</ul>
-<p>El progreso real llega cuando ambos planos avanzan a la vez.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-significa-para-la-comunidad-fsd-en-españa">Qué significa para la comunidad FSD en España<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#qu%C3%A9-significa-para-la-comunidad-fsd-en-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Qué significa para la comunidad FSD en España" title="Enlace directo al Qué significa para la comunidad FSD en España" translate="no">​</a></h2>
-<p>Para quienes seguimos FSD desde España, esta es una lectura útil:</p>
-<ul>
-<li class="">no hay anuncio oficial de disponibilidad general en España a fecha <strong>10 de marzo de 2026</strong>,</li>
-<li class="">pero sí hay señales de despliegue gradual en Europa mediante experiencias supervisadas,</li>
-<li class="">y ahora un modelo comercial que puede hacer más sostenible la adopción cuando llegue el permiso.</li>
-</ul>
-<p>Si quieres contexto regulatorio reciente, puedes leer <a class="" href="https://fsd.pepetox.es/irlanda-fsd-supervised-europa">nuestro análisis sobre el movimiento de Irlanda</a>. Y si te interesa la parte técnica de conducción predictiva en autopista, <a class="" href="https://fsd.pepetox.es/fsd-predictivo-autopista-v14">aquí tienes el análisis de v14</a>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
-<p>La batalla europea de FSD no se gana solo con una demo perfecta en carretera. Se gana cuando tecnología, regulación y modelo de adopción encajan a la vez.</p>
-<p>El giro a suscripción mensual puede parecer menos épico que una maniobra viral, pero podría ser justo la pieza que faltaba para que FSD pase de "curiosidad" a "uso regular" en Europa, y ahí es donde empieza la tracción de verdad.</p>
-<p>Seguiremos monitorizando señales oficiales de homologación, pruebas públicas y cambios de producto para entender cuándo ese encaje llega también a España.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-europa-suscripcion-mensual#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
-<ul>
-<li class="">Tesla Investor Relations — Q4/FY 2025 Update (28 Jan 2026): <a href="https://ir.tesla.com/" target="_blank" rel="noopener noreferrer" class="">https://ir.tesla.com/</a></li>
-<li class="">Tesla FSD (página oficial): <a href="https://www.tesla.com/fsd" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/fsd</a></li>
-<li class="">Tesla Events — FSD Ride-Along Utrecht (16 Feb - 31 Mar 2026): <a href="https://www.tesla.com/event/full-self-driving--supervised--ride-along-at-tesla-utrecht" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/event/full-self-driving--supervised--ride-along-at-tesla-utrecht</a></li>
-<li class="">RDW — Response following Tesla’s call to action (24 Nov 2025): <a href="https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/en/news/2025/rdw-response-following-teslas-call-to-action</a></li>
-</ul>]]></content:encoded>
-            <category>fsd</category>
-            <category>tesla</category>
-            <category>ai</category>
-            <category>europa</category>
-            <category>testing</category>
         </item>
     </channel>
 </rss>
