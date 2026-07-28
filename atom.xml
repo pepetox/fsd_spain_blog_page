@@ -2,11 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fsd.pepetox.es</id>
     <title>FSD Spain Blog</title>
-    <updated>2026-07-20T22:00:00.000Z</updated>
+    <updated>2026-07-27T22:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fsd.pepetox.es"/>
     <subtitle>FSD Spain Blog</subtitle>
     <icon>https://fsd.pepetox.es/img/fsdspain.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Tu Tesla ya aprende qué camino prefieres: la ruta también forma parte de la inteligencia de FSD]]></title>
+        <id>https://fsd.pepetox.es/fsd-rutas-aprendidas-espana</id>
+        <link href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana"/>
+        <updated>2026-07-27T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tesla 2026.26 prioriza rutas ya recorridas. Analizamos por qué elegir bien el camino será tan importante para FSD en España como conducirlo.]]></summary>
+        <content type="html"><![CDATA[<p>Sales del colegio a las ocho y media. El navegador insiste en ahorrar dos minutos por una calle adoquinada donde una furgoneta descarga en doble fila, los retrovisores casi se rozan y cada portal puede esconder un patinete. Tú nunca entras por ahí: prefieres la avenida, aunque sea algo más larga. Hasta ahora, el Tesla calculaba; tú corregías. Con la actualización <strong>2026.26</strong>, el coche empieza a recordar las rutas que ya has recorrido y a priorizarlas. Parece una mejora pequeña de navegación, pero señala una verdad enorme para FSD: <strong>conducir bien no sirve de mucho si la IA elige mal por dónde llevarte</strong>.</p>
+<p><img decoding="async" loading="lazy" alt="Un Tesla ante dos rutas urbanas en Madrid: una calle estrecha y una avenida amplia" src="https://fsd.pepetox.es/assets/images/2026-07-28-fsd-rutas-aprendidas-espana-05abc2c0006fdfda019df69016d671f1.png" width="1376" height="768" class="img_ev3q"></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-novedad-del-26-de-julio-menos-obediencia-ciega-al-cronómetro">La novedad del 26 de julio: menos obediencia ciega al cronómetro<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#la-novedad-del-26-de-julio-menos-obediencia-ciega-al-cron%C3%B3metro" class="hash-link" aria-label="Enlace directo al La novedad del 26 de julio: menos obediencia ciega al cronómetro" title="Enlace directo al La novedad del 26 de julio: menos obediencia ciega al cronómetro" translate="no">​</a></h2>
+<p>Las notas de la versión <strong>2026.26</strong>, fechadas el <strong>26 de julio de 2026</strong> y recopiladas a partir de vehículos que ya la han recibido, describen una función llamada <em>Preferred Routes</em>: con el enrutamiento online activado, la navegación pasa a priorizar caminos que el coche ha recorrido anteriormente. Las mismas notas añaden que los datos de ubicación son anónimos para Tesla y no quedan asociados al vehículo.</p>
+<p>La actualización de verano también amplía la navegación automática. Además de casa, trabajo y citas del calendario, el coche puede sugerir lugares habituales, como la parada del colegio o el gimnasio. Tesla había anunciado el paquete de verano días antes, pero el despliegue es progresivo: que las notas estén apareciendo no significa que todos los coches españoles vayan a recibir todas las funciones al mismo tiempo.</p>
+<p>Conviene separar dos hechos:</p>
+<ul>
+<li class=""><strong>Hecho confirmado:</strong> la navegación prioriza rutas recorridas previamente cuando se cumplen las condiciones indicadas en las notas.</li>
+<li class=""><strong>Inferencia razonable:</strong> esa memoria puede mejorar la experiencia de FSD (Supervised), porque el sistema de asistencia ejecuta la ruta que le entrega la navegación. No demuestra que la red neuronal de conducción esté aprendiendo personalmente tu estilo ni que sus pesos cambien con cada trayecto.</li>
+</ul>
+<p>Esa diferencia evita el titular fácil de “tu Tesla aprende a conducir como tú”. Lo que aprende aquí, al menos según la descripción disponible, es una <strong>preferencia de camino</strong>. Y eso ya importa mucho.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="dos-inteligencias-distintas-elegir-la-ruta-y-conducir-el-siguiente-metro">Dos inteligencias distintas: elegir la ruta y conducir el siguiente metro<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#dos-inteligencias-distintas-elegir-la-ruta-y-conducir-el-siguiente-metro" class="hash-link" aria-label="Enlace directo al Dos inteligencias distintas: elegir la ruta y conducir el siguiente metro" title="Enlace directo al Dos inteligencias distintas: elegir la ruta y conducir el siguiente metro" translate="no">​</a></h2>
+<p>Cuando hablamos de FSD solemos meter todo dentro de una única caja negra. En realidad, hay dos problemas relacionados, pero diferentes.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="planificación-de-ruta">Planificación de ruta<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#planificaci%C3%B3n-de-ruta" class="hash-link" aria-label="Enlace directo al Planificación de ruta" title="Enlace directo al Planificación de ruta" translate="no">​</a></h3>
+<p>Decide por qué calles debe pasar el coche para llegar al destino. Trabaja a escala de kilómetros y minutos: tráfico, peajes, cierres, consumo, tiempo estimado y ahora también historial de rutas.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="planificación-de-movimiento">Planificación de movimiento<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#planificaci%C3%B3n-de-movimiento" class="hash-link" aria-label="Enlace directo al Planificación de movimiento" title="Enlace directo al Planificación de movimiento" translate="no">​</a></h3>
+<p>Decide qué hacer en los próximos segundos: frenar ante un peatón, dejar distancia a una bicicleta, colocarse para girar o negociar el paso con un vehículo de frente. Trabaja a escala de metros y fracciones de segundo.</p>
+<p>FSD puede resolver con elegancia cada maniobra local y, aun así, ofrecer una experiencia pésima si la capa de navegación lo envía por una sucesión de escenas innecesariamente difíciles. También puede ocurrir lo contrario: una ruta conocida y sencilla no compensa un sistema que gestiona mal una incorporación.</p>
+<p>La conducción autónoma útil necesita que ambas capas cooperen. <strong>No basta con preguntar “¿puede pasar por ahí?”; también hay que preguntar “¿tiene sentido pasar por ahí?”</strong></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-frente-a-realidad-en-una-ciudad-española">Expectativa frente a realidad en una ciudad española<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#expectativa-frente-a-realidad-en-una-ciudad-espa%C3%B1ola" class="hash-link" aria-label="Enlace directo al Expectativa frente a realidad en una ciudad española" title="Enlace directo al Expectativa frente a realidad en una ciudad española" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa">Expectativa<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#expectativa" class="hash-link" aria-label="Enlace directo al Expectativa" title="Enlace directo al Expectativa" translate="no">​</a></h3>
+<p>La ruta más rápida es la mejor. Si FSD es suficientemente avanzado, debería poder superar cualquier calle legalmente transitable.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad">Realidad<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#realidad" class="hash-link" aria-label="Enlace directo al Realidad" title="Enlace directo al Realidad" translate="no">​</a></h3>
+<p>Dos recorridos con la misma hora estimada pueden tener riesgos y cargas cognitivas muy diferentes. Pensemos en un trayecto cotidiano por Madrid:</p>
+<ul>
+<li class="">una opción sigue una avenida con carriles definidos, semáforos visibles y cruces previsibles;</li>
+<li class="">la otra ahorra noventa segundos atravesando calles con carga y descarga, motos adelantando, giros cerrados y coches aparcados junto a pasos de peatones.</li>
+</ul>
+<p>Para un algoritmo clásico, ambas rutas pueden distinguirse por tiempo y distancia. Para una persona local, una de ellas “se conduce mejor”. Esa preferencia contiene conocimiento que el mapa no siempre expresa: a las 8:30 aparece el camión del supermercado, la salida de un garaje tiene visibilidad nula o una incorporación exige cruzar tres carriles en muy pocos metros.</p>
+<p>Recordar el camino habitual puede capturar parte de ese conocimiento sin obligar al usuario a introducir una regla para cada esquina. La idea es potente precisamente porque no intenta describir toda España con un formulario.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-una-ruta-repetida-puede-enseñar-y-lo-que-no">Lo que una ruta repetida puede enseñar —y lo que no<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#lo-que-una-ruta-repetida-puede-ense%C3%B1ar-y-lo-que-no" class="hash-link" aria-label="Enlace directo al Lo que una ruta repetida puede enseñar —y lo que no" title="Enlace directo al Lo que una ruta repetida puede enseñar —y lo que no" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="puede-capturar-preferencias-humanas-estables">Puede capturar preferencias humanas estables<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#puede-capturar-preferencias-humanas-estables" class="hash-link" aria-label="Enlace directo al Puede capturar preferencias humanas estables" title="Enlace directo al Puede capturar preferencias humanas estables" translate="no">​</a></h3>
+<p>Si eliges de forma recurrente la vía de servicio en lugar del centro del pueblo, el sistema puede dejar de proponerte el atajo que siempre rechazas. En el mejor caso, reduce correcciones manuales y hace que la navegación se parezca más a la experiencia de un conductor local.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="puede-reducir-la-exposición-a-casos-límite">Puede reducir la exposición a casos límite<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#puede-reducir-la-exposici%C3%B3n-a-casos-l%C3%ADmite" class="hash-link" aria-label="Enlace directo al Puede reducir la exposición a casos límite" title="Enlace directo al Puede reducir la exposición a casos límite" translate="no">​</a></h3>
+<p>Una maniobra que FSD logra nueve veces de cada diez sigue siendo una mala candidata para el trayecto diario si existe una alternativa casi igual de rápida. Evitar una incorporación corta, un giro sin visibilidad o una calle extremadamente estrecha no es “hacer trampas”. Es gestión de riesgo.</p>
+<p>Los humanos hacemos eso continuamente. No elegimos solo en función de nuestra capacidad máxima, sino del margen que queremos conservar. Una autonomía madura debería entender esa prudencia.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="no-convierte-una-costumbre-en-una-verdad">No convierte una costumbre en una verdad<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#no-convierte-una-costumbre-en-una-verdad" class="hash-link" aria-label="Enlace directo al No convierte una costumbre en una verdad" title="Enlace directo al No convierte una costumbre en una verdad" translate="no">​</a></h3>
+<p>Repetir una ruta no demuestra que siga siendo la mejor. Puede haber una obra nueva, un cambio de sentido, un colegio que altere el tráfico o una zona de bajas emisiones con condiciones distintas. El historial debe ser una señal, no una orden eterna.</p>
+<p>También existe un sesgo evidente: si siempre has tomado un recorrido ineficiente por desconocimiento, el sistema podría reforzarlo. La personalización mejora la comodidad, pero puede convertir un hábito mediocre en la opción por defecto.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-examen-español-calles-conocidas-que-cambian-cada-día">El examen español: calles conocidas que cambian cada día<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#el-examen-espa%C3%B1ol-calles-conocidas-que-cambian-cada-d%C3%ADa" class="hash-link" aria-label="Enlace directo al El examen español: calles conocidas que cambian cada día" title="Enlace directo al El examen español: calles conocidas que cambian cada día" translate="no">​</a></h2>
+<p>Esta función será especialmente interesante en España porque nuestras rutas habituales tienen una gran variabilidad temporal.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-acceso-al-colegio">El acceso al colegio<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#el-acceso-al-colegio" class="hash-link" aria-label="Enlace directo al El acceso al colegio" title="Enlace directo al El acceso al colegio" translate="no">​</a></h3>
+<p>A las siete de la mañana es una calle vacía. A las nueve aparecen dobles filas, puertas que se abren, niños cruzando entre coches y autobuses escolares ocupando el ángulo de visión. “Ya he pasado antes por aquí” no basta; la preferencia debería combinarse con la hora, el tráfico y el contexto actual.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-casco-antiguo">El casco antiguo<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#el-casco-antiguo" class="hash-link" aria-label="Enlace directo al El casco antiguo" title="Enlace directo al El casco antiguo" translate="no">​</a></h3>
+<p>Una ruta legal para un turismo puede ser una mala elección por anchura, bolardos, terrazas o reparto. Ya analizamos por qué <a class="" href="https://fsd.pepetox.es/fsd-calles-estrechas-espana">las calles estrechas españolas obligan a FSD a negociar, no solo a detectar objetos</a>. Evitarlas cuando no aportan valor puede ser tan inteligente como atravesarlas correctamente.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-carretera-secundaria">La carretera secundaria<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#la-carretera-secundaria" class="hash-link" aria-label="Enlace directo al La carretera secundaria" title="Enlace directo al La carretera secundaria" translate="no">​</a></h3>
+<p>El camino conocido puede ser más corto, pero no necesariamente más seguro con lluvia, oscuridad o tráfico agrícola. En nuestro análisis sobre <a class="" href="https://fsd.pepetox.es/fsd-carreteras-secundarias-espana">carreteras secundarias españolas</a> vimos que la generalización fuera de autopista exige mucho más que seguir líneas. La ruta preferida debería poder ceder ante condiciones presentes que cambien el riesgo.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="las-obras">Las obras<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#las-obras" class="hash-link" aria-label="Enlace directo al Las obras" title="Enlace directo al Las obras" translate="no">​</a></h3>
+<p>Una calle recorrida cien veces puede dejar de existir durante una semana. Conos, paneles temporales y desvíos rompen la memoria histórica. Por eso <a class="" href="https://fsd.pepetox.es/fsd-obras-desvios-examen-europa">las obras son un examen de percepción y actualización del mundo</a>, no una excepción marginal.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="privacidad-aprender-sin-construir-un-diario-de-movimientos">Privacidad: aprender sin construir un diario de movimientos<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#privacidad-aprender-sin-construir-un-diario-de-movimientos" class="hash-link" aria-label="Enlace directo al Privacidad: aprender sin construir un diario de movimientos" title="Enlace directo al Privacidad: aprender sin construir un diario de movimientos" translate="no">​</a></h2>
+<p>Tesla afirma en las notas que los datos de ubicación utilizados son anónimos y no se asocian al vehículo. Es una declaración relevante, pero la comunidad europea debería seguir pidiendo explicaciones comprensibles sobre el ciclo completo del dato:</p>
+<ol>
+<li class="">qué parte del historial se guarda en el coche y cuál se procesa fuera;</li>
+<li class="">cuánto tiempo permanece disponible;</li>
+<li class="">cómo puede el usuario borrar o reiniciar las preferencias;</li>
+<li class="">si distintos perfiles de conductor mantienen historiales separados;</li>
+<li class="">cómo se evita que una ruta sensible aparezca como sugerencia a otra persona.</li>
+</ol>
+<p>No hace falta asumir un problema que no está documentado. Sí hace falta reconocer que una ruta habitual puede revelar casa, trabajo, colegio o visitas médicas. La utilidad y la privacidad no son enemigos, pero deben diseñarse juntas.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="cómo-debería-conectarse-con-fsd-en-europa">Cómo debería conectarse con FSD en Europa<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#c%C3%B3mo-deber%C3%ADa-conectarse-con-fsd-en-europa" class="hash-link" aria-label="Enlace directo al Cómo debería conectarse con FSD en Europa" title="Enlace directo al Cómo debería conectarse con FSD en Europa" translate="no">​</a></h2>
+<p>Una buena integración no consistiría en seguir siempre el recorrido más repetido. Debería ordenar las rutas con varias señales y explicar el resultado.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="preferencia-tiempo-y-complejidad">Preferencia, tiempo y complejidad<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#preferencia-tiempo-y-complejidad" class="hash-link" aria-label="Enlace directo al Preferencia, tiempo y complejidad" title="Enlace directo al Preferencia, tiempo y complejidad" translate="no">​</a></h3>
+<p>El coche podría mostrar: “ruta habitual, tres minutos más lenta” o “ruta alternativa por cierre”. Esa frase da al conductor capacidad de decisión. Una línea azul sin motivo obliga a confiar; una razón breve permite supervisar.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="un-coste-específico-para-maniobras-difíciles">Un coste específico para maniobras difíciles<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#un-coste-espec%C3%ADfico-para-maniobras-dif%C3%ADciles" class="hash-link" aria-label="Enlace directo al Un coste específico para maniobras difíciles" title="Enlace directo al Un coste específico para maniobras difíciles" translate="no">​</a></h3>
+<p>La navegación actual optimiza principalmente variables como tiempo, tráfico y energía. Para FSD sería útil incorporar un coste dinámico de complejidad: giros sin protección, incorporaciones cortas, visibilidad reducida, obras o calles donde el sistema acumula intervenciones.</p>
+<p>No afirmamos que Tesla ya calcule ese valor. Es el siguiente paso lógico: si una ruta provoca retiradas de FSD de forma repetida y existe otra equivalente, el planificador debería tenerlo en cuenta.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="aprendizaje-de-flota-sin-ocultar-el-límite-local">Aprendizaje de flota sin ocultar el límite local<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#aprendizaje-de-flota-sin-ocultar-el-l%C3%ADmite-local" class="hash-link" aria-label="Enlace directo al Aprendizaje de flota sin ocultar el límite local" title="Enlace directo al Aprendizaje de flota sin ocultar el límite local" translate="no">​</a></h3>
+<p>Los datos agregados pueden revelar que miles de conductores evitan una calle concreta. Eso es una pista, no una prueba. Quizá el mapa esté desactualizado; quizá exista una preferencia cultural; quizá la vía sea incómoda pero segura. El sistema necesita distinguir esos casos antes de convertir el comportamiento colectivo en política.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="una-prueba-útil-para-la-comunidad-fsd-españa">Una prueba útil para la comunidad FSD España<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#una-prueba-%C3%BAtil-para-la-comunidad-fsd-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Una prueba útil para la comunidad FSD España" title="Enlace directo al Una prueba útil para la comunidad FSD España" translate="no">​</a></h2>
+<p>Cuando la función llegue a un coche concreto, podemos evaluarla sin fabricar situaciones peligrosas:</p>
+<ol>
+<li class="">registrar dos rutas habituales entre los mismos puntos durante varios días;</li>
+<li class="">comprobar si la navegación empieza a priorizar la elegida por el conductor;</li>
+<li class="">anotar cuánto tiempo adicional acepta antes de volver a la opción más rápida;</li>
+<li class="">observar qué ocurre con tráfico intenso, una calle cerrada o una parada añadida;</li>
+<li class="">verificar si la preferencia cambia entre perfiles y si puede borrarse;</li>
+<li class="">documentar por separado la decisión de ruta y las intervenciones de FSD.</li>
+</ol>
+<p>Este último punto es esencial. Si el viaje mejora, necesitamos saber si fue porque FSD condujo mejor o porque la navegación dejó de enviarlo al escenario que generaba el problema. Ambas mejoras son válidas, pero enseñan cosas distintas.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway-la-autonomía-también-consiste-en-saber-por-dónde-no-ir">Takeaway: la autonomía también consiste en saber por dónde no ir<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#takeaway-la-autonom%C3%ADa-tambi%C3%A9n-consiste-en-saber-por-d%C3%B3nde-no-ir" class="hash-link" aria-label="Enlace directo al Takeaway: la autonomía también consiste en saber por dónde no ir" title="Enlace directo al Takeaway: la autonomía también consiste en saber por dónde no ir" translate="no">​</a></h2>
+<p>La versión 2026.26 no demuestra que Tesla haya resuelto la planificación personalizada para FSD en Europa. Sí introduce una pieza concreta: la navegación puede priorizar los caminos ya recorridos. En una ciudad española, esa memoria puede evitar la calle que el cronómetro adora y el conductor local detesta.</p>
+<p>El salto importante no será que el coche imite todas nuestras costumbres. Será que combine experiencia, tráfico, energía y dificultad de conducción para escoger una ruta con margen, y que nos explique por qué. <strong>La inteligencia no se mide solo por la maniobra más difícil que una IA consigue ejecutar, sino por cuántas maniobras difíciles evita cuando no aportan nada.</strong></p>
+<p>¿Tu Tesla insiste en algún atajo incómodo, una rotonda conflictiva o una calle que siempre corriges? Cuéntanos el escenario y sigue el blog: comparar rutas, horarios y versiones nos ayudará a separar una preferencia útil de una simple costumbre algorítmica.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes-y-lecturas-relacionadas">Fuentes y lecturas relacionadas<a href="https://fsd.pepetox.es/fsd-rutas-aprendidas-espana#fuentes-y-lecturas-relacionadas" class="hash-link" aria-label="Enlace directo al Fuentes y lecturas relacionadas" title="Enlace directo al Fuentes y lecturas relacionadas" translate="no">​</a></h3>
+<ul>
+<li class="">Tesla: <a href="https://x.com/Tesla/status/2079584176182087827" target="_blank" rel="noopener noreferrer" class="">anuncio oficial de la actualización de verano de 2026</a>.</li>
+<li class="">Not a Tesla App: <a href="https://www.notateslaapp.com/software-updates/version/2026.26/release-notes" target="_blank" rel="noopener noreferrer" class="">notas de la versión 2026.26, incluida la función Preferred Routes</a>.</li>
+<li class="">Tesla, manual europeo del Model 3: <a href="https://www.tesla.com/ownersmanual/model3/en_eu/GUID-01F1A582-99D1-4933-B5FB-B2F0203FFE6F.html" target="_blank" rel="noopener noreferrer" class="">rutas alternativas, enrutamiento online y navegación</a>.</li>
+<li class="">Tesla: <a href="https://www.tesla.com/support/fsd" target="_blank" rel="noopener noreferrer" class="">funcionamiento y límites de FSD (Supervised)</a>.</li>
+<li class="">En FSD Spain: <a class="" href="https://fsd.pepetox.es/fsd-calles-estrechas-espana">el reto de las calles estrechas</a>, <a class="" href="https://fsd.pepetox.es/fsd-carreteras-secundarias-espana">la generalización en carreteras secundarias</a> y <a class="" href="https://fsd.pepetox.es/fsd-obras-desvios-examen-europa">el examen de las obras y los desvíos</a>.</li>
+</ul>]]></content>
+        <author>
+            <name>The Autonomous Pilot</name>
+            <uri>https://github.com/pepetox</uri>
+        </author>
+        <category label="fsd" term="fsd"/>
+        <category label="tesla" term="tesla"/>
+        <category label="ai" term="ai"/>
+        <category label="testing" term="testing"/>
+        <category label="espana" term="espana"/>
+        <category label="europa" term="europa"/>
+        <category label="navigation" term="navigation"/>
+        <category label="seguridad" term="seguridad"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[El portabicicletas que ciega a FSD: el examen de verano que no se arregla con más IA]]></title>
         <id>https://fsd.pepetox.es/fsd-portabicicletas-camara-trasera-espana</id>
@@ -1813,102 +1923,5 @@
         <category label="regulations" term="regulations"/>
         <category label="testing" term="testing"/>
         <category label="ai" term="ai"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La lista que de verdad importa: por qué Europa aún no aparece en el mapa oficial de FSD]]></title>
-        <id>https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente</id>
-        <link href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente"/>
-        <updated>2026-03-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A 17 de marzo de 2026, Tesla sigue dejando a Europa fuera de la lista oficial de países con FSD. Analizamos por qué esa ausencia dice más que cualquier rumor.]]></summary>
-        <content type="html"><![CDATA[<p>Un Model 3 puede bordear una glorieta francesa delante de las cámaras, esquivar bicicletas en Ámsterdam durante una demo y dejar a media comunidad de X convencida de que el lanzamiento europeo está a días de distancia. Pero cuando un propietario español se hace la pregunta que de verdad importa, "¿dónde dice Tesla, negro sobre blanco, que FSD está activo para clientes normales?", la respuesta sigue siendo incómoda: <strong>Europa todavía no aparece en la lista oficial</strong>.</p>
-<p><img decoding="async" loading="lazy" alt="Tesla Model 3 navegando una rotonda española bajo lluvia ligera, como metáfora del examen europeo real para FSD" src="https://fsd.pepetox.es/assets/images/2026-03-17-fsd-lista-oficial-europa-122c4bcbf3958209e67404a9b727dea5.png" width="1376" height="768" class="img_ev3q"></p>
-<p>Eso, a <strong>17 de marzo de 2026</strong>, es probablemente la actualización más útil para entender el momento real de FSD en nuestro continente. No porque invalide el progreso técnico, sino porque separa tres cosas que demasiadas veces se mezclan: <strong>demostración</strong>, <strong>documentación</strong> y <strong>despliegue comercial</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-señal-más-importante-no-está-en-un-vídeo-está-en-la-página-oficial">La señal más importante no está en un vídeo: está en la página oficial<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#la-se%C3%B1al-m%C3%A1s-importante-no-est%C3%A1-en-un-v%C3%ADdeo-est%C3%A1-en-la-p%C3%A1gina-oficial" class="hash-link" aria-label="Enlace directo al La señal más importante no está en un vídeo: está en la página oficial" title="Enlace directo al La señal más importante no está en un vídeo: está en la página oficial" translate="no">​</a></h2>
-<p>Tesla mantiene una página de soporte específica para <strong>Full Self-Driving (Supervised)</strong> donde enumera los países en los que la función está disponible. La lista pública incluye mercados como <strong>Estados Unidos, Canadá, China, México, Puerto Rico, Australia, Nueva Zelanda y Corea del Sur</strong>. La Unión Europea no figura.</p>
-<p>Ese detalle vale más que muchos rumores porque es la capa donde Tesla asume lenguaje operativo frente al cliente. Una demo puede ser marketing. Un evento puede ser validación preliminar. Pero una lista oficial de disponibilidad es una frontera mucho más seria: implica soporte, disclaimers, expectativas de uso y responsabilidad comercial.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="entonces-qué-está-haciendo-tesla-en-europa">Entonces, ¿qué está haciendo Tesla en Europa?<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#entonces-qu%C3%A9-est%C3%A1-haciendo-tesla-en-europa" class="hash-link" aria-label="Enlace directo al Entonces, ¿qué está haciendo Tesla en Europa?" title="Enlace directo al Entonces, ¿qué está haciendo Tesla en Europa?" translate="no">​</a></h2>
-<p>Aquí está el matiz importante: que Europa no aparezca en la lista comercial no significa que Tesla esté quieta.</p>
-<p>En su actualización de resultados <strong>Q4/FY 2025</strong>, publicada el <strong>28 de enero de 2026</strong>, Tesla explicó que seguía pendiente de <strong>aprobación regulatoria en Europa</strong> y, al mismo tiempo, que estaba ofreciendo <strong>ride-alongs de FSD (Supervised)</strong> a consumidores en <strong>Italia, Alemania, Francia y Suiza</strong>. En otras palabras: el producto ya se enseña, pero todavía no se declara como disponible para el comprador europeo medio.</p>
-<p>Ese desfase es la historia real de 2026:</p>
-<ul>
-<li class="">en Estados Unidos y otros mercados, FSD es producto;</li>
-<li class="">en Europa, FSD sigue siendo sobre todo <strong>proceso</strong>;</li>
-<li class="">y entre ambos estados hay una capa regulatoria que no se salta con un clip viral.</li>
-</ul>
-<p>Si quieres contexto sobre esa fase de demostraciones, puedes leer <a class="" href="https://fsd.pepetox.es/fsd-europa-invitaciones-tempranas-neerlandes">nuestro análisis sobre las invitaciones tempranas en Países Bajos</a>. Pero la lectura de hoy es distinta: no va de dónde se ve el coche, sino de dónde Tesla ya se atreve a poner su firma comercial.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-documentación-técnica-también-da-pistas-y-no-son-menores">La documentación técnica también da pistas, y no son menores<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#la-documentaci%C3%B3n-t%C3%A9cnica-tambi%C3%A9n-da-pistas-y-no-son-menores" class="hash-link" aria-label="Enlace directo al La documentación técnica también da pistas, y no son menores" title="Enlace directo al La documentación técnica también da pistas, y no son menores" translate="no">​</a></h2>
-<p>La ironía del momento europeo es que <strong>la propia documentación oficial de Tesla ya describe escenarios que suenan profundamente europeos</strong>. En el manual del propietario del Model Y con FSD (Supervised), Tesla explica que el sistema puede intentar navegar por:</p>
-<ul>
-<li class="">calles urbanas,</li>
-<li class="">intersecciones complejas,</li>
-<li class="">rampas de entrada y salida,</li>
-<li class="">y <strong>rotondas</strong>.</li>
-</ul>
-<p>Pero acto seguido añade algo mucho más importante que el titular fácil: la supervisión sigue siendo obligatoria y puede requerirse intervención en situaciones como:</p>
-<ul>
-<li class="">carreteras estrechas con vehículos aparcados invadiendo el carril,</li>
-<li class="">marcas viales degradadas o temporales,</li>
-<li class="">obras,</li>
-<li class="">geometrías extrañas,</li>
-<li class="">y condiciones de visibilidad comprometida.</li>
-</ul>
-<p>Traducido al castellano llano: Tesla ya habla el idioma técnico del problema europeo. Sabe que el examen no es solo "seguir un carril" sino interpretar una calle secundaria en Toledo, una glorieta mal pintada en Málaga o una travesía con coches en doble fila y señalización provisional.</p>
-<p>No estamos ante una IA que solo funcione en avenidas de California. Tampoco estamos ante un sistema ya listo para liberarse sin fricción en la UE. Estamos en el punto intermedio incómodo: <strong>la red neuronal parece cada vez más capaz, pero el producto europeo exige algo más que capacidad bruta</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-esta-ausencia-en-la-lista-oficial-importa-más-de-lo-que-parece">Por qué esta ausencia en la lista oficial importa más de lo que parece<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#por-qu%C3%A9-esta-ausencia-en-la-lista-oficial-importa-m%C3%A1s-de-lo-que-parece" class="hash-link" aria-label="Enlace directo al Por qué esta ausencia en la lista oficial importa más de lo que parece" title="Enlace directo al Por qué esta ausencia en la lista oficial importa más de lo que parece" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-porque-obliga-a-separar-hype-de-disponibilidad">1. Porque obliga a separar hype de disponibilidad<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#1-porque-obliga-a-separar-hype-de-disponibilidad" class="hash-link" aria-label="Enlace directo al 1. Porque obliga a separar hype de disponibilidad" title="Enlace directo al 1. Porque obliga a separar hype de disponibilidad" translate="no">​</a></h3>
-<p>La comunidad FSD vive pendiente de capturas, insiders y estimaciones. Eso tiene valor para detectar tendencia, pero si quieres saber dónde está realmente el producto, la pregunta correcta no es "¿ha hecho Tesla una demo?", sino "¿ha actualizado Tesla su documentación comercial?".</p>
-<p>Hoy la respuesta para Europa sigue siendo no.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-porque-el-cuello-de-botella-ya-no-es-solo-técnico">2. Porque el cuello de botella ya no es solo técnico<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#2-porque-el-cuello-de-botella-ya-no-es-solo-t%C3%A9cnico" class="hash-link" aria-label="Enlace directo al 2. Porque el cuello de botella ya no es solo técnico" title="Enlace directo al 2. Porque el cuello de botella ya no es solo técnico" translate="no">​</a></h3>
-<p>En 2024 y 2025 era razonable discutir si la red neuronal estaba madura para escenarios urbanos complejos. En 2026, la conversación útil es otra: <strong>cómo traducir esa capacidad en una homologación defendible país por país o bajo marcos paneuropeos compatibles con UNECE</strong>.</p>
-<p>Aquí es donde entran autoridades como <strong>RDW</strong> en Países Bajos. Su mensaje oficial del <strong>24 de noviembre de 2025</strong> fue claro: Tesla había solicitado un permiso de prueba para vehículos de conducción autónoma en vía pública y la evaluación se haría con prioridad en seguridad vial. Es un lenguaje administrativo, sí, pero también es la prueba de que el embudo europeo ya está en la fase de evidencia formal.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-porque-cambia-lo-que-deberíamos-vigilar-desde-españa">3. Porque cambia lo que deberíamos vigilar desde España<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#3-porque-cambia-lo-que-deber%C3%ADamos-vigilar-desde-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al 3. Porque cambia lo que deberíamos vigilar desde España" title="Enlace directo al 3. Porque cambia lo que deberíamos vigilar desde España" translate="no">​</a></h3>
-<p>Si eres lector del blog desde España, quizá lo más sensato ya no sea perseguir cada rumor sobre una supuesta fecha de lanzamiento. Lo más útil es vigilar tres señales mucho más robustas:</p>
-<ul>
-<li class="">cambios en la <strong>lista oficial de países</strong> con FSD (Supervised);</li>
-<li class="">ampliación de eventos o pruebas hacia mercados con peso regulatorio;</li>
-<li class="">y nuevas piezas legales o interpretativas que reduzcan la distancia entre demostración y disponibilidad.</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs realidad<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs realidad" title="Enlace directo al Expectativa vs realidad" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa">Expectativa<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#expectativa" class="hash-link" aria-label="Enlace directo al Expectativa" title="Enlace directo al Expectativa" translate="no">​</a></h3>
-<p>"Si Tesla ya enseña FSD en Europa y la documentación reconoce rotondas, el despliegue general está al caer."</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad">Realidad<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#realidad" class="hash-link" aria-label="Enlace directo al Realidad" title="Enlace directo al Realidad" translate="no">​</a></h3>
-<p>La secuencia europea suele ser más áspera:</p>
-<ol>
-<li class="">Tesla demuestra capacidad.</li>
-<li class="">Tesla documenta límites y supervisión.</li>
-<li class="">Un regulador acepta pruebas o un marco concreto.</li>
-<li class="">Solo después llega la disponibilidad oficial para cliente.</li>
-</ol>
-<p>Europa está moviéndose entre los pasos 2 y 3, no en el 4.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-esta-foto-dice-sobre-españa">Lo que esta foto dice sobre España<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#lo-que-esta-foto-dice-sobre-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Lo que esta foto dice sobre España" title="Enlace directo al Lo que esta foto dice sobre España" translate="no">​</a></h2>
-<p>Para España, la lectura es doble.</p>
-<p>La parte optimista: si Tesla ya documenta formalmente escenarios como rotondas, cruces complejos y calles urbanas densas, significa que el producto objetivo encaja bastante mejor con nuestro mundo real que hace dos años.</p>
-<p>La parte realista: mientras España y el resto de la UE no aparezcan en la capa oficial de disponibilidad, lo que tenemos es una tecnología prometedora en fase avanzada de validación, no un lanzamiento comercial consumado.</p>
-<p>Por eso conviene mantener las dos ideas a la vez:</p>
-<ul>
-<li class=""><strong>sí</strong>, el sistema parece acercarse al nivel de naturalidad necesario para Europa;</li>
-<li class=""><strong>no</strong>, eso no equivale todavía a que un conductor español pueda contratar y usar FSD con normalidad mañana.</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
-<p>La noticia de fondo no es que FSD haya hecho una maniobra bonita en una ciudad europea. La noticia de fondo es que, a <strong>17 de marzo de 2026</strong>, Tesla sigue separando con mucho cuidado lo que <strong>puede mostrar</strong> en Europa de lo que <strong>declara disponible</strong> en Europa.</p>
-<p>Y esa prudencia documental, lejos de ser aburrida, es exactamente donde se mide el estado real del proyecto.</p>
-<p>Seguiremos atentos a cualquier cambio en la lista oficial, a nuevas decisiones de los reguladores europeos y a las señales de que España puede pasar de espectadora a mercado activo. Si quieres estar al día, sigue el blog y comparte en comentarios cuál crees que será la próxima señal verdaderamente decisiva.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/lista-oficial-fsd-europa-ausente#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
-<ul>
-<li class="">Tesla Support, Full Self-Driving (Supervised): <a href="https://www.tesla.com/support/autopilot" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/support/autopilot</a></li>
-<li class="">Tesla Owner's Manual, Full Self-Driving (Supervised): <a href="https://www.tesla.com/ownersmanual/modely/en_us/GUID-50331432-B914-400D-B93D-556EAD66FD0B.html" target="_blank" rel="noopener noreferrer" class="">https://www.tesla.com/ownersmanual/modely/en_us/GUID-50331432-B914-400D-B93D-556EAD66FD0B.html</a></li>
-<li class="">Tesla Investor Relations, Q4 and FY 2025 Update (28 de enero de 2026): <a href="https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q4-2025-Update.pdf" target="_blank" rel="noopener noreferrer" class="">https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q4-2025-Update.pdf</a></li>
-<li class="">RDW, Tesla applies for testing permit for self-driving vehicles in the Netherlands (24 de noviembre de 2025): <a href="https://www.rdw.nl/en/about-us/news/2025/tesla-applies-for-testing-permit-for-self-driving-vehicles-in-the-netherlands" target="_blank" rel="noopener noreferrer" class="">https://www.rdw.nl/en/about-us/news/2025/tesla-applies-for-testing-permit-for-self-driving-vehicles-in-the-netherlands</a></li>
-</ul>]]></content>
-        <author>
-            <name>The Autonomous Pilot</name>
-            <uri>https://github.com/pepetox</uri>
-        </author>
-        <category label="fsd" term="fsd"/>
-        <category label="tesla" term="tesla"/>
-        <category label="europa" term="europa"/>
-        <category label="ai" term="ai"/>
-        <category label="testing" term="testing"/>
-        <category label="regulations" term="regulations"/>
     </entry>
 </feed>
