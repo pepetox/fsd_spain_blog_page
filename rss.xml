@@ -4,10 +4,103 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Mon, 10 Aug 2026 22:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 22:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[Ocho ojos en la pantalla: la nueva vista de cámaras de Tesla puede explicar FSD… o distraerte]]></title>
+            <link>https://fsd.pepetox.es/fsd-vista-camaras-conduccion-espana</link>
+            <guid>https://fsd.pepetox.es/fsd-vista-camaras-conduccion-espana</guid>
+            <pubDate>Mon, 17 Aug 2026 22:00:00 GMT</pubDate>
+            <description><![CDATA[Tesla permite consultar sus cámaras mientras el coche circula. Analizamos qué revela sobre FSD, qué oculta y cómo usarlo sin perder de vista la carretera.]]></description>
+            <content:encoded><![CDATA[<aside class="notice_DS_P" role="note" aria-label="Aviso de contenido generado mediante inteligencia artificial"><div class="badge_wpw_">IA · Generado</div><div><strong>Contenido generado por IA · Sin revisión humana</strong><p>Este artículo forma parte de un experimento de publicación automatizada. Puede contener errores o información desactualizada. Comprueba cualquier dato importante en fuentes oficiales.<!-- --> <a href="https://fsd.pepetox.es/ai-experiment">Cómo funciona el experimento</a>.</p></div></aside><p>Entras en una rotonda madrileña bajo la lluvia. Dos motos avanzan por tu izquierda, una furgoneta tapa la salida y las flechas del asfalto se deshacen entre reflejos. En la pantalla central puedes abrir a la vez las imágenes de las cámaras que alimentan la visión del coche. La tentación es inmediata: <strong>mirar qué está viendo FSD justo cuando más necesitas mirar la carretera</strong>.</p>
+<p><img decoding="async" loading="lazy" alt="Conductora atenta ante una rotonda española mientras la pantalla muestra las distintas cámaras del vehículo" src="https://fsd.pepetox.es/assets/images/2026-08-18-fsd-vista-camaras-conduccion-espana-761287b2aae8fc9632eda5ed92df8bf1.jpeg" width="1376" height="768" class="img_ev3q"></p>
+<p><em>Imagen generada mediante inteligencia artificial.</em></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-novedad-el-diagnóstico-sale-del-aparcamiento">La novedad: el diagnóstico sale del aparcamiento<a href="https://fsd.pepetox.es/fsd-vista-camaras-conduccion-espana#la-novedad-el-diagn%C3%B3stico-sale-del-aparcamiento" class="hash-link" aria-label="Enlace directo al La novedad: el diagnóstico sale del aparcamiento" title="Enlace directo al La novedad: el diagnóstico sale del aparcamiento" translate="no">​</a></h2>
+<p>La actualización <strong>2026.20.6.6</strong>, detectada por los trackers de software el <strong>13 de julio de 2026</strong> y asociada en vehículos AI4 a <strong>FSD (Supervised) v14.3.5</strong>, añadió <em>Camera Preview</em>: la vista de cámaras puede abrirse aunque el Tesla no esté en posición de estacionamiento. Desde <strong>Controles &gt; Servicio &gt; Vista previa de cámaras</strong>, el usuario puede seleccionar una imagen o volver a la cuadrícula.</p>
+<p>Hasta entonces, esta herramienta de servicio se cerraba al abandonar <code>P</code>. El cambio no constituye por sí mismo una mejora del modelo de conducción, y Tesla no ha anunciado que esté disponible en todos los vehículos ni en España. Los registros de despliegue la vinculan a configuraciones AI4 y su llegada depende, como siempre, de hardware, software, modelo y región.</p>
+<p>Ese límite evita un titular falso: <strong>FSD no ve mejor porque tú puedas abrir las cámaras</strong>. Lo que cambia es la ventana que el usuario tiene sobre una parte de sus sensores.</p>
+<p>Y esa ventana importa. Tesla explica que sus Model 3 europeos basan las funciones de asistencia en cámaras y procesamiento neuronal. También advierte que lluvia, suciedad, condensación, luz intensa o marcas desgastadas pueden degradar la visión. Poder comparar las imágenes mientras cambia el entorno convierte una advertencia genérica en algo visible.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-frente-a-realidad">Expectativa frente a realidad<a href="https://fsd.pepetox.es/fsd-vista-camaras-conduccion-espana#expectativa-frente-a-realidad" class="hash-link" aria-label="Enlace directo al Expectativa frente a realidad" title="Enlace directo al Expectativa frente a realidad" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-por-fin-veremos-lo-mismo-que-la-ia">Expectativa: por fin veremos lo mismo que la IA<a href="https://fsd.pepetox.es/fsd-vista-camaras-conduccion-espana#expectativa-por-fin-veremos-lo-mismo-que-la-ia" class="hash-link" aria-label="Enlace directo al Expectativa: por fin veremos lo mismo que la IA" title="Enlace directo al Expectativa: por fin veremos lo mismo que la IA" translate="no">​</a></h3>
+<p>Si la cuadrícula enseña ocho ángulos, parece que el conductor puede comprobar si FSD ha visto una moto, un carril o un peatón. Bastaría con mirar la pantalla para decidir si el sistema está preparado para la siguiente maniobra.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad-vemos-píxeles-no-comprensión">Realidad: vemos píxeles, no comprensión<a href="https://fsd.pepetox.es/fsd-vista-camaras-conduccion-espana#realidad-vemos-p%C3%ADxeles-no-comprensi%C3%B3n" class="hash-link" aria-label="Enlace directo al Realidad: vemos píxeles, no comprensión" title="Enlace directo al Realidad: vemos píxeles, no comprensión" translate="no">​</a></h3>
+<p>La previsualización muestra imágenes. No muestra necesariamente:</p>
+<ul>
+<li class="">qué objetos ha identificado la red;</li>
+<li class="">la profundidad o velocidad que les asigna;</li>
+<li class="">qué trayectoria predice para cada usuario;</li>
+<li class="">cuánta confianza tiene en esas estimaciones;</li>
+<li class="">qué maniobra está valorando y con qué coste;</li>
+<li class="">qué fotogramas, recortes o transformaciones usa realmente el modelo.</li>
+</ul>
+<p>Una moto puede aparecer con claridad en una cámara y, aun así, estar mal situada en el espacio. Una flecha puede ser legible para una persona, pero competir con marcas antiguas dentro de la representación neuronal. Y una cámara salpicada puede conservar suficiente información para una tarea y no para otra.</p>
+<p>La cuadrícula es, por tanto, <strong>una vista del sensor, no una radiografía de la inteligencia</strong>. Confundir ambas cosas produciría una falsa sensación de control: “yo la veo en la pantalla, luego FSD también la entiende”.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-examen-español-lluvia-motos-y-una-lente-aparentemente-limpia">El examen español: lluvia, motos y una lente aparentemente limpia<a href="https://fsd.pepetox.es/fsd-vista-camaras-conduccion-espana#el-examen-espa%C3%B1ol-lluvia-motos-y-una-lente-aparentemente-limpia" class="hash-link" aria-label="Enlace directo al El examen español: lluvia, motos y una lente aparentemente limpia" title="Enlace directo al El examen español: lluvia, motos y una lente aparentemente limpia" translate="no">​</a></h2>
+<p>La función adquiere valor cuando se utiliza para formular preguntas concretas sobre nuestras carreteras.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="una-rotonda-mojada">Una rotonda mojada<a href="https://fsd.pepetox.es/fsd-vista-camaras-conduccion-espana#una-rotonda-mojada" class="hash-link" aria-label="Enlace directo al Una rotonda mojada" title="Enlace directo al Una rotonda mojada" translate="no">​</a></h3>
+<p>En la escena del inicio, la cámara frontal puede mostrar carriles aparentemente claros mientras una lateral pierde contraste por las gotas. Para negociar la salida no basta con reconocer pintura: el sistema debe fusionar varios ángulos, seguir las motos entre fotogramas y anticipar si la furgoneta abrirá un hueco.</p>
+<p>La vista permite detectar una asimetría útil —una lente mucho peor que las demás—, pero no confirma que la fusión neuronal esté funcionando bien. Ya vimos en nuestro análisis de <a class="" href="https://fsd.pepetox.es/fsd-v14-3-visibilidad-latencia-espana">FSD v14.3 ante niebla, spray y sol bajo</a> que la percepción robusta depende tanto de la calidad visual como de la latencia y del tratamiento de la incertidumbre.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-pilar-que-parece-ver-suficiente">El pilar que parece ver suficiente<a href="https://fsd.pepetox.es/fsd-vista-camaras-conduccion-espana#el-pilar-que-parece-ver-suficiente" class="hash-link" aria-label="Enlace directo al El pilar que parece ver suficiente" title="Enlace directo al El pilar que parece ver suficiente" translate="no">​</a></h3>
+<p>Una mancha pequeña en la cámara del pilar puede coincidir justo con el lugar donde aparece una bicicleta al iniciar un giro. En una miniatura, el defecto apenas molesta; para el modelo, puede ocultar el objeto durante los primeros fotogramas decisivos.</p>
+<p>El manual de Tesla indica que una cámara obstruida o cegada provoca un aviso y puede dejar indisponibles las funciones de conducción asistida. También ofrece un resumen de baja visibilidad después del trayecto. La previsualización no sustituye esa detección automática: el coche debe reconocer sus propios límites antes de pedir al humano que los descubra mirando mosaicos.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-sol-bajo-de-una-salida-de-túnel">El sol bajo de una salida de túnel<a href="https://fsd.pepetox.es/fsd-vista-camaras-conduccion-espana#el-sol-bajo-de-una-salida-de-t%C3%BAnel" class="hash-link" aria-label="Enlace directo al El sol bajo de una salida de túnel" title="Enlace directo al El sol bajo de una salida de túnel" translate="no">​</a></h3>
+<p>La imagen puede pasar de oscuridad a saturación en segundos. Una captura bonita después de estabilizarse no cuenta cuánto tardó el control de exposición ni qué información se perdió durante la transición. Para evaluar el caso hacen falta tiempo y telemetría, no solo una impresión visual.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-paradoja-del-supervisor-más-información-exige-apartar-la-mirada">La paradoja del supervisor: más información exige apartar la mirada<a href="https://fsd.pepetox.es/fsd-vista-camaras-conduccion-espana#la-paradoja-del-supervisor-m%C3%A1s-informaci%C3%B3n-exige-apartar-la-mirada" class="hash-link" aria-label="Enlace directo al La paradoja del supervisor: más información exige apartar la mirada" title="Enlace directo al La paradoja del supervisor: más información exige apartar la mirada" translate="no">​</a></h2>
+<p>Aquí aparece el problema de diseño más incómodo. FSD sigue siendo un sistema supervisado. El Reglamento nº 171 de Naciones Unidas encuadra los DCAS como asistencia de nivel 2: el conductor conserva la responsabilidad y debe vigilar permanentemente el entorno y el funcionamiento del sistema para intervenir cuando sea necesario.</p>
+<p>Una cuadrícula de varias imágenes puede ayudar a un acompañante, a un técnico o a una prueba controlada. Para quien conduce, interpretar nueve recuadros pequeños en movimiento compite con la misma tarea que la regulación le obliga a mantener: observar la carretera.</p>
+<p>La DGT recuerda que las distracciones intervienen en más del 30 % de los siniestros y que incluso unas décimas sin atención pueden impedir detectar un peligro a tiempo. El problema no desaparece porque la pantalla muestre información del propio coche en vez de un mensaje del móvil. La relevancia de un dato no elimina su coste visual.</p>
+<p>Por eso, una interfaz segura no debería premiar la inspección continua. Debería convertir el estado de las cámaras en señales breves y accionables:</p>
+<ul>
+<li class=""><strong>verde</strong> si todas operan dentro del rango esperado;</li>
+<li class=""><strong>ámbar</strong> si una vista pierde calidad pero el sistema conserva redundancia suficiente;</li>
+<li class=""><strong>rojo</strong> si una limitación obliga a tomar el control o impide activar FSD;</li>
+<li class="">una explicación corta como “cámara lateral izquierda degradada por lluvia”, sin exigir buscar el defecto en una cuadrícula.</li>
+</ul>
+<p>Mostrar todos los ojos es útil para diagnosticar. Resumir su confianza es mejor para conducir.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-europa-debería-pedir-a-una-interfaz-de-visión">Lo que Europa debería pedir a una interfaz de visión<a href="https://fsd.pepetox.es/fsd-vista-camaras-conduccion-espana#lo-que-europa-deber%C3%ADa-pedir-a-una-interfaz-de-visi%C3%B3n" class="hash-link" aria-label="Enlace directo al Lo que Europa debería pedir a una interfaz de visión" title="Enlace directo al Lo que Europa debería pedir a una interfaz de visión" translate="no">​</a></h2>
+<p>Europa no necesita prohibir una herramienta útil; necesita definir cuándo aporta información y cuándo crea carga cognitiva. La vista completa podría cumplir funciones distintas según el contexto.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="en-marcha-estado-no-entretenimiento-técnico">En marcha: estado, no entretenimiento técnico<a href="https://fsd.pepetox.es/fsd-vista-camaras-conduccion-espana#en-marcha-estado-no-entretenimiento-t%C3%A9cnico" class="hash-link" aria-label="Enlace directo al En marcha: estado, no entretenimiento técnico" title="Enlace directo al En marcha: estado, no entretenimiento técnico" translate="no">​</a></h3>
+<p>El conductor debería recibir el mínimo necesario: cámara afectada, tipo de degradación, consecuencia para el sistema y acción requerida. Abrir manualmente la cuadrícula podría limitarse a baja velocidad o reducir su complejidad cuando el vehículo detecte una escena exigente.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="en-parado-explicación-y-comparación">En parado: explicación y comparación<a href="https://fsd.pepetox.es/fsd-vista-camaras-conduccion-espana#en-parado-explicaci%C3%B3n-y-comparaci%C3%B3n" class="hash-link" aria-label="Enlace directo al En parado: explicación y comparación" title="Enlace directo al En parado: explicación y comparación" translate="no">​</a></h3>
+<p>Después del trayecto, la interfaz podría sincronizar los avisos con breves muestras de visibilidad, sin convertirlas en prueba de que la red “vio” o “no vio” un objeto. Sería especialmente valioso comparar antes y después de limpiar una lente o eliminar condensación.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="para-pruebas-registro-reproducible">Para pruebas: registro reproducible<a href="https://fsd.pepetox.es/fsd-vista-camaras-conduccion-espana#para-pruebas-registro-reproducible" class="hash-link" aria-label="Enlace directo al Para pruebas: registro reproducible" title="Enlace directo al Para pruebas: registro reproducible" translate="no">​</a></h3>
+<p>En un ensayo controlado, un acompañante puede anotar qué cámara se degradó, durante cuánto tiempo y qué comportamiento coincidió con el evento. Conviene registrar versión, hardware, meteorología y cualquier intervención. Esa trazabilidad amplía la idea que analizamos con <a class="" href="https://fsd.pepetox.es/fsd-ruta-azul-trazabilidad-espana">la línea azul de FSD como contrato visible</a>: el usuario necesita saber no solo que la IA estaba activa, sino también con qué calidad sensorial operaba.</p>
+<p>La siguiente evolución lógica sería un indicador agregado de salud de percepción y un historial exportable de degradaciones. Eso sí ayudaría a detectar regresiones entre versiones y a demostrar ante reguladores que el sistema responde de forma consistente a lluvia, suciedad o deslumbramiento.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="cómo-probarla-sin-convertirte-en-parte-del-problema">Cómo probarla sin convertirte en parte del problema<a href="https://fsd.pepetox.es/fsd-vista-camaras-conduccion-espana#c%C3%B3mo-probarla-sin-convertirte-en-parte-del-problema" class="hash-link" aria-label="Enlace directo al Cómo probarla sin convertirte en parte del problema" title="Enlace directo al Cómo probarla sin convertirte en parte del problema" translate="no">​</a></h2>
+<p>Si la función llega a tu configuración, la comunidad puede evaluarla con un protocolo sencillo y seguro:</p>
+<ol>
+<li class="">Comprueba las cámaras con el coche estacionado y limpia cualquier lente afectada.</li>
+<li class="">Haz que un acompañante maneje la previsualización; el conductor mantiene la vista en la vía.</li>
+<li class="">Elige una ruta conocida y evita provocar situaciones límite.</li>
+<li class="">Anota cuándo aparecen lluvia, contraluz, túneles o avisos de visibilidad.</li>
+<li class="">Compara después la imagen degradada, el aviso del coche y el comportamiento de FSD.</li>
+<li class="">No interpretes una miniatura nítida como garantía de detección, predicción o maniobra correcta.</li>
+</ol>
+<p>La pregunta útil no es “¿se ven bien todas las cámaras?”. Es: <strong>¿detecta el sistema a tiempo cuándo una de ellas deja de ser fiable y ajusta su comportamiento de forma comprensible?</strong></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway-enseñar-los-ojos-no-equivale-a-enseñar-la-mente">Takeaway: enseñar los ojos no equivale a enseñar la mente<a href="https://fsd.pepetox.es/fsd-vista-camaras-conduccion-espana#takeaway-ense%C3%B1ar-los-ojos-no-equivale-a-ense%C3%B1ar-la-mente" class="hash-link" aria-label="Enlace directo al Takeaway: enseñar los ojos no equivale a enseñar la mente" title="Enlace directo al Takeaway: enseñar los ojos no equivale a enseñar la mente" translate="no">​</a></h2>
+<p>La vista de cámaras en marcha es una mejora pequeña con una gran lección. Hace tangible que FSD depende de ángulos con calidades distintas y permite diagnosticar lluvia, suciedad o condensación. Pero no abre la caja negra del modelo: enseña la entrada visual, no su interpretación.</p>
+<p>En una rotonda española, el mejor sistema no será el que obligue al conductor a vigilar ocho vídeos mientras controla dos motos. Será el que detecte su propia ceguera, reduzca el riesgo y explique en una frase por qué necesita ayuda. <strong>La transparencia útil no consiste en mostrar más datos, sino en convertirlos en una decisión segura sin robar atención a la carretera.</strong></p>
+<p>¿Preferirías una cuadrícula completa, un indicador de confianza por cámara o un informe después del trayecto? Cuéntanos qué información te ayudaría realmente a supervisar FSD y sigue el blog: las mejores pruebas serán las que midan tanto lo que ve el coche como lo que exige al humano.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes-y-lecturas-relacionadas">Fuentes y lecturas relacionadas<a href="https://fsd.pepetox.es/fsd-vista-camaras-conduccion-espana#fuentes-y-lecturas-relacionadas" class="hash-link" aria-label="Enlace directo al Fuentes y lecturas relacionadas" title="Enlace directo al Fuentes y lecturas relacionadas" translate="no">​</a></h3>
+<ul>
+<li class="">Teslascope: <a href="https://teslascope.com/software/2026.20.6.6" target="_blank" rel="noopener noreferrer" class="">notas de 2026.20.6.6 y disponibilidad de Camera Preview durante la conducción</a>.</li>
+<li class="">Not a Tesla App: <a href="https://www.notateslaapp.com/software-updates/history/" target="_blank" rel="noopener noreferrer" class="">historial de la rama 2026.20 y la incorporación de Camera Preview</a>.</li>
+<li class="">Tesla, manual español del Model 3: <a href="https://www.tesla.com/ownersmanual/model3/es_es/GUID-682FF4A7-D083-4C95-925A-5EE3752F4865.html" target="_blank" rel="noopener noreferrer" class="">ubicación, calibración, obstrucción y visibilidad de las cámaras</a>.</li>
+<li class="">Tesla España: <a href="https://www.tesla.com/es_es/support/autopilot" target="_blank" rel="noopener noreferrer" class="">Tesla Vision y dependencia de cámaras y procesamiento neuronal</a>.</li>
+<li class="">UNECE: <a href="https://unece.org/media/transport/Vehicle-Regulations/press/395206" target="_blank" rel="noopener noreferrer" class="">Reglamento nº 171, responsabilidad del conductor y alcance de los DCAS de nivel 2</a>.</li>
+<li class="">DGT: <a href="https://www.dgt.es/muevete-con-seguridad/evita-conductas-de-riesgo/distracciones-al-conducir/index.html" target="_blank" rel="noopener noreferrer" class="">efectos de las distracciones sobre la atención y la distancia de detención</a>.</li>
+</ul>]]></content:encoded>
+            <category>fsd</category>
+            <category>tesla</category>
+            <category>ai</category>
+            <category>testing</category>
+            <category>espana</category>
+            <category>europa</category>
+            <category>vision</category>
+            <category>seguridad</category>
+        </item>
         <item>
             <title><![CDATA[65 millones de kilómetros y una pregunta incómoda: ¿qué significa «5,2 veces más seguro» para FSD?]]></title>
             <link>https://fsd.pepetox.es/fsd-datos-seguridad-europa</link>
@@ -1776,89 +1869,6 @@
             <category>espana</category>
             <category>europa</category>
             <category>vision</category>
-        </item>
-        <item>
-            <title><![CDATA[El mapa sur de FSD en Europa ya es oficial: Padua y Montpellier se parecen mucho más a España que Ámsterdam]]></title>
-            <link>https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier</link>
-            <guid>https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier</guid>
-            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A 31 de marzo de 2026, Tesla mantiene ride-alongs de FSD Supervised en el sur de Europa y prolonga Padua hasta el 30 de abril. Analizamos por qué ese detalle importa más para España que otra demo bonita en el norte.]]></description>
-            <content:encoded><![CDATA[<aside class="notice_DS_P" role="note" aria-label="Aviso de contenido generado mediante inteligencia artificial"><div class="badge_wpw_">IA · Generado</div><div><strong>Contenido generado por IA · Sin revisión humana</strong><p>Este artículo forma parte de un experimento de publicación automatizada. Puede contener errores o información desactualizada. Comprueba cualquier dato importante en fuentes oficiales.<!-- --> <a href="https://fsd.pepetox.es/ai-experiment">Cómo funciona el experimento</a>.</p></div></aside><p>A las siete y media de la tarde, en una salida urbana cualquiera del norte de Italia, el examen no consiste en seguir un carril perfecto. Consiste en leer una moto que aparece tarde por el retrovisor, una rotonda mal resuelta por el tráfico, una furgoneta medio invadiendo el borde derecho y un conductor de detrás que no te va a regalar ni medio segundo. Si Tesla quiere demostrar que <strong>FSD (Supervised)</strong> puede sobrevivir a Europa de verdad, ese tipo de escenario vale más que otra vuelta limpia en una avenida amable.</p>
-<p>Y esa es precisamente la noticia útil de hoy, <strong>31 de marzo de 2026</strong>: mientras varios eventos europeos de demostración de Tesla cierran hoy en ciudades francesas como <strong>Montpellier, Lyon o Strasbourg</strong>, la compañía <strong>mantiene Padua activa hasta el 30 de abril de 2026</strong>. No es un lanzamiento comercial. No es una homologación cerrada. Pero sí es una pista oficial sobre <strong>dónde cree Tesla que merece la pena enseñar el sistema en condiciones cada vez más parecidas a las que tendría que resolver en España</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-nuevo-no-es-solo-que-haya-demos-es-dónde-siguen-vivas">Lo nuevo no es solo que haya demos: es dónde siguen vivas<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#lo-nuevo-no-es-solo-que-haya-demos-es-d%C3%B3nde-siguen-vivas" class="hash-link" aria-label="Enlace directo al Lo nuevo no es solo que haya demos: es dónde siguen vivas" title="Enlace directo al Lo nuevo no es solo que haya demos: es dónde siguen vivas" translate="no">​</a></h2>
-<p>Tesla dejó claro en su actualización <strong>Q4/FY 2025</strong>, publicada el <strong>28 de enero de 2026</strong>, que seguía buscando aprobación regulatoria en Europa y que ya estaba ofreciendo <strong>ride-alongs</strong> a consumidores en <strong>Italia, Alemania, Francia y Suiza</strong>. Ese dato ya era importante. Lo que cambia la lectura a cierre de marzo es el mapa operativo visible en la propia web de eventos de Tesla:</p>
-<ul>
-<li class=""><strong>Montpellier</strong> figura con sesiones del <strong>23 de febrero al 31 de marzo de 2026</strong>.</li>
-<li class=""><strong>Lyon</strong> figura del <strong>4 al 31 de marzo de 2026</strong>.</li>
-<li class=""><strong>Strasbourg</strong> figura del <strong>4 al 31 de marzo de 2026</strong>.</li>
-<li class=""><strong>Padua</strong> figura del <strong>28 de febrero al 30 de abril de 2026</strong>.</li>
-</ul>
-<p>La inferencia razonable es esta: Tesla no está limitándose a enseñar FSD donde la foto queda mejor. Está prolongando presencia en un entorno del sur europeo donde la conducción cotidiana se parece bastante más a la mezcla ibérica de <strong>rotondas, fricción urbana, motos, carriles ambiguos y negociación social</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-padua-importa-más-a-españa-que-otra-demo-neerlandesa">Por qué Padua importa más a España que otra demo neerlandesa<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#por-qu%C3%A9-padua-importa-m%C3%A1s-a-espa%C3%B1a-que-otra-demo-neerlandesa" class="hash-link" aria-label="Enlace directo al Por qué Padua importa más a España que otra demo neerlandesa" title="Enlace directo al Por qué Padua importa más a España que otra demo neerlandesa" translate="no">​</a></h2>
-<p>Ámsterdam fue útil para demostrar que la red neuronal no se descompone entre bicicletas, peatones y calles compactas. Pero España no es Ámsterdam.</p>
-<p>El examen español probable para FSD no será una postal de canal ni una calle históricamente pacificada. Será algo mucho menos glamuroso:</p>
-<ul>
-<li class="">rotondas de varios radios con entradas agresivas;</li>
-<li class="">travesías con coches mal aparcados;</li>
-<li class="">cambios de prioridad que se resuelven por contexto más que por geometría ideal;</li>
-<li class="">scooters, motos y ciclistas entrando y saliendo del campo visual con poca cortesía;</li>
-<li class="">lluvia intermitente, sol bajo y marcas viales que a veces parecen sugerencias.</li>
-</ul>
-<p>Italia y el sur de Francia no son España, pero comparten suficiente ADN vial como para que estas demos valgan más, para nosotros, que muchas pruebas del norte. Si FSD se comporta con naturalidad ahí, la conversación sobre España deja de ser solo regulatoria y empieza a ser también <strong>conductual</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-propia-tesla-ya-admite-que-europa-no-es-copiar-y-pegar">La propia Tesla ya admite que Europa no es copiar y pegar<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#la-propia-tesla-ya-admite-que-europa-no-es-copiar-y-pegar" class="hash-link" aria-label="Enlace directo al La propia Tesla ya admite que Europa no es copiar y pegar" title="Enlace directo al La propia Tesla ya admite que Europa no es copiar y pegar" translate="no">​</a></h2>
-<p>Aquí conviene dejar a un lado el hype y leer la documentación oficial. En el <strong>manual vigente del Model Y 2025+</strong>, Tesla explica que <strong>FSD (Supervised)</strong> intenta conducir hasta el destino, incluyendo <strong>intersecciones, giros, rotondas y entradas o salidas de autopista</strong>. Eso suena ambicioso, pero el matiz clave viene justo después.</p>
-<p>Tesla también advierte que, al expandir el sistema a nuevos países, debe adaptarse a la <strong>infraestructura, los hábitos de conducción y los patrones de tráfico específicos de cada país</strong>. Y no se queda en la abstracción: entre los ejemplos donde puede hacer falta intervención humana menciona <strong>carreteras estrechas con tráfico de frente o vehículos en doble fila</strong>, <strong>zonas de obras</strong> e <strong>intersecciones complejas</strong>.</p>
-<p>Traducido al idioma de cualquier conductor español: Tesla ya sabe perfectamente cuál es el examen. No habla solo de semáforos y carriles claros. Habla de las mismas situaciones donde un humano competente mezcla visión, intuición social y paciencia.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs realidad<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs realidad" title="Enlace directo al Expectativa vs realidad" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa">Expectativa<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#expectativa" class="hash-link" aria-label="Enlace directo al Expectativa" title="Enlace directo al Expectativa" translate="no">​</a></h3>
-<p>"Si Tesla mantiene eventos en Italia y Francia, Europa está a semanas de tener FSD abierto para todos".</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad">Realidad<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#realidad" class="hash-link" aria-label="Enlace directo al Realidad" title="Enlace directo al Realidad" translate="no">​</a></h3>
-<p>Lo serio, a <strong>31 de marzo de 2026</strong>, es decir algo más preciso:</p>
-<ul>
-<li class="">Tesla <strong>sí</strong> está ampliando y manteniendo exposición pública de FSD en Europa continental.</li>
-<li class="">Tesla <strong>sí</strong> parece elegir escenarios cada vez más útiles para validar conducción real, no solo marketing.</li>
-<li class="">Tesla <strong>no</strong> ha anunciado todavía disponibilidad comercial general en España.</li>
-<li class="">Tesla <strong>sigue</strong> condicionada por aprobación regulatoria europea y nacional.</li>
-</ul>
-<p>Eso no resta importancia a lo que estamos viendo. Al contrario: lo vuelve más interesante. Cuando una empresa mantiene demostraciones supervisadas durante semanas y las extiende en plazas concretas, no está vendiendo una fantasía instantánea. Está acumulando confianza, datos y narrativa pública en paralelo al expediente regulatorio.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detalle-técnico-que-de-verdad-separa-una-demo-buena-de-un-producto-europeo">El detalle técnico que de verdad separa una demo buena de un producto europeo<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#el-detalle-t%C3%A9cnico-que-de-verdad-separa-una-demo-buena-de-un-producto-europeo" class="hash-link" aria-label="Enlace directo al El detalle técnico que de verdad separa una demo buena de un producto europeo" title="Enlace directo al El detalle técnico que de verdad separa una demo buena de un producto europeo" translate="no">​</a></h2>
-<p>En Estados Unidos, una gran parte del debate gira alrededor de millas sin intervención, viajes largos o suavidad general del sistema. En Europa, y especialmente pensando en España, hay una capa adicional: <strong>la legibilidad social de la maniobra</strong>.</p>
-<p>Un sistema puede detectar bien un coche, una moto y un bordillo, y aun así conducir mal para estándares humanos si:</p>
-<ul>
-<li class="">duda demasiado antes de entrar en una rotonda;</li>
-<li class="">frena tarde y transmite nerviosismo;</li>
-<li class="">invade espacio de forma técnicamente segura pero socialmente torpe;</li>
-<li class="">o se queda bloqueado cuando otro conductor espera una cesión clara.</li>
-</ul>
-<p>Ese es el motivo por el que el mapa sur importa tanto. En estas geografías, FSD no solo tiene que "ver". Tiene que <strong>negociar</strong>. Y negociar bien es una mezcla de predicción, control del riesgo y comunicación implícita con otros usuarios.</p>
-<p>Si quieres ver por qué este cuello de botella importa tanto, puedes leer <a class="" href="https://fsd.pepetox.es/fsd-calles-estrechas-espana">nuestro análisis sobre el examen de las calles estrechas españolas</a>. Y si te interesa la parte regulatoria dura, sigue siendo clave <a class="" href="https://fsd.pepetox.es/fsd-rdw-expediente-final">la revisión final del expediente con RDW</a>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-debería-vigilar-la-comunidad-fsd-en-españa-a-partir-de-abril">Lo que debería vigilar la comunidad FSD en España a partir de abril<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#lo-que-deber%C3%ADa-vigilar-la-comunidad-fsd-en-espa%C3%B1a-a-partir-de-abril" class="hash-link" aria-label="Enlace directo al Lo que debería vigilar la comunidad FSD en España a partir de abril" title="Enlace directo al Lo que debería vigilar la comunidad FSD en España a partir de abril" translate="no">​</a></h2>
-<p>Abril no será interesante por un rumor más en X, sino por señales mucho más concretas:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-si-padua-se-queda-sola-o-se-convierte-en-patrón">1. Si Padua se queda sola o se convierte en patrón<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#1-si-padua-se-queda-sola-o-se-convierte-en-patr%C3%B3n" class="hash-link" aria-label="Enlace directo al 1. Si Padua se queda sola o se convierte en patrón" title="Enlace directo al 1. Si Padua se queda sola o se convierte en patrón" translate="no">​</a></h3>
-<p>Si Tesla prolonga o replica eventos similares en más ciudades del sur europeo, la lectura será clara: está explorando entornos más transferibles a mercados como España.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-si-el-discurso-oficial-cambia-de-experiencia-a-despliegue">2. Si el discurso oficial cambia de "experiencia" a "despliegue"<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#2-si-el-discurso-oficial-cambia-de-experiencia-a-despliegue" class="hash-link" aria-label="Enlace directo al 2. Si el discurso oficial cambia de &quot;experiencia&quot; a &quot;despliegue&quot;" title="Enlace directo al 2. Si el discurso oficial cambia de &quot;experiencia&quot; a &quot;despliegue&quot;" translate="no">​</a></h3>
-<p>La frontera importante sigue siendo documental. Una demo es demostración. Una página oficial de disponibilidad o una homologación efectiva es otra cosa.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-si-aparecen-más-señales-de-adaptación-al-estilo-de-conducción-local">3. Si aparecen más señales de adaptación al estilo de conducción local<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#3-si-aparecen-m%C3%A1s-se%C3%B1ales-de-adaptaci%C3%B3n-al-estilo-de-conducci%C3%B3n-local" class="hash-link" aria-label="Enlace directo al 3. Si aparecen más señales de adaptación al estilo de conducción local" title="Enlace directo al 3. Si aparecen más señales de adaptación al estilo de conducción local" translate="no">​</a></h3>
-<p>No basta con que el coche complete la ruta. Debe hacerlo de forma comprensible para el resto del tráfico. En Europa, esa naturalidad vale casi tanto como la precisión.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway">Takeaway<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#takeaway" class="hash-link" aria-label="Enlace directo al Takeaway" title="Enlace directo al Takeaway" translate="no">​</a></h2>
-<p>La actualización más útil del día no es una nueva promesa ni una fecha grandilocuente. Es algo más sobrio y, por eso mismo, más valioso: <strong>Tesla mantiene vivo su escaparate de FSD en el sur de Europa mientras varias citas francesas cierran hoy, 31 de marzo de 2026, y Padua sigue hasta el 30 de abril</strong>.</p>
-<p>Para la comunidad española, eso importa porque acerca el foco a carreteras, rotondas y comportamientos humanos que se parecen bastante más a nuestro examen real. El futuro de FSD en Europa no se decidirá solo en el reglamento ni solo en un vídeo viral. Se decidirá cuando la red neuronal sea capaz de parecer competente, prudente y natural en la Europa menos idealizada.</p>
-<p>Seguiremos atentos a cualquier movimiento oficial que convierta estas demostraciones en validación regulatoria y, más tarde, en disponibilidad real para España.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-sur-europa-padua-montpellier#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
-<ul>
-<li class=""><a href="https://ir.tesla.com/_flysystem/s3/sec/000162828026003837/tsla-20260128-gen.pdf" target="_blank" rel="noopener noreferrer" class="">Tesla Q4/FY 2025 Update (28 de enero de 2026)</a></li>
-<li class=""><a href="https://www.tesla.com/event/full-self-driving--supervised--ride-along-experience-in--padova" target="_blank" rel="noopener noreferrer" class="">Tesla Events: Full Self-Driving (Supervised) Ride-Along Experience in Padova</a></li>
-<li class=""><a href="https://www.tesla.com/event/full-self-driving--supervised--ride-along-experience-in-montpellier" target="_blank" rel="noopener noreferrer" class="">Tesla Events: Full Self-Driving (Supervised) Ride-Along Experience in Montpellier</a></li>
-<li class=""><a href="https://www.tesla.com/event/full-self-driving-supervised-ride-along-experience-in-lyon" target="_blank" rel="noopener noreferrer" class="">Tesla Events: Full Self-Driving (Supervised) Ride-Along Experience in Lyon</a></li>
-<li class=""><a href="https://www.tesla.com/event/full-self-driving-supervised-ride-along-experience-in-strasbourg" target="_blank" rel="noopener noreferrer" class="">Tesla Events: Full Self-Driving (Supervised) Ride-Along Experience in Strasbourg</a></li>
-<li class=""><a href="https://www.tesla.com/ownersmanual/modely/en_us/Owners_Manual.pdf" target="_blank" rel="noopener noreferrer" class="">Tesla Model Y Owner’s Manual 2025+</a></li>
-</ul>]]></content:encoded>
-            <category>fsd</category>
-            <category>tesla</category>
-            <category>europa</category>
-            <category>testing</category>
-            <category>ai</category>
-            <category>espana</category>
         </item>
     </channel>
 </rss>
