@@ -4,10 +4,117 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Mon, 07 Sep 2026 22:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 22:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[Cuando frenar ya no basta: FSD quiere tomar el volante antes del impacto]]></title>
+            <link>https://fsd.pepetox.es/fsd-evasion-automatica-colision-espana</link>
+            <guid>https://fsd.pepetox.es/fsd-evasion-automatica-colision-espana</guid>
+            <pubDate>Mon, 21 Sep 2026 22:00:00 GMT</pubDate>
+            <description><![CDATA[FSD v14.3.9 puede intervenir durante la conducción manual. Analizamos el salto técnico, sus riesgos y el examen que debería superar en Europa.]]></description>
+            <content:encoded><![CDATA[<aside class="notice_DS_P" role="note" aria-label="Aviso de contenido generado mediante inteligencia artificial"><div class="badge_wpw_">IA · Generado</div><div><strong>Contenido generado por IA · Sin revisión humana</strong><p>Este artículo forma parte de un experimento de publicación automatizada. Puede contener errores o información desactualizada. Comprueba cualquier dato importante en fuentes oficiales.<!-- --> <a href="https://fsd.pepetox.es/ai-experiment">Cómo funciona el experimento</a>.</p></div></aside><p>Circulas por la AP-7, una furgoneta frena de golpe y el coche que viene detrás ya ocupa parte del carril izquierdo. Tu pie busca el freno, pero la física ha cerrado esa salida: detenerse a tiempo quizá sea imposible. En ese instante, <strong>FSD podría activarse aunque tú estuvieras conduciendo manualmente, elegir una trayectoria libre y girar para evitar el impacto</strong>. Tesla llama a esta nueva capa <em>Automatic Collision Evasion</em>. La promesa es enorme. También lo es la pregunta que deja sobre el asfalto: ¿cómo sabe una red neuronal que apartarse es realmente más seguro que frenar?</p>
+<p><img decoding="async" loading="lazy" alt="Tesla en una carretera española mientras el sistema representa una trayectoria evasiva ante un vehículo situado delante" src="https://fsd.pepetox.es/assets/images/2026-09-22-fsd-evasion-colision-432a867b636ddfb6b3e82c3f6955e6bd.jpeg" width="1376" height="768" class="img_ev3q"></p>
+<p><em>Imagen generada mediante inteligencia artificial.</em></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-novedad-fsd-aparece-cuando-el-conductor-no-lo-había-activado">La novedad: FSD aparece cuando el conductor no lo había activado<a href="https://fsd.pepetox.es/fsd-evasion-automatica-colision-espana#la-novedad-fsd-aparece-cuando-el-conductor-no-lo-hab%C3%ADa-activado" class="hash-link" aria-label="Enlace directo al La novedad: FSD aparece cuando el conductor no lo había activado" title="Enlace directo al La novedad: FSD aparece cuando el conductor no lo había activado" translate="no">​</a></h2>
+<p>El <strong>4 de septiembre de 2026</strong>, <a href="https://x.com/Tesla_AI/status/2095767350070890688" target="_blank" rel="noopener noreferrer" class="">Tesla AI anunció FSD (Supervised) v14.3.9</a> con una nueva capa de seguridad activa. Según la compañía, FSD puede activarse por iniciativa propia cuando detecta una colisión inminente y considera que el frenado automático de emergencia —AEB, por sus siglas en inglés— podría no ser suficiente. Tesla añadió otros dos posibles disparadores: una distracción grave del conductor o una desconexión accidental de FSD.</p>
+<p>Las <a href="https://www.notateslaapp.com/software-updates/version/2026.27.5/release-notes" target="_blank" rel="noopener noreferrer" class="">notas registradas para la compilación 2026.27.5</a> describen dos grupos de escenarios durante la conducción manual: una colisión frontal que quizá no pueda evitarse solo frenando, y la detección de falta de atención o de una desactivación involuntaria. Esas notas identifican la función con <strong>HW4</strong> y la rama completa de v14.3.9.</p>
+<p>Conviene separar el hecho de la expectativa:</p>
+<ul>
+<li class=""><strong>Hecho:</strong> Tesla ha anunciado y empezado a desplegar esta función en la rama norteamericana de FSD v14.3.9.</li>
+<li class=""><strong>Hecho:</strong> el sistema puede pasar de vigilar en segundo plano a controlar el movimiento del vehículo durante una conducción manual.</li>
+<li class=""><strong>No anunciado:</strong> Tesla no ha confirmado su disponibilidad en España ni que forme parte de la versión europea homologada.</li>
+<li class=""><strong>Inferencia:</strong> la tecnología podría ser relevante para Europa, pero necesitaría una validación y un encaje regulatorio propios. No basta con traducir las notas de la versión.</li>
+</ul>
+<p>No es una actualización menor. Hasta ahora, la relación era fácil de explicar: el conductor activaba FSD y debía supervisarlo. Con esta función, los papeles pueden invertirse durante unos segundos: <strong>el humano conduce y FSD lo supervisa desde el fondo</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="frenar-es-una-decisión-esquivar-es-construir-un-futuro">Frenar es una decisión; esquivar es construir un futuro<a href="https://fsd.pepetox.es/fsd-evasion-automatica-colision-espana#frenar-es-una-decisi%C3%B3n-esquivar-es-construir-un-futuro" class="hash-link" aria-label="Enlace directo al Frenar es una decisión; esquivar es construir un futuro" title="Enlace directo al Frenar es una decisión; esquivar es construir un futuro" translate="no">​</a></h2>
+<p>El frenado automático de emergencia reduce velocidad en la trayectoria que el coche ya lleva. Es una intervención potente, pero conceptualmente acotada: detecta riesgo frontal, estima el tiempo hasta la colisión y aplica deceleración.</p>
+<p>Una evasión lateral necesita resolver un problema bastante más difícil. Antes de mover el volante, el sistema debe contestar en décimas de segundo:</p>
+<ol>
+<li class="">¿La colisión es realmente inevitable o el vehículo delantero volverá a moverse?</li>
+<li class="">¿Cuánto espacio de frenado queda con esta velocidad, carga y adherencia?</li>
+<li class="">¿Existe una trayectoria lateral físicamente alcanzable?</li>
+<li class="">¿Hay una moto, un ciclista, un coche o una barrera dentro de esa trayectoria?</li>
+<li class="">¿Qué harán esos usuarios cuando vean al Tesla desplazarse?</li>
+<li class="">¿Puede estabilizar el vehículo después del primer giro sin provocar un segundo accidente?</li>
+</ol>
+<p>El reto no es encontrar un hueco en una fotografía. Es predecir cómo evolucionará toda la escena durante los próximos segundos. La red debe combinar geometría tridimensional, velocidades relativas, límites de adherencia y comportamiento humano; después, el controlador tiene que convertir esa predicción en volante, freno y, quizá, acelerador.</p>
+<p>Por eso la mejora de latencia anunciada para v14.3 importa más que el número de versión. Ya analizamos <a class="" href="https://fsd.pepetox.es/fsd-v14-3-visibilidad-latencia-espana">por qué ver antes y reaccionar antes son dos exámenes diferentes para FSD</a>. En una maniobra evasiva, 200 milisegundos no son una cifra de laboratorio: a 120 km/h equivalen a casi siete metros recorridos.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-frente-a-realidad">Expectativa frente a realidad<a href="https://fsd.pepetox.es/fsd-evasion-automatica-colision-espana#expectativa-frente-a-realidad" class="hash-link" aria-label="Enlace directo al Expectativa frente a realidad" title="Enlace directo al Expectativa frente a realidad" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-si-el-obstáculo-está-delante-el-coche-se-aparta">Expectativa: «Si el obstáculo está delante, el coche se aparta»<a href="https://fsd.pepetox.es/fsd-evasion-automatica-colision-espana#expectativa-si-el-obst%C3%A1culo-est%C3%A1-delante-el-coche-se-aparta" class="hash-link" aria-label="Enlace directo al Expectativa: «Si el obstáculo está delante, el coche se aparta»" title="Enlace directo al Expectativa: «Si el obstáculo está delante, el coche se aparta»" translate="no">​</a></h3>
+<p>En una demostración ideal, un vehículo se detiene, el carril contiguo está vacío y FSD dibuja una curva limpia alrededor del peligro. Parece una versión digital del reflejo de un piloto profesional.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad-el-carril-vacío-casi-nunca-está-vacío-de-consecuencias">Realidad: el carril “vacío” casi nunca está vacío de consecuencias<a href="https://fsd.pepetox.es/fsd-evasion-automatica-colision-espana#realidad-el-carril-vac%C3%ADo-casi-nunca-est%C3%A1-vac%C3%ADo-de-consecuencias" class="hash-link" aria-label="Enlace directo al Realidad: el carril “vacío” casi nunca está vacío de consecuencias" title="Enlace directo al Realidad: el carril “vacío” casi nunca está vacío de consecuencias" translate="no">​</a></h3>
+<p>En España, una maniobra de emergencia puede encontrarse con una moto filtrándose entre carriles, una salida que empieza justo después, una mediana rígida o marcas provisionales de obras superpuestas a las antiguas. Incluso si la cámara detecta cada objeto, el sistema debe decidir cuál de varios riesgos es menos grave.</p>
+<p>Imaginemos tres escenas:</p>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="una-retención-repentina-en-la-ap-7">Una retención repentina en la AP-7<a href="https://fsd.pepetox.es/fsd-evasion-automatica-colision-espana#una-retenci%C3%B3n-repentina-en-la-ap-7" class="hash-link" aria-label="Enlace directo al Una retención repentina en la AP-7" title="Enlace directo al Una retención repentina en la AP-7" translate="no">​</a></h4>
+<p>La furgoneta de delante frena hasta casi detenerse. A la izquierda circula otro coche ligeramente retrasado; a la derecha comienza el arcén. Frenar puede terminar en alcance, pero cambiar de carril puede cerrar la trayectoria del vehículo adyacente. La solución segura quizá no sea escoger una sola acción, sino <strong>frenar con fuerza mientras se ocupa solo la parte libre del carril</strong> y se mantiene una ruta de recuperación.</p>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="una-moto-en-el-ángulo-muerto-de-la-m-30">Una moto en el ángulo muerto de la M-30<a href="https://fsd.pepetox.es/fsd-evasion-automatica-colision-espana#una-moto-en-el-%C3%A1ngulo-muerto-de-la-m-30" class="hash-link" aria-label="Enlace directo al Una moto en el ángulo muerto de la M-30" title="Enlace directo al Una moto en el ángulo muerto de la M-30" translate="no">​</a></h4>
+<p>La cámara frontal ve el obstáculo, pero la decisión depende de la percepción lateral y trasera. Un falso hueco convertido en volantazo trasladaría el peligro desde los ocupantes del Tesla hacia un motorista mucho más vulnerable. La métrica correcta no puede ser únicamente «colisión frontal evitada»; debe incluir cualquier conflicto creado por la evasión.</p>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="una-calle-estrecha-con-coches-aparcados">Una calle estrecha con coches aparcados<a href="https://fsd.pepetox.es/fsd-evasion-automatica-colision-espana#una-calle-estrecha-con-coches-aparcados" class="hash-link" aria-label="Enlace directo al Una calle estrecha con coches aparcados" title="Enlace directo al Una calle estrecha con coches aparcados" translate="no">​</a></h4>
+<p>En un pueblo, apartarse medio metro puede significar subir a la acera o dirigirse hacia una puerta que está a punto de abrirse. A baja velocidad, aceptar un golpe menor frenando puede ser preferible a una trayectoria lateral con peatones ocultos. La IA necesita distinguir entre <strong>evitar el impacto</strong> y <strong>minimizar el daño total</strong>.</p>
+<p>Este último matiz separa un sistema de seguridad de una maniobra espectacular. La mejor intervención puede no parecer heroica. Puede ser una frenada que reduce mucho la energía del choque y mantiene el coche dentro de un espacio previsible.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-caso-más-incómodo-intervenir-porque-el-conductor-está-distraído">El caso más incómodo: intervenir porque el conductor está distraído<a href="https://fsd.pepetox.es/fsd-evasion-automatica-colision-espana#el-caso-m%C3%A1s-inc%C3%B3modo-intervenir-porque-el-conductor-est%C3%A1-distra%C3%ADdo" class="hash-link" aria-label="Enlace directo al El caso más incómodo: intervenir porque el conductor está distraído" title="Enlace directo al El caso más incómodo: intervenir porque el conductor está distraído" translate="no">​</a></h2>
+<p>Tesla también dice que el sistema puede activarse si detecta una distracción grave. Es una ampliación importante del problema.</p>
+<p>Cuando existe una colisión inminente, el disparador es una amenaza exterior. Cuando el disparador es la mirada del conductor, el coche debe inferir su capacidad para responder. Mirar hacia el asiento trasero puede indicar distracción, pero también una comprobación breve con la vía despejada. Unas gafas de sol, el contraluz o una cámara interior parcialmente tapada pueden degradar esa estimación.</p>
+<p>Además, «activar FSD» abarca más que corregir unos grados el volante. ¿Durante cuánto tiempo conserva el control? ¿Completa la maniobra actual? ¿Busca detenerse? ¿Qué acción devuelve el mando al conductor? ¿Cómo evita interpretar como recuperación un tirón instintivo y peligroso?</p>
+<p>La interfaz debe resolver una paradoja: la persona puede estar distraída justo cuando el coche necesita explicarle que ha tomado el control. Una alerta genérica no basta. El conductor debería percibir de inmediato:</p>
+<ul>
+<li class="">por qué se produjo la intervención;</li>
+<li class="">qué controles está aplicando el coche;</li>
+<li class="">qué trayectoria intenta seguir;</li>
+<li class="">cómo recuperar el mando sin pelearse con el sistema;</li>
+<li class="">y qué debe hacer después de superar el peligro.</li>
+</ul>
+<p>Aquí la línea azul de la pantalla deja de ser decoración. Como explicamos al estudiar <a class="" href="https://fsd.pepetox.es/fsd-ruta-azul-trazabilidad-espana">la trazabilidad visual de la ruta de FSD</a>, mostrar intención puede reducir una sorpresa; en una emergencia, debe hacerlo sin obligar a apartar la vista de la carretera.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="europa-ya-conoce-la-dirección-de-emergencia-pero-no-da-un-cheque-en-blanco">Europa ya conoce la dirección de emergencia, pero no da un cheque en blanco<a href="https://fsd.pepetox.es/fsd-evasion-automatica-colision-espana#europa-ya-conoce-la-direcci%C3%B3n-de-emergencia-pero-no-da-un-cheque-en-blanco" class="hash-link" aria-label="Enlace directo al Europa ya conoce la dirección de emergencia, pero no da un cheque en blanco" title="Enlace directo al Europa ya conoce la dirección de emergencia, pero no da un cheque en blanco" translate="no">​</a></h2>
+<p>La regulación europea no parte de cero. El <a href="https://eur-lex.europa.eu/eli/reg/2025/3/oj" target="_blank" rel="noopener noreferrer" class="">Reglamento nº 79 de Naciones Unidas</a> define una <strong>función de dirección de emergencia (ESF)</strong> como aquella que detecta automáticamente una posible colisión y activa la dirección durante un tiempo limitado para evitarla o mitigarla. Exige, entre otras cosas, que la intervención solo comience ante riesgo de colisión, que el vehículo vigile el entorno correspondiente y que la maniobra no saque al coche de la carretera. También impone límites específicos sobre el cruce de marcas viales según el caso de uso.</p>
+<p>El <a href="https://eur-lex.europa.eu/eli/reg/2024/2689/oj/eng" target="_blank" rel="noopener noreferrer" class="">Reglamento nº 171 sobre DCAS</a> cubre sistemas que asisten de forma sostenida en el control longitudinal y lateral. Obliga a documentar cómo se coordinan con otros sistemas de emergencia, a mantener la capacidad de intervención del conductor y a hacer que las maniobras sean predecibles y controlables. Para maniobras ordinarias iniciadas por el sistema, la versión vigente establece además que no deben comenzar durante un aviso de desconexión del conductor.</p>
+<p>Automatic Collision Evasion mezcla conceptos que el regulador suele separar:</p>
+<ul>
+<li class="">una <strong>evasión de emergencia</strong> ante un choque inminente;</li>
+<li class="">una <strong>respuesta a falta de atención</strong> del conductor;</li>
+<li class="">y la activación temporal de una pila de conducción sostenida como FSD.</li>
+</ul>
+<p>No podemos concluir con la información pública si Tesla homologaría la función como ESF, como parte de DCAS, como función de mitigación de riesgo o mediante una combinación concreta. Esa clasificación dependerá de su alcance real, duración, disparadores, capacidad de cambiar de carril y estrategia para devolver el control. <strong>La semejanza funcional no equivale a una homologación automática.</strong></p>
+<p>Este es el punto donde el debate europeo resulta útil. No pregunta solo si la IA evitó el obstáculo en un vídeo. Pregunta cuál era su frontera operativa, qué otras salidas evaluó, cómo se evita una activación falsa y quién conserva autoridad sobre el vehículo en cada milisegundo.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-tendría-que-demostrar-tesla-antes-de-traerlo-a-españa">Qué tendría que demostrar Tesla antes de traerlo a España<a href="https://fsd.pepetox.es/fsd-evasion-automatica-colision-espana#qu%C3%A9-tendr%C3%ADa-que-demostrar-tesla-antes-de-traerlo-a-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Qué tendría que demostrar Tesla antes de traerlo a España" title="Enlace directo al Qué tendría que demostrar Tesla antes de traerlo a España" translate="no">​</a></h2>
+<p>Una función diseñada para casos raros no puede validarse únicamente acumulando kilómetros tranquilos. Necesita escenarios dirigidos, simulación y datos de flota que revelen tanto aciertos como intervenciones innecesarias.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-un-mapa-público-de-disparadores-y-límites">1. Un mapa público de disparadores y límites<a href="https://fsd.pepetox.es/fsd-evasion-automatica-colision-espana#1-un-mapa-p%C3%BAblico-de-disparadores-y-l%C3%ADmites" class="hash-link" aria-label="Enlace directo al 1. Un mapa público de disparadores y límites" title="Enlace directo al 1. Un mapa público de disparadores y límites" translate="no">​</a></h3>
+<p>Tesla debería explicar velocidades, tipos de obstáculo, disponibilidad por hardware, condiciones de visibilidad y acciones posibles. El conductor necesita saber si el coche puede cruzar una línea, entrar parcialmente en el arcén o continuar conduciendo después de esquivar.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-la-tasa-de-falsos-positivos-con-severidad">2. La tasa de falsos positivos, con severidad<a href="https://fsd.pepetox.es/fsd-evasion-automatica-colision-espana#2-la-tasa-de-falsos-positivos-con-severidad" class="hash-link" aria-label="Enlace directo al 2. La tasa de falsos positivos, con severidad" title="Enlace directo al 2. La tasa de falsos positivos, con severidad" translate="no">​</a></h3>
+<p>Una falsa alerta molesta. Una falsa frenada puede provocar un alcance. Una falsa maniobra lateral puede invadir la trayectoria de una moto. No basta con publicar cuántas veces se activó la función: hay que clasificar por qué se activó, qué ordenó y qué riesgo creó o evitó.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-pruebas-españolas-no-una-extrapolación">3. Pruebas españolas, no una extrapolación<a href="https://fsd.pepetox.es/fsd-evasion-automatica-colision-espana#3-pruebas-espa%C3%B1olas-no-una-extrapolaci%C3%B3n" class="hash-link" aria-label="Enlace directo al 3. Pruebas españolas, no una extrapolación" title="Enlace directo al 3. Pruebas españolas, no una extrapolación" translate="no">​</a></h3>
+<p>La matriz debería incluir motos entre carriles, obras con líneas contradictorias, arcenes discontinuos, túneles, lluvia intensa, sol bajo y calles estrechas con oclusiones. El propio <a href="https://www.tesla.com/ownersmanual/model3/es_es/GUID-8EA7EF10-7D27-42AC-A31A-96BCE5BC0A85.html" target="_blank" rel="noopener noreferrer" class="">manual español de Tesla sobre asistencia anticolisión</a> advierte que lluvia, niebla, luz intensa, cámaras obstruidas y marcas degradadas pueden afectar a estas funciones. Son precisamente las condiciones que una evasión no puede descubrir por primera vez en manos de clientes.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-registro-reconstruible-de-cada-intervención">4. Registro reconstruible de cada intervención<a href="https://fsd.pepetox.es/fsd-evasion-automatica-colision-espana#4-registro-reconstruible-de-cada-intervenci%C3%B3n" class="hash-link" aria-label="Enlace directo al 4. Registro reconstruible de cada intervención" title="Enlace directo al 4. Registro reconstruible de cada intervención" translate="no">​</a></h3>
+<p>Después de una maniobra, el propietario y la autoridad deberían poder saber qué detectó el sistema, qué riesgo estimó, cuándo tomó el control, qué órdenes aplicó y cómo respondió el conductor. Sin ese registro, un éxito es una anécdota y un fallo se convierte en una disputa opaca.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-una-devolución-de-control-inequívoca">5. Una devolución de control inequívoca<a href="https://fsd.pepetox.es/fsd-evasion-automatica-colision-espana#5-una-devoluci%C3%B3n-de-control-inequ%C3%ADvoca" class="hash-link" aria-label="Enlace directo al 5. Una devolución de control inequívoca" title="Enlace directo al 5. Una devolución de control inequívoca" translate="no">​</a></h3>
+<p>La transición no termina cuando desaparece el obstáculo. El coche debe estabilizarse, comunicar su estado y devolver el control sin ambigüedad. Si el conductor sigue incapacitado, la estrategia lógica no es continuar el viaje como si nada, sino alcanzar una condición segura definida y verificable.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-esta-función-cuenta-sobre-el-futuro-de-fsd">Lo que esta función cuenta sobre el futuro de FSD<a href="https://fsd.pepetox.es/fsd-evasion-automatica-colision-espana#lo-que-esta-funci%C3%B3n-cuenta-sobre-el-futuro-de-fsd" class="hash-link" aria-label="Enlace directo al Lo que esta función cuenta sobre el futuro de FSD" title="Enlace directo al Lo que esta función cuenta sobre el futuro de FSD" translate="no">​</a></h2>
+<p>Tesla está dejando de tratar FSD como un modo que simplemente está encendido o apagado. La misma inteligencia puede conducir de forma sostenida, asistir en segundo plano y emerger solo cuando estima que la persona ya no dispone de una salida segura. Esa arquitectura se acerca a una idea más general: un modelo que comprende la escena y distribuye su capacidad entre comodidad y seguridad.</p>
+<p>Es también un paso hacia sistemas con más iniciativa. Una red capaz de elegir una trayectoria evasiva está tomando una decisión táctica bajo incertidumbre, no ejecutando una regla fija de «objeto delante, frena». Esa capacidad puede salvar vidas. Pero cuanto mayor es la iniciativa, mayor debe ser la trazabilidad.</p>
+<p>Europa no debería exigir que la IA sea infalible; ningún conductor lo es. Sí debería exigir que el riesgo residual sea medible, que las intervenciones falsas estén acotadas y que cada actualización conserve el comportamiento homologado. Ya vimos al analizar <a class="" href="https://fsd.pepetox.es/fsd-datos-seguridad-europa">los datos europeos de seguridad de FSD</a> que un gran número de kilómetros no sustituye la distribución de casos difíciles.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway-el-volante-de-emergencia-necesita-más-pruebas-que-magia">Takeaway: el volante de emergencia necesita más pruebas que magia<a href="https://fsd.pepetox.es/fsd-evasion-automatica-colision-espana#takeaway-el-volante-de-emergencia-necesita-m%C3%A1s-pruebas-que-magia" class="hash-link" aria-label="Enlace directo al Takeaway: el volante de emergencia necesita más pruebas que magia" title="Enlace directo al Takeaway: el volante de emergencia necesita más pruebas que magia" translate="no">​</a></h2>
+<p>Automatic Collision Evasion es una de las ideas más interesantes de FSD v14.3.9 porque traslada la inteligencia de conducción a un momento en el que FSD ni siquiera estaba activo. Si funciona como promete, puede convertir una colisión inevitable al frenar en una trayectoria recuperable. Ese es un avance real, no una función cosmética.</p>
+<p>Pero el examen decisivo no será ver al coche esquivar una caja en una pista cerrada. Será comprobar que <strong>detecta la moto que ocupa la única salida, rechaza el hueco falso, conserva la estabilidad y explica al conductor qué acaba de hacer</strong>. En España, donde autopistas densas, obras, motos y carreteras estrechas pueden coincidir en pocos kilómetros, elegir no girar será a veces tan inteligente como girar.</p>
+<p>¿Aceptarías que FSD tomara el volante durante una conducción manual si Tesla publicara los límites y los datos de falsas intervenciones? Cuéntanos qué escenario español debería probarse primero y sigue el blog: separaremos cada demostración llamativa de la evidencia que necesita para llegar a nuestras carreteras.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes-y-lecturas-relacionadas">Fuentes y lecturas relacionadas<a href="https://fsd.pepetox.es/fsd-evasion-automatica-colision-espana#fuentes-y-lecturas-relacionadas" class="hash-link" aria-label="Enlace directo al Fuentes y lecturas relacionadas" title="Enlace directo al Fuentes y lecturas relacionadas" translate="no">​</a></h3>
+<ul>
+<li class="">Tesla AI: <a href="https://x.com/Tesla_AI/status/2095767350070890688" target="_blank" rel="noopener noreferrer" class="">anuncio de FSD (Supervised) v14.3.9 y su nueva capa de seguridad activa</a>, 4 de septiembre de 2026.</li>
+<li class="">Not a Tesla App: <a href="https://www.notateslaapp.com/software-updates/version/2026.27.5/release-notes" target="_blank" rel="noopener noreferrer" class="">notas de la compilación 2026.27.5 y descripción de Automatic Collision Evasion</a>.</li>
+<li class="">Tesla: <a href="https://www.tesla.com/ownersmanual/model3/es_es/GUID-8EA7EF10-7D27-42AC-A31A-96BCE5BC0A85.html" target="_blank" rel="noopener noreferrer" class="">manual español del Model 3 sobre asistencia anticolisión y sus limitaciones</a>.</li>
+<li class="">EUR-Lex: <a href="https://eur-lex.europa.eu/eli/reg/2025/3/oj" target="_blank" rel="noopener noreferrer" class="">Reglamento nº 79 de Naciones Unidas sobre equipos de dirección y funciones de emergencia</a>.</li>
+<li class="">EUR-Lex: <a href="https://eur-lex.europa.eu/eli/reg/2024/2689/oj/eng" target="_blank" rel="noopener noreferrer" class="">Reglamento nº 171 de Naciones Unidas sobre sistemas de asistencia al control del conductor</a>.</li>
+</ul>]]></content:encoded>
+            <category>fsd</category>
+            <category>tesla</category>
+            <category>ai</category>
+            <category>testing</category>
+            <category>espana</category>
+            <category>europa</category>
+            <category>seguridad</category>
+            <category>hw4</category>
+        </item>
         <item>
             <title><![CDATA[FSD llega a Sabadell durante 20 minutos: el examen empieza cuando termina la demostración]]></title>
             <link>https://fsd.pepetox.es/fsd-sabadell-prueba-20-minutos</link>
@@ -1721,117 +1828,6 @@
             <category>vision</category>
             <category>espana</category>
             <category>hardware</category>
-        </item>
-        <item>
-            <title><![CDATA[La prueba real empieza ahora: Tesla ya no enseña FSD en Europa, empieza a ponerlo en manos de propietarios]]></title>
-            <link>https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real</link>
-            <guid>https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real</guid>
-            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Tesla ha pasado en Países Bajos de la aprobación a la activación real para clientes. Analizamos por qué el onboarding, el geofencing y la calle urbana importan más que otro titular regulatorio.]]></description>
-            <content:encoded><![CDATA[<aside class="notice_DS_P" role="note" aria-label="Aviso de contenido generado mediante inteligencia artificial"><div class="badge_wpw_">IA · Generado</div><div><strong>Contenido generado por IA · Sin revisión humana</strong><p>Este artículo forma parte de un experimento de publicación automatizada. Puede contener errores o información desactualizada. Comprueba cualquier dato importante en fuentes oficiales.<!-- --> <a href="https://fsd.pepetox.es/ai-experiment">Cómo funciona el experimento</a>.</p></div></aside><p>Si mañana Tesla activara FSD Supervised en un Model Y en una rotonda de Alcalá de Henares, el titular no sería que la IA gira el volante. El titular sería otro: <strong>si esa IA sabe convivir con motos que filtran, carriles pintados a medias y decisiones humanas que no caben en un manual limpio de Silicon Valley</strong>. Por eso la novedad más interesante de Europa, a <strong>21 de abril de 2026</strong>, ya no es la aprobación neerlandesa en sí. Es que Tesla ha empezado a convertir esa aprobación en <strong>uso real para propietarios</strong>.</p>
-<p>Y eso cambia la conversación.</p>
-<p>Porque una demo con ingenieros impresiona. Un permiso regulatorio abre puertas. Pero lo que de verdad pone a prueba un sistema como FSD es el momento en que deja de circular en modo escaparate y empieza a vivir con usuarios corrientes, trayectos repetidos, lluvia mediocre, glorietas urbanas y expectativas de producto.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-señal-nueva-no-viene-de-x-viene-del-soporte-oficial-de-tesla">La señal nueva no viene de X: viene del soporte oficial de Tesla<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#la-se%C3%B1al-nueva-no-viene-de-x-viene-del-soporte-oficial-de-tesla" class="hash-link" aria-label="Enlace directo al La señal nueva no viene de X: viene del soporte oficial de Tesla" title="Enlace directo al La señal nueva no viene de X: viene del soporte oficial de Tesla" translate="no">​</a></h2>
-<p>En los últimos días, Tesla ha actualizado varias páginas de soporte en Países Bajos que nos permiten leer el despliegue europeo con mucha más precisión que cualquier rumor.</p>
-<p>Lo más relevante es esto:</p>
-<ul>
-<li class="">Tesla ya ofrece en Países Bajos una <strong>prueba gratuita de 30 días</strong> de <strong>FSD (Supervised)</strong> para propietarios de <strong>Model 3</strong> y <strong>Model Y</strong> entregados antes del <strong>17 de abril de 2026</strong>.</li>
-<li class="">La web de soporte neerlandesa describe FSD como utilizable en <strong>calles urbanas</strong>, <strong>zonas residenciales</strong>, <strong>rotondas</strong>, intersecciones y accesos de autopista.</li>
-<li class="">La activación exige un proceso de <strong>onboarding</strong> poco casual: aceptar el acuerdo de usuario, ver un <strong>vídeo obligatorio</strong> y superar un <strong>quiz</strong> antes de poder usar el sistema.</li>
-<li class="">Tesla también deja claro que el sistema está <strong>geobloqueado</strong>: si cruzas a un país donde no está aprobado, <strong>FSD se desactiva tras avisarte</strong>.</li>
-</ul>
-<p>Ese conjunto de detalles importa mucho más de lo que parece.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-salto-de-fase-del-sí-legal-al-sí-úsalo-tú">El salto de fase: del “sí legal” al “sí, úsalo tú”<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#el-salto-de-fase-del-s%C3%AD-legal-al-s%C3%AD-%C3%BAsalo-t%C3%BA" class="hash-link" aria-label="Enlace directo al El salto de fase: del “sí legal” al “sí, úsalo tú”" title="Enlace directo al El salto de fase: del “sí legal” al “sí, úsalo tú”" translate="no">​</a></h2>
-<p>En <a class="" href="https://fsd.pepetox.es/fsd-paises-bajos-aprobacion-real">nuestro análisis sobre la aprobación neerlandesa</a> explicábamos por qué el verbo regulatorio importaba más que el hype. Pero toda homologación necesita una segunda prueba: comprobar si el producto soporta el mundo real cuando lo usan personas que no trabajan para Tesla.</p>
-<p>La prueba para propietarios introduce tres filtros nuevos.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-el-filtro-de-comportamiento-repetido">1. El filtro de comportamiento repetido<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#1-el-filtro-de-comportamiento-repetido" class="hash-link" aria-label="Enlace directo al 1. El filtro de comportamiento repetido" title="Enlace directo al 1. El filtro de comportamiento repetido" translate="no">​</a></h3>
-<p>Una demo puede enseñarte diez minutos brillantes. Un usuario real repite:</p>
-<ul>
-<li class="">la misma glorieta complicada;</li>
-<li class="">el mismo acceso mal señalizado;</li>
-<li class="">el mismo giro estrecho junto a bicis aparcadas;</li>
-<li class="">la misma incorporación en hora punta.</li>
-</ul>
-<p>Ahí desaparece la magia del vídeo y aparece la pregunta seria: <strong>¿es consistente?</strong></p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-el-filtro-de-confianza">2. El filtro de confianza<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#2-el-filtro-de-confianza" class="hash-link" aria-label="Enlace directo al 2. El filtro de confianza" title="Enlace directo al 2. El filtro de confianza" translate="no">​</a></h3>
-<p>Tesla no está permitiendo una activación “ciega”. Obliga a vídeo y cuestionario porque sabe que, en Europa, el sistema no puede venderse como una simple casilla de software premium. Tiene que educar al conductor en dos ideas incómodas pero esenciales:</p>
-<ul>
-<li class="">sigue siendo un sistema <strong>supervisado</strong>;</li>
-<li class="">el conductor continúa siendo <strong>responsable</strong>.</li>
-</ul>
-<p>Eso encaja plenamente con el marco europeo de <strong>DCAS</strong> bajo la <strong>Regulación UNECE n.º 171</strong>: asistencia avanzada continua, sí; transferencia plena de la tarea de conducción, no.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-el-filtro-geográfico">3. El filtro geográfico<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#3-el-filtro-geogr%C3%A1fico" class="hash-link" aria-label="Enlace directo al 3. El filtro geográfico" title="Enlace directo al 3. El filtro geográfico" translate="no">​</a></h3>
-<p>La nota de Tesla sobre desactivar FSD al entrar en un país no aprobado es probablemente la frase más reveladora del despliegue actual. El coche puede ser el mismo. El stack base puede parecer el mismo. Pero la capacidad útil del producto cambia al cruzar una frontera.</p>
-<p>Europa no es una región homogénea para FSD. Es una <strong>malla de permisos</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-esto-nos-enseña-sobre-españa">Lo que esto nos enseña sobre España<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#lo-que-esto-nos-ense%C3%B1a-sobre-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al Lo que esto nos enseña sobre España" title="Enlace directo al Lo que esto nos enseña sobre España" translate="no">​</a></h2>
-<p>España tiende a mirar el despliegue europeo con una mezcla rara de impaciencia y distancia, como si todo lo que pasa en Países Bajos fuera importante pero todavía ajeno. Ese consuelo empieza a agotarse.</p>
-<p>La lección práctica es esta: <strong>Europa ya ha entrado en fase de aprendizaje con usuarios reales</strong>. No hablamos solo de expedientes, demos con supervisión corporativa o fotos de un regulador en el asiento del copiloto. Hablamos de propietarios que pueden activar el sistema, convivir con él y descubrir muy rápido dónde es brillante, dónde duda y dónde simplemente no encaja.</p>
-<p>Y para España eso es crucial, porque nuestro examen no será trivial.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-rotonda-española-sigue-siendo-el-test-más-honesto">La rotonda española sigue siendo el test más honesto<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#la-rotonda-espa%C3%B1ola-sigue-siendo-el-test-m%C3%A1s-honesto" class="hash-link" aria-label="Enlace directo al La rotonda española sigue siendo el test más honesto" title="Enlace directo al La rotonda española sigue siendo el test más honesto" translate="no">​</a></h3>
-<p>Tesla ya describe oficialmente que FSD Supervised puede circular por rotondas en Países Bajos. Bien. Pero una rotonda no es una rotonda.</p>
-<p>Una glorieta holandesa bien marcada, con cultura vial más predecible y diseño geométrico relativamente limpio, no es lo mismo que:</p>
-<ul>
-<li class="">una entrada de doble carril con pintura desgastada;</li>
-<li class="">un turismo invadiendo trayectoria;</li>
-<li class="">una moto entrando tarde por el hueco;</li>
-<li class="">un peatón asomando desde detrás de una furgoneta;</li>
-<li class="">y un conductor local que negocia prioridades “a ojo”.</li>
-</ul>
-<p>La red neuronal no solo debe trazar una línea correcta. Debe producir una conducta <strong>socialmente legible</strong> para el resto del tráfico.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-calle-estrecha-española-no-perdona-el-exceso-de-prudencia">La calle estrecha española no perdona el exceso de prudencia<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#la-calle-estrecha-espa%C3%B1ola-no-perdona-el-exceso-de-prudencia" class="hash-link" aria-label="Enlace directo al La calle estrecha española no perdona el exceso de prudencia" title="Enlace directo al La calle estrecha española no perdona el exceso de prudencia" translate="no">​</a></h3>
-<p>En Europa se habla mucho de regulación, pero el mercado puede ser igual de duro que el regulador. Un FSD demasiado prudente en una calle estrecha de pueblo, esperando más de la cuenta ante cada incertidumbre, puede generar una experiencia frustrante aunque técnicamente sea segura.</p>
-<p>Y el problema contrario es todavía peor: un sistema demasiado confiado puede parecer espectacular durante tres días y perder credibilidad con una sola maniobra fea.</p>
-<p>La victoria en Europa no será solo “hacer más”. Será <strong>hacer lo justo con naturalidad</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-detalle-más-interesante-tesla-está-tratando-fsd-como-producto-no-solo-como-promesa">El detalle más interesante: Tesla está tratando FSD como producto, no solo como promesa<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#el-detalle-m%C3%A1s-interesante-tesla-est%C3%A1-tratando-fsd-como-producto-no-solo-como-promesa" class="hash-link" aria-label="Enlace directo al El detalle más interesante: Tesla está tratando FSD como producto, no solo como promesa" title="Enlace directo al El detalle más interesante: Tesla está tratando FSD como producto, no solo como promesa" translate="no">​</a></h2>
-<p>Hay un matiz que me parece especialmente importante. El soporte neerlandés no presenta FSD como un concepto futurista. Lo presenta como un producto con:</p>
-<ul>
-<li class="">precio mensual de <strong>99 euros</strong>;</li>
-<li class="">onboarding obligatorio;</li>
-<li class="">condiciones de elegibilidad;</li>
-<li class="">límites de jurisdicción;</li>
-<li class="">y lista concreta de escenarios de uso.</li>
-</ul>
-<p>Eso suena menos épico que una promesa de robotaxi, pero para Europa es mucho más serio.</p>
-<p>Porque significa que Tesla ha pasado del lenguaje aspiracional al lenguaje de operación cotidiana. Y cuando una tecnología entra en esa fase, lo que importa ya no es el entusiasmo del fan más convencido. Importa:</p>
-<ul>
-<li class="">cuánto interviene la gente;</li>
-<li class="">cuánto confía;</li>
-<li class="">cuánto repite;</li>
-<li class="">y cuánto recomienda o deja de recomendar la función.</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs realidad<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs realidad" title="Enlace directo al Expectativa vs realidad" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa">Expectativa<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#expectativa" class="hash-link" aria-label="Enlace directo al Expectativa" title="Enlace directo al Expectativa" translate="no">​</a></h3>
-<p>"Europa ya ha aprobado FSD; ahora solo falta encenderlo en todos los países."</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad">Realidad<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#realidad" class="hash-link" aria-label="Enlace directo al Realidad" title="Enlace directo al Realidad" translate="no">​</a></h3>
-<p>La realidad, a <strong>21 de abril de 2026</strong>, es más interesante y más dura:</p>
-<ul>
-<li class="">Tesla ya ha empezado a mover FSD en Europa desde la aprobación hacia el <strong>uso real por clientes</strong> en Países Bajos.</li>
-<li class="">Ese uso sigue siendo <strong>supervisado</strong>, con responsabilidad permanente del conductor.</li>
-<li class="">El despliegue incluye <strong>fricción deliberada</strong>: vídeo, quiz, requisitos de elegibilidad y límites geográficos.</li>
-<li class="">El siguiente examen no es solo político o jurídico. Es <strong>conductual</strong>: comprobar si el sistema resulta natural, consistente y útil en la complejidad europea diaria.</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="mi-lectura-lo-importante-no-es-que-tesla-haya-entrado-sino-cómo-sobreviva-a-la-rutina">Mi lectura: lo importante no es que Tesla haya entrado, sino cómo sobreviva a la rutina<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#mi-lectura-lo-importante-no-es-que-tesla-haya-entrado-sino-c%C3%B3mo-sobreviva-a-la-rutina" class="hash-link" aria-label="Enlace directo al Mi lectura: lo importante no es que Tesla haya entrado, sino cómo sobreviva a la rutina" title="Enlace directo al Mi lectura: lo importante no es que Tesla haya entrado, sino cómo sobreviva a la rutina" translate="no">​</a></h2>
-<p>La comunidad FSD a veces confunde el primer día con la línea de meta. En realidad, el primer día solo inaugura la fase más difícil.</p>
-<p>Si el despliegue neerlandés funciona bien, Tesla habrá demostrado algo valioso: que su red end-to-end no solo consigue una aprobación, sino que también aguanta el contacto con usuarios reales dentro del marco europeo.</p>
-<p>Si funciona mal, la lectura será igual de importante: Europa no bloqueó por capricho, sino porque convertir una IA de conducción en producto fiable sobre calles reales es muchísimo más complejo que encadenar demos convincentes.</p>
-<p>Para España, el takeaway útil es muy claro. El futuro de FSD aquí no dependerá solo de Bruselas ni solo de la DGT. Dependerá también de algo mucho menos glamuroso y mucho más decisivo: <strong>cómo se comporte la IA cuando la metes, día tras día, en la rutina imperfecta de una ciudad europea</strong>.</p>
-<p>Si quieres seguir esa transición sin humo, quédate por aquí. Las próximas señales relevantes no serán solo anuncios oficiales. Serán pequeños indicios de producto: cómo gira, cómo cede, cómo duda y cómo aprende cuando el escenario deja de estar preparado para una demo.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-propietarios-paises-bajos-prueba-real#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
-<ul>
-<li class="">Tesla Support Nederland, <a href="https://www.tesla.com/nl_nl/support/fsd/trial-for-owners" target="_blank" rel="noopener noreferrer" class="">Proefperiode Full Self-Driving (Supervised) voor eigenaren</a>, consultado el 21 de abril de 2026.</li>
-<li class="">Tesla Support Nederland, <a href="https://www.tesla.com/nl_nl/support/fsd" target="_blank" rel="noopener noreferrer" class="">Full Self-Driving (Supervised)</a>, consultado el 21 de abril de 2026.</li>
-<li class="">Tesla Support Nederland, <a href="https://www.tesla.com/nl_nl/support/full-self-driving-subscriptions" target="_blank" rel="noopener noreferrer" class="">Abonnementen Full Self-Driving (Supervised)</a>, consultado el 21 de abril de 2026.</li>
-<li class="">UNECE, <a href="https://unece.org/media/press/395206" target="_blank" rel="noopener noreferrer" class="">New UN regulation paves way for deployment of driving assistance systems worldwide</a>, 4 de octubre de 2024.</li>
-</ul>
-<blockquote>
-<p>Nota editorial: el hecho de que Tesla haya pasado a pruebas con propietarios en Países Bajos es un dato soportado por las páginas oficiales enlazadas. La extrapolación sobre cómo puede comportarse el sistema en España es análisis propio, no un anuncio oficial de Tesla ni de los reguladores españoles.</p>
-</blockquote>]]></content:encoded>
-            <category>fsd</category>
-            <category>tesla</category>
-            <category>europa</category>
-            <category>testing</category>
-            <category>ai</category>
-            <category>paises-bajos</category>
         </item>
     </channel>
 </rss>
