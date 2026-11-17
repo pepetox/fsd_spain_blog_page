@@ -4,10 +4,127 @@
         <title>FSD Spain Blog</title>
         <link>https://fsd.pepetox.es</link>
         <description>FSD Spain Blog</description>
-        <lastBuildDate>Tue, 03 Nov 2026 21:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 21:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[El segundo crítico: Tesla endurece la vigilancia justo cuando la IA maniobra]]></title>
+            <link>https://fsd.pepetox.es/tad-atencion-maniobra-europa</link>
+            <guid>https://fsd.pepetox.es/tad-atencion-maniobra-europa</guid>
+            <pubDate>Tue, 17 Nov 2026 21:00:00 GMT</pubDate>
+            <description><![CDATA[Tesla adelanta los avisos y penaliza la distracción durante maniobras. Analizamos el reto humano que decidirá la seguridad de TAD en Europa.]]></description>
+            <content:encoded><![CDATA[<aside class="notice_DS_P" role="note" aria-label="Aviso de contenido generado mediante inteligencia artificial"><div class="badge_wpw_">IA · Generado</div><div><strong>Contenido generado por IA · Sin revisión humana</strong><p>Este artículo forma parte de un experimento de publicación automatizada. Puede contener errores o información desactualizada. Comprueba cualquier dato importante en fuentes oficiales.<!-- --> <a href="https://fsd.pepetox.es/ai-experiment">Cómo funciona el experimento</a>.</p></div></aside><p>Tesla Assisted Driving empieza a desplazarse hacia el carril izquierdo de una autovía española para adelantar a un camión. En ese instante, el conductor baja la mirada hacia la pantalla para comprobar qué ha decidido el coche. Parece un gesto de medio segundo, pero coincide con el punto exacto en que hay que vigilar el retrovisor, el vehículo pesado y la velocidad del tráfico que llega por detrás. <strong>La paradoja de la conducción asistida cabe en esa mirada: cuanto más capaz parece la IA, más fácil es dejar de supervisarla justo cuando más importa.</strong></p>
+<p><img decoding="async" loading="lazy" alt="Conductor atento durante una maniobra de conducción asistida junto a un camión en una autovía española" src="https://fsd.pepetox.es/assets/images/2026-11-17-tad-atencion-maniobra-7795659c4fc4b3fb6ffe64f4972887ee.jpeg" width="1376" height="768" class="img_ev3q"></p>
+<p><em>Imagen generada mediante inteligencia artificial.</em></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-actualización-un-aviso-antes-y-un-full-strike-durante-la-maniobra">La actualización: un aviso antes y un “full strike” durante la maniobra<a href="https://fsd.pepetox.es/tad-atencion-maniobra-europa#la-actualizaci%C3%B3n-un-aviso-antes-y-un-full-strike-durante-la-maniobra" class="hash-link" aria-label="Enlace directo al La actualización: un aviso antes y un “full strike” durante la maniobra" title="Enlace directo al La actualización: un aviso antes y un “full strike” durante la maniobra" translate="no">​</a></h2>
+<p>La autoridad neerlandesa de homologación, <strong>RDW</strong>, comunicó el 16 de noviembre una nueva actualización de Tesla Assisted Driving (TAD), el nombre europeo de FSD (Supervised). El cambio se aplica al sistema evaluado en vehículos con <strong>HW4 o posterior</strong> y añade varias defensas centradas en el conductor:</p>
+<ul>
+<li class="">los avisos de falta de atención llegarán antes;</li>
+<li class="">la desatención mientras el sistema ejecuta una maniobra podrá provocar un <strong>“full strike”</strong>;</li>
+<li class="">se incorporan medidas adicionales contra el uso indebido;</li>
+<li class="">la interfaz explicará mejor cuándo actúa <em>Contextual Max Speed</em>;</li>
+<li class="">y, por encima de 130 km/h, el conductor deberá mantener las manos en el volante.</li>
+</ul>
+<p>RDW afirma haber probado los cambios tanto en circuito como en carretera abierta y no haber encontrado efectos adversos o imprevistos en el funcionamiento del sistema ni en el comportamiento del vehículo. También menciona “mejoras generales” del modelo, sin describirlas. Conviene no rellenar ese silencio con especulaciones: <strong>la novedad verificable no es una nueva capacidad autónoma, sino un refuerzo de la supervisión y de la comunicación entre coche y persona</strong>.</p>
+<p>La autoridad no publica la lógica completa del <em>full strike</em>, sus umbrales temporales ni cómo se coordina con una maniobra que ya está en curso. Por eso no debemos imaginar un castigo instantáneo que abandona al conductor en mitad de un cambio de carril. Lo confirmado es más limitado: Tesla ha endurecido la consecuencia asociada a estar desatento durante ese momento de mayor carga.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="por-qué-una-maniobra-vale-más-que-un-kilómetro-recto">Por qué una maniobra vale más que un kilómetro recto<a href="https://fsd.pepetox.es/tad-atencion-maniobra-europa#por-qu%C3%A9-una-maniobra-vale-m%C3%A1s-que-un-kil%C3%B3metro-recto" class="hash-link" aria-label="Enlace directo al Por qué una maniobra vale más que un kilómetro recto" title="Enlace directo al Por qué una maniobra vale más que un kilómetro recto" translate="no">​</a></h2>
+<p>No todos los segundos de distracción contienen el mismo riesgo. Mirar fuera de la carretera mientras el coche mantiene distancia y carril en una recta despejada es peligroso; hacerlo cuando el sistema cambia de carril, cruza una intersección o bordea una obra añade decisiones que pueden quedar obsoletas en décimas de segundo.</p>
+<p>Una maniobra iniciada por la IA combina al menos cuatro procesos:</p>
+<ol>
+<li class=""><strong>Percepción:</strong> localizar vehículos, líneas, bordes y espacios libres.</li>
+<li class=""><strong>Predicción:</strong> estimar qué harán los demás usuarios.</li>
+<li class=""><strong>Planificación:</strong> elegir trayectoria, velocidad y momento.</li>
+<li class=""><strong>Ejecución:</strong> mover el coche y corregir si la escena cambia.</li>
+</ol>
+<p>El conductor no puede auditar internamente esas cuatro capas. Solo ve el entorno y la trayectoria resultante. Para supervisar de verdad necesita entender qué está intentando hacer el coche, comprobar que el hueco sigue existiendo y conservar una postura desde la que pueda frenar o girar sin demora.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-ejemplo-español-adelantar-junto-a-una-incorporación-corta">El ejemplo español: adelantar junto a una incorporación corta<a href="https://fsd.pepetox.es/tad-atencion-maniobra-europa#el-ejemplo-espa%C3%B1ol-adelantar-junto-a-una-incorporaci%C3%B3n-corta" class="hash-link" aria-label="Enlace directo al El ejemplo español: adelantar junto a una incorporación corta" title="Enlace directo al El ejemplo español: adelantar junto a una incorporación corta" translate="no">​</a></h3>
+<p>Imaginemos que TAD se desplaza a la izquierda para superar un camión mientras una incorporación introduce tráfico por la derecha. La red puede haber calculado correctamente el hueco inicial, pero el camión oculta parte de la escena, otro vehículo acelera por detrás y la salida siguiente está cerca.</p>
+<p>Si el conductor mira la pantalla para interpretar la animación, pierde precisamente la información que no cabe en ella: la velocidad relativa del coche que se aproxima, el ligero desplazamiento lateral del camión o la motocicleta que aparece entre carriles. Una intervención útil no consiste únicamente en agarrar el volante. Exige haber construido antes un <strong>modelo mental actualizado</strong> de la escena.</p>
+<p>De ahí la importancia de detectar la distracción <em>durante</em> la maniobra y no tratar todos los desvíos de mirada como eventos equivalentes. Un sistema maduro debería ponderar contexto, duración y repetición, aunque RDW no ha detallado qué variables usa Tesla en esta versión.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-frente-a-realidad">Expectativa frente a realidad<a href="https://fsd.pepetox.es/tad-atencion-maniobra-europa#expectativa-frente-a-realidad" class="hash-link" aria-label="Enlace directo al Expectativa frente a realidad" title="Enlace directo al Expectativa frente a realidad" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-la-cámara-interior-sabe-si-el-conductor-está-preparado">Expectativa: la cámara interior sabe si el conductor está preparado<a href="https://fsd.pepetox.es/tad-atencion-maniobra-europa#expectativa-la-c%C3%A1mara-interior-sabe-si-el-conductor-est%C3%A1-preparado" class="hash-link" aria-label="Enlace directo al Expectativa: la cámara interior sabe si el conductor está preparado" title="Enlace directo al Expectativa: la cámara interior sabe si el conductor está preparado" translate="no">​</a></h3>
+<p>Tesla explica en su manual que la cámara del habitáculo monitoriza la atención cuando FSD (Supervised) está activo. Si la persona aparta repetidamente la mirada, aparecen avisos crecientes; si los ignora, el sistema puede quedar deshabilitado durante el resto del trayecto. La compañía añade que el seguimiento continúa funcionando con gafas de sol y que no puede desactivarse durante el uso de la función.</p>
+<p>Eso permite observar señales valiosas: orientación de cabeza, dirección aproximada de la mirada, postura y posible uso de un dispositivo. Pero una cámara no lee la intención ni conoce por completo la conciencia situacional. Un conductor puede mirar al frente y estar pensando en otra cosa; también puede consultar un retrovisor lateral y parecer momentáneamente desatento para un clasificador demasiado rígido.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad-atención-visible-no-equivale-a-preparación">Realidad: atención visible no equivale a preparación<a href="https://fsd.pepetox.es/tad-atencion-maniobra-europa#realidad-atenci%C3%B3n-visible-no-equivale-a-preparaci%C3%B3n" class="hash-link" aria-label="Enlace directo al Realidad: atención visible no equivale a preparación" title="Enlace directo al Realidad: atención visible no equivale a preparación" translate="no">​</a></h3>
+<p>Estar listo para intervenir requiere tres cosas distintas:</p>
+<ul>
+<li class=""><strong>atención visual</strong>, para recoger información de la vía;</li>
+<li class=""><strong>comprensión</strong>, para saber qué está haciendo el sistema y dónde puede fallar;</li>
+<li class=""><strong>capacidad física</strong>, para actuar con volante y pedales.</li>
+</ul>
+<p>El monitor de cabina estima partes de ese estado, no lo certifica. Por eso el diseño no puede descansar en una sola señal. Debe combinar cámara, interacción con el volante, estado de la maniobra, historial de avisos y comportamiento del vehículo. Y debe hacerlo sin bombardear con alertas hasta que el usuario aprenda a ignorarlas.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-castigar-la-distracción-resuelve-el-problema">Expectativa: castigar la distracción resuelve el problema<a href="https://fsd.pepetox.es/tad-atencion-maniobra-europa#expectativa-castigar-la-distracci%C3%B3n-resuelve-el-problema" class="hash-link" aria-label="Enlace directo al Expectativa: castigar la distracción resuelve el problema" title="Enlace directo al Expectativa: castigar la distracción resuelve el problema" translate="no">​</a></h3>
+<p>Un <em>strike</em> introduce una consecuencia clara y puede desalentar el móvil, los trucos para engañar al volante o la costumbre de abandonar la vigilancia. Es una barrera necesaria cuando el producto sigue siendo de nivel 2 y la persona conserva la responsabilidad.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad-el-mejor-aviso-llega-antes-de-que-la-persona-se-desconecte">Realidad: el mejor aviso llega antes de que la persona se desconecte<a href="https://fsd.pepetox.es/tad-atencion-maniobra-europa#realidad-el-mejor-aviso-llega-antes-de-que-la-persona-se-desconecte" class="hash-link" aria-label="Enlace directo al Realidad: el mejor aviso llega antes de que la persona se desconecte" title="Enlace directo al Realidad: el mejor aviso llega antes de que la persona se desconecte" translate="no">​</a></h3>
+<p>La sanción actúa después de detectar un comportamiento. El diseño más seguro también reduce la tentación y la confusión que lo producen: comunica pronto la intención del coche, evita animaciones que compitan con la carretera, distingue un aviso informativo de una petición urgente y no presenta una conducción fluida como si ya fuera autonomía.</p>
+<p>El conductor debe entender que supervisar no significa esperar una alarma. Significa buscar activamente la excepción que la red puede no haber entendido.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-problema-humano-que-mejora-con-cada-versión-de-ia">El problema humano que mejora con cada versión de IA<a href="https://fsd.pepetox.es/tad-atencion-maniobra-europa#el-problema-humano-que-mejora-con-cada-versi%C3%B3n-de-ia" class="hash-link" aria-label="Enlace directo al El problema humano que mejora con cada versión de IA" title="Enlace directo al El problema humano que mejora con cada versión de IA" translate="no">​</a></h2>
+<p>La Administración Nacional de Seguridad del Tráfico en las Carreteras de Estados Unidos (NHTSA) lleva años describiendo el riesgo de quedar <strong>fuera del bucle</strong>: complacencia, pérdida de vigilancia, menor conciencia de la situación y deterioro de la habilidad cuando la automatización asume gran parte de la tarea. Su guía de factores humanos para automatización de niveles 2 y 3 recuerda una tensión esencial: los humanos solemos rendir mal como monitores pasivos de un sistema que casi siempre acierta.</p>
+<p>Ese “casi” es el problema. Si TAD ejecuta cien incorporaciones con naturalidad, la número 101 no encuentra a un supervisor más entrenado, sino posiblemente más confiado. La mejora del modelo reduce intervenciones frecuentes, pero separa más los fallos entre sí. Cuando llega uno, el conductor dispone de menos práctica reciente y puede tardar más en comprender qué ha cambiado.</p>
+<p>No es un argumento contra la IA de conducción. Es una condición de diseño. El progreso debe medirse en dos ejes:</p>
+<table><thead><tr><th>Eje</th><th>Pregunta correcta</th></tr></thead><tbody><tr><td>Capacidad de la IA</td><td>¿Resuelve más escenarios con márgenes seguros y sin regresiones?</td></tr><tr><td>Calidad de la supervisión</td><td>¿Mantiene al humano informado, atento y capaz de intervenir cuando aparece el caso raro?</td></tr></tbody></table>
+<p>Una versión puede mejorar el primer eje y empeorar el segundo si su fluidez induce exceso de confianza o si oculta demasiado bien su incertidumbre. Por eso <a class="" href="https://fsd.pepetox.es/fsd-14-3-10-caja-negra-actualizaciones">las actualizaciones de una red neuronal necesitan trazabilidad y pruebas de regresión</a>, no solo vídeos de trayectos perfectos.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-debería-mostrar-la-interfaz-antes-de-mover-el-coche">Qué debería mostrar la interfaz antes de mover el coche<a href="https://fsd.pepetox.es/tad-atencion-maniobra-europa#qu%C3%A9-deber%C3%ADa-mostrar-la-interfaz-antes-de-mover-el-coche" class="hash-link" aria-label="Enlace directo al Qué debería mostrar la interfaz antes de mover el coche" title="Enlace directo al Qué debería mostrar la interfaz antes de mover el coche" translate="no">​</a></h2>
+<p>La comunicación actual de los asistentes suele centrarse en objetos detectados y líneas de trayectoria. Es útil, pero corre el riesgo de convertir la pantalla en una película que el conductor observa en lugar de mirar la vía. Para supervisar una maniobra harían falta señales más sobrias y accionables.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-intención-con-tiempo-suficiente">1. Intención con tiempo suficiente<a href="https://fsd.pepetox.es/tad-atencion-maniobra-europa#1-intenci%C3%B3n-con-tiempo-suficiente" class="hash-link" aria-label="Enlace directo al 1. Intención con tiempo suficiente" title="Enlace directo al 1. Intención con tiempo suficiente" translate="no">​</a></h3>
+<p>El intermitente informa a los demás, pero la persona dentro también debe saber si el coche pretende adelantar, preparar una salida o apartarse de un obstáculo. Una indicación temprana permite comprobar espejos y entorno antes de que empiece el movimiento lateral.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-estado-inequívoco">2. Estado inequívoco<a href="https://fsd.pepetox.es/tad-atencion-maniobra-europa#2-estado-inequ%C3%ADvoco" class="hash-link" aria-label="Enlace directo al 2. Estado inequívoco" title="Enlace directo al 2. Estado inequívoco" translate="no">​</a></h3>
+<p>El conductor debe distinguir entre “la maniobra está propuesta”, “se está ejecutando”, “ha sido cancelada” y “debes tomar el control”. Colores o sonidos demasiado parecidos crean sorpresa de automatización: la persona percibe que algo cambió, pero no qué parte de la tarea controla ahora.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-motivo-sin-convertirlo-en-una-explicación-teatral">3. Motivo sin convertirlo en una explicación teatral<a href="https://fsd.pepetox.es/tad-atencion-maniobra-europa#3-motivo-sin-convertirlo-en-una-explicaci%C3%B3n-teatral" class="hash-link" aria-label="Enlace directo al 3. Motivo sin convertirlo en una explicación teatral" title="Enlace directo al 3. Motivo sin convertirlo en una explicación teatral" translate="no">​</a></h3>
+<p>La nueva señalización de <em>Contextual Max Speed</em> es interesante porque intenta explicar por qué el coche no reduce o por qué circula por encima de la velocidad indicada por el sistema. Según RDW, el indicador de velocidad máxima pulsará y una confirmación adicional será necesaria para elevar el máximo; si el vehículo supera el límite indicado, la señal ISA parpadeará en rojo.</p>
+<p>La idea general es correcta: exponer la causa de una decisión relevante. Pero la explicación debe ser breve. Una frase larga durante un adelantamiento roba atención al mismo entorno que pretende proteger.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-aviso-proporcional-al-riesgo-actual">4. Aviso proporcional al riesgo actual<a href="https://fsd.pepetox.es/tad-atencion-maniobra-europa#4-aviso-proporcional-al-riesgo-actual" class="hash-link" aria-label="Enlace directo al 4. Aviso proporcional al riesgo actual" title="Enlace directo al 4. Aviso proporcional al riesgo actual" translate="no">​</a></h3>
+<p>Una mirada lateral hacia un espejo no debería recibir el mismo tratamiento que varios segundos mirando un teléfono. Tampoco debería pesar igual durante una recta estable que mientras el coche invade otro carril. La alerta útil combina el estado del conductor con la fase de la maniobra y deja margen para corregir antes de escalar.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="cómo-probarlo-en-madrid-sin-limitarse-a-contar-avisos">Cómo probarlo en Madrid sin limitarse a contar avisos<a href="https://fsd.pepetox.es/tad-atencion-maniobra-europa#c%C3%B3mo-probarlo-en-madrid-sin-limitarse-a-contar-avisos" class="hash-link" aria-label="Enlace directo al Cómo probarlo en Madrid sin limitarse a contar avisos" title="Enlace directo al Cómo probarlo en Madrid sin limitarse a contar avisos" translate="no">​</a></h2>
+<p>España ya ofrece un laboratorio real mediante <a class="" href="https://fsd.pepetox.es/fsd-pruebas-madrid-espana">las pruebas autorizadas de Tesla en Madrid y otras carreteras</a>. Para evaluar este cambio no bastaría con verificar que la cámara emite una alerta al taparla. Hay que estudiar la colaboración completa entre persona y sistema.</p>
+<p>Una matriz razonable incluiría:</p>
+<ul>
+<li class="">cambios de carril con tráfico que se aproxima a distinta velocidad;</li>
+<li class="">incorporaciones cortas con vehículos parcialmente ocultos;</li>
+<li class="">desvíos de obra que obligan a cancelar una trayectoria;</li>
+<li class="">sol bajo, gafas, mascarillas y movimientos naturales hacia los espejos;</li>
+<li class="">distracciones visuales, manuales y cognitivas diferenciadas;</li>
+<li class="">falsos positivos que puedan generar fatiga de avisos;</li>
+<li class="">y la respuesta del coche si la persona no recupera la atención.</li>
+</ul>
+<p>Las métricas también deben ir más allá del número de <em>strikes</em>:</p>
+<ol>
+<li class="">tiempo desde el primer indicio de desatención hasta el aviso;</li>
+<li class="">tiempo que tarda la persona en volver a mirar la vía;</li>
+<li class="">calidad de la intervención, no solo contacto con el volante;</li>
+<li class="">distancia y tiempo hasta el conflicto durante la maniobra;</li>
+<li class="">tasa de avisos incorrectos al usar espejos o comprobar un lateral;</li>
+<li class="">comprensión posterior: qué creía el conductor que estaba haciendo TAD;</li>
+<li class="">diferencias entre usuarios nuevos y quienes acumulan miles de kilómetros asistidos.</li>
+</ol>
+<p>RDW dice haber realizado ensayos propios en pista y vía pública. Es una señal positiva. El siguiente paso para construir confianza sería publicar protocolos y resultados agregados que permitan entender no solo que “no hubo efectos adversos”, sino qué distracciones, maniobras y condiciones se examinaron.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="de-asistente-impresionante-a-compañero-predecible">De asistente impresionante a compañero predecible<a href="https://fsd.pepetox.es/tad-atencion-maniobra-europa#de-asistente-impresionante-a-compa%C3%B1ero-predecible" class="hash-link" aria-label="Enlace directo al De asistente impresionante a compañero predecible" title="Enlace directo al De asistente impresionante a compañero predecible" translate="no">​</a></h2>
+<p>Una red neuronal que conduce con naturalidad puede acercarnos a carreteras más seguras, pero la transición no se resuelve sustituyendo de golpe a la persona. Mientras TAD siga siendo supervisado, coche y conductor forman un único sistema. Un fallo de comunicación entre ambos es tan relevante como una detección incorrecta de carril.</p>
+<p>El objetivo tampoco debería ser mantener al humano ocupado con movimientos artificiales del volante. La atención de calidad no se demuestra haciendo fuerza cada pocos segundos, sino comprendiendo la escena, anticipando el siguiente punto de conflicto y pudiendo actuar. La cámara interior aporta una señal más directa que el antiguo “<em>nag</em>” del volante, aunque todavía necesita contexto y validación frente a la diversidad real de rostros, posturas y hábitos.</p>
+<p>La actualización anunciada por RDW apunta en esa dirección: aviso anticipado, consecuencia mayor durante la maniobra y una interfaz que explica mejor la velocidad contextual. No demuestra que el problema esté resuelto, pero sí reconoce que <strong>la supervisión debe adaptarse a lo que la IA está haciendo en ese instante</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="takeaway-el-conductor-no-es-el-plan-b-es-parte-del-sistema">Takeaway: el conductor no es el plan B, es parte del sistema<a href="https://fsd.pepetox.es/tad-atencion-maniobra-europa#takeaway-el-conductor-no-es-el-plan-b-es-parte-del-sistema" class="hash-link" aria-label="Enlace directo al Takeaway: el conductor no es el plan B, es parte del sistema" title="Enlace directo al Takeaway: el conductor no es el plan B, es parte del sistema" translate="no">​</a></h2>
+<p>El “full strike” puede sonar a castigo, pero la noticia importante es otra: Tesla y RDW están tratando la atención como una variable dinámica. Distraerse cuando el coche maniobra no equivale a distraerse en cualquier otro momento, porque desaparece el margen para reconstruir la escena antes de intervenir.</p>
+<p>Para la comunidad FSD en España, la conclusión es incómoda y útil. Una conducción más suave no autoriza a mirar menos; exige aprender a supervisar mejor. Hay que observar la vía antes que la visualización, conocer cómo se cancela una maniobra y documentar tanto los fallos de la red como los avisos que llegan tarde o sin motivo.</p>
+<p><strong>La IA más avanzada no será la que consiga que olvidemos que conduce, sino la que nos mantenga dentro del bucle sin convertir la supervisión en una pelea constante con el coche.</strong></p>
+<p>¿Qué debería pesar más en el monitor de atención: la dirección de la mirada, las manos, la fase de la maniobra o una combinación de todo? Comparte tu experiencia y sigue el blog; continuaremos analizando no solo lo que TAD es capaz de hacer, sino cómo debe colaborar con quien todavía responde por cada metro.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes-y-lecturas-relacionadas">Fuentes y lecturas relacionadas<a href="https://fsd.pepetox.es/tad-atencion-maniobra-europa#fuentes-y-lecturas-relacionadas" class="hash-link" aria-label="Enlace directo al Fuentes y lecturas relacionadas" title="Enlace directo al Fuentes y lecturas relacionadas" translate="no">​</a></h3>
+<ul>
+<li class="">RDW: <a href="https://www.rdw.nl/en/news/2026/tesla-driver-assistance-system-receives-update" target="_blank" rel="noopener noreferrer" class="">actualización de Tesla Assisted Driving con avisos anticipados, “full strike” durante maniobras y nuevas señales de velocidad</a>, 16 de noviembre de 2026.</li>
+<li class="">Tesla: <a href="https://www.tesla.com/ownersmanual/model3/en_us/GUID-2CB60804-9CEA-4F4B-8B04-09B991368DC5.html" target="_blank" rel="noopener noreferrer" class="">manual de FSD (Supervised), monitorización de atención y suspensión por uso inadecuado</a>, consultado el 17 de noviembre de 2026.</li>
+<li class="">Tesla: <a href="https://www.tesla.com/legal/privacy" target="_blank" rel="noopener noreferrer" class="">aviso de privacidad sobre el uso de la cámara del habitáculo para detectar falta de atención</a>, consultado el 17 de noviembre de 2026.</li>
+<li class="">NHTSA: <a href="https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/13494_812555_l2l3automationhfguidance.pdf" target="_blank" rel="noopener noreferrer" class="">guía de factores humanos para conceptos de conducción automatizada de niveles 2 y 3</a>, sobre vigilancia, conciencia situacional y riesgo de quedar fuera del bucle.</li>
+<li class="">UNECE: <a href="https://unece.org/media/transport/Vehicle-Regulations/press/395206" target="_blank" rel="noopener noreferrer" class="">explicación del Reglamento nº 171 y del papel permanente del conductor en los sistemas DCAS de nivel 2</a>.</li>
+</ul>]]></content:encoded>
+            <category>fsd</category>
+            <category>tesla</category>
+            <category>ai</category>
+            <category>testing</category>
+            <category>driver-monitoring</category>
+            <category>espana</category>
+            <category>europa</category>
+            <category>seguridad</category>
+        </item>
         <item>
             <title><![CDATA[El giro de 3 m/s²: Tesla cede en las curvas para acercar FSD a Europa]]></title>
             <link>https://fsd.pepetox.es/fsd-aceleracion-lateral-rotondas-europa</link>
@@ -1813,112 +1930,6 @@
             <category>espana</category>
             <category>europa</category>
             <category>seguridad</category>
-        </item>
-        <item>
-            <title><![CDATA[Bilbao no es Austin: por qué el viaje clave de FSD en España se está haciendo desde el asiento del pasajero]]></title>
-            <link>https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero</link>
-            <guid>https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero</guid>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Tesla ya ofrece ride-alongs de FSD Supervised en Bilbao. La cuestión clave para España no es el show: es qué evidencia deja ese asiento del pasajero.]]></description>
-            <content:encoded><![CDATA[<aside class="notice_DS_P" role="note" aria-label="Aviso de contenido generado mediante inteligencia artificial"><div class="badge_wpw_">IA · Generado</div><div><strong>Contenido generado por IA · Sin revisión humana</strong><p>Este artículo forma parte de un experimento de publicación automatizada. Puede contener errores o información desactualizada. Comprueba cualquier dato importante en fuentes oficiales.<!-- --> <a href="https://fsd.pepetox.es/ai-experiment">Cómo funciona el experimento</a>.</p></div></aside><p>Te sientas en el asiento del pasajero en un Tesla Center de Bilbao, el coche sale a la calle y durante unos minutos parece que el futuro ya ha llegado a España. Gira, se coloca, negocia tráfico real y transmite esa sensación peligrosa de inevitabilidad. Pero justo ahí conviene enfriar el entusiasmo: <strong>una demo pública no es un lanzamiento, y un ride-along no es todavía una homologación</strong>. La novedad importante de junio de 2026 no es solo que Tesla enseñe FSD Supervised más cerca de casa; es que por fin podemos observar cómo intenta convertir un producto norteamericano en un expediente europeo.</p>
-<p>Tesla mantiene publicada una experiencia oficial de <strong>Full Self-Driving (Supervised) Ride-Along en Bilbao</strong> con fechas del <strong>1 de junio al 31 de julio de 2026</strong> en su centro de Iurreta. No es un rumor de X ni un vídeo editado por un fan. Es la propia compañía invitando a subirse, mirar y comparar. Y eso cambia bastante el tipo de conversación que deberíamos tener en España.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-dato-importante-no-es-el-trayecto-es-el-formato">El dato importante no es el trayecto: es el formato<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#el-dato-importante-no-es-el-trayecto-es-el-formato" class="hash-link" aria-label="Enlace directo al El dato importante no es el trayecto: es el formato" title="Enlace directo al El dato importante no es el trayecto: es el formato" translate="no">​</a></h2>
-<p>Durante años, el debate europeo sobre FSD ha oscilado entre dos extremos malos:</p>
-<ul>
-<li class="">la demo viral que parece resolverlo todo;</li>
-<li class="">y la lectura regulatoria que asume que nada cambia hasta el día de la aprobación.</li>
-</ul>
-<p>El ride-along oficial rompe un poco esa falsa dicotomía. No convierte a FSD en autónomo ni lo libera mágicamente del marco UNECE. Pero tampoco es simple marketing vacío. Es un formato intermedio mucho más interesante: <strong>producto mostrado en entorno real, bajo control de Tesla, delante de potenciales clientes y curiosos, en carreteras que no son California</strong>.</p>
-<p>Eso obliga a la compañía a pasar otra clase de examen. No solo el de seguridad técnica, sino el de credibilidad contextual.</p>
-<p>En España, el pasajero no juzga FSD por un gráfico ni por una promesa de robotaxi. Lo juzga por cosas mucho más terrenales:</p>
-<ul>
-<li class="">si entra en una incorporación con decisión pero sin brusquedad;</li>
-<li class="">si interpreta una glorieta sin parecer perdido;</li>
-<li class="">si no se deja intimidar por motos, doble fila o marcas viales cansadas;</li>
-<li class="">y, sobre todo, si transmite calma sin volverse torpe.</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="bilbao-importa-porque-acerca-el-debate-al-suelo-europeo">Bilbao importa porque acerca el debate al suelo europeo<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#bilbao-importa-porque-acerca-el-debate-al-suelo-europeo" class="hash-link" aria-label="Enlace directo al Bilbao importa porque acerca el debate al suelo europeo" title="Enlace directo al Bilbao importa porque acerca el debate al suelo europeo" translate="no">​</a></h2>
-<p>Hay una diferencia enorme entre ver FSD en Texas y verlo anunciado oficialmente en el País Vasco. En Estados Unidos, el lector europeo tiende a rellenar huecos: asume que ya se adaptará, que el cambio es solo político, que el software “ya sabe conducir”. En Bilbao ya no vale esa abstracción. La pregunta pasa a ser más incómoda y más útil:</p>
-<p><strong>¿qué parte de la experiencia es transferible a una carretera española normal y qué parte sigue siendo una demostración cuidadosamente acotada?</strong></p>
-<p>Ese matiz importa porque Tesla ya no solo enseña capacidad técnica. Enseña también intención operativa. Cuando una marca dedica agenda, personal y centros físicos a estas demostraciones, está diciendo que quiere acostumbrar al mercado europeo a una idea muy concreta: <strong>FSD Supervised ya no es solo una promesa lejana; es un producto que aspira a ser visto, probado y discutido aquí</strong>.</p>
-<p>Y esa transición, para la comunidad FSD España, vale oro. Nos permite dejar atrás el análisis puramente importado de YouTube y empezar a juzgar con criterios locales.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa-vs-realidad">Expectativa vs. realidad<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#expectativa-vs-realidad" class="hash-link" aria-label="Enlace directo al Expectativa vs. realidad" title="Enlace directo al Expectativa vs. realidad" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="expectativa">Expectativa<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#expectativa" class="hash-link" aria-label="Enlace directo al Expectativa" title="Enlace directo al Expectativa" translate="no">​</a></h3>
-<p>Si Tesla ya organiza ride-alongs oficiales en España, el lanzamiento general debe de estar a la vuelta de la esquina.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="realidad">Realidad<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#realidad" class="hash-link" aria-label="Enlace directo al Realidad" title="Enlace directo al Realidad" translate="no">​</a></h3>
-<p>Que una demo exista no significa que el despliegue masivo esté resuelto. Significa algo más modesto, pero también más serio: que Tesla cree tener suficiente confianza como para poner su sistema delante de público europeo sin esconderlo detrás de un clip de treinta segundos.</p>
-<p>Eso es relevante. Pero el salto que falta sigue siendo el de siempre: <strong>pasar de experiencia observada a comportamiento aprobable, repetible y bien delimitado</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-cuello-de-botella-sigue-teniendo-siglas">El cuello de botella sigue teniendo siglas<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#el-cuello-de-botella-sigue-teniendo-siglas" class="hash-link" aria-label="Enlace directo al El cuello de botella sigue teniendo siglas" title="Enlace directo al El cuello de botella sigue teniendo siglas" translate="no">​</a></h2>
-<p>Mientras Tesla abre estas ventanas públicas, el reloj regulatorio no se ha parado. UNECE anunció el <strong>6 de febrero de 2026</strong> una regulación global para facilitar la introducción segura de vehículos self-driving en vías públicas. En paralelo, el calendario visible de <strong>GRVA/WP.29</strong> mantiene una cita formal el <strong>23 de junio de 2026</strong>, después de que la 24.ª sesión de GRVA hubiera adoptado el borrador de la <strong>02 series de la Regulación UN n.º 171 (DCAS)</strong> para remitirlo a adopción superior.</p>
-<p>Traducido al idioma del lector español: Europa no está quieta, pero tampoco se mueve al ritmo del hype.</p>
-<p>Y aquí es donde muchos análisis fallan. Se habla de regulación como si fuera un simple semáforo rojo. No lo es. Es un embudo técnico y jurídico que obliga a demostrar varias cosas a la vez:</p>
-<ul>
-<li class="">qué hace exactamente el sistema;</li>
-<li class="">en qué condiciones lo hace;</li>
-<li class="">cómo se supervisa al conductor;</li>
-<li class="">cómo se comunican límites y degradaciones;</li>
-<li class="">y qué evidencias sostienen que el comportamiento observado no era una excepción bonita.</li>
-</ul>
-<p>Por eso Bilbao importa tanto. Porque nos enseña el producto. Pero GRVA, DCAS y la lógica UNECE siguen recordándonos que <strong>verlo funcionar una tarde no equivale a haber demostrado que merece circular a escala</strong>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-verdadero-examen-español-no-se-hace-en-el-volante-sino-en-la-confianza">El verdadero examen español no se hace en el volante, sino en la confianza<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#el-verdadero-examen-espa%C3%B1ol-no-se-hace-en-el-volante-sino-en-la-confianza" class="hash-link" aria-label="Enlace directo al El verdadero examen español no se hace en el volante, sino en la confianza" title="Enlace directo al El verdadero examen español no se hace en el volante, sino en la confianza" translate="no">​</a></h2>
-<p>Aquí hay una lectura más profunda. Tesla ya tiene en Europa una ventaja narrativa clara: sus demos son más fáciles de entender que sus papeles regulatorios. La gente se sube, mira la pantalla, siente el giro, evalúa el frenado y sale con una opinión.</p>
-<p>El regulador, en cambio, no premia sensaciones. Premia consistencia.</p>
-<p>Y en España esa diferencia será decisiva. Porque nuestro entorno vial castiga mucho las medias tintas:</p>
-<ul>
-<li class="">glorietas donde la trayectoria “legal” y la trayectoria “social” no siempre coinciden;</li>
-<li class="">calles estrechas con coches invadiendo espacio útil;</li>
-<li class="">motos apareciendo por huecos improbables;</li>
-<li class="">pasos de peatones con visibilidad parcial;</li>
-<li class="">incorporaciones cortas donde la duda de dos segundos ya cambia toda la maniobra.</li>
-</ul>
-<p>Si FSD quiere ganarse algo más que curiosidad, tendrá que demostrar que su conducción supervisada no solo evita errores graves, sino que <strong>administra bien la incertidumbre cotidiana</strong>. Y eso no se resuelve solo con un paseo convincente.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-que-tesla-parece-estar-construyendo-de-verdad">Lo que Tesla parece estar construyendo de verdad<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#lo-que-tesla-parece-estar-construyendo-de-verdad" class="hash-link" aria-label="Enlace directo al Lo que Tesla parece estar construyendo de verdad" title="Enlace directo al Lo que Tesla parece estar construyendo de verdad" translate="no">​</a></h2>
-<p>Mi lectura es que Tesla está ensamblando tres capas a la vez en Europa:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-familiaridad-pública">1. Familiaridad pública<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#1-familiaridad-p%C3%BAblica" class="hash-link" aria-label="Enlace directo al 1. Familiaridad pública" title="Enlace directo al 1. Familiaridad pública" translate="no">​</a></h3>
-<p>Los ride-alongs convierten FSD en algo visible y comentable. Reducen distancia psicológica. Hacen que el sistema deje de ser “lo que pasa en Austin” y pase a ser “lo que acaban de enseñar en Bilbao”.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-disciplina-de-producto">2. Disciplina de producto<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#2-disciplina-de-producto" class="hash-link" aria-label="Enlace directo al 2. Disciplina de producto" title="Enlace directo al 2. Disciplina de producto" translate="no">​</a></h3>
-<p>Tesla no puede vender esto en Europa con la ambigüedad semántica de otros años. La propia documentación de soporte insiste en que <strong>FSD (Supervised)</strong> exige supervisión activa y no convierte el vehículo en autónomo. Eso obliga a una comunicación más precisa, y esa precisión también es parte del expediente.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-acumulación-de-contexto">3. Acumulación de contexto<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#3-acumulaci%C3%B3n-de-contexto" class="hash-link" aria-label="Enlace directo al 3. Acumulación de contexto" title="Enlace directo al 3. Acumulación de contexto" translate="no">​</a></h3>
-<p>Cada demostración pública en suelo europeo vale menos como prueba definitiva que como señal acumulativa. Enseña cómo se comporta el sistema, qué escenarios Tesla se atreve a mostrar y qué narrativa técnica quiere sostener ante clientes y reguladores.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-pregunta-incómoda-qué-no-estamos-viendo">La pregunta incómoda: ¿qué no estamos viendo?<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#la-pregunta-inc%C3%B3moda-qu%C3%A9-no-estamos-viendo" class="hash-link" aria-label="Enlace directo al La pregunta incómoda: ¿qué no estamos viendo?" title="Enlace directo al La pregunta incómoda: ¿qué no estamos viendo?" translate="no">​</a></h2>
-<p>Un ride-along bien organizado puede enseñar mucho, pero también puede esconder lo más importante:</p>
-<ul>
-<li class="">cuánto se ha preparado la ruta;</li>
-<li class="">qué escenarios se han evitado;</li>
-<li class="">cuánta intervención silenciosa existe en la operación;</li>
-<li class="">y qué parte del rendimiento depende de condiciones favorables de tráfico, clima y complejidad.</li>
-</ul>
-<p>Eso no invalida la demo. Solo impide convertirla en prueba absoluta.</p>
-<p>De hecho, esta puede ser la postura más útil para la comunidad: <strong>mirar estas experiencias con entusiasmo técnico, pero con criterio de auditoría</strong>. Celebrar que Tesla se exponga aquí, sí. Pero exigir que esa exposición se traduzca en señales de robustez real, no en una gira interminable de asientos del pasajero.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="qué-debería-pasar-después-de-bilbao">Qué debería pasar después de Bilbao<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#qu%C3%A9-deber%C3%ADa-pasar-despu%C3%A9s-de-bilbao" class="hash-link" aria-label="Enlace directo al Qué debería pasar después de Bilbao" title="Enlace directo al Qué debería pasar después de Bilbao" translate="no">​</a></h2>
-<p>Si Tesla quiere que este momento signifique algo más que visibilidad comercial, el siguiente paso lógico no es hacer más ruido. Es hacer mejor evidencia:</p>
-<ol>
-<li class="">Más demostraciones en escenarios europeos difíciles, no solo rutas cómodas.</li>
-<li class="">Más claridad sobre límites operativos y takeover.</li>
-<li class="">Más continuidad entre soporte oficial, demos públicas y calendario regulatorio.</li>
-<li class="">Más señales de que el comportamiento mostrado es estable también en el caos pequeño de la conducción española.</li>
-</ol>
-<p>Si esa cadena se consolida, entonces sí podremos decir que España está dejando de ser mero público y empieza a convertirse en terreno de validación social y técnica para FSD.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="el-takeaway-para-la-comunidad-fsd-españa">El takeaway para la comunidad FSD España<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#el-takeaway-para-la-comunidad-fsd-espa%C3%B1a" class="hash-link" aria-label="Enlace directo al El takeaway para la comunidad FSD España" title="Enlace directo al El takeaway para la comunidad FSD España" translate="no">​</a></h2>
-<p>La noticia de junio de 2026 no es que FSD ya haya “llegado” a España. La noticia es más interesante: <strong>Tesla ha decidido que ya merece ser observado aquí de cerca</strong>.</p>
-<p>Eso es menos espectacular que un titular de lanzamiento, pero probablemente más útil. Porque nos permite empezar a medir a FSD donde importa: no en la épica de Silicon Valley, sino en el estándar emocional y vial de un pasajero español que quiere salir del coche pensando una sola cosa: “sí, esto parecía competente, pero también entendía dónde estaba”.</p>
-<p>Si quieres poner esta pieza en contexto, enlaza bien con <a class="" href="https://fsd.pepetox.es/fsd-video-quiz-frontera">el vídeo, el quiz y la frontera: así empieza de verdad FSD en Europa</a> y con <a class="" href="https://fsd.pepetox.es/fsd-ultimo-metro-espana">el último metro que de verdad decide si FSD parece listo en España</a>. La conversación buena para hoy no es si hubo demo o no. Es otra: <strong>¿qué tendría que enseñarnos Tesla en una ciudad española para que dejaras de verlo como una exhibición y empezaras a verlo como un sistema listo para convivir con nuestro tráfico?</strong></p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fuentes">Fuentes<a href="https://fsd.pepetox.es/fsd-bilbao-asiento-pasajero#fuentes" class="hash-link" aria-label="Enlace directo al Fuentes" title="Enlace directo al Fuentes" translate="no">​</a></h2>
-<ul>
-<li class=""><a href="https://www.tesla.com/event/full-self-driving-supervised-ride-along-experience-in-bilbao" target="_blank" rel="noopener noreferrer" class="">Tesla Events: Full Self-Driving (Supervised) Ride-Along Experience in Bilbao</a></li>
-<li class=""><a href="https://www.tesla.com/support/fsd" target="_blank" rel="noopener noreferrer" class="">Tesla Support: Full Self-Driving (Supervised)</a></li>
-<li class=""><a href="https://www.tesla.com/nl_nl/support/fsd" target="_blank" rel="noopener noreferrer" class="">Tesla Support Nederland: Full Self-Driving (Supervised)</a></li>
-<li class=""><a href="https://unece.org/sustainable-development/press/un-announces-global-regulation-facilitate-safe-introduction-self" target="_blank" rel="noopener noreferrer" class="">UNECE press release, 6 February 2026: global regulation for self-driving vehicles</a></li>
-<li class=""><a href="https://unece.org/transport/events/wp29grva-working-party-automatedautonomous-and-connected-vehicles-25th-session" target="_blank" rel="noopener noreferrer" class="">UNECE GRVA 25th session calendar, formal part on 23 June 2026</a></li>
-<li class=""><a href="https://unece.org/transport/events/wp29grva-working-party-automatedautonomous-and-connected-vehicles-24th-session" target="_blank" rel="noopener noreferrer" class="">UNECE GRVA 24th session summary on draft 02 amendments to UN Regulation No. 171 (DCAS)</a></li>
-</ul>]]></content:encoded>
-            <category>fsd</category>
-            <category>tesla</category>
-            <category>testing</category>
-            <category>espana</category>
-            <category>europa</category>
-            <category>regulations</category>
-            <category>ai</category>
         </item>
     </channel>
 </rss>
